@@ -33,7 +33,7 @@ Furthermore, as their counter-forensics proved, spatial data cannot speak for it
 Addressing this threat in public policy requires piercing the black box of dual-use data analytics. We must understand how the literature tracks this shift from traditional institutional, *disciplinary* governance to algorithmic societies of control (Deleuze, 1990), and how the tools of urban optimisation are simultaneously the instruments of urbicide.
 In his influential essay Deleuze poignantly observed:
 
->The numerical language of control is made of codes that mark access to information, or reject it. We no longer find ourselves dealing with the mass/individual pair. Individuals have become “_dividuals_,” and masses, samples, data, markets, or “_banks_.” 
+> The numerical language of control is made of codes that mark access to information, or reject it. We no longer find ourselves dealing with the mass/individual pair. Individuals have become “_dividuals_,” and masses, samples, data, markets, or “_banks_.” 
 
 ***
 
@@ -50,6 +50,7 @@ For policymakers, the stakes are concrete. When a municipal government procures 
 To ensure maximum rigour, this research adheres its data collection and analysis around the core sequential phases of a systematic review, utilising a modified PRISMA (Preferred Reporting Items for Systematic Reviews and Meta-Analyses) standard adapted for public policy and theoretical analysis.
 
 **1. Framing the Research Questions and Conceptual Scope**
+
 ```mermaid
 flowchart TD
     A1["<b>Identification</b><br/>Records identified from<br/>Web of Science &amp; Scopus<br/>(n = ?)"] --> B["Records after<br/>duplicates removed<br/>(n = ?)"]
@@ -79,10 +80,6 @@ Results from both searches will be imported, deduplicated, and screened together
 The grey literature search will mirror this structure, adapted for the indexing conventions of Overton and Policy Commons, with an emphasis on policy documents, parliamentary records, defence white papers, and think-tank outputs that explicitly address the dual-use implications of urban data technologies.
 
 Crucially, capturing the reality of modern governance requires supplementing academic databases with robust "grey literature" to record active policy debates. For this, the search will utilize **Overton**[^1] (currently the world's most comprehensive searchable index of global policy documents, parliamentary transcripts, and think-tank outputs) and **Policy Commons**. These specialized repositories offer a far higher degree of rigor than standard search engine queries and will surface white papers from key policy-exchange hubs, defense ministries, and global institutions (e.g., RAND Corporation, The Urban Displacement Project, Chatham House) that shape the contemporary civil-military discourse space.
-
-[^1]: Trial access to Overton has been secured through 29 June 2026 via the University of Glasgow Library system. Full institutional access remains to be confirmed. Should access lapse before the grey literature search is complete, the search will default to Policy Commons and targeted manual searches of key institutional repositories (RAND Corporation, Chatham House, Urban Displacement Project).
-
-[^2]: The search strategies and keyword sets outlined above are provisional and will be iteratively refined following supervisor feedback and initial scoping tests against Web of Science and Scopus. The record counts returned by Search A and Search B will inform adjustments to Boolean operators and keyword clusters; additional synonym sets may be introduced to capture adjacent discourse communities (e.g., algorithmic warfare, counter-forensics, civil-military technology transfer). The goal is to calibrate the two searches such that Search A surfaces a broad landscape of the civil-military-tech nexus while Search B isolates the narrower spatial-destruction-and-data intersection, with minimal suppression of the gap between them.
 
 **3. Assessing Quality and Applying Inclusion/Exclusion Criteria**
 Once the initial dataset is generated, the PRISMA flow diagram will be utilized to systematically screen and filter records to guarantee the relevance and quality of the final sample.
@@ -164,3 +161,6 @@ In the preparation of this formative submission, a combination of systems ave be
 - **Obsidian** (a knowledge-management application), augmented with the open-source **Smart Connections** plugin, was used to surface latent connections across course notes, source annotations, and prior essays.
 
 All AI-assisted outputs were critically reviewed, edited, and verified by the author. The intellectual framing, argumentation, and substantive claims remain the author's own. All sources retrieved via AI-augmented workflows have been read in full and cited in accordance with standard academic practice. No AI-generated text has been incorporated without authorial review and substantive revision.
+
+[^2]: The search strategies and keyword sets outlined above are provisional and will be iteratively refined following supervisor feedback and initial scoping tests against Web of Science and Scopus. The record counts returned by Search A and Search B will inform adjustments to Boolean operators and keyword clusters; additional synonym sets may be introduced to capture adjacent discourse communities (e.g., algorithmic warfare, counter-forensics, civil-military technology transfer). The goal is to calibrate the two searches such that Search A surfaces a broad landscape of the civil-military-tech nexus while Search B isolates the narrower spatial-destruction-and-data intersection, with minimal suppression of the gap between them.
+[^1]: Trial access to Overton has been secured through 29 June 2026 via the University of Glasgow Library system. Full institutional access remains to be confirmed. Should access lapse before the grey literature search is complete, the search will default to Policy Commons and targeted manual searches of key institutional repositories (RAND Corporation, Chatham House, Urban Displacement Project).

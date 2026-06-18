@@ -41,6 +41,7 @@ tags:
 Post-meeting note:
 
 Next meet: July 13th, Craig
+
 ```smart-connections
 
 ```

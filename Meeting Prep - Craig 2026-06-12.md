@@ -24,6 +24,7 @@ date: 2026-06-12
 ### 1. Search String Strategy — Needs Input
 
 Current provisional string (triple AND):
+
 ```
 ("algorithmic governance" OR "urban analytics" OR "smart city" OR "information good")
 AND ("dual-use" OR "military operations" OR "targeting" OR "OSINT")
@@ -35,12 +36,14 @@ AND ("housing" OR "domicide" OR "urban planning" OR "spatial resilience")
 **Proposed alternative:** Two parallel searches, merged at deduplication:
 
 **Search A — broad civil-military-tech intersection:**
+
 ```
 ("algorithmic governance" OR "urban analytics" OR "smart city" OR "big data" OR "platform urbanism")
 AND ("surveillance" OR "dual-use" OR "military" OR "security" OR "targeting" OR "civil-military")
 ```
 
 **Search B — spatial destruction + data angle:**
+
 ```
 ("domicide" OR "urbicide" OR "spatial violence" OR "home unmaking" OR "urban destruction")
 AND ("data" OR "algorithm" OR "AI" OR "surveillance" OR "GIS")

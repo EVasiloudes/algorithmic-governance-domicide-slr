@@ -11,14 +11,17 @@ tags:
 ```
 TITLE-ABS-KEY(( "algorithmic governance" OR "urban analytics" OR "smart city" OR "big data" OR "platform urbanism" OR "predictive policing" ) AND ( "surveillance" OR "dual-use" OR "military" OR "security" OR "targeting" OR "civil-military" OR "OSINT" )) AND PUBYEAR > 1990 AND PUBYEAR < 2025 AND ( LIMIT-TO ( SUBJAREA,"DECI" ) OR LIMIT-TO ( SUBJAREA,"SOCI" ) OR LIMIT-TO ( SUBJAREA,"BUSI" ) OR LIMIT-TO ( SUBJAREA,"ECON" ) OR LIMIT-TO ( SUBJAREA,"ARTS" ) OR LIMIT-TO ( SUBJAREA,"MULT" ) )
 ```
+
 Returned: 9981 Documents
 
 ---
 
 ## Search B:
+
 ```
 TITLE-ABS-KEY(("domicide" OR "urbicide" OR "spatial violence" OR "home unmaking" OR "urban destruction" OR "urban warfare") AND ("data" OR "algorithm" OR "AI" OR "surveillance" OR "GIS" OR "remote sensing")) AND PUBYEAR > 1990 AND PUBYEAR < 2025 AND ( LIMIT-TO ( SUBJAREA,"DECI" ) OR LIMIT-TO ( SUBJAREA,"SOCI" ) OR LIMIT-TO ( SUBJAREA,"BUSI" ) OR LIMIT-TO ( SUBJAREA,"ECON" ) OR LIMIT-TO ( SUBJAREA,"ARTS" ) OR LIMIT-TO ( SUBJAREA,"MULT" ) )```
 ```
+
 Returned: 31 Documents
 
 ---

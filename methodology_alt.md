@@ -4,6 +4,8 @@ tags:
   - Dissertation_MSc
 ---
 
+# methodology\_alt
+
 Methodological Design: A Systematic Review of Algorithmic Dual-Use in Public Policy and Warfare
 Conceptual Hypothesis: Information Goods and the Frictionless Dual-Use of Algorithms
 Before detailing the mechanical parameters of this study’s systematic literature review (SLR), it is necessary to articulate the tentative conceptual hypothesis that motivates the underlying research question. Expanding upon Kobi Michael’s (2008) assessment of "epistemic authority," this research posits that the mechanisms of state and military control have undergone a profound techno-discursive shift. As a theoretical heuristic, this shift can be understood through the transition from Michel Foucault’s (1975) "disciplinary societies"—characterized by physical architectures of enclosure and distinct boundaries—to Gilles Deleuze’s (1990) "societies of control," wherein power operates through continuous algorithmic modulation, digital tracking, and decentralized data networks. However, this philosophical framing serves merely as a tentative hypothesis with which to interrogate the literature, establishing the premise that algorithmicization in contemporary urban policymaking and spatial planning possesses a uniquely aggressive, inherent "dual-use" capacity.

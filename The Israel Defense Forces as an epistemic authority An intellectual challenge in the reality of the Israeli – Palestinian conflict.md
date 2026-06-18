@@ -3,6 +3,8 @@ tags:
   - MSc_PPM
   - Dissertation_MSc
 ---
+
+# The Israel Defense Forces as an epistemic authority An intellectual challenge in the reality of the Israeli – Palestinian conflict
 ## Abstract
 
 The changes in the nature of warfare and its transformation toward Low Intensity Conflict (LIC) intrastate conflict have challenged the patterns of interaction between the political and the military echelons in Israel. It seems that the political echelon's superiority is maintained at the institutional and formal levels, but on the substantive level, which demands relying on knowledge and systematic staff work, the political echelon's position is weakened and loses its validity.

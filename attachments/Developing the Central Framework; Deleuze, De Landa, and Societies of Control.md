@@ -3,6 +3,8 @@ tags:
   - MSc_PPM
   - Dissertation_MSc
 ---
+
+# Developing the Central Framework; Deleuze, De Landa, and Societies of Control
 ### Developing the Central Framework: Deleuze, De Landa, and Societies of Control
 
 Kobi Michael’s (2008) assessment of the IDF’s "epistemic authority" provides a vital foundation for understanding how militaries dominate civil-political discourse. However, Michael anchors his analysis in a broadly Foucauldian paradigm of power/knowledge, which is implicitly tied to Foucault’s concept of *disciplinary societies*. Disciplinary power operates through vast spaces of enclosure—the prison, the barracks, the factory, the hospital—seeking to concentrate, distribute in space, and order in time (Foucault, 1975). Yet, to understand the deeply algorithmic nature of contemporary public policy, urban management, and modern warfare, we must transition our theoretical framing to align with the technological reality of the 21st century.
@@ -47,11 +49,7 @@ This research will structure its data collection around the five core steps of a
 **5. Interpreting the Findings:**
  The final synthesis of the systematic review will bridge the theoretical and the empirical. By critically evaluating the mapped literature through Deleuze’s "Society of Control," this dissertation will provide a robust structural critique of how data technology is homogenizing the tools of civilian governance and military destruction. This systematic interpretation will form the substantive data chapter of the dissertation, culminating in a clearly articulated agenda for future research into public policy frameworks capable of resisting algorithmic urban dominance.
 
-
-
 ## working ref list
-
-
 
 De Landa, M., 2014. Intensive Science and Virtual Philosophy (Continuum Impacts) (Transversals: New Directions in Philosophy).
 
@@ -61,10 +59,10 @@ Deleuze, G., 1990. Postscript on the Societies of Control.
 
 Foucault, M., 2023. Discipline and Punish, in: Social Theory Re-Wired. Routledge.
 
-King, P., 2004. Private Dwelling, 0 ed. Routledge. https://doi.org/10.4324/9780203421406
+King, P., 2004. Private Dwelling, 0 ed. Routledge. <https://doi.org/10.4324/9780203421406>
 
 Michael, K., 2017. Special operations forces (SOF) as the “silver bullet”: Strategic helplessness and weakened institutional and extra-institutional civilian control, in: Special Operations Forces in the 21st Century. Routledge.
 
-Michael, K., 2007. The Israel Defense Forces as an epistemic authority: An intellectual challenge in the reality of the Israeli – Palestinian conflict. Journal of Strategic Studies 30, 421–446. https://doi.org/10.1080/01402390701343417
+Michael, K., 2007. The Israel Defense Forces as an epistemic authority: An intellectual challenge in the reality of the Israeli – Palestinian conflict. Journal of Strategic Studies 30, 421–446. <https://doi.org/10.1080/01402390701343417>
 
-Sadowski, J., 2026. Machine’s Eye View: Postmodern Data Science and the Politics of Ground Truth. Science, Technology, & Human Values 51, 251–276. https://doi.org/10.1177/01622439251331138	
+Sadowski, J., 2026. Machine’s Eye View: Postmodern Data Science and the Politics of Ground Truth. Science, Technology, & Human Values 51, 251–276. <https://doi.org/10.1177/01622439251331138>	

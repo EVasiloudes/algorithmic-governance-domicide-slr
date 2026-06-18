@@ -1,4 +1,26 @@
+# OS files
 .DS_Store
+Thumbs.db
+desktop.ini
+
+# IDE / editor
 .ropeproject/
-_tmp_*.py
-*.tmp
+.idea/
+.vscode/
+*.swp
+*.swo
+*~
+
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.venv/
+venv/
+env/
+
+# Temporary / generated
+temp/
+tmp/
+*.bak
+*.log

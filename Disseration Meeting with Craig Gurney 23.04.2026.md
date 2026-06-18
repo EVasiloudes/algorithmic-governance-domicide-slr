@@ -9,7 +9,7 @@ Date: 23.04.2026
 
 ## Potential Avenues for Dissertation 
 
-going on from my essay on [[The Use of Big Data, AI & Urban Analytics by Forensic Architecture to Document Israel's Conduct during Israel's Invasion of the Gaza Strip]]  --> [[Systemic Destruction and the Limits of Data]] 
+going on from my essay on [[The Use of Big Data, AI & Urban Analytics by Forensic Architecture to Document Israel's Conduct during Israel's Invasion of the Gaza Strip]] --> [[Systemic Destruction and the Limits of Data]] 
 
 Craig suggests I put together a A Systematic Review of the literature with the final chapter being an agenda for further fesearch?
 ## Research Leads
@@ -69,7 +69,7 @@ I want to discuss this article, from 2008:
 
 In the article, _"The Israel Defense Forces as an epistemic authority,"_ Kobi Michael identifies a profound breakdown in the civil-military "discourse space" in Israel during the era of Low Intensity Conflict (LIC). He argues that the political echelon, crippled by "strategic helplessness" (cf. Michael, 2017) and operating with "creative fuzziness," effectively abdicated its responsibility to chart a political strategy. Into this void stepped the Israel Defense Forces (IDF), claiming the role of an "epistemic authority" e.g the absolute arbiter of knowledge and truth. In 2008, this authority was largely conceptual and linguistic, operationalised through systematic staff work and the military’s Estimation of the Situation (EOS).
 
-However, the catastrophic deterioration of the conflict—from 2014 to the current systemic destruction of Gaza beginning in 2023—demands an urgent update to Michael’s framework. Today, the IDF’s epistemic authority is has become intensely algorithmic.  Within the context of Israel as a modern garrison state, the IDF asserts this epistemic dominance through urban data and surveillance technology. This authority facilitates a dangerous illusion in Israeli (and wider) policymaking: the masking of a profound lack of political strategy with data-driven, tactical dominance. This displacement of strategy by data is evident not only in the deliberate spatial unmaking of Gaza, but also in the wider, ongoing US-Israeli war against Iran.
+However, the catastrophic deterioration of the conflict—from 2014 to the current systemic destruction of Gaza beginning in 2023—demands an urgent update to Michael’s framework. Today, the IDF’s epistemic authority is has become intensely algorithmic. Within the context of Israel as a modern garrison state, the IDF asserts this epistemic dominance through urban data and surveillance technology. This authority facilitates a dangerous illusion in Israeli (and wider) policymaking: the masking of a profound lack of political strategy with data-driven, tactical dominance. This displacement of strategy by data is evident not only in the deliberate spatial unmaking of Gaza, but also in the wider, ongoing US-Israeli war against Iran.
 
 Michael (2008) utilises Foucault’s power/knowledge dynamic to explain how the IDF functioned as a "truth and lie agent" (ibid. p. 444). Since 2008, the mechanisms of truth-making have evolved. The traditional military EOS has been superseded by AI-driven target generation systems, Geographic Information Systems (GIS), and wide-area urban surveillance capabilities (see [gorgon stare](https://www.youtube.com/watch?v=mJLr0KMsRAA)). The military maintains its epistemic hegemony through the God’s Eye View (GEV) (cf. Sadowski, 2026) of remote sensing.
 
