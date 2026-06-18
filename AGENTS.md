@@ -1,3 +1,9 @@
+---
+tags:
+  - MSc_PPM
+  - Dissertation_MSc
+---
+
 # AGENTS.md — Dissertation Project Conventions
 
 Project: MSc Public Policy & Management dissertation (URBAN5080P, University of Glasgow).

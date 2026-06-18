@@ -3,6 +3,7 @@ aliases:
   - Master's Dissertation Space
 tags:
   - MSc_PPM
+  - Dissertation_MSc
 ---
 
 ![[Dissertation Urban Studies URBAN5080P#Assessment]]

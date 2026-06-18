@@ -1,6 +1,7 @@
 ---
 tags:
   - MSc_PPM
+  - Dissertation_MSc
 ---
 ### Developing the Central Framework: Deleuze, De Landa, and Societies of Control
 

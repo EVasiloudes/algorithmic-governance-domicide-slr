@@ -1,6 +1,7 @@
 ---
 tags:
   - MSc_PPM
+  - Dissertation_MSc
 ---
 # Intensive Science and Virtual Philosophy (Continuum Impacts) (Transversals: New Directions in Philosophy)
 

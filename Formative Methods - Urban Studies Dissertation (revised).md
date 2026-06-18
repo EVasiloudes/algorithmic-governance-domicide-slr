@@ -1,6 +1,7 @@
 ---
 tags:
   - MSc_PPM
+  - Dissertation_MSc
 ---
 
 Date: Wednesday 10th June, 2026
@@ -32,7 +33,7 @@ Furthermore, as their counter-forensics proved, spatial data cannot speak for it
 Addressing this threat in public policy requires piercing the black box of dual-use data analytics. We must understand how the literature tracks this shift from traditional institutional, *disciplinary* governance to algorithmic societies of control (Deleuze, 1990), and how the tools of urban optimisation are simultaneously the instruments of urbicide.
 In his influential essay Deleuze poignantly observed:
 
->The numerical language of control is made of codes that mark access to information, or reject it. We no longer find ourselves dealing with the mass/individual pair. Individuals have become "_dividuals_," and masses, samples, data, markets, or "_banks_."
+> The numerical language of control is made of codes that mark access to information, or reject it. We no longer find ourselves dealing with the mass/individual pair. Individuals have become "_dividuals_," and masses, samples, data, markets, or "_banks_."
 
 ***
 
@@ -78,7 +79,7 @@ Given the novelty and cross-cutting nature of the research inquiry—which bridg
 
 **Search B — Spatial destruction and the datafied city (high precision):** Designed to capture literature specifically addressing how algorithmic and data-driven tools are implicated in urbicide, domicide, and spatial violence. Keywords will include: `("domicide" OR "urbicide" OR "spatial violence" OR "home unmaking" OR "urban destruction" OR "urban warfare") AND ("data" OR "algorithm" OR "AI" OR "surveillance" OR "GIS" OR "remote sensing")`. Initial scoping confirms this search behaves as designed, returning a small, tightly relevant corpus (n = 31 on Scopus). The stark asymmetry between the two searches is itself a provisional finding: the algorithmic-governance and spatial-destruction literatures barely intersect at the level of indexed vocabulary.
 
-Results from both searches will be exported to **Zotero** for reference management and deduplication, then screened together in **Rayyan** using the inclusion/exclusion criteria below. This dual-search approach ensures that papers theorising the surveillance-governmentality nexus (which may not explicitly invoke "domicide") and papers documenting spatial destruction (which may not deploy the language of "algorithmic governance") are both captured in the initial corpus. The convergence—or absence of convergence—between these two literatures is itself a finding the SLR is designed to surface.[^2]
+Results from both searches will be exported to **Zotero** for reference management and deduplication, then screened together i~~n **Rayyan**~~ using the inclusion/exclusion criteria below. This dual-search approach ensures that papers theorising the surveillance-governmentality nexus (which may not explicitly invoke "domicide") and papers documenting spatial destruction (which may not deploy the language of "algorithmic governance") are both captured in the initial corpus. The convergence—or absence of convergence—between these two literatures is itself a finding the SLR is designed to surface.[^2]
 
 Because the calibration of Search A required removing high-noise generic terms (notably bare "surveillance" and "big data"), the database search will be supplemented by a single iteration of backward and forward **citation chaining** ("snowballing"; Wohlin, 2014) from three to five anchor texts spanning the review’s constituent literatures (provisionally Graham, 2006; Kitchin, 2014; Weizman, 2007). For each anchor, the reference list will be screened for relevant records (backward pass), and Scopus’s "Cited by" index will be screened under the same date and subject filters (forward pass). Snowballed records will enter the same deduplication and screening pipeline as the database results and will be reported separately on the PRISMA flow diagram under identification via other methods. This citation-based discovery mechanism is keyword-independent, providing a structured safeguard against vocabulary blind spots introduced by search-string calibration; the volume of relevant records it surfaces that the database searches missed will additionally serve as a robustness check on the comprehensiveness of the search strategy itself.
 
@@ -132,13 +133,13 @@ Foucault, M., 2023. Discipline and Punish, in: Social Theory Re-Wired. Routledge
 
 Giordano, A., 2019. Cartographies of genocide. Abstracts of the ICA 1, 95. [https://doi.org/10.5194/ica-abs-1-95-2019](https://doi.org/10.5194/ica-abs-1-95-2019)
 
-Graham, S. (Ed.), 2006. Cities, war, and terrorism: towards an urban geopolitics, Nachdr. ed, Studies in urban and social change. Blackwell Publ, Malden, Mass.
+==Graham, S. (Ed.), 2006. Cities, war, and terrorism: towards an urban geopolitics, Nachdr. ed, Studies in urban and social change. Blackwell Publ, Malden, Mass.==
 
 Horowitz, D., 2021. The Israel Defense Forces: A civilianized military in a partially militarized society, in: Soldiers, Peasants, and Bureaucrats. Routledge, pp. 77–106.
 
 King, P., 2004. Private Dwelling, 0 ed. Routledge. [https://doi.org/10.4324/9780203421406](https://doi.org/10.4324/9780203421406)
 
-Kitchin, R., 2014. Big Data, new epistemologies and paradigm shifts. Big data & society 1, 2053951714528481.
+==Kitchin, R., 2014. Big Data, new epistemologies and paradigm shifts. Big data & society 1, 2053951714528481.==
 
 Lyon, D., 2014. Surveillance and the Eye of God. Studies in Christian Ethics 27, 21–32. [https://doi.org/10.1177/0953946813509334](https://doi.org/10.1177/0953946813509334)
 
@@ -168,7 +169,7 @@ Van Dijck, J., 2014. Datafication, dataism and dataveillance: Big Data between s
 
 Wohlin, C., 2014. Guidelines for snowballing in systematic literature studies and a replication in software engineering, in: Proceedings of the 18th International Conference on Evaluation and Assessment in Software Engineering (EASE ’14). ACM, pp. 1–10. [https://doi.org/10.1145/2601248.2601268](https://doi.org/10.1145/2601248.2601268)
 
-Weizman, E., 2007. Israel's Architecture of Occupation.
+==Weizman, E., 2007. Israel's Architecture of Occupation.==
 
 Youssef, H.O., Youssr, 2025. Israel Leveled Gaza — Then Killed the Drone Journalists Who Showed it to the World. The Intercept. URL [https://theintercept.com/2025/03/27/israel-palestinian-drone-journalists-killed-gaza/](https://theintercept.com/2025/03/27/israel-palestinian-drone-journalists-killed-gaza/) (accessed 1.22.26).
 
