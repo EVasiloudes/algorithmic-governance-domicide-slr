@@ -28,8 +28,7 @@ tags:
 
 ---
 
-## 2. Phase plan (week-by-week)
-
+## 2. Phase plan (week-by-week)l
 ```mermaid
 gantt
     dateFormat YYYY-MM-DD
