@@ -48,9 +48,9 @@ Author: Elias Vasnic. Supervisor: Craig.
 ## Key methodological commitments (do not silently contradict)
 
 - Modified PRISMA 2020; completed flow diagram with real ns.
-- Two-search strategy (A: high recall civil-military nexus; B: high precision spatial destruction), merged at deduplication. Zotero + Rayyan pipeline.
+- Two-search strategy (A: high recall civil-military nexus; B: high precision spatial destruction), merged at deduplication. Zotero pipeline.
 - Single-iteration backward+forward snowballing from 3–5 anchors (Graham 2006, Kitchin 2014, Weizman 2007 provisional); Wohlin (2014) citation.
 - Date window 1990–2025 inclusive (`PUBYEAR > 1989 AND PUBYEAR < 2026` in Scopus).
-- Single-reviewer mitigations: 10% pilot screen with supervisor; decision journal.
+- Single-reviewer mitigations: decision journal.
 - Grey lit: Overton (trial-capped — see SLR.log.md and limitations) + Policy Commons; AACODS appraisal.
 - Four acknowledged limitations (language, single-reviewer, grey-lit unevenness, Overton trial cap).

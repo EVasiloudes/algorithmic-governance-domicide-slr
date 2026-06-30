@@ -4,9 +4,10 @@ tags:
   - Dissertation_MSc
 ---
 
-# Writing Plan v0 — Agentic Task Decomposition
+# Writing Plan v1 — Agentic Task Decomposition
 
-**Created:** 11 June 2026 · **Status:** Provisional, pending Friday supervision (Craig)
+**Created:** 11 June 2026 · **Updated:** 30 June 2026
+**Status:** Active — Rayyan dropped; pilot screening removed; `final-draft/` (LaTeX) initiated
 **Hard constraint:** 13,750 words max, 100% of grade. Submission deadline `[VERIFY — confirm exact date with Craig Friday; assumed mid-August 2026]`.
 
 ---
@@ -24,7 +25,7 @@ tags:
 | — | Front/back matter, AI statement | 250 | — | Template exists |
 | | **Total** | **13,750** | | |
 
-**Structural decision (per supervision discussion):** the SLR *is* the data; Chapter 2 is a *theoretical framework*, not a conventional literature review — avoids duplicating Chapter 4. Confirm with Craig.
+**Structural decisions (confirmed):** the SLR *is* the data; Chapter 2 is a *theoretical framework*, not a conventional literature review — avoids duplicating Chapter 4. Screening tooling: Zotero only (Rayyan dropped). Pilot 10% screen removed (single-reviewer mitigations reduced to decision journal alone). LaTeX `final-draft/` directory created at repo root as the submission pipeline.
 
 ---
 
@@ -37,8 +38,7 @@ gantt
     Finalise strings + WoS scoping      :p1, 2026-06-12, 7d
     Execute searches + dedupe (Zotero)  :p2, after p1, 7d
     Snowballing (1 iteration)           :p3, after p1, 10d
-    Pilot screen 10% + Craig calibration:p4, after p2, 5d
-    Full screening (Rayyan)             :p5, after p4, 14d
+    Full screening                     :p5, after p2, 14d
     Extraction + coding                 :p6, after p5, 12d
     section Writing
     Coding manual (1 page)              :w0, 2026-06-22, 5d
@@ -51,7 +51,6 @@ gantt
 
 **Key scheduling logic:**
 - **Ch2 is written in parallel with screening** (it doesn't depend on SLR output) — this is the slack in the system. If screening overruns, Ch2 is already banked.
-- **Pilot screen gate (~Jun 26–30):** nothing proceeds to full screening until Craig has reviewed the 10% sample. Book this with him Friday.
 - **Contingency:** if final corpus > ~120 papers at full-text stage, invoke pre-agreed narrowing (date-weighted sampling or tightened relevance criterion) — decide rule with Craig *before* screening, log in `SLR.log.md`.
 
 ---
@@ -73,7 +72,7 @@ gantt
 | `SLR.log.md` iteration entries (drafted from author's notes) | Each calibration | Append-only; author confirms counts |
 | Consistency passes (British English, terminology, tense) | After each chapter draft | esp. Ch3 future→past tense shift |
 | Word-budget tracking per chapter | Weekly | Report drift > 10% |
-| Decision-journal templating for borderline screening calls | p4–p5 | Author fills content |
+| Decision-journal templating for borderline screening calls | p5 | Author fills content |
 | Extraction spreadsheet/Review Map scaffolding | p6 | Columns: year, discipline, geography, doc type, codes |
 | Descriptive statistics + charts from Review Map | w2 | Counts by theme × year for longitudinal claim |
 | Draft-zero prose for mechanical sections (e.g., PRISMA narration) | w2, w4 | Flagged for authorial rewrite per AI statement |
@@ -86,17 +85,27 @@ gantt
 
 ---
 
-## 4. Open questions (carry to Friday)
+## 4. Open questions (carry to next supervision)
 
 1. Submission deadline — exact date? `[VERIFY]`
-2. Ch2-as-theoretical-framework structure acceptable?
-3. Corpus-size contingency rule — agree narrowing mechanism now.
-4. Pilot screen logistics — when can Craig turn around the 10% sample?
-5. Overton outcome — shapes whether grey lit is a full strand or a bounded supplement.
-6. One more supervision slot before submission — book it.
+2. Corpus-size contingency rule — agree narrowing mechanism now.
+3. Overton outcome — shapes whether grey lit is a full strand or a bounded supplement.
+4. One more supervision slot before submission — book it.
 
 ---
 
-## 5. Version history
+## 5. Tomorrow's tasks (Wed 1 July)
 
-- **v0 (11 Jun 2026):** Initial decomposition. Pending supervision review → v1.
+| Priority | Task | Who | Notes |
+|---|---|---|---|
+| High | Begin title/abstract screening pass | Author | Corpus is deduped in Zotero; screen against criteria in §3 of methods |
+| High | Continue Ch2 Theoretical Framework drafting | Author | Target: finish King/Graham/Weizman section by end of week |
+| Medium | Log snowballing results in `SLR.log.md` | Agent | Append-only; author confirms counts |
+| Medium | Set up decision journal template | Agent | Simple table: record ID, title, reason for borderline flag, resolution |
+| Low | Draft agenda for next supervision slot | Agent | Open questions 1–4 from §4 + screening progress update |
+| Low | Write AI-use statement draft from AGENTS.md conventions | Agent | Place in `final-draft/dissertation.tex` appendix A |
+
+## 6. Version history
+
+- **v1 (30 Jun 2026):** Rayyan/pilot-screen removed, `final-draft/` LaTeX directory created, task list for 1 Jul added.
+- **v0 (11 Jun 2026):** Initial decomposition. Pending supervision review.

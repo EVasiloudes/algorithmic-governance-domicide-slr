@@ -1,0 +1,247 @@
+% =============================================================================
+% MSc Dissertation — URBAN5080P
+% University of Glasgow — School of Social & Political Sciences
+% Author: Elias Vasnic — Supervisor: Craig
+% Topic: Algorithmic governance, urban space, and domicide
+%        A systematic literature review of the dual-use nature of
+%        urban data technologies, 1990–2025
+% =============================================================================
+
+\documentclass[12pt,a4paper,twoside]{report}
+
+% ---- Encoding & fonts ----
+\usepackage[T1]{fontenc}
+\usepackage{lmodern}
+\usepackage[utf8]{inputenc}
+
+% ---- Page geometry (UofG: ~2.5 cm / 1 in margins) ----
+\usepackage[top=2.5cm,bottom=2.5cm,left=3cm,right=2.5cm]{geometry}
+
+% ---- Spacing ----
+\usepackage{setspace}
+\doublespacing
+
+% ---- Language ----
+\usepackage[english]{babel}
+
+% ---- Graphics & colour ----
+\usepackage{graphicx}
+\usepackage{xcolor}
+\usepackage{float}
+
+% ---- Tables ----
+\usepackage{tabularx}
+\usepackage{booktabs}
+\usepackage{longtable}
+
+% ---- Citations (Harvard / author-date) ----
+\usepackage[style=authoryear,backend=biber,sorting=nyt,
+            maxbibnames=99,maxcitenames=2,uniquelist=false,
+            date=year]{biblatex}
+\addbibresource{refs.bib}
+
+% ---- Hyperlinks ----
+\usepackage[hidelinks]{hyperref}
+
+% ---- Captions ----
+\usepackage{caption}
+\captionsetup{font=small,labelfont=bf}
+
+% ---- Mermaid diagrams (exported as PDF/PNG) ----
+% Inspired by the mermaid code blocks in the original markdown drafts.
+
+% ---- Custom commands ----
+\newcommand{\thesisitle}{Algorithmic Governance, Urban Space, and Domicide: \\
+  A Systematic Literature Review of the Dual-Use Nature of \\
+  Urban Data Technologies, 1990–2025}
+\newcommand{\authorname}{Elias Vasnic}
+\newcommand{\supervisorname}{Craig}
+\newcommand{\programme}{MSc Public Policy \& Management}
+\newcommand{\university}{University of Glasgow}
+\newcommand{\submissiondate}{August 2026}
+
+% --- PDF metadata ---
+\hypersetup{
+  pdftitle={\thesisitle},
+  pdfauthor={\authorname},
+  pdfsubject={MSc Dissertation -- \programme, \university}
+}
+
+% =============================================================================
+\begin{document}
+
+\pagenumbering{roman}
+
+% ---- Title page ----
+\begin{titlepage}
+  \centering
+  \vspace*{4cm}
+  {\LARGE\bfseries \thesisitle \par}
+  \vspace{1.5cm}
+  {\Large \authorname \par}
+  \vspace{1cm}
+  {\large \programme \par}
+  \vspace{0.5cm}
+  {\large \university \par}
+  \vspace{0.5cm}
+  {\large \submissiondate \par}
+  \vspace{1cm}
+  {\large Supervised by: \supervisorname \par}
+  \vfill
+\end{titlepage}
+
+% ---- Abstract ----
+\chapter*{Abstract}
+\addcontentsline{toc}{chapter}{Abstract}
+
+[TODO: Write abstract after all chapters are drafted.]
+
+% ---- Acknowledgements ----
+\chapter*{Acknowledgements}
+\addcontentsline{toc}{chapter}{Acknowledgements}
+
+[TODO]
+
+% ---- Table of contents ----
+\tableofcontents
+\newpage
+
+% ---- List of figures ----
+\listoffigures
+\newpage
+
+% ---- Body ----
+\pagenumbering{arabic}
+
+% =============================================================================
+\chapter{Introduction: The Algorithm and the City}
+\label{ch:introduction}
+
+[TODO: Write introduction. Target ~1,500 words.
+Source: revised formative draft — cut ~40\%, add bridge paragraph and
+provisional policy landing zone.]
+
+% =============================================================================
+\chapter{Theoretical Framework}
+\label{ch:framework}
+
+[TODO: Write theoretical framework. Target ~2,500 words.
+Sources: Arrow (1962); Deleuze / De Landa; Michael (2007);
+King (2004); Graham (2006); Weizman (2007).
+Organise around one primary axis: disciplinary $\rightarrow$ control.]
+
+\section{The Information Good and Dual-Use Fluidity}
+\label{sec:info-good}
+
+[TODO]
+
+\section{Epistemic Authority and Black-Boxing}
+\label{sec:epistemic-authority}
+
+[TODO]
+
+\section{The Machinic City and Modulation}
+\label{sec:machinic-city}
+
+[TODO]
+
+\section{Spatial Collapse and Home Unmaking}
+\label{sec:spatial-collapse}
+
+[TODO]
+
+% =============================================================================
+\chapter{Methodology}
+\label{ch:methodology}
+
+[TODO: Write methodology. Target ~2,500 words.
+Source: revised formative draft — shift to past tense, insert real PRISMA
+numbers, and narrative from SLR.log.md.]
+
+\section{Research Design and Rationale}
+\label{sec:research-design}
+
+[TODO: Modified PRISMA 2020 SLR; justification for systematic review design
+given the dual-use research question.]
+
+\section{Search Strategy}
+\label{sec:search-strategy}
+
+[TODO: Two-search strategy (A: high-recall civil-military nexus;
+B: high-precision spatial destruction). Date window 1990--2025.
+Scopus + WoS. Calibration narrative from SLR.log.md.]
+
+\section{Snowballing}
+\label{sec:snowballing}
+
+[TODO: Single-iteration backward + forward citation chaining from 3--5
+anchors (provisionally Graham 2006, Kitchin 2014, Weizman 2007);
+Wohlin (2014) citation.]
+
+\section{Grey Literature}
+\label{sec:grey-lit}
+
+[TODO: Overton (trial-capped) + Policy Commons; AACODS appraisal.]
+
+\section{Screening and Inclusion/Exclusion Criteria}
+\label{sec:screening}
+
+[TODO: Two-pass screening (title/abstract $\rightarrow$ full text);
+inclusion/exclusion criteria; decision journal for borderline cases.]
+
+\section{Data Extraction and Synthesis}
+\label{sec:extraction}
+
+[TODO: Systematic Review Map; thematic extraction along conceptual axes.]
+
+\section{Limitations}
+\label{sec:limitations}
+
+[TODO: Four acknowledged limitations — language, single-reviewer,
+grey-lit unevenness, Overton trial cap.]
+
+% =============================================================================
+\chapter{Findings: The Systematic Map}
+\label{ch:findings}
+
+[TODO: Write findings. Target ~3,500 words.
+Output of SLR extraction. PRISMA flow diagram with real n's.
+Descriptive statistics (counts by theme $\times$ year).
+Longitudinal claims from the Review Map.]
+
+% =============================================================================
+\chapter{Discussion}
+\label{ch:discussion}
+
+[TODO: Write discussion. Target ~2,250 words.
+Findings $\times$ theoretical framework.
+A/B convergence-gap finding; policy implications.
+Link back to dual-use thesis.]
+
+% =============================================================================
+\chapter{Conclusion and Research Agenda}
+\label{ch:conclusion}
+
+[TODO: Write conclusion. Target ~1,250 words.
+Summary of findings; policy recommendations;
+agenda for future research; limitations restated.]
+
+% =============================================================================
+% References
+% =============================================================================
+\printbibliography[heading=chapter]
+
+% =============================================================================
+% Appendices
+% =============================================================================
+\appendix
+
+\chapter{AI-Use Statement}
+\label{app:ai-statement}
+
+[TODO: Statement of AI use in accordance with University of Glasgow
+guidelines. Describe which tools were used (e.g.\ \texttt{opencode} agents)
+and for what purposes (drafting, editing, verification, formatting).
+All agent-assisted text reviewed and revised by the author.]
+
+\end{document}
