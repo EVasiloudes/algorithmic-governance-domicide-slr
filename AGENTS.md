@@ -49,8 +49,10 @@ Author: Elias Vasnic. Supervisor: Craig.
 
 - Modified PRISMA 2020; completed flow diagram with real ns.
 - Two-search strategy (A: high recall civil-military nexus; B: high precision spatial destruction), merged at deduplication. Zotero pipeline.
-- Single-iteration backward+forward snowballing from 3–5 anchors (Graham 2006, Kitchin 2014, Weizman 2007 provisional); Wohlin (2014) citation.
+- Single-iteration backward+forward snowballing from 3 anchors (Graham 2006, Kitchin 2014, Weizman 2007 — confirmed 2026-07-03); Wohlin (2014) citation.
 - Date window 1990–2025 inclusive (`PUBYEAR > 1989 AND PUBYEAR < 2026` in Scopus).
+  - Bibliographic pipeline: Zotero library → Better BibTeX export → `refs.bib` → biblatex biber compilation.
+  - `refs.bib` is manually curated at `final-draft/refs.bib` (biblatex format, authoryear style).
 - Single-reviewer mitigations: decision journal.
 - Grey lit: Overton (trial-capped — see SLR.log.md and limitations) + Policy Commons; AACODS appraisal.
 - Four acknowledged limitations (language, single-reviewer, grey-lit unevenness, Overton trial cap).

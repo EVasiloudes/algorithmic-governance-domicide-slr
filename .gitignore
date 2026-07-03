@@ -24,3 +24,13 @@ temp/
 tmp/
 *.bak
 *.log
+
+# LaTeX build artifacts
+final-draft/*.aux
+final-draft/*.bcf
+final-draft/*.lof
+final-draft/*.log
+final-draft/*.out
+final-draft/*.run.xml
+final-draft/*.toc
+final-draft/*.pdf
