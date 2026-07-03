@@ -110,3 +110,45 @@ TITLE-ABS-KEY(("domicide" OR "urbicide" OR "spatial violence" OR "home unmaking"
 
 ### Next Step
 Import merged RIS files into Zotero and run deduplication. Then begin title/abstract screening against inclusion criteria.
+
+
+## Calibration Iteration: Policy Commons broad recall (2026-07-03)
+
+**Trigger:** Initial Policy Commons strings returned unmanageable results.
+- Search A (civil-military urban tech): **13,096 hits**
+- Search B (spatial destruction): **3,031 hits**
+
+**Diagnosis:** Policy Commons has automatic stemming and a very broad corpus (think-tank reports, policy briefs, working papers). The Search A second AND leg (`military OR warfare OR "national security" etc.`) catches every defence/security policy paper that tangentially mentions smart cities. The Search B string accidentally reused the Search A string (needs re-run).
+
+**Action:** Revise strings to use field targeting (title or summary) and/or more restrictive boolean logic rather than full-text search.
+
+**Calibrated search strings:**
+
+**Search A (Tier 3 — both legs in summary field):**
+```
+summary:("algorithmic governance" OR "urban analytics" OR "smart city" OR "smart cities" OR "platform urbanism" OR "predictive policing" OR "urban big data" OR "data-driven urbanism") AND summary:("dual-use" OR "civil-military" OR military OR "national security" OR warfare OR securitisation OR securitization OR weaponisation OR weaponization OR "state surveillance" OR "mass surveillance")
+```
+**Search B (Tier 2 — spatial destruction in title, data terms in summary):**
+```
+title:("domicide" OR "urbicide" OR "spatial violence" OR "home unmaking" OR "urban destruction" OR "urban warfare") AND summary:(data OR algorithm OR AI OR surveillance OR GIS OR "remote sensing")
+```
+
+**Results:**
+| Search | Raw | English only | Exported |
+|---|---|---|---|
+| Search A (Tier 3) | 93 | 67 | 63 |
+| Search B (Tier 2) | 15 | 10 | 10 |
+
+**Files created:**
+- `Policy Commons Search A — Civil-military urban tech nexus (tier 3, summary-summary).ris` (63 recs)
+- `Policy Commons Search B — Spatial destruction and the datafied city (tier 2, summary-summary).ris` (10 recs)
+
+### Combined total search corpus (all sources)
+| Source | Search A | Search B |
+|---|---|---|
+| Web of Science | 486 | 141 |
+| Scopus | 219 | 42 |
+| Policy Commons (grey lit) | 63 | 10 |
+| **Identification phase total** | **~768** | **~193** |
+
+**Note:** The Policy Commons files had their filenames swapped on export (Policy Commons generates UUID filenames, not descriptive ones); corrected on 2026-07-03. Search A content was in the "Search B" file and vice versa.
