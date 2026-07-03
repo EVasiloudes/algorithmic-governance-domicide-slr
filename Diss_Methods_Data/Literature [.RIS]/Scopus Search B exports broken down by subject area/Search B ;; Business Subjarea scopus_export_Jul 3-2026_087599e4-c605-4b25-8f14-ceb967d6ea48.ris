@@ -1,0 +1,213 @@
+TY  - label.ris.referenceType.SHORT_SURVEY
+AU  - Kucera, J.
+TI  - DARPA funds urban warfare technologies
+PY  - 2004
+T2  - Jane's Defence Weekly
+IS  - DEC.
+UR  - https://www.scopus.com/pages/publications/84860986708?origin=resultslist
+AB  - The US Department of Defense is investing in a variety of next-generation technologies, including weapon systems, improved sensors and modeling technologies, to help improve the capabilities of US forces in urban warfare. The Defense Advanced Research Projects Agency (DARPA) has granted several awards for projects on cultured training and computer modeling of urban combat and post-conflict situations. The projects include a robot armed with an electronic gun that could fire either non-lethal or lethal grounds. DARPA also granted awards on projects on advanced sensors to better detect explosives and individuals and carry out persistent surveillance.
+KW  - Boron carbide
+KW  - Ground vehicles
+KW  - Guns (armament)
+KW  - Mathematical models
+KW  - Nanostructured materials
+KW  - Personnel training
+KW  - Project management
+KW  - Sensors
+KW  - Unmanned vehicles
+KW  - Defense Advanced Research Projects Agency (DARPA)
+KW  - Electronic gun
+KW  - Protection systems
+KW  - Unmanned ground vehicles
+KW  - Military operations
+SN  - 02653818 (ISSN)
+LA  - English
+J2  - Jane's Def. Weekly
+M3  - Short survey
+DB  - Scopus
+N1  - Export Date: 03 July 2026; Cited By: 0
+ER  -
+
+TY  - CONF
+AU  - Naqvi, M.A.
+AU  - Shah, H.R.
+AU  - Ali, A.
+AU  - Naeem, F.
+TI  - Design and development of a small scale fixed wing aerial vehicle for over the hill missions in urban warfare
+PY  - 2014
+T2  - Proceedings of 2014 11th International Bhurban Conference on Applied Sciences and Technology, IBCAST 2014
+C7  - 06778155
+SP  - 271
+EP  - 278
+DO  - 10.1109/IBCAST.2014.6778155
+UR  - https://www.scopus.com/pages/publications/84898988510?origin=resultslist
+AD  - Department of Aerospace, Engineering College of Aeronautical, Engineering PAF Academy, Risalpur, Pakistan
+AB  - Micro Aerial Vehicles (MAVs) and NANO Aerial Vehicles (NAVs) robots mimicking the maneuvering flight of birds and insects are the future of Aerospace industry. These small size air vehicles have been the platforms of choice for reconnaissance, surveillance and real time aerial video transmission involving over the hill missions in recent urban warfare scenarios. This research work aims at design and development of a radio controlled small scale fixed wing aerial vehicle with maximum span dimension of 12 inches capable to operate within a flight radius of 3 kilometers with a minimum flight endurance of 30 minutes. Biologically inspired 'Pigeon Shape' design with a maximum wing span of 12 inches was selected as the baseline configuration. Geometric and Propulsive design variables were selected with direct bearing on the aerodynamics, propulsion, performance and stability & control disciplines. A design of experiments array with more than 1200 runs was generated and configurations were analyzed using the specially formulated modeling & simulation environment. Finally sensitivity analysis was performed to determine the optimal design configuration. The optimum design was validated by Computational Fluid Dynamics (CFD) analysis and Fluid Surface interaction (FSI) process. The validated configuration airframe was fabricated using CNC machining and tested in a low speed wind tunnel. The wind tunnel results were in agreement with the CFD results and earlier results obtained during the conceptual design phase. The finalized configuration was developed using off the shelf components, fabricated and thoroughly ground tested followed by successful flight testing. © 2014 IEEE.
+KW  - Aerodynamic stability
+KW  - Aerospace industry
+KW  - Computational fluid dynamics
+KW  - Conceptual design
+KW  - Design of experiments
+KW  - Fixed wings
+KW  - Image communication systems
+KW  - Micro air vehicle (MAV)
+KW  - Reconnaissance aircraft
+KW  - Wind tunnels
+KW  - Baseline configurations
+KW  - Computational fluid dynamics analysis
+KW  - Conceptual design phase
+KW  - Design and Development
+KW  - Fixed wing aerial vehicles
+KW  - Fluid-surface interactions
+KW  - Off-the-shelf components
+KW  - Optimal design configuration
+KW  - Maneuverability
+PB  - IEEE Computer Society
+LA  - English
+J2  - Proc. Int. Bhurban Conf. Appl. Sci. Technol., IBCAST
+M3  - Conference paper
+DB  - Scopus
+N1  - Export Date: 03 July 2026; Cited By: 2; Conference name: 2014 11th International Bhurban Conference on Applied Sciences and Technology, IBCAST 2014; Conference date: 14 January 2014 through 18 January 2014; Conference code: 104564
+ER  -
+
+TY  - JOUR
+AU  - Harrington, C.
+TI  - Real-time urban picture sought
+PY  - 2006
+T2  - Jane's Defence Weekly
+IS  - OCT.
+UR  - https://www.scopus.com/pages/publications/84860019961?origin=resultslist
+AB  - Northrop Grumman is developing a new technology network that may soon allow US soldiers engaged in urban warfare access to real-time surveillance. The technology known as HURT was recently tested in a training exercise that took place in a simulated urban combat zone at the Marine Corps Air Ground Combat Center, California. HURT which stands for Heterogehous urban RSTA team is a system that can prioritize and respond to requests for information on enemy positions and can also autonomously direct unmanned aerial vehicles (UAV). Northrop Grumman's initial contract awarded in January 2005 and worth USD11.6 million is coming to an end and is considering an additional contract. According to sources HURT can be deployed in combat by 2008.
+KW  - Image analysis
+KW  - Imaging systems
+KW  - Information retrieval
+KW  - Military photography
+KW  - Personnel training
+KW  - Space surveillance
+KW  - Unmanned vehicles
+KW  - Northrop Grumman (CO)
+KW  - Real-time surveillance
+KW  - Unmanned aerial vehicles (UAV)
+KW  - Real time systems
+SN  - 02653818 (ISSN)
+LA  - English
+J2  - Jane's Def. Weekly
+M3  - Article
+DB  - Scopus
+N1  - Export Date: 03 July 2026; Cited By: 0
+ER  -
+
+TY  - JOUR
+AU  - Elfversson, E.
+AU  - Höglund, K.
+TI  - Are armed conflicts becoming more urban?
+PY  - 2021
+T2  - Cities
+VL  - 119
+C7  - 103356
+DO  - 10.1016/j.cities.2021.103356
+UR  - https://www.scopus.com/pages/publications/85112580067?origin=resultslist
+AD  - Department of Peace and Conflict Research, Box 514, Uppsala, 751 20, Sweden
+AB  - In recent years, cities in countries such as Syria, Ukraine, and Somalia have been sites of major incidents of armed conflict. Such violence has led observers to note that armed conflict is becoming more urbanized in nature and increasingly affecting cities. However, existing research has not been able to ascertain whether armed conflict is gradually more concentrated in cities, for two reasons. First, most studies employ a grid-based design which does not theoretically or operationally correspond to cities. Second, some studies take the city as the unit of analysis, but look only at a few major cities in certain regions of the world, or include a broader range of political violence. To assess whether armed conflict is indeed becoming more urban in character, we analyze global patterns of armed conflict 1989–2017. We match the UCDP Georeferenced Events Dataset to cities with at least 100,000 inhabitants, and analyze over time the share of fatalities incurred by armed conflict. We include violence between organized armed actors (inter- and intrastate), but also conflict-related violence against civilians which captures acts of terrorism. With this novel approach, we identify an overall reduction over time in the share of armed conflict violence taking place in cities. © 2021 The Authors
+KW  - Armed conflict
+KW  - Cities
+KW  - Terrorism
+KW  - Urban violence
+KW  - Urban warfare
+KW  - data set
+KW  - political violence
+KW  - terrorism
+KW  - urban area
+KW  - war
+PB  - Elsevier Ltd
+SN  - 02642751 (ISSN)
+LA  - English
+J2  - Cities
+M3  - Article
+DB  - Scopus
+N1  - Export Date: 03 July 2026; Cited By: 32; Correspondence Address: E. Elfversson; Department of Peace and Conflict Research, Uppsala, Box 514, 751 20, Sweden; email: emma.elfversson@pcr.uu.se
+ER  -
+
+TY  - label.ris.referenceType.SHORT_SURVEY
+AU  - Ripley, T.
+TI  - UK SAS tests mini UAV
+PY  - 2005
+T2  - Jane's Defence Weekly
+IS  - OCT.
+UR  - https://www.scopus.com/pages/publications/84861256160?origin=resultslist
+AB  - The UK's Special Air Service (SAS) Regiment has carried out trials of the Mission Technologies backpack unmanned surveillance targeting and enhanced reconnaissance (BUSTER) small unmanned aerial vehicle (UAV) ahead of an enhanced deployment of UK special forces personnel to Afghanistan in year 2006. The BUSTER is launched by a small catapult and recovered by parachute. It has a payload capacity of 1.4 kg for electro-optical/infra-red surveillance equipment. The Joint UAV Experimentation Programme (JUEP) team used the BUSTER during urban warfare trials in year 2004 and it has also been trialled by the US Army.
+KW  - Catapults (aircraft launchers)
+KW  - Infrared devices
+KW  - Military aircraft
+KW  - Military operations
+KW  - Optoelectronic devices
+KW  - Parachutes
+KW  - Personnel
+KW  - Unmanned vehicles
+KW  - Special Air Service (SAS)
+KW  - Surveillance equipment
+KW  - Unmanned aerial vehicles (UAV)
+KW  - Urban warfare
+KW  - Military engineering
+SN  - 02653818 (ISSN)
+LA  - English
+J2  - Jane's Def. Weekly
+M3  - Short survey
+DB  - Scopus
+N1  - Export Date: 03 July 2026; Cited By: 0
+ER  -
+
+TY  - JOUR
+AU  - Ripley, T.
+TI  - Urban warfare equipment put to the test in UK
+PY  - 2005
+T2  - Jane's Defence Weekly
+IS  - MAY
+UR  - https://www.scopus.com/pages/publications/84860980127?origin=resultslist
+AB  - British combat units were exposed to 'transformational' urban warfare equipment during a three-week experimental exercise earlier in year 2005. 'Urban Exercise 2' (URBEX 2) involved futuristic weapon systems and survelliance sensors being put through their paces by British soldiers and Royal Marines under the watchful eye of experts from the Defence Procurement Agency (DPA) and Ministry of Defence Equipment Capability organization. The exercise in February 2005 was the second of a series where commercial off-the-shelf products were hired or borrowed to be assessed in realistic conditions at the British Army's purpose-built urban warfare training center at Wiltshire. Technology is the urban warfare sphere moves forward at a rapid pace.
+KW  - Military operations
+KW  - Project management
+KW  - Purchasing
+KW  - Radar systems
+KW  - Space surveillance
+KW  - Targets
+KW  - Warships
+KW  - E-3D Sentry
+KW  - Nirmod R.1s
+KW  - Raytheon (CO)
+KW  - UK Royal Air Force (RAF)
+KW  - Aircraft
+SN  - 02653818 (ISSN)
+LA  - English
+J2  - Jane's Def. Weekly
+M3  - Review
+DB  - Scopus
+N1  - Export Date: 03 July 2026; Cited By: 0
+ER  -
+
+TY  - JOUR
+TI  - Eurosatory 2006: Rafael reveals Spotlite Mk-2
+PY  - 2006
+T2  - Jane's Defence Weekly
+IS  - JUNE
+SP  - 505
+EP  - 507
+UR  - https://www.scopus.com/pages/publications/33745802801?origin=resultslist
+AB  - Rafael Armament Development Authority has unveiled a portable, lighter weight versions of its Spotlite electro-optic small-arms detection system. The Spotlite Mk-2, is designed for use by dismounted infantry and special forces at platoon, company, and battalion level in reconnaissance and urban warfare missions. The original system comprises a forward-looking infrared camera, a continuous zoom charge-coupled device (CCD), a laser range-finder, a commander and multiple networked friendly sniper end stations. This system, which uses a generator as its main power source was considered very heavy and complex for certain IDF requirements. The spotlite Mk-2 translates data into co-ordinates for counter users and counter-capability platforms, including helicopters and main battle tanks. The system also includes a stop and stare facility, where real-time information is co-displayed alongside memory to provide an intelligence gathering or dissemination capability for a particular scenario.
+KW  - Charge coupled devices
+KW  - Electric generators
+KW  - Helicopters
+KW  - Information dissemination
+KW  - Military operations
+KW  - Intelligence gathering
+KW  - Main battle tanks
+KW  - Power sources
+KW  - Detectors
+SN  - 02653818 (ISSN)
+LA  - English
+J2  - Jane's Def. Weekly
+M3  - Article
+DB  - Scopus
+N1  - Export Date: 03 July 2026; Cited By: 0
+ER  -
+

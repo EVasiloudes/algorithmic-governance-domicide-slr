@@ -1,0 +1,173 @@
+TY  - CONF
+AU  - Li, H.-X.
+TI  - Exploration of Wargaming and AI Applications in Military Decision-Making
+PY  - 2025
+T2  - 2025 10th International Conference on Military Technologies, ICMT 2025 - Proceedings
+DO  - 10.1109/ICMT65201.2025.11061360
+UR  - https://www.scopus.com/pages/publications/105011263320?origin=resultslist
+AD  - National Defense Unveristy, Department of Logistics Management, Taoyuan, Taiwan
+AB  - Military wargaming is undergoing a paradigm shift through the integration of artificial intelligence (AI), aimed at enhancing decision-making accuracy and operational responsiveness. This study evaluates the effectiveness of AI-enabled simulations across 150 scenarios, including urban warfare, amphibious assaults, and electronic warfare operations. Results indicated that AI-supported planning outperformed traditional humancentric methods by an average of 12.8% in decision-making accuracy, with the most significant improvement (17%) observed in amphibious scenarios. However, AI performance varied across operational environments, with urban and electronic warfare scenarios revealing challenges due to cultural complexity and adversary adaptability. Additionally, human-centric factors such as commander experience and troop morale had measurable impact on outcomes but remained difficult for AI systems to replicate. The findings suggest a hybrid command model wherein AI supports data-intensive processes while human leaders retain authority over context-sensitive and ethical decisions. This study provides a scalable and repeatable methodology for military organizations to integrate AI into joint planning and wargaming processes. It contributes directly to doctrinal development, staff training enhancement, and capability gap assessments across multidomain operations. The results also provide actionable input for force developers, recommending how AI-enabled tools can be institutionalized within joint training, planning toolkits, and decision-support protocols across the Joint Planning Process (JPP) and campaign-level wargaming. This alignment ensures that AI applications are not confined to technical experimentation but embedded within joint operational cycles, from tactical execution to strategic-level command decision-making.  © 2025 IEEE.
+KW  - Artificial Intelligence
+KW  - Military Decision-Making
+KW  - Simulation Models
+KW  - Wargame Systems
+KW  - Wargames
+KW  - Behavioral research
+KW  - Decision making
+KW  - Decision support systems
+KW  - Electronic warfare
+KW  - Military applications
+KW  - Military communications
+KW  - Personnel training
+KW  - Decisions makings
+KW  - Human-centric
+KW  - Joint planning
+KW  - Military decision making
+KW  - Planning process
+KW  - Simulation model
+KW  - Wargame system
+KW  - Wargames
+KW  - Wargaming
+KW  - Artificial intelligence
+A2  - Kolar P.
+PB  - Institute of Electrical and Electronics Engineers Inc.
+SN  - 979-833152338-1 (ISBN)
+LA  - English
+J2  - Int. Conf. Mil. Technol., ICMT - Proc.
+M3  - Conference paper
+DB  - Scopus
+N1  - Export Date: 03 July 2026; Cited By: 2; Correspondence Address: H.-X. Li; National Defense Unveristy, Department of Logistics Management, Taoyuan, Taiwan; email: hungxinli@icloud.com; Conference name: 10th International Conference on Military Technologies, ICMT 2025; Conference date: 27 May 2025 through 30 May 2025; Conference code: 210227
+ER  -
+
+TY  - CONF
+AU  - Wang, Q.
+AU  - Liu, L.
+AU  - Tian, W.
+TI  - Cooperative Task Assignment of Multi-UAV in Road-network Reconnaissance Using Customized Genetic Algorithm
+PY  - 2021
+T2  - IMCEC 2021 - IEEE 4th Advanced Information Management, Communicates, Electronic and Automation Control Conference
+SP  - 803
+EP  - 809
+DO  - 10.1109/IMCEC51613.2021.9482232
+UR  - https://www.scopus.com/pages/publications/85116100201?origin=resultslist
+AD  - Beijing Institute of Technology University, School of Aerospace Engineering, Beijing, China
+AB  - Cooperative reconnaissance is an important task scenario of multi-UAV cooperative mission. The complex environments require UAVs to move along the road-network and complete reconnaissance of the road in mission scenarios such as urban warfare, precision agriculture, logistics and transportation. In this paper, considering the road-network constraints during the task execution, the task assignment problem of multi-UAV cooperative road-network reconnaissance is defined, and the model of multi-UAV road-network reconnaissance traveling salesman problem (MRRTSP) is established. Furthermore, a customized genetic algorithm for road-network reconnaissance (CGA-RR) is used to solve the task assignment problem. Simulation results show the effectiveness of the algorithm, which can achieve the optimal multi-UAV task assignment. © 2021 IEEE.
+KW  - cooperative reconnaissance
+KW  - GA
+KW  - multi-UAV
+KW  - road-network
+KW  - task assignment
+KW  - Combinatorial optimization
+KW  - Genetic algorithms
+KW  - Roads and streets
+KW  - Unmanned aerial vehicles (UAV)
+KW  - Urban transportation
+KW  - Assignment problems
+KW  - Complex environments
+KW  - Cooperative reconnaissance
+KW  - Cooperative tasks
+KW  - Customized genetic algorithm
+KW  - GA
+KW  - Multi UAV
+KW  - Network reconnaissance
+KW  - Road network
+KW  - Tasks assignments
+KW  - Traveling salesman problem
+A2  - Xu B.
+PB  - Institute of Electrical and Electronics Engineers Inc.
+SN  - 2693-2814 (ISSN); 978-172818534-7 (ISBN)
+LA  - English
+J2  - IMCEC - IEEE Adv. Inf. Manag., Commun., Electron. Autom. Control Conf.
+M3  - Conference paper
+DB  - Scopus
+N1  - Export Date: 03 July 2026; Cited By: 1; Conference name: 4th IEEE Advanced Information Management, Communicates, Electronic and Automation Control Conference, IMCEC 2021; Conference date: 18 June 2021 through 20 June 2021; Conference code: 170540
+ER  -
+
+TY  - CONF
+AU  - Chen, Y.
+AU  - Chen, P.
+AU  - Zhao, W.
+AU  - Cao, W.
+AU  - Dong, S.
+TI  - Mobile Crowdsourcing Task Allocation in Armed Reconnaissance Operations
+PY  - 2024
+T2  - IEEE Information Technology, Networking, Electronic and Automation Control Conference, ITNEC
+IS  - 2024
+SP  - 1547
+EP  - 1555
+DO  - 10.1109/ITNEC60942.2024.10733318
+UR  - https://www.scopus.com/pages/publications/85212589868?origin=resultslist
+AD  - Departments of Information and Communication, National University of Defense Technology, Wuhan, China
+AB  - In contemporary urban warfare, human armed reconnaissance assumes an indispensable role in serving as a supplement to intelligent reconnaissance technology. How to allocate armed reconnaissance tasks efficiently and rationally plays a crucial role in the process of urban warfare and the outcome of the mission. Among numerous task allocation solutions, the mobile crowdsourcing is popular for the widespread use. In this paper, we introduce the pattern of armed reconnaissance in urban operations and summarize Few Squads-More Tasks (FSMT) as the problem of mobile crowd sourcing one-to-many task allocation. Then, we treat the problem as a Multiple Traveling Salesman Problem (MTSP) model of multiple starting points, which is solved by maximizing the number of reconnaissance tasks under the constraints of reconnaissance squad distances. To find the solutions, we propose the cluster partitioning and improved genetics based Two-Stage Heuristic Algorithm (TSHA). Finally, the optimization effect of the proposed model on the assignment of armed reconnaissance tasks in the urban battlefield is demonstrated through experimental simulation, by which the superiority of the improved algorithm in enhancing the efficiency of task allocation is verified. © 2024 IEEE.
+KW  - mobile crowdsourcing
+KW  - reconnaissance operation
+KW  - task allocation
+KW  - urban warfare
+KW  - Crowdsourcing
+KW  - Genetic algorithms
+KW  - Traveling salesman problem
+KW  - Cluster partitioning
+KW  - Crowd sourcing
+KW  - Mobile crowdsourcing
+KW  - Multiple travelling salesmen problem
+KW  - Problem models
+KW  - Reconnaissance operations
+KW  - Reconnaissance technology
+KW  - Task allocation
+KW  - Urban operations
+KW  - Urban warfare
+KW  - Heuristic algorithms
+A2  - Xu B.
+PB  - Institute of Electrical and Electronics Engineers Inc.
+SN  - 26933136 (ISSN)
+LA  - English
+J2  - IEEE Inf. Technol. Netw. Electr. Autom. Control Conf.
+M3  - Conference paper
+DB  - Scopus
+N1  - Export Date: 03 July 2026; Cited By: 0; Correspondence Address: W. Zhao; Departments of Information and Communication, National University of Defense Technology, Wuhan, China; email: zhaozww@163.com; Conference name: 7th IEEE Information Technology, Networking, Electronic and Automation Control Conference, ITNEC 2024; Conference date: 20 September 2024 through 22 September 2024; Conference code: 203881
+ER  -
+
+TY  - CONF
+AU  - Gholap, T.B.
+AU  - Salokhe, R.V.
+AU  - Ghadage, G.V.
+AU  - Mane, S.V.
+AU  - Bajaj, D.K.
+AU  - Sahoo, D.
+TI  - Computational Aerodynamics of an AK-47 Rifle's 70.82 mm Bullet in Proximity to a Near Wall
+PY  - 2021
+T2  - 2021 IEEE Pune Section International Conference, PuneCon 2021
+DO  - 10.1109/PuneCon52575.2021.9686472
+UR  - https://www.scopus.com/pages/publications/85125933869?origin=resultslist
+AD  - Annasaheb Dange College of Engineering and Technology, Department of Aeronautical Engineering, Ashta Sangli, Maharashtra, India
+AD  - MIT School of Engineering, MIT ADT University, Department of Aerospace Engineering, Pune, India
+AB  - Computational Fluid Dynamics was used to study the flow around an AK-47 Assault Rifle© 7.82-mm bullet in proximity to a near wall at Mach 2. The computational methodology was validated against the previously existing computational data. In metropolitan battles situations, the projectiles are fired in close proximity to the ground. The presence of ground prompts an asymmetric pressure distribution over the surface of the bullet. The reflection of shock waves after hitting the wall is considered particularly. From the earliest stage to the influence around the shot; the level of impact is subjected to the ground clearance. Streamlines across the projectile and related surface pressure distribution acquired from computational iterations are described. Clearances with 0.5 and 1 height/diameter ratio were studied to examine the transitions in aerodynamic coefficients like lift, drag, and moment. © 2021 IEEE.
+KW  - Ballistics
+KW  - Bullets
+KW  - Ground Proximity
+KW  - Shock Waves
+KW  - Urban Warfare
+KW  - Aerodynamic drag
+KW  - Computational fluid dynamics
+KW  - Pressure distribution
+KW  - Projectiles
+KW  - Assault rifles
+KW  - Battle situations
+KW  - Bullet
+KW  - Close proximity
+KW  - Computational data
+KW  - Computational methodology
+KW  - Ground proximity
+KW  - Near-wall
+KW  - Shock-waves
+KW  - Urban warfare
+KW  - Shock waves
+PB  - Institute of Electrical and Electronics Engineers Inc.
+SN  - 978-166544479-8 (ISBN)
+LA  - English
+J2  - IEEE Pune Sect. Int. Conf., PuneCon
+M3  - Conference paper
+DB  - Scopus
+N1  - Export Date: 03 July 2026; Cited By: 5; Conference name: 4th IEEE Pune Section International Conference, PuneCon 2021; Conference date: 16 December 2021 through 19 December 2021; Conference code: 176812
+ER  -
+

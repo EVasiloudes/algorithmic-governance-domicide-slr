@@ -17,7 +17,7 @@ date: 2026-06-12
 - Two Mermaid.js diagrams inserted:
   1. **PRISMA flow diagram** — two-stream identification (academic + grey lit) → screening → eligibility → included
   2. **Dual-use cycle diagram** — civilian urban tech ↔ military apparatus, via information good economics / counter-forensics feedback loop
-- Overton trial access secured (through June 29th)
+- Overton trial access lapsed (June 29th — not renewed)
 
 ## Discussion Points
 
@@ -54,12 +54,10 @@ AND ("data" OR "algorithm" OR "AI" OR "surveillance" OR "GIS")
 - Are there synonym clusters I'm missing? (e.g., "algorithmic warfare," "predictive policing," "counter-forensics")
 - Should I test scoping queries before our next meeting to bring preliminary n-values?
 
-### 2. Overton — Trial Access Window
+### 2. Overton — Trial Access (RESOLVED)
 
-- Trial access secured through **29 June 2026**
-- Full institutional access still to be confirmed
-- Fallback: Policy Commons + manual repository searches (RAND, Chatham House, Urban Displacement Project)
-- **Question:** Worth running preliminary Overton queries before trial lapses? What policy document types should I prioritise — defence white papers, parliamentary transcripts, think-tank reports?
+- Trial lapsed 29 June 2026; not renewed.
+- Grey literature now: Policy Commons + manual repository searches (RAND, Chatham House, Urban Displacement Project).
 
 ### 3. Coding / Thematic Framework
 

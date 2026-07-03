@@ -54,5 +54,5 @@ Author: Elias Vasnic. Supervisor: Craig.
   - Bibliographic pipeline: Zotero library → Better BibTeX export → `refs.bib` → biblatex biber compilation.
   - `refs.bib` is manually curated at `final-draft/refs.bib` (biblatex format, authoryear style).
 - Single-reviewer mitigations: decision journal.
-- Grey lit: Overton (trial-capped — see SLR.log.md and limitations) + Policy Commons; AACODS appraisal.
-- Four acknowledged limitations (language, single-reviewer, grey-lit unevenness, Overton trial cap).
+- Grey lit: Policy Commons + targeted manual searches (Overton trial lapsed, not renewed); AACODS appraisal.
+- Four acknowledged limitations: language, single-reviewer, grey-lit unevenness, Overton lapsed → Policy Commons only.

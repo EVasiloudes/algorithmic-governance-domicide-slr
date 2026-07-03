@@ -89,7 +89,7 @@ gantt
 
 1. Submission deadline — exact date? `[VERIFY]`
 2. Corpus-size contingency rule — agree narrowing mechanism now.
-3. Overton outcome — shapes whether grey lit is a full strand or a bounded supplement.
+3. [RESOLVED] Overton trial lapsed; grey lit is Policy Commons + manual searches (bounded supplement).
 4. One more supervision slot before submission — book it.
 
 ---

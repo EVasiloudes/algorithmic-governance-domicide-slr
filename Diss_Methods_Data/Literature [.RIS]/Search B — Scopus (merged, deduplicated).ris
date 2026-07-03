@@ -1,0 +1,1457 @@
+TY  - label.ris.referenceType.SHORT_SURVEY
+AU  - Kucera, J.
+TI  - DARPA funds urban warfare technologies
+PY  - 2004
+T2  - Jane's Defence Weekly
+IS  - DEC.
+UR  - https://www.scopus.com/pages/publications/84860986708?origin=resultslist
+AB  - The US Department of Defense is investing in a variety of next-generation technologies, including weapon systems, improved sensors and modeling technologies, to help improve the capabilities of US forces in urban warfare. The Defense Advanced Research Projects Agency (DARPA) has granted several awards for projects on cultured training and computer modeling of urban combat and post-conflict situations. The projects include a robot armed with an electronic gun that could fire either non-lethal or lethal grounds. DARPA also granted awards on projects on advanced sensors to better detect explosives and individuals and carry out persistent surveillance.
+KW  - Boron carbide
+KW  - Ground vehicles
+KW  - Guns (armament)
+KW  - Mathematical models
+KW  - Nanostructured materials
+KW  - Personnel training
+KW  - Project management
+KW  - Sensors
+KW  - Unmanned vehicles
+KW  - Defense Advanced Research Projects Agency (DARPA)
+KW  - Electronic gun
+KW  - Protection systems
+KW  - Unmanned ground vehicles
+KW  - Military operations
+SN  - 02653818 (ISSN)
+LA  - English
+J2  - Jane's Def. Weekly
+M3  - Short survey
+DB  - Scopus
+N1  - Export Date: 03 July 2026; Cited By: 0
+ER  -
+
+
+TY  - CONF
+AU  - Naqvi, M.A.
+AU  - Shah, H.R.
+AU  - Ali, A.
+AU  - Naeem, F.
+TI  - Design and development of a small scale fixed wing aerial vehicle for over the hill missions in urban warfare
+PY  - 2014
+T2  - Proceedings of 2014 11th International Bhurban Conference on Applied Sciences and Technology, IBCAST 2014
+C7  - 06778155
+SP  - 271
+EP  - 278
+DO  - 10.1109/IBCAST.2014.6778155
+UR  - https://www.scopus.com/pages/publications/84898988510?origin=resultslist
+AD  - Department of Aerospace, Engineering College of Aeronautical, Engineering PAF Academy, Risalpur, Pakistan
+AB  - Micro Aerial Vehicles (MAVs) and NANO Aerial Vehicles (NAVs) robots mimicking the maneuvering flight of birds and insects are the future of Aerospace industry. These small size air vehicles have been the platforms of choice for reconnaissance, surveillance and real time aerial video transmission involving over the hill missions in recent urban warfare scenarios. This research work aims at design and development of a radio controlled small scale fixed wing aerial vehicle with maximum span dimension of 12 inches capable to operate within a flight radius of 3 kilometers with a minimum flight endurance of 30 minutes. Biologically inspired 'Pigeon Shape' design with a maximum wing span of 12 inches was selected as the baseline configuration. Geometric and Propulsive design variables were selected with direct bearing on the aerodynamics, propulsion, performance and stability & control disciplines. A design of experiments array with more than 1200 runs was generated and configurations were analyzed using the specially formulated modeling & simulation environment. Finally sensitivity analysis was performed to determine the optimal design configuration. The optimum design was validated by Computational Fluid Dynamics (CFD) analysis and Fluid Surface interaction (FSI) process. The validated configuration airframe was fabricated using CNC machining and tested in a low speed wind tunnel. The wind tunnel results were in agreement with the CFD results and earlier results obtained during the conceptual design phase. The finalized configuration was developed using off the shelf components, fabricated and thoroughly ground tested followed by successful flight testing. © 2014 IEEE.
+KW  - Aerodynamic stability
+KW  - Aerospace industry
+KW  - Computational fluid dynamics
+KW  - Conceptual design
+KW  - Design of experiments
+KW  - Fixed wings
+KW  - Image communication systems
+KW  - Micro air vehicle (MAV)
+KW  - Reconnaissance aircraft
+KW  - Wind tunnels
+KW  - Baseline configurations
+KW  - Computational fluid dynamics analysis
+KW  - Conceptual design phase
+KW  - Design and Development
+KW  - Fixed wing aerial vehicles
+KW  - Fluid-surface interactions
+KW  - Off-the-shelf components
+KW  - Optimal design configuration
+KW  - Maneuverability
+PB  - IEEE Computer Society
+LA  - English
+J2  - Proc. Int. Bhurban Conf. Appl. Sci. Technol., IBCAST
+M3  - Conference paper
+DB  - Scopus
+N1  - Export Date: 03 July 2026; Cited By: 2; Conference name: 2014 11th International Bhurban Conference on Applied Sciences and Technology, IBCAST 2014; Conference date: 14 January 2014 through 18 January 2014; Conference code: 104564
+ER  -
+
+
+TY  - JOUR
+AU  - Harrington, C.
+TI  - Real-time urban picture sought
+PY  - 2006
+T2  - Jane's Defence Weekly
+IS  - OCT.
+UR  - https://www.scopus.com/pages/publications/84860019961?origin=resultslist
+AB  - Northrop Grumman is developing a new technology network that may soon allow US soldiers engaged in urban warfare access to real-time surveillance. The technology known as HURT was recently tested in a training exercise that took place in a simulated urban combat zone at the Marine Corps Air Ground Combat Center, California. HURT which stands for Heterogehous urban RSTA team is a system that can prioritize and respond to requests for information on enemy positions and can also autonomously direct unmanned aerial vehicles (UAV). Northrop Grumman's initial contract awarded in January 2005 and worth USD11.6 million is coming to an end and is considering an additional contract. According to sources HURT can be deployed in combat by 2008.
+KW  - Image analysis
+KW  - Imaging systems
+KW  - Information retrieval
+KW  - Military photography
+KW  - Personnel training
+KW  - Space surveillance
+KW  - Unmanned vehicles
+KW  - Northrop Grumman (CO)
+KW  - Real-time surveillance
+KW  - Unmanned aerial vehicles (UAV)
+KW  - Real time systems
+SN  - 02653818 (ISSN)
+LA  - English
+J2  - Jane's Def. Weekly
+M3  - Article
+DB  - Scopus
+N1  - Export Date: 03 July 2026; Cited By: 0
+ER  -
+
+
+TY  - JOUR
+AU  - Elfversson, E.
+AU  - Höglund, K.
+TI  - Are armed conflicts becoming more urban?
+PY  - 2021
+T2  - Cities
+VL  - 119
+C7  - 103356
+DO  - 10.1016/j.cities.2021.103356
+UR  - https://www.scopus.com/pages/publications/85112580067?origin=resultslist
+AD  - Department of Peace and Conflict Research, Box 514, Uppsala, 751 20, Sweden
+AB  - In recent years, cities in countries such as Syria, Ukraine, and Somalia have been sites of major incidents of armed conflict. Such violence has led observers to note that armed conflict is becoming more urbanized in nature and increasingly affecting cities. However, existing research has not been able to ascertain whether armed conflict is gradually more concentrated in cities, for two reasons. First, most studies employ a grid-based design which does not theoretically or operationally correspond to cities. Second, some studies take the city as the unit of analysis, but look only at a few major cities in certain regions of the world, or include a broader range of political violence. To assess whether armed conflict is indeed becoming more urban in character, we analyze global patterns of armed conflict 1989–2017. We match the UCDP Georeferenced Events Dataset to cities with at least 100,000 inhabitants, and analyze over time the share of fatalities incurred by armed conflict. We include violence between organized armed actors (inter- and intrastate), but also conflict-related violence against civilians which captures acts of terrorism. With this novel approach, we identify an overall reduction over time in the share of armed conflict violence taking place in cities. © 2021 The Authors
+KW  - Armed conflict
+KW  - Cities
+KW  - Terrorism
+KW  - Urban violence
+KW  - Urban warfare
+KW  - data set
+KW  - political violence
+KW  - terrorism
+KW  - urban area
+KW  - war
+PB  - Elsevier Ltd
+SN  - 02642751 (ISSN)
+LA  - English
+J2  - Cities
+M3  - Article
+DB  - Scopus
+N1  - Export Date: 03 July 2026; Cited By: 32; Correspondence Address: E. Elfversson; Department of Peace and Conflict Research, Uppsala, Box 514, 751 20, Sweden; email: emma.elfversson@pcr.uu.se
+ER  -
+
+
+TY  - label.ris.referenceType.SHORT_SURVEY
+AU  - Ripley, T.
+TI  - UK SAS tests mini UAV
+PY  - 2005
+T2  - Jane's Defence Weekly
+IS  - OCT.
+UR  - https://www.scopus.com/pages/publications/84861256160?origin=resultslist
+AB  - The UK's Special Air Service (SAS) Regiment has carried out trials of the Mission Technologies backpack unmanned surveillance targeting and enhanced reconnaissance (BUSTER) small unmanned aerial vehicle (UAV) ahead of an enhanced deployment of UK special forces personnel to Afghanistan in year 2006. The BUSTER is launched by a small catapult and recovered by parachute. It has a payload capacity of 1.4 kg for electro-optical/infra-red surveillance equipment. The Joint UAV Experimentation Programme (JUEP) team used the BUSTER during urban warfare trials in year 2004 and it has also been trialled by the US Army.
+KW  - Catapults (aircraft launchers)
+KW  - Infrared devices
+KW  - Military aircraft
+KW  - Military operations
+KW  - Optoelectronic devices
+KW  - Parachutes
+KW  - Personnel
+KW  - Unmanned vehicles
+KW  - Special Air Service (SAS)
+KW  - Surveillance equipment
+KW  - Unmanned aerial vehicles (UAV)
+KW  - Urban warfare
+KW  - Military engineering
+SN  - 02653818 (ISSN)
+LA  - English
+J2  - Jane's Def. Weekly
+M3  - Short survey
+DB  - Scopus
+N1  - Export Date: 03 July 2026; Cited By: 0
+ER  -
+
+
+TY  - JOUR
+AU  - Ripley, T.
+TI  - Urban warfare equipment put to the test in UK
+PY  - 2005
+T2  - Jane's Defence Weekly
+IS  - MAY
+UR  - https://www.scopus.com/pages/publications/84860980127?origin=resultslist
+AB  - British combat units were exposed to 'transformational' urban warfare equipment during a three-week experimental exercise earlier in year 2005. 'Urban Exercise 2' (URBEX 2) involved futuristic weapon systems and survelliance sensors being put through their paces by British soldiers and Royal Marines under the watchful eye of experts from the Defence Procurement Agency (DPA) and Ministry of Defence Equipment Capability organization. The exercise in February 2005 was the second of a series where commercial off-the-shelf products were hired or borrowed to be assessed in realistic conditions at the British Army's purpose-built urban warfare training center at Wiltshire. Technology is the urban warfare sphere moves forward at a rapid pace.
+KW  - Military operations
+KW  - Project management
+KW  - Purchasing
+KW  - Radar systems
+KW  - Space surveillance
+KW  - Targets
+KW  - Warships
+KW  - E-3D Sentry
+KW  - Nirmod R.1s
+KW  - Raytheon (CO)
+KW  - UK Royal Air Force (RAF)
+KW  - Aircraft
+SN  - 02653818 (ISSN)
+LA  - English
+J2  - Jane's Def. Weekly
+M3  - Review
+DB  - Scopus
+N1  - Export Date: 03 July 2026; Cited By: 0
+ER  -
+
+
+TY  - JOUR
+TI  - Eurosatory 2006: Rafael reveals Spotlite Mk-2
+PY  - 2006
+T2  - Jane's Defence Weekly
+IS  - JUNE
+SP  - 505
+EP  - 507
+UR  - https://www.scopus.com/pages/publications/33745802801?origin=resultslist
+AB  - Rafael Armament Development Authority has unveiled a portable, lighter weight versions of its Spotlite electro-optic small-arms detection system. The Spotlite Mk-2, is designed for use by dismounted infantry and special forces at platoon, company, and battalion level in reconnaissance and urban warfare missions. The original system comprises a forward-looking infrared camera, a continuous zoom charge-coupled device (CCD), a laser range-finder, a commander and multiple networked friendly sniper end stations. This system, which uses a generator as its main power source was considered very heavy and complex for certain IDF requirements. The spotlite Mk-2 translates data into co-ordinates for counter users and counter-capability platforms, including helicopters and main battle tanks. The system also includes a stop and stare facility, where real-time information is co-displayed alongside memory to provide an intelligence gathering or dissemination capability for a particular scenario.
+KW  - Charge coupled devices
+KW  - Electric generators
+KW  - Helicopters
+KW  - Information dissemination
+KW  - Military operations
+KW  - Intelligence gathering
+KW  - Main battle tanks
+KW  - Power sources
+KW  - Detectors
+SN  - 02653818 (ISSN)
+LA  - English
+J2  - Jane's Def. Weekly
+M3  - Article
+DB  - Scopus
+N1  - Export Date: 03 July 2026; Cited By: 0
+ER  -
+
+
+TY  - JOUR
+AU  - Mueller, H.
+AU  - Rohner, D.
+AU  - Schönholzer, D.
+TI  - Ethnic Violence Across Space
+PY  - 2022
+T2  - Economic Journal
+VL  - 132
+IS  - 642
+SP  - 709
+EP  - 740
+DO  - 10.1093/ej/ueab045
+UR  - https://www.scopus.com/pages/publications/85128502096?origin=resultslist
+AD  - Institut d'Analisi Economica (CSIC), Spain
+AD  - University of Lausanne, Cepr, Switzerland
+AD  - Stockholm University, Sweden
+AB  - Spatial analyses focus to a large extent on the 'bright side of proximity', namely voluntary (positive-sum) interactions such as, e.g., in trade and innovation. In contrast, the violent 'dark side of proximity' has often been overlooked. To address this gap, we study the role of spatial proximity in ethnic conflict, developing a structural model of spatial violence in which ethnic groups recruit fighters strategically across space. The spatial decay of violence determines the equilibrium placement of fighters and drives specific spatial patterns of conflict. The structural parameters of the model are estimated using fine-grained data on ethnic groups and violence from twenty-four ethnically divided countries. We find that in more than half of these, spatial decay is substantial: half of all ethnic violence dissipates after 350 km. Violence is asymmetric, is higher near ethnic borders and typically originates from outside a location. Counterfactual estimates suggest that setting up barriers would reduce violence, but pacifying groups suffering from grievances would often be more effective.  © 2022 The Author(s) 2021. Published by Oxford University Press.
+KW  - ethnic conflict
+KW  - innovation
+KW  - spatial analysis
+KW  - trade
+KW  - violence
+PB  - Oxford University Press
+SN  - 00130133 (ISSN)
+LA  - English
+J2  - Econ. J.
+M3  - Article
+DB  - Scopus
+N1  - Export Date: 03 July 2026; Cited By: 12; Correspondence Address: D. Rohner; Quartier UNIL-Chamberonne, Bâtiment Internef, Lausanne, CH-1015, Switzerland; email: dominic.rohner@unil.ch; CODEN: ECJOA
+ER  -
+
+
+TY  - CONF
+AU  - Li, H.-X.
+TI  - Exploration of Wargaming and AI Applications in Military Decision-Making
+PY  - 2025
+T2  - 2025 10th International Conference on Military Technologies, ICMT 2025 - Proceedings
+DO  - 10.1109/ICMT65201.2025.11061360
+UR  - https://www.scopus.com/pages/publications/105011263320?origin=resultslist
+AD  - National Defense Unveristy, Department of Logistics Management, Taoyuan, Taiwan
+AB  - Military wargaming is undergoing a paradigm shift through the integration of artificial intelligence (AI), aimed at enhancing decision-making accuracy and operational responsiveness. This study evaluates the effectiveness of AI-enabled simulations across 150 scenarios, including urban warfare, amphibious assaults, and electronic warfare operations. Results indicated that AI-supported planning outperformed traditional humancentric methods by an average of 12.8% in decision-making accuracy, with the most significant improvement (17%) observed in amphibious scenarios. However, AI performance varied across operational environments, with urban and electronic warfare scenarios revealing challenges due to cultural complexity and adversary adaptability. Additionally, human-centric factors such as commander experience and troop morale had measurable impact on outcomes but remained difficult for AI systems to replicate. The findings suggest a hybrid command model wherein AI supports data-intensive processes while human leaders retain authority over context-sensitive and ethical decisions. This study provides a scalable and repeatable methodology for military organizations to integrate AI into joint planning and wargaming processes. It contributes directly to doctrinal development, staff training enhancement, and capability gap assessments across multidomain operations. The results also provide actionable input for force developers, recommending how AI-enabled tools can be institutionalized within joint training, planning toolkits, and decision-support protocols across the Joint Planning Process (JPP) and campaign-level wargaming. This alignment ensures that AI applications are not confined to technical experimentation but embedded within joint operational cycles, from tactical execution to strategic-level command decision-making.  © 2025 IEEE.
+KW  - Artificial Intelligence
+KW  - Military Decision-Making
+KW  - Simulation Models
+KW  - Wargame Systems
+KW  - Wargames
+KW  - Behavioral research
+KW  - Decision making
+KW  - Decision support systems
+KW  - Electronic warfare
+KW  - Military applications
+KW  - Military communications
+KW  - Personnel training
+KW  - Decisions makings
+KW  - Human-centric
+KW  - Joint planning
+KW  - Military decision making
+KW  - Planning process
+KW  - Simulation model
+KW  - Wargame system
+KW  - Wargames
+KW  - Wargaming
+KW  - Artificial intelligence
+A2  - Kolar P.
+PB  - Institute of Electrical and Electronics Engineers Inc.
+SN  - 979-833152338-1 (ISBN)
+LA  - English
+J2  - Int. Conf. Mil. Technol., ICMT - Proc.
+M3  - Conference paper
+DB  - Scopus
+N1  - Export Date: 03 July 2026; Cited By: 2; Correspondence Address: H.-X. Li; National Defense Unveristy, Department of Logistics Management, Taoyuan, Taiwan; email: hungxinli@icloud.com; Conference name: 10th International Conference on Military Technologies, ICMT 2025; Conference date: 27 May 2025 through 30 May 2025; Conference code: 210227
+ER  -
+
+
+TY  - CONF
+AU  - Wang, Q.
+AU  - Liu, L.
+AU  - Tian, W.
+TI  - Cooperative Task Assignment of Multi-UAV in Road-network Reconnaissance Using Customized Genetic Algorithm
+PY  - 2021
+T2  - IMCEC 2021 - IEEE 4th Advanced Information Management, Communicates, Electronic and Automation Control Conference
+SP  - 803
+EP  - 809
+DO  - 10.1109/IMCEC51613.2021.9482232
+UR  - https://www.scopus.com/pages/publications/85116100201?origin=resultslist
+AD  - Beijing Institute of Technology University, School of Aerospace Engineering, Beijing, China
+AB  - Cooperative reconnaissance is an important task scenario of multi-UAV cooperative mission. The complex environments require UAVs to move along the road-network and complete reconnaissance of the road in mission scenarios such as urban warfare, precision agriculture, logistics and transportation. In this paper, considering the road-network constraints during the task execution, the task assignment problem of multi-UAV cooperative road-network reconnaissance is defined, and the model of multi-UAV road-network reconnaissance traveling salesman problem (MRRTSP) is established. Furthermore, a customized genetic algorithm for road-network reconnaissance (CGA-RR) is used to solve the task assignment problem. Simulation results show the effectiveness of the algorithm, which can achieve the optimal multi-UAV task assignment. © 2021 IEEE.
+KW  - cooperative reconnaissance
+KW  - GA
+KW  - multi-UAV
+KW  - road-network
+KW  - task assignment
+KW  - Combinatorial optimization
+KW  - Genetic algorithms
+KW  - Roads and streets
+KW  - Unmanned aerial vehicles (UAV)
+KW  - Urban transportation
+KW  - Assignment problems
+KW  - Complex environments
+KW  - Cooperative reconnaissance
+KW  - Cooperative tasks
+KW  - Customized genetic algorithm
+KW  - GA
+KW  - Multi UAV
+KW  - Network reconnaissance
+KW  - Road network
+KW  - Tasks assignments
+KW  - Traveling salesman problem
+A2  - Xu B.
+PB  - Institute of Electrical and Electronics Engineers Inc.
+SN  - 2693-2814 (ISSN); 978-172818534-7 (ISBN)
+LA  - English
+J2  - IMCEC - IEEE Adv. Inf. Manag., Commun., Electron. Autom. Control Conf.
+M3  - Conference paper
+DB  - Scopus
+N1  - Export Date: 03 July 2026; Cited By: 1; Conference name: 4th IEEE Advanced Information Management, Communicates, Electronic and Automation Control Conference, IMCEC 2021; Conference date: 18 June 2021 through 20 June 2021; Conference code: 170540
+ER  -
+
+
+TY  - CONF
+AU  - Chen, Y.
+AU  - Chen, P.
+AU  - Zhao, W.
+AU  - Cao, W.
+AU  - Dong, S.
+TI  - Mobile Crowdsourcing Task Allocation in Armed Reconnaissance Operations
+PY  - 2024
+T2  - IEEE Information Technology, Networking, Electronic and Automation Control Conference, ITNEC
+IS  - 2024
+SP  - 1547
+EP  - 1555
+DO  - 10.1109/ITNEC60942.2024.10733318
+UR  - https://www.scopus.com/pages/publications/85212589868?origin=resultslist
+AD  - Departments of Information and Communication, National University of Defense Technology, Wuhan, China
+AB  - In contemporary urban warfare, human armed reconnaissance assumes an indispensable role in serving as a supplement to intelligent reconnaissance technology. How to allocate armed reconnaissance tasks efficiently and rationally plays a crucial role in the process of urban warfare and the outcome of the mission. Among numerous task allocation solutions, the mobile crowdsourcing is popular for the widespread use. In this paper, we introduce the pattern of armed reconnaissance in urban operations and summarize Few Squads-More Tasks (FSMT) as the problem of mobile crowd sourcing one-to-many task allocation. Then, we treat the problem as a Multiple Traveling Salesman Problem (MTSP) model of multiple starting points, which is solved by maximizing the number of reconnaissance tasks under the constraints of reconnaissance squad distances. To find the solutions, we propose the cluster partitioning and improved genetics based Two-Stage Heuristic Algorithm (TSHA). Finally, the optimization effect of the proposed model on the assignment of armed reconnaissance tasks in the urban battlefield is demonstrated through experimental simulation, by which the superiority of the improved algorithm in enhancing the efficiency of task allocation is verified. © 2024 IEEE.
+KW  - mobile crowdsourcing
+KW  - reconnaissance operation
+KW  - task allocation
+KW  - urban warfare
+KW  - Crowdsourcing
+KW  - Genetic algorithms
+KW  - Traveling salesman problem
+KW  - Cluster partitioning
+KW  - Crowd sourcing
+KW  - Mobile crowdsourcing
+KW  - Multiple travelling salesmen problem
+KW  - Problem models
+KW  - Reconnaissance operations
+KW  - Reconnaissance technology
+KW  - Task allocation
+KW  - Urban operations
+KW  - Urban warfare
+KW  - Heuristic algorithms
+A2  - Xu B.
+PB  - Institute of Electrical and Electronics Engineers Inc.
+SN  - 26933136 (ISSN)
+LA  - English
+J2  - IEEE Inf. Technol. Netw. Electr. Autom. Control Conf.
+M3  - Conference paper
+DB  - Scopus
+N1  - Export Date: 03 July 2026; Cited By: 0; Correspondence Address: W. Zhao; Departments of Information and Communication, National University of Defense Technology, Wuhan, China; email: zhaozww@163.com; Conference name: 7th IEEE Information Technology, Networking, Electronic and Automation Control Conference, ITNEC 2024; Conference date: 20 September 2024 through 22 September 2024; Conference code: 203881
+ER  -
+
+
+TY  - CONF
+AU  - Gholap, T.B.
+AU  - Salokhe, R.V.
+AU  - Ghadage, G.V.
+AU  - Mane, S.V.
+AU  - Bajaj, D.K.
+AU  - Sahoo, D.
+TI  - Computational Aerodynamics of an AK-47 Rifle's 70.82 mm Bullet in Proximity to a Near Wall
+PY  - 2021
+T2  - 2021 IEEE Pune Section International Conference, PuneCon 2021
+DO  - 10.1109/PuneCon52575.2021.9686472
+UR  - https://www.scopus.com/pages/publications/85125933869?origin=resultslist
+AD  - Annasaheb Dange College of Engineering and Technology, Department of Aeronautical Engineering, Ashta Sangli, Maharashtra, India
+AD  - MIT School of Engineering, MIT ADT University, Department of Aerospace Engineering, Pune, India
+AB  - Computational Fluid Dynamics was used to study the flow around an AK-47 Assault Rifle© 7.82-mm bullet in proximity to a near wall at Mach 2. The computational methodology was validated against the previously existing computational data. In metropolitan battles situations, the projectiles are fired in close proximity to the ground. The presence of ground prompts an asymmetric pressure distribution over the surface of the bullet. The reflection of shock waves after hitting the wall is considered particularly. From the earliest stage to the influence around the shot; the level of impact is subjected to the ground clearance. Streamlines across the projectile and related surface pressure distribution acquired from computational iterations are described. Clearances with 0.5 and 1 height/diameter ratio were studied to examine the transitions in aerodynamic coefficients like lift, drag, and moment. © 2021 IEEE.
+KW  - Ballistics
+KW  - Bullets
+KW  - Ground Proximity
+KW  - Shock Waves
+KW  - Urban Warfare
+KW  - Aerodynamic drag
+KW  - Computational fluid dynamics
+KW  - Pressure distribution
+KW  - Projectiles
+KW  - Assault rifles
+KW  - Battle situations
+KW  - Bullet
+KW  - Close proximity
+KW  - Computational data
+KW  - Computational methodology
+KW  - Ground proximity
+KW  - Near-wall
+KW  - Shock-waves
+KW  - Urban warfare
+KW  - Shock waves
+PB  - Institute of Electrical and Electronics Engineers Inc.
+SN  - 978-166544479-8 (ISBN)
+LA  - English
+J2  - IEEE Pune Sect. Int. Conf., PuneCon
+M3  - Conference paper
+DB  - Scopus
+N1  - Export Date: 03 July 2026; Cited By: 5; Conference name: 4th IEEE Pune Section International Conference, PuneCon 2021; Conference date: 16 December 2021 through 19 December 2021; Conference code: 176812
+ER  -
+
+
+TY  - JOUR
+AU  - Benguita, M.
+TI  - Urbicide in Israel’s War on Gaza: Architecture of Erasure and the Unmaking of Urban Life (2023–2025)
+ST  - İsrail’in Gazze Savaşında Kent Kırımı: Yok Etme Mimarisi ve Kentsel Yaşamın Çözülüşü (2023–2025)
+PY  - 2025
+T2  - Filistin Arastirmalari Dergisi
+VL  - 2025
+IS  - 18
+SP  - 397
+EP  - 417
+DO  - 10.34230/fiad.1740210
+UR  - https://www.scopus.com/pages/publications/105027687527?origin=resultslist
+AD  - Badji Mokhtar-Annaba University, Department of Political Science and International Relations, Algeria
+AB  - This article investigates the role of urbicide—defined as the systematic destruction of urban environments—in Israel’s military strategy during the war on Gaza from 2023 to 2025. It explores how the erasure of infrastructure, housing, and essential services served not only as a means of military incapacitation but as a deliberate strategy to dismantle Gaza as a space of urban life, memory, and sovereignty. The scope of the research moves beyond physical damage to examine the strategic, political, and symbolic implications of urbicide within the broader settler-colonial framework. Methodologically, the study adopts a mixed empirical and theoretical approach, combining: satellite imagery analysis and damage assessment reports (UNOSAT, UNDP, OCHA) to map patterns of destruction; quantitative data from the World Bank, FAO, and the Palestinian Central Bureau of Statistics (PCBS) to assess demographic and infrastructural impacts; and theoretical insights from critical urban studies, settler-colonial theory, and postcolonial geography. Findings reveal that over 70% of Gaza’s built environment has been destroyed or rendered nonfunctional, with entire districts rendered uninhabitable. The unmaking of urban life is shown to be not collateral, but integral to a strategic logic aimed at disabling civic infrastructure, displacing populations, and erasing the viability of future sovereignty. Yet, the study also identifies countercurrents of symbolic and spatial resistance, as civil society, local actors, and communities reconstitute forms of endurance and political meaning from within the ruins. The study concludes that urbicide is a structural tool of domination in settler-colonial warfare, and calls for further research on post-urbicidal urban recovery, the politics of memory, and spatial justice in colonial and postcolonial contexts. © 2025, Muhammed Mustafa KULU. All rights reserved.
+KW  - Gaza Strip
+KW  - Palestine
+KW  - Settler colonialism
+KW  - Urban warfare
+KW  - Urbicide
+PB  - Muhammed Mustafa KULU
+SN  - 25871862 (ISSN)
+LA  - English
+J2  - Filistin. Arast. Derg.
+M3  - Article
+DB  - Scopus
+N1  - Export Date: 03 July 2026; Cited By: 0; Correspondence Address: M. Benguita; Badji Mokhtar-Annaba University, Department of Political Science and International Relations, Algeria; email: mourad.benguita@univ-annaba.dz
+ER  -
+
+
+TY  - JOUR
+AU  - Goodman, R.
+AU  - Giosan, L.
+AU  - Shen, Z.
+AU  - Zimmerman, P.
+AU  - Lang, A.
+AU  - Constantinescu, S.
+AU  - Pizzimenti, S.
+AU  - Alrawi, Z.
+AU  - Pittman, H.
+TI  - The Flooding of Lagash (Iraq): Evidence for Urban Destruction Under Lugalzagesi, the King of Uruk and Umma
+PY  - 2025
+T2  - Geoarchaeology
+VL  - 40
+IS  - 5
+C7  - e70027
+DO  - 10.1002/gea.70027
+UR  - https://www.scopus.com/pages/publications/105014621131?origin=resultslist
+AD  - Baruch Institute for Coastal Ecology and Forest Science, Clemson University, Clemson, SC, United States
+AD  - Penn Museum, Philadelphia, PA, United States
+AD  - Geology and Geophysics, Woods Hole Oceanographic Institution, Woods Hole, MA, United States
+AD  - STAR Institute, Babeș-Bolyai University, Cluj-Napoca, Romania
+AD  - Research Institute of Bucharest University (ICUB), Bucharest, Romania
+AD  - Coastal Carolina University, Conway, SC, United States
+AD  - Department of Geography and Geology, University of Salzburg, Salzburg, Austria
+AD  - Bucharest University, Bucharest, Romania
+AD  - University of Pisa, Pisa, Italy
+AD  - University of Pennsylvania, Philadelphia, PA, United States
+AB  - High-resolution remote sensing, magnetometry, and trench stratigraphy identify a significant flood event at Lagash (modern Tell al-Hiba) during the late Early Dynastic period (ca. 2400–2350 BC). Satellite imagery and magnetometry reveal a 90-meter-wide meander belt—3–15 times broader than documented canals—adjacent to primary temple districts. Test trenches further exposed over one meter of flood-deposited silt covering existing architecture. Optically stimulated luminescence dating (central age: 2390 ± 220 BC) aligns closely with radiocarbon dates obtained from contemporaneous burn layers elsewhere on the site. Displaced artifacts, including an inscribed foundation nail from the reign of King Enannatum I (ca. 2425 BC) and diagnostic ceramics, confirm that the flood occurred after his rule but before Akkadian occupation. Integrating geomorphic, sedimentological, and textual evidence, we propose that the flooding was triggered when Lugalzagesi of Uruk-Umma (reigned ca. 2350 BC) intentionally breached or precipitated the failure of Lagash's principal canal embankments during or immediately following his documented attack on the city. This event illustrates how critical infrastructure for irrigation and transportation could be deliberately exploited to exacerbate the environmental and economic impacts of warfare. By closely associating the flood, the military siege, and subsequent demographic decline within a single generational timeframe, our study refines third-millennium BC Mesopotamian chronology and underscores the interconnected roles of hydrology, conflict, and urban resilience in early urban societies. © 2025 The Author(s). Geoarchaeology published by Wiley Periodicals LLC.
+KW  - Iraq
+KW  - chronology
+KW  - economic impact
+KW  - environmental impact
+KW  - luminescence dating
+KW  - radiocarbon dating
+KW  - remote sensing
+KW  - satellite imagery
+KW  - stratigraphy
+KW  - urban area
+PB  - John Wiley and Sons Inc
+SN  - 08836353 (ISSN)
+LA  - English
+J2  - Geoarchaeology
+M3  - Article
+DB  - Scopus
+N1  - Export Date: 03 July 2026; Cited By: 0; Correspondence Address: R. Goodman; Baruch Institute for Coastal Ecology and Forest Science, Clemson University, Clemson, United States; email: rcgoodm@clemson.edu; CODEN: GEOAE
+ER  -
+
+
+TY  - label.ris.referenceType.BOOK_CHAPTER
+AU  - Abujidi, N.
+TI  - The atrocities of war leave profound impacts: not only on the built environment—cities and living spaces—but also deeply affect the infrastructure and the physical aspect of our environment
+PY  - 2025
+T2  - A Manifesto for the Just City: Volume 4
+VL  - 4
+SP  - 136
+EP  - 153
+UR  - https://www.scopus.com/pages/publications/105015897974?origin=resultslist
+AD  - Smart Urban Redesign Research Centre, Zuyd University of Applied Science, Netherlands
+AB  - This essay delves into the profound impacts of urbicide in Palestine, exploring the intersection of urban planning, military strategy, and resistance within a colonial context. The author, a Palestinian architect and activist, introduces the concept of ‘design by destruction,’ where urban environments are manipulated for surveillance, control, and systematic destruction. The work outlines how Palestinian cities, characterised as scenes of catastrophic deaths, become strategic targets in warfare, suffering massive and often total destruction akin to the historical devastations in Hiroshima and Dresden. Additionally, the research highlights the complicit role of military elites in exploiting architectural and urban planning skills to fortify dominance, turning professional practices into instruments of oppression. The discourse extends to the manipulation of urban landscapes in Europe, accentuated by increased surveillance post-September 11. The exploration is framed within the broader discourse of resistance and survival, where urbicide not only reshapes physical spaces but also deeply influences the socio spatial and cultural fabric of Palestinian communities and their everyday life. By examining the layered narratives of urbicide, the research articulates a compelling critique of spatial and social injustices perpetuated under the guise of security and urban development in colonial contexts. © 2025 TU Delft OPEN Publishing.
+KW  - Architectural manipulation
+KW  - Military urbanism
+KW  - Palestinian resistance
+KW  - Spatial justice
+KW  - Urbicide
+KW  - Architecture
+KW  - Architectural manipulation
+KW  - Built environment
+KW  - Living spaces
+KW  - Military urbanism
+KW  - Palestine
+KW  - Palestinian resistance
+KW  - Physical aspects
+KW  - Spatial justice
+KW  - Urban environments
+KW  - Urbicide
+KW  - Urban growth
+PB  - TU Delft
+SN  - 978-946518012-0 (ISBN)
+LA  - English
+J2  - A Manifesto for the Just City: Volume 4
+M3  - Book chapter
+DB  - Scopus
+N1  - Export Date: 03 July 2026; Cited By: 0
+ER  -
+
+
+TY  - JOUR
+AU  - Lucić, L.
+AU  - Bridges, E.
+TI  - Ecological landscape in narrative thought: How siege survivors employ prepositions to make sense of war-torn Sarajevo
+PY  - 2018
+T2  - Narrative Inquiry
+VL  - 28
+IS  - 2
+SP  - 346
+EP  - 372
+DO  - 10.1075/ni.17076.luc
+UR  - https://www.scopus.com/pages/publications/85055555608?origin=resultslist
+AD  - Pratt Institute, 200 Willoughby Avenue, Brooklyn, 11205, NY, United States
+AB  - This study explores how 16 individuals who grew up during the four-year long military siege of the city employ language to make sense of their everyday experiences in Sarajevo following the conclusion of the Bosnian War. Narrative inquiry is employed in this work to study sense-making, a psychological process based in language and situated in interaction with extant social and physical landscapes. During the study, participants wrote responses across the three narrative contexts (1) the prewar, (2) the acute war, and (3) the postwar. Data analyses examine how participants enact ecological landscape in narrative construction through varied use of prepositions across the three narrative contexts. Significantly higher use of prepositions in the acute war narrative context indicates that growing up amidst urban destruction gives rise to thought processes that draw on spatial and temporal relations in order to make sense of radical environmental changes in the landscape of war. © John Benjamins Publishing Company.
+KW  - Bosnia
+KW  - Environmental affordances
+KW  - Environmental psychology
+KW  - Prepositions
+KW  - Sarajevo
+KW  - Sense-making
+KW  - Siege
+KW  - Urban destruction
+KW  - War
+KW  - Youth
+PB  - John Benjamins Publishing Company
+SN  - 13876740 (ISSN)
+LA  - English
+J2  - Narrative Inq.
+M3  - Article
+DB  - Scopus
+N1  - Export Date: 03 July 2026; Cited By: 4; Correspondence Address: L. Lucić; Pratt Institute, Brooklyn, 200 Willoughby Avenue, 11205, United States; email: llucic@pratt.edu
+ER  -
+
+
+TY  - JOUR
+AU  - Gorman-Murray, A.
+AU  - McKinnon, S.
+AU  - Dominey-Howes, D.
+TI  - Queer domicide: LGBT displacement and home loss in natural disaster impact, response, and recovery
+PY  - 2014
+T2  - Home Cultures
+VL  - 11
+IS  - 2
+SP  - 237
+EP  - 261
+DO  - 10.2752/175174214X13891916944751
+UR  - https://www.scopus.com/pages/publications/84901715962?origin=resultslist
+AD  - University of Western Sydney, Australia
+AD  - University of Sydney, Australia
+AB  - This article examines lesbian, gay, bisexual, and trans (LGBT) experiences of displacement, home loss, and rebuilding in the face of natural disasters. LGBT vulnerability and resilience are little studied in disaster research; this article begins to fill this gap, focusing on LGBT domicide - how LGBT homes are "unmade" in disasters. To do this, we critically read a range of non-government, scholarly, and media commentaries on LGBT experiences of natural disasters in various settings over 2004-12, including South Asia, the USA, Haiti, and Japan. Additionally, we utilize preliminary data from pilot work on LGBT experiences of 2011 disasters in Brisbane, Australia, and Christchurch, New Zealand. we find that disaster impacts are the first stage of ongoing problems for sexual and gender minorities. Disaster impacts destroy LGBT residences and neighborhoods, but response and recovery strategies favor assistance for heterosexual nuclear families and elide the concerns and needs of LGBT survivors. Disaster impact, response, and recovery "unmakes" LGBT home and belonging, or inhibits homemaking, at multiple scales, from the residence to the neighborhood. we focus on three scales or sites: first, destruction of individual residences, and problems with displacement and rebuilding; second, concerns about privacy and discrimination for individuals and families in temporary shelters; and third, loss and rebuilding of LGBT neighborhoods and community infrastructure (e.g. leisure venues and organizational facilities). © Bloomsbury Publishing PLC 2014.
+KW  - Disasters
+KW  - Domicide
+KW  - Home
+KW  - Home loss
+KW  - LGBT
+KW  - Rebuilding
+KW  - Shelter
+PB  - Bloomsbury Publishing Plc.
+SN  - 17406315 (ISSN)
+LA  - English
+J2  - Home Cult.
+M3  - Article
+DB  - Scopus
+N1  - Export Date: 03 July 2026; Cited By: 105
+ER  -
+
+
+TY  - JOUR
+AU  - Mathuria, S.
+TI  - Spatial violence and everyday borders in contested cities: Literary representations of walking in Anna Burns’s Milkman
+PY  - 2022
+T2  - Journal of Urban Cultural Studies
+VL  - 9
+IS  - 2
+SP  - 175
+EP  - 197
+DO  - 10.1386/jucs_00054_1
+UR  - https://www.scopus.com/pages/publications/85147717709?origin=resultslist
+AD  - Concordia University, 1455 de Maisonneuve Boulevard West, Montreal, H3G 1M8, QC, Canada
+AB  - This article examines the representation of walking and the narrativization of borders in Troubles-era Belfast in Anna Burns’s 2018 novel Milkman. I argue that the protagonist, Middle Sister, develops her own narrative form and walking method as ‘tactics’ to challenge the city’s imposed sectarian geographies and as a response to navigating a city of intense surveillance. In her narrativization, Middle Sister replaces place references with her own complex naming system and lexicon and negotiates urban space by ‘reading-while-walking’. As a result, Middle Sister attempts to dislocate the political nature of the conflict by mediat-ing Belfast on her own terms and asserting her own spatial practices. However, as I demonstrate in the final section in conversation with trauma theory, there are limitations to Middle Sister’s walking practice, which is disrupted by the urban hauntings of her troubled city, triggering particular psychosomatic responses and traumatic memories. © 2022 Intellect Ltd Article. English language.
+KW  - Belfast
+KW  - geohumanities
+KW  - memory
+KW  - psychogeographies
+KW  - traumascapes
+KW  - urban studies
+PB  - Intellect Ltd.
+SN  - 20509790 (ISSN)
+LA  - English
+J2  - J. Urban Cult. Stud.
+M3  - Article
+DB  - Scopus
+N1  - Export Date: 03 July 2026; Cited By: 2; Correspondence Address: S. Mathuria; Concordia University, Montreal, 1455 de Maisonneuve Boulevard West, H3G 1M8, Canada; email: sunjay.mathuria@mail.concordia.ca
+ER  -
+
+
+TY  - label.ris.referenceType.BOOK_CHAPTER
+AU  - Lavers, C.
+TI  - The Threat Posed by Commercial First-Person View (FPV) Unmanned Aerial Vehicles (UAVs) Modified by Asymmetrical Warfare Actors
+PY  - 2025
+T2  - The Co-evolution of Technology and Warfare: Reshaping the Battlefield
+SP  - 41
+EP  - 55
+DO  - 10.4324/9781003520160-4
+UR  - https://www.scopus.com/pages/publications/105022371925?origin=resultslist
+AD  - Britannia Royal Naval College, United Kingdom
+AB  - In this chapter, we consider the threat posed by commercially-off-the-shelf (COTS) civilian unmanned aerial vehicle (UAV) platforms, modified for hostile non-state actor use in urban warfare environments, with forces possessing small-scale conflict ‘skills’ gained in Syria and Iraq by Al Qaeda and ISIS. The growing threat of commercially available first-person view (FPV) UAVs modified for use in asymmetrical warfare is a critical concern in modern conflict. This chapter explores how non-state actors, particularly terrorist organisations, have adapted off-the-shelf UAV platforms to carry out attacks, conduct surveillance, and disrupt infrastructure. Beginning with a historical overview of unmanned aerial systems in warfare, we highlight the increasing overlap between civilian and military drone capabilities. We then examine the evolution of UAV-based threats, emphasising the strategic and tactical advantages that modified drones provide to urban guerrillas and terrorist groups. The discussion extends to notable case studies, from ISIS’s use of drones in Syria to high-profile assassination attempts and infrastructure attacks. This chapter also considers the technological vulnerabilities of UAVs, including cyber threats, and countermeasures, before concluding with the broader implications of drone proliferation. Ultimately, the analysis underscores the urgent need for policy interventions and technical safeguards to prevent the weaponisation of consumer UAV technology. © 2026 selection and editorial matter, Tracey German, Fotios Moustakis, and Andrew N. Liaropoulos; individual chapters, the contributors.
+KW  - Antennas
+KW  - Military applications
+KW  - Network security
+KW  - Terrorism
+KW  - Aerial vehicle
+KW  - Al-Qaeda
+KW  - Asymmetrical warfare
+KW  - First person
+KW  - Non state actors
+KW  - Small scale
+KW  - Terrorist organization
+KW  - Urban warfare
+KW  - Vehicle platforms
+KW  - Warfare environment
+KW  - Drones
+PB  - Taylor and Francis
+SN  - 978-104043739-1 (ISBN); 978-103285844-9 (ISBN)
+LA  - English
+J2  - The Co-evolution of Technology and Warfare: Reshaping the Battlefield
+M3  - Book chapter
+DB  - Scopus
+N1  - Export Date: 03 July 2026; Cited By: 0
+ER  -
+
+
+TY  - label.ris.referenceType.BOOK_CHAPTER
+AU  - Arantes, P.F.
+AU  - Ribeiro, C.R.
+TI  - Western fantasy and tropical nightmare: Spectacular architecture and urban warfare in Rio
+PY  - 2022
+T2  - The Routledge Handbook of Architecture, Urban Space and Politics, Volume I: Violence, Spectacle and Data
+SP  - 379
+EP  - 394
+DO  - 10.4324/9781003112464-29
+UR  - https://www.scopus.com/pages/publications/105038062855?origin=resultslist
+AD  - Federal University of São Paulo – Unifesp, Art History Department, Brazil
+AD  - Federal University of Rio de Janeiro – UFRJ, Urbanism and Environment Department and in the Urbanism Post-Graduate Program (PROURB) in Architecture and Urbanism Faculty, Brazil
+AB  - The competitive management of contemporary metropolises promises a world of dreams through extreme architectural and urban forms, large real estate projects and mega-events broadcast worldwide by mass media screens. Spectacular images of the cityscape and new buildings are produced for global circulation, displaying a civic mobilization of achievement and overcoming. In Rio de Janeiro – host of the 2014 World Cup and the 2016 Summer Olympics – the new museums and cultural centers designed by star architects and framed by paradisiacal backdrops have renewed a tropical fantasy that has always titillated the western colonial imagination. The harbor renovation, only partially completed, has sought to gentrify a region adjacent to the downtown, connecting it to real estate global financial flows directed at new business districts. In this city of the spectacle, the control of impoverished populations through cordons sanitaires, the removal or ‘pacification’ of favelas, or their management and high-tech surveillance by militaries, paramilitaries and private security companies, has brought Brazilian apartheid in line with 21st-Century standards for urban warfare. The riofication of global megacities is a trend that combines spectacle and control, real estate and paramilitary extortion, global mega-events and regressive fundamentalism – a political and urban formula that transforms cities into a monstrous amalgam where contemporary capitalism is revealed. © 2023 selection and editorial matter, Nikolina Bobic and Farzaneh Haghighi; individual chapters, the contributors.
+KW  - Architecture
+KW  - Cultural center
+KW  - Global circulation
+KW  - Mass media
+KW  - Mobilisation
+KW  - Olympics
+KW  - Real-estate projects
+KW  - Real-estates
+KW  - Urban form
+KW  - Urban warfare
+KW  - World cup
+KW  - Tropics
+PB  - Taylor and Francis
+SN  - 978-100077408-5 (ISBN); 978-036762917-5 (ISBN)
+LA  - English
+J2  - The Routledge Handbook of Architecture, Urban Space and Politics, Volume I: Violence, Spectacle and Data
+M3  - Book chapter
+DB  - Scopus
+N1  - Export Date: 03 July 2026; Cited By: 0
+ER  -
+
+
+TY  - JOUR
+AU  - Picone, M.Á.
+TI  - Legitimizing and resisting spatial violence in southern Chile (1890s-1910s)
+ST  - Legitimar e resistir a violência espacial no sul do chile (Décadas de 1890 e 1910)
+PY  - 2021
+T2  - Historia Critica
+IS  - 82
+SP  - 55
+EP  - 78
+DO  - 10.7440/histcrit82.2021.03
+UR  - https://www.scopus.com/pages/publications/85120681056?origin=resultslist
+AD  - Boston College, United States
+AB  - Objective/Context: This article analyzes how racialized understandings of geographic space underpinned the constitution of and resistance to violence in southern Chile in the late nineteenth and early twentieth centuries. Methodology: Through critical analysis of petitions, newspaper articles, police investigations, and government reports, along with legislation and census data, I examine the genealogy of violence that made possible the granting of extensive land concessions to a large cattle ranching estate, the Rupanco Company, on Coihueco Island, a fertile plain in Llanquihue Province, and the resistance it provoked. Originality: By embedding the concession made to the Rupanco Company in a longer history of violence, my analysis demonstrates how ideas about space shaped land distribution and created pathways for resistance in courts, before police officers, and through local newspapers. Thus, it shows the overlapping sovereignties between the state, Indigenous Mapuche communities, and private companies. Conclusions: The conflict on Coihueco Island in the early twentieth century illustrates a long history of violence against a geographical area interpreted as vacant by legislation, military action, and occupation. The creation of private and public property expanded the state’s ability to legitimize toponymy, land ownership, or expulsions, provoking multiple forms of resistance. © 2021, Universidad de los Andes, Bogota Colombia. All rights reserved.
+KW  - Chile
+KW  - Mapuche
+KW  - Property
+KW  - Resistance
+KW  - Spatial violence
+PB  - Universidad de los Andes, Bogota Colombia
+SN  - 01211617 (ISSN)
+LA  - English
+J2  - Hist. Crit.
+M3  - Article
+DB  - Scopus
+N1  - Export Date: 03 July 2026; Cited By: 2
+ER  -
+
+
+TY  - BOOK
+AU  - Bobic, N.
+AU  - Haghighi, F.
+TI  - The Routledge Handbook of Architecture, Urban Space and Politics, Volume I: Violence, Spectacle and Data
+PY  - 2022
+T2  - The Routledge Handbook of Architecture, Urban Space and Politics, Volume I: Violence, Spectacle and Data
+SP  - 1
+EP  - 610
+DO  - 10.4324/9781003112464
+UR  - https://www.scopus.com/pages/publications/105038066261?origin=resultslist
+AD  - University of Plymouth, United Kingdom
+AD  - School of Architecture and Planning, The University of Auckland, New Zealand
+AB  - For architecture and urban space to have relevance in the 21st Century, we cannot merely reignite the approaches of thought and design that were operative in the last century. This is despite, or because of, the nexus between politics and space often being theorized as a representation or by-product of politics. As a symbol or an efect, the spatial dimension is depoliticized. Consequently, architecture and the urban are halted from fostering any systematic change as they are secondary to the event and therefore incapable of performing any political role.This handbook explores how architecture and urban space can unsettle the unquestioned construct of the spatial politics of governing. Considering both ongoing and unprecedented global problems – from violence and urban warfare, the refugee crisis, borderization, detention camps, terrorist attacks to capitalist urbanization, inequity, social unrest and climate change – this handbook provides a comprehensive and multidisciplinary research focused on the complex nexus of politics, architecture and urban space.Volume I starts by pointing out the need to explore the politics of spatialization to make sense of the operational nature of spatial oppression in contemporary times.The operative and active political reading of space is disseminated through fve thematics: Violence and War Machines; Security and Borders; Race, Identity and Ideology; Spectacle and the Screen; and Mapping Landscapes and Big Data. This frst volume of the handbook frames cutting-edge contemporary debates and presents studies of actual theories and projects that address spatial politics. This Handbook will be of interest to anyone seeking to meaningfully disrupt the reduction of space to an oppressive or neutral backdrop of political realities. © 2023 selection and editorial matter, Nikolina Bobic and Farzaneh Haghighi; individual chapters, the contributors.
+KW  - Architecture
+KW  - Climate change
+KW  - Cutting
+KW  - Terrorism
+KW  - Comprehensive research
+KW  - Cutting edges
+KW  - Global problems
+KW  - Multi-disciplinary research
+KW  - Spatial dimension
+KW  - Spatialization
+KW  - Systematic changes
+KW  - Terrorists attack
+KW  - Urban spaces
+KW  - Urban warfare
+KW  - Big data
+PB  - Taylor and Francis
+SN  - 978-100077408-5 (ISBN); 978-036762917-5 (ISBN)
+LA  - English
+J2  - The Routledge Handbook of Architecture, Urban Space and Politics, Volume I: Violence, Spectacle and Data
+M3  - Book
+DB  - Scopus
+N1  - Export Date: 03 July 2026; Cited By: 1
+ER  -
+
+
+TY  - JOUR
+AU  - Pardhu, T.
+AU  - Kumar, V.
+TI  - Reduction of clutter using TWI ultra wideband imaging
+PY  - 2015
+T2  - International Journal of Ultra Wideband Communications and Systems
+VL  - 3
+IS  - 2
+SP  - 101
+EP  - 106
+DO  - 10.1504/IJUWBCS.2015.077142
+UR  - https://www.scopus.com/pages/publications/84976867156?origin=resultslist
+AD  - School of Electronics Engineering, VIT University, Vellore, 632014, Tamil Nadu, India
+AB  - TWI technology is an emerging research area used in urban warfare situation. Ultra wide band range signals has the capability of penetrating through the materials hence ultra wideband RADAR is suitable for this situation. To give the better representation of the scanned scene signal processing techniques are included on the raw data. In this paper, we used impulse RADAR for TWI and for the retrieval of B-scan signal back projection algorithm is used. Here we used a gain factor of 100 to increase the strength of echo. To reduce the clutter from B-scan signal SVD technique is used and the peak SNR is observed to be -3.30 dB Copyright © 2015 Inderscience Enterprises Ltd.
+KW  - Clutter
+KW  - RADAR
+KW  - Singular value decomposition
+KW  - SVD
+KW  - Through-the-wall imaging
+KW  - TWI
+KW  - Ultra wideband
+PB  - Inderscience Publishers
+SN  - 1758728X (ISSN)
+LA  - English
+J2  - Int. J. Ultra Wideb Commun. Syst.
+M3  - Article
+DB  - Scopus
+N1  - Export Date: 03 July 2026; Cited By: 10; Correspondence Address: T. Pardhu; School of Electronics Engineering, VIT University, Vellore, 632014, India; email: pardhu@mlritm.ac.in
+ER  -
+
+
+TY  - JOUR
+AU  - Dantas, R.F.
+AU  - Favarin, S.
+TI  - Concentration of Urban Violence in Fortaleza and Strategies for Crime Prevention
+PY  - 2021
+T2  - Criminal Justice Review
+VL  - 46
+IS  - 4
+SP  - 466
+EP  - 483
+DO  - 10.1177/07340168211038043
+UR  - https://www.scopus.com/pages/publications/85112696478?origin=resultslist
+AD  - Department of Public Security of the State of Ceará, Fortaleza, Ceará, Brazil
+AD  - Università Cattolica del Sacro Cuore Transcrime, Milano, Italy
+AB  - Despite the continued prevalence of violence in Latin America, there is a relative dearth of research investigating both spatial patterns of violent crimes and the effectiveness of evidence-based crime prevention policies in Brazil. This study aims to address this gap in extant knowledge by creating a Spatial Violence Index and a Restrictive Ambient Index to investigate the spatial dynamics of violent crimes and urban vulnerabilities in Fortaleza. Both exploratory spatial data analysis and spatial regression models were employed to visualize the associative patterns and measure the correlation between the two indexes. The results demonstrate how locations characterized by high levels of violence are spatially correlated with more vulnerable locations in terms of both socio-economic-demographics and urban disorder. Overall, the study identified 124 vulnerable micro-territories that would benefit from the allocation of resources in an effort to reduce violence in the city by enhancing the efficiency of policing and prevention strategies. © 2021 Georgia State University.
+KW  - concentration of violence
+KW  - Fortaleza
+KW  - Latin America
+KW  - local vulnerabilities
+KW  - spatial analysis
+KW  - urban violence
+PB  - SAGE Publications Inc.
+SN  - 07340168 (ISSN)
+LA  - English
+J2  - Crim. Justice Rev.
+M3  - Article
+DB  - Scopus
+N1  - Export Date: 03 July 2026; Cited By: 2; Correspondence Address: R.F. Dantas; Department of Public Security of the State of Ceará, Fortaleza, Brazil; email: regis.dantas@uol.com.br
+ER  -
+
+
+TY  - BOOK
+AU  - Cook, J.
+TI  - Disappearing Palestine: Israel’s Experiments in Human Despair
+PY  - 2009
+T2  - Disappearing Palestine: Israel’s Experiments in Human Despair
+SP  - 1
+EP  - 294
+DO  - 10.5040/9781350219694
+UR  - https://www.scopus.com/pages/publications/85192301549?origin=resultslist
+AB  - Palestine is fast disappearing. Over many decades Israel has developed and refined policies to disperse, imprison and impoverish the Palestinian people in a relentless effort to destroy them as a nation. It has industrialized Palestinian despair through ever more sophisticated systems of curfews, checkpoints, walls, permits and land grabs. It has transformed the West Bank and Gaza into laboratories for testing the infrastructure of confinement, creating a lucrative 'defence' industry by pioneering the technologies needed for crowd control, surveillance, collective punishment and urban warfare. In this insightful and authoritative new book, leading journalist Jonathan Cook examines the many different guises in which these experiments on the Palestinians are being carried out. Accessible and comprehensive, this is a powerful analysis of one of the most enduring and entrenched conflicts in contemporary world politics. © Jonathan Cook 2008.
+KW  - Crowd control
+KW  - Defense Industry
+KW  - Palestine
+KW  - Sophisticated system
+KW  - Urban warfare
+KW  - West banks
+PB  - Bloomsbury Publishing Plc.
+SN  - 978-184813364-8 (ISBN); 978-184813030-2 (ISBN)
+LA  - English
+J2  - Disappearing Palestine: Israel’s Experiments in Hum. Despair
+M3  - Book
+DB  - Scopus
+N1  - Export Date: 03 July 2026; Cited By: 0
+ER  -
+
+
+TY  - JOUR
+AU  - Hook, K.
+AU  - Marcantonio, R.
+TI  - Environmental dimensions of conflict and paralyzed responses: the ongoing case of Ukraine and future implications for urban warfare
+PY  - 2022
+T2  - Small Wars and Insurgencies
+VL  - 34
+IS  - 8
+SP  - 1400
+EP  - 1428
+DO  - 10.1080/09592318.2022.2035098
+UR  - https://www.scopus.com/pages/publications/85125285404?origin=resultslist
+AD  - School of Conflict Management, Peacebuilding, and Development, Kennesaw State University, Kennesaw, GA, United States
+AD  - Joan B. Kroc Institute for International Peace Studies, The University of Notre Dame, Notre Dame, ND, United States
+AB  - Unique within the recent history of environmental hazards, eastern Ukraine illustrates the dangers arising from conflict in an urban landscape heavily modified by human action (including coal extraction and nuclear testing) and requiring active management. To analyze these dynamics and their implications, we examine industrialization in the Donbas region and warfare-accelerated environmental risks. Using primary data and ethnographic interviewing, we compare responses by state and international institutions tasked with monitoring and environmental redress in the context of larger mandates, noting widespread shortfall. This article contributes to emergent environment and warfare related literature by exploring how actors with divergent goals coalesce in downgrading environmental concerns, despite increasing risks, motivation to assist, and widening impact across country and continental divides. Significant for the study of small wars, a lack of international political will for ‘forgotten conflicts’ increases the likelihood of shared environmental risks being treated as simply another policy item to be negotiated. However, environmental disasters routinely cross international borders and pose long-lasting, compounding harm to direct, indirect, and even uninvolved parties. Furthermore, such dynamics may increasingly characterize warfare as urbanization and industrialization continue their global spread, with active war-time environmental management ushering in profound challenges and new areas of needed expertise. © 2022 Informa UK Limited, trading as Taylor & Francis Group.
+KW  - armed conflict
+KW  - environment
+KW  - environmental security
+KW  - mining hazards
+KW  - Russia
+KW  - Ukraine
+KW  - urban warfare
+KW  - war-related environmental damage
+PB  - Routledge
+SN  - 09592318 (ISSN)
+LA  - English
+J2  - Small Wars Insurgencies
+M3  - Article
+DB  - Scopus
+N1  - Export Date: 03 July 2026; Cited By: 20; Correspondence Address: K. Hook; School of Conflict Management, Peacebuilding, and Development, Kennesaw State University, Kennesaw, United States; email: khook2@kennesaw.edu
+ER  -
+
+
+TY  - label.ris.referenceType.BOOK_CHAPTER
+AU  - Mendel, J.
+TI  - Urban Violence and Militarization
+PY  - 2015
+T2  - International Encyclopedia of the Social & Behavioral Sciences: Second Edition
+SP  - 953
+EP  - 957
+DO  - 10.1016/B978-0-08-097086-8.74064-5
+UR  - https://www.scopus.com/pages/publications/85043436428?origin=resultslist
+AD  - School of the Environment, University of Dundee, Dundee, United Kingdom
+AB  - There is a long history of cities playing key roles in different types of violence and military conflict. Urban violence remains a significant factor in cities today. Urban warfare is increasingly prominent in 'new' wars and there has been a blurring of boundaries between military action 'outside' of states and domestic governance 'inside.'. This article will outline how cities are affected and formed by, and play significant roles in shaping, violence and warfare. Urban warfare will be used as an example of the prominent role of cities in violence, and the article will consider the increasing militarization of 'domestic' urban life. Surveillance will be considered both as an attempt to engage with (fears of) urban violence and as an example of a blurring of military/domestic lines. The article will conclude by considering potential responses to urban violence. © 2015 Elsevier Ltd All rights reserved.
+KW  - Data
+KW  - Geopolitics
+KW  - Militarization
+KW  - MOUT
+KW  - Policing
+KW  - Surveillance
+KW  - Terrorism
+KW  - Urban violence
+KW  - Urban war
+KW  - Urbicide
+KW  - Virilio
+KW  - War
+PB  - Elsevier Inc.
+SN  - 978-008097087-5 (ISBN); 978-008097086-8 (ISBN)
+LA  - English
+J2  - Int. Encycl. of the Soc. & Behav. Sci.: Second Ed.
+M3  - Book chapter
+DB  - Scopus
+N1  - Export Date: 03 July 2026; Cited By: 1
+ER  -
+
+
+TY  - JOUR
+AU  - Pérez-Fernández, O.
+AU  - Quintero Ávila, O.
+AU  - Barros, C.
+AU  - Rosario Michel, G.
+TI  - Spatio-Temporal Mapping of Violence Against Women: An Urban Geographic Analysis Based on 911 Emergency Reports in Monterrey
+PY  - 2025
+T2  - ISPRS International Journal of Geo-Information
+VL  - 14
+IS  - 10
+C7  - 367
+DO  - 10.3390/ijgi14100367
+UR  - https://www.scopus.com/pages/publications/105020046396?origin=resultslist
+AD  - Escuela de Geografía, Departamento de Cartografía, Universidad de Panamá, Panamá City, 0824, Panama
+AD  - Grupo de Investigación en Ciencia de Datos Geoespaciales (GICDGE), Centro Regional Universitario de Veraguas, Universidad de Panamá, Santiago de Veraguas, 8007, Panama
+AD  - Facultad de Derecho y Criminologia, Universidad Autónoma de Nuevo León, San Nicolas de los Garsa, 66451, Mexico
+AD  - Centro de Investigaciones de Cibercriminalidad, Derecho Digital y Ciberseguridad, Laboratorio Inteligencia Criminal y Estratégica, Universidad Autónoma de Nuevo León, San Nicolas de los Garsa, 66451, Mexico
+AD  - Departamento de Geografía, Universidad Complutense de Madrid, Madrid, 28040, Spain
+AD  - Escuela de Agrimensura, Universidad Nacional Pedro Henríquez Ureña (UNPHU), Santo Domingo, 10602, Dominican Republic
+AD  - Escuela de Agrimensura, Facultad de Ingeniería y Arquitectura, Universidad Autónoma de Santo Domingo (UASD), Ciudad Universitaria, Santo Domingo, 10103, Dominican Republic
+AB  - In Latin American cities, violence against women (VAW) remains critical for public health, well-being, and safety. This phenomenon is influenced by social, political, and environmental drivers. VAW is not randomly distributed; built environments—geography, ambient population, and street networks—influence criminal through spatial dependence across multiple scales. Despite growing interest in the spatial distribution of crime, few studies have explicitly explored the spatiotemporal dimensions of VAW in Monterrey. This study explores spatio-temporal patterns of VAW in Monterrey, Mexico, based on the analysis of 27,036 georeferenced and verified emergency reports from the 911 system (2019–2022). The study applies kernel density estimation (KDE), the Getis–Ord Gi* statistics, the Local Moran I index, and space–time cube analysis to identify spatial and temporal clusters of VAW. The results show concentrations of incidents during nighttime and weekends, particularly in northern and eastern sectors in Monterrey. The analysis reveals clusters in areas of high socioeconomic vulnerability. VAW in Monterrey follows predictable and cyclical patterns. These insights contribute to the design of tailored public policies and actions to improve women’s health, well-being, and safety in critical zones and timeframes. The findings also enhance international understanding of gender-based spatial violence patterns in the rapidly urbanizing contexts of the Global South. © 2025 by the authors.
+KW  - emergency call data
+KW  - geographic information systems (GIS)
+KW  - Getis–Ord G<sub>i</sub>*
+KW  - Global South
+KW  - kernel density estimation (KDE)
+KW  - Local Moran I
+KW  - Monterrey
+KW  - spatio-temporal analysis
+KW  - violence against women
+PB  - Multidisciplinary Digital Publishing Institute (MDPI)
+SN  - 22209964 (ISSN)
+LA  - English
+J2  - ISPRS Int. J. Geo-Inf.
+M3  - Article
+DB  - Scopus
+N1  - Export Date: 03 July 2026; Cited By: 3; Correspondence Address: O. Quintero Ávila; Facultad de Derecho y Criminologia, Universidad Autónoma de Nuevo León, San Nicolas de los Garsa, 66451, Mexico; email: oquinteroa@uanl.edu.mx
+ER  -
+
+
+TY  - JOUR
+AU  - Wykes, T.G.
+TI  - Restorative Domicide: Meaning-Making in Homicide Covictims’ Campaigns for Residential Demolition
+PY  - 2025
+T2  - Violence and Victims
+VL  - 40
+IS  - 4
+SP  - 584
+EP  - 608
+DO  - 10.1891/VV-2024-0071
+UR  - https://www.scopus.com/pages/publications/105015611200?origin=resultslist
+AD  - Department of Criminology, Wilfrid Laurier University, Brantford, ON, Canada
+AB  - This article examines covictims’ campaigns for the demolition of residences tainted by homicide. It takes guidance from scholarship on domicide, the deliberate destruction of home, and theoretical contributions exploring meaning-making in homicide bereavement. It conceptualizes restorative domicide as the deliberate destruction of a residence associated with homicide. Drawing upon open-source data to compose a qualitative case study based in Ontario, Canada, this article locates restorative domicide as a meaning-making strategy across three themes: (a) transforming traumatic landscapes, (b) deriving purpose in demolition, and (c) affirming and preserving the victim’s moral worth. The findings corroborate and extend existing research by demonstrating the diverse set of meanings covictims ascribe to and pursue through residential demolition, highlighting its potential to facilitate healing, enable goal-oriented action, and recognize the collective dimension of the loss. The findings are used to platform a discussion of theoretical, methodological, and policy directions. © 2025 Springer Publishing Company.
+KW  - bereavement
+KW  - covictims
+KW  - domicide
+KW  - homicide
+KW  - meaning-making
+KW  - Adult
+KW  - Bereavement
+KW  - Crime Victims
+KW  - Female
+KW  - Homicide
+KW  - Humans
+KW  - Male
+KW  - Ontario
+KW  - Qualitative Research
+KW  - adult
+KW  - bereavement
+KW  - crime victim
+KW  - female
+KW  - homicide
+KW  - human
+KW  - male
+KW  - Ontario
+KW  - psychology
+KW  - qualitative research
+PB  - Springer Publishing Company
+SN  - 08866708 (ISSN)
+C2  - 39689951
+LA  - English
+J2  - Violence Victims
+M3  - Article
+DB  - Scopus
+N1  - Export Date: 03 July 2026; Cited By: 0; Correspondence Address: T.G. Wykes; Department of Criminology, Wilfrid Laurier University, Brantford, Canada; email: twykes@wlu.ca; CODEN: VIOVE
+ER  -
+
+
+TY  - JOUR
+AU  - Cheshire, L.
+AU  - ten Have, C.
+TI  - Administrative mediation data as naturally-occurring records of disputes with neighbours and the unmaking of home
+PY  - 2020
+T2  - Current Sociology
+VL  - 68
+IS  - 5
+SP  - 684
+EP  - 700
+DO  - 10.1177/0011392120927769
+UR  - https://www.scopus.com/pages/publications/85086316742?origin=resultslist
+AD  - School of Social Science, University of Queensland, Australia
+AB  - The dwelling as home is imbued with specific meanings for its inhabitants, even while they remain embedded within a broader network of social and spatial relations. One such set of relations are those with neighbours who can enhance sense of home, but also potentially undermine it. This article explores how problematic relations with neighbours can lead to a form of ‘home unmaking’ through the erosion of home as haven, autonomy and status. Drawing on 3930 cases of neighbour disputes in south-east Queensland, Australia, the article illustrates the opportunities afforded by administrative records as naturally-occurring data on everyday experiences of home and its unmaking, as well as the challenges that arise from using datasets never intended for research purposes. © The Author(s) 2020.
+KW  - Administrative data
+KW  - disputes
+KW  - home
+KW  - home unmaking
+KW  - neighbours
+PB  - SAGE Publications Ltd
+SN  - 00113921 (ISSN)
+LA  - English
+J2  - Curr. Sociol.
+M3  - Article
+DB  - Scopus
+N1  - Export Date: 03 July 2026; Cited By: 4; Correspondence Address: L. Cheshire; School of Social Science, University of Queensland, Australia; email: l.cheshire@uq.edu.au
+ER  -
+
+
+TY  - label.ris.referenceType.BOOK_CHAPTER
+AU  - Nowicki, M.
+TI  - Home and Domestic Space
+PY  - 2025
+T2  - The Wiley Blackwell Companion to Cultural and Social Geography
+SP  - 483
+EP  - 492
+DO  - 10.1002/9781119634294.ch39
+UR  - https://www.scopus.com/pages/publications/105005695819?origin=resultslist
+AD  - Oxford Brookes University, United Kingdom
+AB  - This chapter explores the growing prevalence of studies of home and the domestic within social and cultural geography. First, it traces how feminist scholars have highlighted the home as an important space in shaping societal relations and governance practices. Second, the chapter examines the need for greater communication between studies of home and studies of housing, particularly in relation to post-2008 housing crises. The chapter then turns to recent areas of expansion in studies of home: the relationship between home and queer studies, the ways in which home is intentionally destroyed (“domicide”) and unmade, and the significance of these foci for social and cultural geography. It concludes by highlighting emerging areas of exploration for critical geographies of home: the impact of the COVID-19 pandemic on understandings of home, the rising role of domestic surveillance technologies, and the home as an important site in addressing the major global issue of our time, climate change. The chapter emphasizes the centrality of home and the domestic to the discipline. The home is not just an important personal space but also an integral concept in the construction of society, identity formation, and our understandings of major global issues. © 2025 John Wiley & Sons Ltd. All rights reserved.
+KW  - domestic
+KW  - domicide
+KW  - feminist geography
+KW  - home
+KW  - queer studies
+KW  - Domestic
+KW  - Domicide
+KW  - Feminist geography
+KW  - Global issues
+KW  - Home
+KW  - Identity formation
+KW  - Personal spaces
+KW  - Queer study
+KW  - Surveillance technology
+KW  - Sociology
+PB  - wiley
+SN  - 978-111963429-4 (ISBN); 978-111963424-9 (ISBN)
+LA  - English
+J2  - The Wiley Blackwell Companion to Cultural and Social Geography
+M3  - Book chapter
+DB  - Scopus
+N1  - Export Date: 03 July 2026; Cited By: 0
+ER  -
+
+
+TY  - JOUR
+AU  - Aldana, F.O.
+TI  - Study on the existence of a Second State in the demarcations near the metro and avenida Río de los Remedios
+ST  - Estudo sobre a existência de um Segundo Estado nas demarcações perto do metro e avenida Río de los Remedios
+PY  - 2023
+T2  - Anagramas Rumbos y Sentidos de la Comunicacion
+VL  - 22
+IS  - 43
+C7  - a20
+DO  - 10.22395/angr.v22n43a20
+UR  - https://www.scopus.com/pages/publications/105033850817?origin=resultslist
+AD  - Facultad de Ciencias Políticas y Sociales, Universidad Nacional Autónoma de México, Posgrado de Ciencias Políticas y Sociales, Mexico
+AB  - The areas near the subway station Río de los Remedios Avenue includes a group of 27 neighborhoods belonging to the municipalities of Ecatepec de Morelos, Nezahualcóyotl and Gustavo A. Madero. In this area, the presence of a second social actor with the capacity to take control of the community can be observed. The main objective of the research was to show the existence and control of the Second State in the aforementioned demarcation, through the analysis of the violence in the area and the performance in the face of crime that the inhabitants have developed. To this end, research was conducted with a mixed approach. Three data collection techniques were used: interview, survey and digital ethnography. All of them were carried out by digital means. Through the information gathered, it could be seen that in the area under study there is a Second State that has generated the creation of a performance in the face of crime, with which the inhabitants adapt their behaviors to avoid being victims of violence. The presence of the Second State has become so commonplace that multiple actions that were originally violent have been normalized and, under certain circumstances, are considered positive. It was noted that the power of the Second Estate cannot be conceived of as being against government authorities, but rather, to a large extent, in articulation with them. © 2023, University of Medellin. All rights reserved.
+KW  - criminality
+KW  - delinquency
+KW  - political crises
+KW  - social conflicts
+KW  - social costs
+KW  - State
+KW  - urban warfare
+KW  - violence
+PB  - University of Medellin
+SN  - 16922522 (ISSN)
+LA  - Portuguese
+J2  - Anagramas rumbo sentidos comun.
+M3  - Article
+DB  - Scopus
+N1  - Export Date: 03 July 2026; Cited By: 0
+ER  -
+
+
+TY  - JOUR
+AU  - Martínez, L.S.
+AU  - Cabrera, E.B.
+TI  - Mapping the destruction. The spanish civil war bombings and madrid’s architectural heritage
+ST  - Cartografiar la destrucción. Los bombardeos de la guerra civil y el patrimonio inmueble de madrid
+PY  - 2020
+T2  - Architecture, City and Environment
+VL  - 15
+IS  - 43
+C7  - 9014
+SP  - 1
+EP  - 35
+DO  - 10.5821/ace.15.43.9014
+UR  - https://www.scopus.com/pages/publications/85087436511?origin=resultslist
+AD  - Departamento de Ideación Gráfica Arquitectónica, E.T.S. de Arquitectura, UPM, Spain
+AB  - In November 1936 began the first modern bombing of a great European city: Madrid. Despite the importance of this event, the bombings of Madrid were subsequently forgotten. The aim of this work is to carry out a cartography of the buildings destruction of Madrid as a result of the bombings of the war, in order to deepen its analysis and knowledge. Unlike other bombed cities have been the subject of study, among which Guernica or Barcelona stand out, the lack of specific research on the bombings of Madrid is striking. These have only been broadly studied, without delving into the consequences they had for the city. The three main documentary sources have their origin in the activity of three professional groups: firefighters, photojournalists and architects. From these sources, we have selected a set of data on relevant aspects of the attacks and their effects, such as diachronic succession, type of bombs thrown, intensity, patterns and degree of destruction of the buildings. Once these data have been mapped on the cartographic basis of the cadastral plan, we have graphically analysed and graphically expressed the information. The main result of the research is a database mapped on a set of city plans that we could call destruction cartography. They allow to analyse and visualise the different parameters studied, all of them relevant for the understanding of a complex reality on an urban support, which allows to deepen the knowledge of Madrid urbicide. © 2020, Universitat Politecnica de Catalunya. All rights reserved.
+KW  - Data visualization
+KW  - Historical memory
+KW  - Mapping
+KW  - Urbicide
+PB  - Universitat Politecnica de Catalunya
+SN  - 18877052 (ISSN)
+LA  - Spanish
+J2  - Archit. City Environ.
+M3  - Article
+DB  - Scopus
+N1  - Export Date: 03 July 2026; Cited By: 3; Correspondence Address: L.S. Martínez; Departamento de Ideación Gráfica Arquitectónica, E.T.S. de Arquitectura, UPM, Spain; email: luis.desobron@upm.es
+ER  -
+
+
+TY  - JOUR
+AU  - Smith, T.W.
+TI  - Leviathan’s Architect: Urbicide, Urban Renewal, and the Right to the City in Turkish Kurdistan
+PY  - 2022
+T2  - Human Rights Quarterly
+VL  - 44
+IS  - 2
+SP  - 387
+EP  - 416
+DO  - 10.1353/hrq.2022.0014
+UR  - https://www.scopus.com/pages/publications/85129890851?origin=resultslist
+AD  - School of Interdisciplinary Global Studies, Judy Genshaft Honors College, University of South Florida, United States
+AB  - Urban warfare exacts a grim toll on city life as combatants target civilians and civilian infrastructure, appropriate space, and try to erase culture and memory. Often, however, it is the post-conflict razing and reconstruction that caps this violent re-ordering of urban life. This article explores securitized development of cities in Southeastern Turkey in the wake of recent armed strife between Kurdish fighters and Turkish security forces. Case studies of Sur/Diyarbakır and Nusaybin show an overlord state leveraging post-war blight to remake society from the ground up. Targeting the physical as well as social contours of cities, Ankara has displaced residents, redirected ac-cess and flow, and intensified surveillance and control. The upheaval has been disorienting for residents, but in other ways it has sharpened Kurdish identity and agency. Historical preservation and memory projects, cultural commemorations, and new models of post-war urbanism underscore the right to a city that reflects civil society rather than one that tries to reengi-neer it in the image of the state. © 2022 by Johns Hopkins University Press.
+KW  - Ankara [Turkey]
+KW  - Kurdistan [Eurasia]
+KW  - Turkey
+KW  - civil society
+KW  - human rights
+KW  - national security
+KW  - post-war
+KW  - urban development
+KW  - urban renewal
+PB  - Johns Hopkins University Press
+SN  - 02750392 (ISSN)
+LA  - English
+J2  - Hum. Rights Q.
+M3  - Article
+DB  - Scopus
+N1  - Export Date: 03 July 2026; Cited By: 5; Correspondence Address: T.W. Smith; School of Interdisciplinary Global Studies, Judy Genshaft Honors College, University of South Florida, United States; email: twsmith2@usf.edu
+ER  -
+
+
+TY  - label.ris.referenceType.BOOK_CHAPTER
+AU  - Burden, D.J.H.
+TI  - Wargaming and the Just War
+PY  - 2025
+T2  - Just War Theory and Artificial Intelligence: Challenges and Consequences
+SP  - 102
+EP  - 121
+DO  - 10.1201/9781003440253-9
+UR  - https://www.scopus.com/pages/publications/105018139456?origin=resultslist
+AB  - It has been claimed that wargames save lives. This chapter examines the extent to which wargaming can be used to support the planning and analysis through the three just war considerations of jus ad bellum, jus in bello and jus post bellum. The chapter argues that wargaming can make a significant contribution to the examination of just war considerations, both within the professional military community and beyond. The chapter begins by describing what constitutes wargaming and how it is used by the military and others. The chapter then explores how AI could be used in wargaming, and how urban warfare, and by extension urban wargaming, provide the in extremis case for studying just war and wargaming. The main body of the chapter then examines the role of wargaming, and AI in support of war and wargaming, in each of three elements of a just war analysis. The chapter concludes by arguing the case for a broader use both of wargaming in considering just war issues, and in including just war issues within wargames, and by highlighting the need for just wargames to support just wars. © 2026 selection and editorial matter, Maria Power and Maggi Savin-Baden; individual chapters, the contributors.
+KW  - Military engineering
+KW  - Main bodies
+KW  - Urban warfare
+KW  - Wargames
+KW  - Wargaming
+KW  - Personnel
+PB  - CRC Press
+SN  - 978-104040870-4 (ISBN); 978-103257622-0 (ISBN)
+LA  - English
+J2  - Just War Theory and Artificial Intelligence: Challenges and Consequences
+M3  - Book chapter
+DB  - Scopus
+N1  - Export Date: 03 July 2026; Cited By: 0
+ER  -
+
+
+TY  - CONF
+AU  - Dang, V.
+AU  - Tran, N.
+AU  - Kilic, O.
+TI  - Human vital sign detection using compressive sensing
+PY  - 2015
+T2  - 2015 1st URSI Atlantic Radio Science Conference, URSI AT-RASC 2015
+C7  - 7302995
+DO  - 10.1109/URSI-AT-RASC.2015.7302995
+UR  - https://www.scopus.com/pages/publications/84959543243?origin=resultslist
+AD  - Catholic University of America, Wash., 20064, DC, United States
+AB  - Non-invasive detection of human vital signs such as the respiratory rate, motion, etc. is important for both commercial and military applications. Some examples are disaster rescue services, health monitoring, homeland security, and urban warfare. Different radar systems have been considered for these applications. Mainly, these fall under three categories: continuous wave (CW) Doppler radar, UWB radar, and stepped-frequency (SF) CW radar. While the SFCW radar systems have advantages over both CW and UWB radar systems, they typically suffer from long data acquisition time, which can lead to aliasing while capturing scattered signals. © 2015 International Union of Radio Science (URSI).
+KW  - Compressed sensing
+KW  - Continuous wave radar
+KW  - Data acquisition
+KW  - Doppler radar
+KW  - Military applications
+KW  - Radar
+KW  - Radar signal processing
+KW  - Compressive sensing
+KW  - Continuous wave doppler radars
+KW  - Health monitoring
+KW  - Non-invasive detection
+KW  - Respiratory rate
+KW  - Scattered signals
+KW  - Stepped frequency
+KW  - Three categories
+KW  - Radar systems
+PB  - Institute of Electrical and Electronics Engineers Inc.
+SN  - 978-909008628-6 (ISBN)
+LA  - English
+J2  - URSI Atl. Radio Sci. Conf., URSI AT-RASC
+M3  - Conference paper
+DB  - Scopus
+N1  - Export Date: 03 July 2026; Cited By: 0; Conference name: 1st URSI Atlantic Radio Science Conference, URSI AT-RASC 2015; Conference date: 16 May 2015 through 24 May 2015; Conference code: 117295
+ER  -
+
+
+TY  - JOUR
+AU  - Graham, S.
+TI  - Robowar™ dreams US military technophilia and global south urbanisation
+PY  - 2008
+T2  - City
+VL  - 12
+IS  - 1
+SP  - 25
+EP  - 49
+DO  - 10.1080/13604810801933511
+UR  - https://www.scopus.com/pages/publications/42049097418?origin=resultslist
+AB  - This paper seeks to open up to critical scrutiny the attempts currently being made to re-engineer post-cold war US military power to directly confront global south urbanisation. Through analysing the discourses produced by US military commentators about 'urban warfare', and the purported military, technological and robotic solutions that might allow US forces to dominate and control global south cities in the near to medium-term future, the paper demonstrates that such environments are being widely essentialised as spaces which necessarily work to undermine the USA's military's high-technology systems for surveillance, reconnaissance and targeting. The paper shows how, amid the ongoing urban insurgency in Iraq, widescale efforts are being made to 'urbanise' these military systems so that US military forces can attempt to assert high-tech dominance over the fine-grained geographies of global south cities in the future. This includes an examination of how, by 2007, US forces, in close collaboration with the Israeli military, had already begun to implement ideas of robotised or automated urban warfare to counter the complex insurgencies in Iraq. The paper concludes with a critique of the urban and robotic turns in US military doctrine.
+SN  - 14703629 (ISSN)
+LA  - English
+J2  - City
+M3  - Article
+DB  - Scopus
+N1  - Export Date: 03 July 2026; Cited By: 22
+ER  -
+
+
+TY  - JOUR
+AU  - Su, M.
+AU  - Wang, G.
+AU  - Chen, L.
+AU  - Zhang, X.
+TI  - An IndoorGeoBML Model Based IORP Algorithm for Indoor Operation
+PY  - 2022
+T2  - Sustainability (Switzerland)
+VL  - 14
+IS  - 10
+C7  - 5760
+DO  - 10.3390/su14105760
+UR  - https://www.scopus.com/pages/publications/85130393187?origin=resultslist
+AD  - Institute of Geospatial Information, PLA Strategic Support Force Information Engineering University, Zhengzhou, 450001, China
+AD  - Collaborative Innovation Center of Geo-Information Technology for Smart Central Plains, Zhengzhou, 450001, China
+AB  - Indoor military operations play a vital part in modern urban warfare. Decision making in indoor operations is quite complicated due to the complex of the indoor spatial environment. However, the study of the characteristics and features of indoor operations is scarce. To help commanders make decisions in indoor operations, a model to represent the information of the building and an algorithm to perform route planning is needed. There have been some studies in the field of search and rescue problems, but these did not study the enemy force, which has a lot of uncertainties and plays a vital role in indoor operations. To solve this problem, this paper first proposes an innovative IndoorGeoBML (Indoor Geospatial Battle Management Language) model to accurately describe the indoor environment. We define six categories of information in IndoorGeoBML model: geometry information, navigation information, semantic information, outdoor information, intelligence information, and event information, which accurately, dynamically, and comprehensively describe the environment in the building. Then based on the IndoorGeoBML model, this paper researches the route planning in indoor operations. There are two types of indoor route planning problems. One is single destination route planning, the other is a searching route planning, which needs to plan paths to search the whole building. To deal with these two kinds of route planning problems, based on IndoorGeoBML model, this paper introduces a new algorithm: the IORP (Indoor Operation Route Planning) algorithm. Finally, this paper implements some experiments on a building with IORP algorithm dealing with the two kinds of route planning problems. For single destination route planning, the result shows that the enemy capability, traversing time, and own casualties of our proposed algorithm are 779.2, 801, and 12.5, which is at least 9.9%, 9.2%, and 7.5% lower compared to other algorithms. For searching route planning, the result shows that the whole time for searching decreases from 3044 s to 2673 s, and the number of squads decreases from 8 to 5. The evaluation of the model and algorithm shows a significant improvement in time and casualties, which will help commanders make better decision in indoor operation. © 2022 by the authors. Licensee MDPI, Basel, Switzerland.
+KW  - BML
+KW  - GeoBML
+KW  - indoor operation
+KW  - indoor operation route planning algorithm
+KW  - indoor route planning
+KW  - IndoorGeoBML
+KW  - algorithm
+KW  - indoor air
+KW  - operations technology
+KW  - search and rescue
+KW  - uncertainty analysis
+PB  - MDPI
+SN  - 20711050 (ISSN)
+LA  - English
+J2  - Sustainability
+M3  - Article
+DB  - Scopus
+N1  - Export Date: 03 July 2026; Cited By: 0; Correspondence Address: L. Chen; Institute of Geospatial Information, PLA Strategic Support Force Information Engineering University, Zhengzhou, 450001, China; email: ccllyy123456@126.com
+ER  -
+
+
+TY  - JOUR
+AU  - Hawthorne, C.
+TI  - Mapping Black geographies
+PY  - 2025
+T2  - Transactions of the Institute of British Geographers
+VL  - 50
+IS  - 1
+C7  - e12700
+DO  - 10.1111/tran.12700
+UR  - https://www.scopus.com/pages/publications/85199771612?origin=resultslist
+AD  - Department of Sociology and Critical Race and Ethnic Studies, University of California, Santa Cruz, Santa Cruz, CA, United States
+AB  - This paper unfolds in three parts. In Part 1, I describe how I have contended with the fraught relationships among mapping, nationalism, and colonialism in my teaching and research. When writing my first book, Contesting Race and Citizenship, I had to reckon with the positivist impulse to enumerate and map Black Italianness—and, more broadly, with the politics of visibility at a time of increasingly virulent racial nationalisms, xenophobia, and outright anti-Black violence. In Part 2, I describe the ways my own thinking about mapping has been pushed in new directions by insights from Black geographies. Drawing on Clyde Woods, Katherine McKittrick, and Édouard Glissant—as well as essays from the edited volume The Black Geographic—I argue that Black geographic counter-cartographies foreground insurgent Black spatial knowledges and practices that have always exceeded racial-spatial violence, and approach mapping as both a material and poetic process. In Part 3, I conclude by advancing some tentative ideas about what it might mean to map new or alternative geographies of abolitionist struggle that attend to the interconnections between Black Atlantic and Black Mediterranean histories of racial capitalism. © 2024 The Author(s). Transactions of the Institute of British Geographers published by John Wiley & Sons Ltd on behalf of Royal Geographical Society (with The Institute of British Geographers).
+KW  - abolition
+KW  - Black geographies
+KW  - Black Italy
+KW  - Black Mediterranean
+KW  - mapping
+KW  - racial capitalism
+KW  - black population
+KW  - capitalism
+KW  - cartography
+KW  - literature review
+KW  - mapping method
+KW  - racism
+KW  - spatial data
+KW  - violence
+PB  - John Wiley and Sons Inc
+SN  - 00202754 (ISSN)
+LA  - English
+J2  - Trans. Inst. Br. Geogr.
+M3  - Article
+DB  - Scopus
+N1  - Export Date: 03 July 2026; Cited By: 8; Correspondence Address: C. Hawthorne; Departments of Sociology and Critical Race and Ethnic Studies, University of California, Santa Cruz, Santa Cruz, 1156 High Street, 95064, United States; email: camilla@ucsc.edu
+ER  -
+
+
+TY  - JOUR
+AU  - Gil-Mastalerczyk, J.
+AU  - Proskuryakov, V.
+AU  - Bosyy, P.
+TI  - Urbicide in Ukraine: Analysis of Environmental Destruction - Challenges, Strategies, and International Cooperation (Part 1)
+PY  - 2025
+T2  - Srodowisko Mieszkaniowe
+VL  - 51
+IS  - 2
+SP  - 66
+EP  - 76
+DO  - 10.2478/he-2025-0013
+UR  - https://www.scopus.com/pages/publications/105012273363?origin=resultslist
+AD  - Faculty of Civil Engineering and Architecture, Kielce University of Technology, Poland
+AD  - Institute of Architecture and Design, Lviv Polytechnic National University, Ukraine
+AD  - School of Performance, Toronto Metropolitan University, Canada
+AB  - This article presents the findings of an international research collaboration involving Lviv Polytechnic University (Ukraine), Kielce University of Technology (Poland) and Toronto Metropolitan University (Canada). The research analyses the destruction of the housing environment and the multidimensional consequences of the war in Ukraine. The analyses integrated disparate scientific discussions into a unified research subject and employed novel empirical data from first-hand accounts of witnesses and observers of the war in Kyiv, Kherson, Irpin and Lviv, thereby shedding new light on previously unpublished aspects and consequences of the conflict. The objective of the research was to monitor the situation in areas of active escalation on an ongoing basis, to identify indicators related to urban and demographic dimensions, and to analyse the process of complete destruction of urban organisms together with the communities living in them. The results demonstrate a clear pattern of strategic paralysis in urban structures, the collapse of civilised forms of urban life, a humanitarian catastrophe, the exhaustion of demographic potential and growing socio-economic and geopolitical challenges. The article concludes with an outline of the subsequent phase of the research, which aims to integrate contemporary technologies and methodologies and establish a foundation of prospective projects to develop a unified vision of sustainable architecture and new urbanisation as a guarantor of life stability.  © 2025 Joanna Gil-Mastalerczyk et al., published by Sciendo.
+KW  - consequences of war
+KW  - empirical research
+KW  - habitat
+KW  - quality of living
+KW  - urbicide
+KW  - war in Ukraine
+PB  - Sciendo
+SN  - 17312442 (ISSN)
+LA  - English
+J2  - Sr. Mieszk.
+M3  - Article
+DB  - Scopus
+N1  - Export Date: 03 July 2026; Cited By: 0
+ER  -
+
+
+TY  - label.ris.referenceType.BOOK_CHAPTER
+AU  - Mondal, M.
+AU  - Das, R.
+AU  - Chakraborty, C.
+AU  - Karmakar, P.
+AU  - Mustak, S.
+TI  - Impact of Uncontrolled Tourism Development on Landscape Ecology of Purba Medinipur Coastal Region, West Bengal: A 4-C Framework and SWOC Analysis
+PY  - 2023
+T2  - Advances in Geographical and Environmental Sciences
+VL  - Part F8033
+SP  - 83
+EP  - 112
+DO  - 10.1007/978-981-99-3006-7_4
+UR  - https://www.scopus.com/pages/publications/105038338133?origin=resultslist
+AD  - Department of Geography (UG & PG), Midnapore College (Autonomous), West Bengal, Midnapore, India
+AD  - Department of Geography (UG & PG), Bajkul Milani Mahavidyalaya, West Bengal, Midnapore, India
+AD  - Department of Geography, School of Environment and Earth Sciences, Central University of Punjab, Punjab, Bathinda, India
+AB  - Digha-Khadalgobra Census Town (Census of India, https://censusindia.gov.in, 2011) area of Purba Medinipur district is one of the most popular beach destinations of West Bengal as well as India which has a low gradient and a shallow finest sand beach with gentle waves. Although this coastal tourism is the only major driving economy of this area, throughout time, it has been faced with the newer trend in urbanization transforming the rural coastal landscape. Consequently, the natural landscape gives way to concrete constructions in the name of upgraded coastal tourism planning and rurbanization (conversion from rural to urban). Destruction of dune ecology, the quick decline of the forest cover, deterioration of coastal wetlands, infrastructural sprawling, the decline of the coastal biodiversity, coastal erosion, illegal land use and encroachment, decline of sweet water resources, land pollution, soil degradation, plastic pollution, overfishing, increase in crime, traffic congestion, resort congestion, shops and vendor congestion, tourists harassment, declining of the coastal beauty, etc. are the few identified problems which ultimately violate the CRZ policies. Although this place has been enlightened in many research and project works, it is not emphasized as the rurban landscape featured by twin functional processes of man-nature interaction like tourism development and coastal urbanization till date. Under this backdrop, this research project has been done through the extensive literature survey, in-depth field observation, crisscross interviewing, extensive data collection, broadly viewed data compilation, and statistical and mapping analysis by proper GIS and statistical software, with 4-C Framework and SWOC analysis to provide a blueprint for the smart tourism and sustainable coastal urban development planning maintaining the coastal ecological footprint of this area. © The Author(s), under exclusive license to Springer Nature Singapore Pte Ltd. 2023.
+KW  - 4-C Framework
+KW  - Coastal landscape
+KW  - Rurbanization
+KW  - Smart tourism
+KW  - Sustainable
+KW  - SWOC analysis
+PB  - Springer
+SN  - 21983542 (ISSN)
+LA  - English
+J2  - Adv. Geogr. Environ. Sci.
+M3  - Book chapter
+DB  - Scopus
+N1  - Export Date: 03 July 2026; Cited By: 0; Correspondence Address: M. Mondal; Department of Geography (UG & PG), Midnapore College (Autonomous), Midnapore, West Bengal, India; email: manishree72@gmail.com
+ER  -
+
+
+TY  - JOUR
+AU  - Holail, S.
+AU  - Saleh, T.
+AU  - Xiao, X.
+AU  - Xiao, J.
+AU  - Xia, G.-S.
+AU  - Shao, Z.
+AU  - Wang, M.
+AU  - Gong, J.
+AU  - Li, D.
+TI  - Time-series satellite remote sensing reveals gradually increasing war damage in the Gaza Strip
+PY  - 2024
+T2  - National Science Review
+VL  - 11
+IS  - 9
+C7  - nwae304
+DO  - 10.1093/nsr/nwae304
+UR  - https://www.scopus.com/pages/publications/85204888547?origin=resultslist
+AD  - State Key Laboratory of Information Engineering in Surveying,Mapping and Remote Sensing, Wuhan University, Wuhan, 430072, China
+AD  - Geomatics Engineering Department, Faculty of Engineering at Shoubra, Benha University, Cairo, 11629, Egypt
+AD  - Collaborative Innovation Center of Geospatial Technology, Wuhan, 430079, China
+AD  - School of Computer Science, Wuhan University, Wuhan, 430072, China
+AD  - National Engineering Research Center for Multi-media Software, Institute of Artificial Intelligence, Wuhan University, Wuhan, 430072, China
+AB  - War-related urban destruction is a significant global concern, impacting national security, social stability, people's survival and economic development. The effects of urban geomorphology and complex geological contexts during conflicts, characterized by different levels of structural damage, are not yet fully understood globally. Here we report how integrating deep learning with data from the independently developed LuoJia3-01 satellite enables near real-time detection of explosions and assessment of different building damage levels in the Israel-Palestine conflict. We found that the damage continually increased from 17 October 2023 to 2 March 2024. We found 3747 missile craters with precision positions and sizes, and timing on vital infrastructure across five governorates in the Gaza Strip on 2 March 2024, providing accurate estimates of potential unexploded ordnance locations and assisting in demining and chemical decontamination. Our findings reveal a significant increase in damage to residential and educational structures, accounting for 58.4% of the total - 15.4% destroyed, 18.7% severely damaged, 11.8% moderately damaged and 12.5% slightly damaged - which exacerbates the housing crisis and potential population displacement. Additionally, there is a 34.1% decline in the cultivated area of agricultural land, posing a risk to food security. The LuoJia3-01 satellite data are crucial for impartial conflict monitoring, and our innovative methodology offers a cost-effective, scalable approach to assess future conflicts in various global contexts. These first-time findings highlight the urgent need for an immediate ceasefire to prevent further damage and support the release of hostages and subsequent reconstruction efforts. © 2024 The Author(s).
+KW  - building damage level detection
+KW  - Gaza Strip
+KW  - missile crater detection
+KW  - satellite remote sensing
+KW  - type of damaged building
+KW  - war damage monitoring
+KW  - Missiles
+KW  - School buildings
+KW  - Building damage
+KW  - Building damage level detection
+KW  - Crater detections
+KW  - Damage level
+KW  - Damage monitoring
+KW  - Gaza Strip
+KW  - Level detections
+KW  - Missile crater detection
+KW  - Satellite remote sensing
+KW  - Type of damaged building
+KW  - War damage monitoring
+KW  - Housing
+PB  - Oxford University Press
+SN  - 20955138 (ISSN)
+LA  - English
+J2  - Natl. Sci. Rev.
+M3  - Article
+DB  - Scopus
+N1  - Export Date: 03 July 2026; Cited By: 46; Correspondence Address: X. Xiao; State Key Laboratory of Information Engineering in Surveying,Mapping and Remote Sensing, Wuhan University, Wuhan, 430072, China; email: xwxiao@whu.edu.cn; D. Li; State Key Laboratory of Information Engineering in Surveying,Mapping and Remote Sensing, Wuhan University, Wuhan, 430072, China; email: drli@whu.edu.cn
+ER  -
+
+

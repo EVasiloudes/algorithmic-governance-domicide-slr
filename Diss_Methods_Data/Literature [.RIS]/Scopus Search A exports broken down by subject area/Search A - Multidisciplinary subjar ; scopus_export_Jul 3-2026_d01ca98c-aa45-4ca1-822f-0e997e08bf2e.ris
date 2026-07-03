@@ -1,0 +1,324 @@
+TY  - JOUR
+AU  - Chen, Y.
+AU  - Liu, W.
+TI  - MAC Layer Energy Consumption and Routing Protocol Optimization Algorithm for Mobile Ad Hoc Networks
+PY  - 2021
+T2  - Complexity
+VL  - 2021
+C7  - 6687189
+DO  - 10.1155/2021/6687189
+UR  - https://www.scopus.com/pages/publications/85101575495?origin=resultslist
+AD  - School of Electronics and Communication Engineering, Guangzhou University, Guangzhou, 510006, China
+AB  - Mobile ad hoc network is a network composed of mobile terminals without infrastructure. Due to its fast-networking ability, it is widely used in smart cities, car networking, military, agriculture, medicine, and other fields. Routing technology is a key technology in the field of MANET (mobile ad hoc network). The energy consumption is optimized through the technical network simulator NS-3, and the nodes in the MANET routing protocol can accurately simulate the problem, thereby optimizing the MAC layer of important research tools. This article combines the advantages of the lithium-ion (lithium) battery model. Compared with the KiBaM battery model, the effective charge in the KiBaM model simulates the output voltage well, which can reflect the battery capacity effect rate and the recovery effect of the lithium-ion-KiBaM battery model. The model can respond to the characteristics of the output voltage as the society gets lower and lower. In order to solve the problem that the analytic solution of differential equations cannot be obtained in the model, a numerical solution of the optimization algorithm is proposed based on the implicit Runge-Kutta method. The MAC layer energy consumption and routing protocol optimization algorithm proposed in this paper can be applied well in various fields.  © 2021 Yaohua Chen and Waixi Liu.
+KW  - Agricultural robots
+KW  - Battery management systems
+KW  - Differential equations
+KW  - Energy utilization
+KW  - Internet protocols
+KW  - Lithium
+KW  - Lithium-ion batteries
+KW  - Mobile telecommunication systems
+KW  - Network routing
+KW  - Numerical methods
+KW  - Optimization
+KW  - Power management (telecommunication)
+KW  - Routing protocols
+KW  - Runge Kutta methods
+KW  - Analytic solution
+KW  - Implicit Runge-Kutta method
+KW  - MANET routing protocols
+KW  - Networking abilities
+KW  - Numerical solution
+KW  - Optimization algorithms
+KW  - Routing technologies
+KW  - Technical networks
+KW  - Mobile ad hoc networks
+PB  - Hindawi Limited
+SN  - 10762787 (ISSN)
+LA  - English
+J2  - Complexity
+M3  - Article
+DB  - Scopus
+N1  - Export Date: 03 July 2026; Cited By: 10; Correspondence Address: Y. Chen; School of Electronics and Communication Engineering, Guangzhou University, Guangzhou, 510006, China; email: chenyaohua@gzhu.edu.cn
+ER  -
+
+TY  - JOUR
+AU  - Masso, A.
+AU  - Puura, A.
+AU  - Gerassimenko, J.
+AU  - Järv, O.
+TI  - Using gamification to engage citizens in micro-mobility data sharing
+PY  - 2025
+T2  - Data in Brief
+VL  - 61
+C7  - 111676
+DO  - 10.1016/j.dib.2025.111676
+UR  - https://www.scopus.com/pages/publications/105007063692?origin=resultslist
+AD  - Ragnar Nurkse Department of Innovation and Governance, Tallinn University of Technology, Akadeemia tee 3, Tallinn, 12616, Estonia
+AD  - FinEst Centre for Smart Cities, Tallinn University of Technology, Ehitajate tee 5, Tallinn, 12616, Estonia
+AD  - Digital Geography Lab, University of Helsinki, Yliopistonkatu 3, Helsinki, 00100, Finland
+AB  - The European Strategy for Data aims to create a unified environment for accessing, sharing, and reusing data across sectors, institutions, and individuals, with a focus on areas like mobility and smart cities. While significant progress has been made in the technical interoperability and legislative frameworks for data spaces, critical gaps persist in the bottom-up processes, particularly in fostering social collaboration and citizen-driven initiatives. What is often overlooked is the need for effective citizen engagement and collaborative governance models to ensure the long-term viability and inclusivity of these data spaces. In addition, although principles for successful data sharing are well-established in sectors like healthcare, they remain underdeveloped and more challenging to implement in areas such as mobility. This article addresses these gaps by exploring how gamification can drive bottom-up data space formation, engaging citizens in data-sharing and fostering collaboration among private companies, local governments, and academic institutions. Using bicycle usage as an example, it illustrates how gamification can incentivise citizens to share mobility data for social good, promoting more active and sustainable transportation in cities. Drawing on a case study from Tallinn (Estonia), the paper demonstrates how gamification can improve data collection, highlighting the vital role of citizen participation in urban planning. The article emphasises that while technological solutions for data spaces are advancing, understanding collaborative governance models for data sharing remains crucial for ensuring the success of the European Union's data space agenda and driving sustainable innovation in urban environments. © 2025 The Author(s)
+KW  - Activism
+KW  - Behavioural change
+KW  - Citizens
+KW  - Data donation
+KW  - Data spaces
+KW  - Gamification
+KW  - Micro-mobility
+KW  - Economic and social effects
+KW  - National security
+KW  - Public policy
+KW  - Urban transportation
+KW  - Activism
+KW  - Behavioral changes
+KW  - Citizen
+KW  - Collaborative governances
+KW  - Data donation
+KW  - Data Sharing
+KW  - Data space
+KW  - Gamification
+KW  - Governance models
+KW  - Micro-mobility
+KW  - Urban planning
+PB  - Elsevier Inc.
+SN  - 23523409 (ISSN)
+LA  - English
+J2  - Data Brief
+M3  - Data paper
+DB  - Scopus
+N1  - Export Date: 03 July 2026; Cited By: 2; Correspondence Address: A. Masso; Ragnar Nurkse Department of Innovation and Governance, Tallinn University of Technology, Tallinn, Akadeemia tee 3, 12616, Estonia; email: anu.masso@taltech.ee
+ER  -
+
+TY  - JOUR
+AU  - Banga, A.
+AU  - Abbas, A.
+AU  - Ali, D.
+AU  - Innab, N.
+AU  - Alluhaidan, A.S.
+AU  - Iqbal, N.
+AU  - Diab, H.
+TI  - A novel pythonic paradigm for image encryption using axis-aligned bounding boxes
+PY  - 2025
+T2  - Scientific Reports
+VL  - 15
+IS  - 1
+C7  - 17076
+DO  - 10.1038/s41598-025-89397-z
+UR  - https://www.scopus.com/pages/publications/105005450191?origin=resultslist
+AD  - College of Computing and Informatics (CCI), Saudi Electronic University, Riyadh, 11673, Saudi Arabia
+AD  - School of Computing, Bath Spa University Academic Center, Ras Ul Khaima, United Arab Emirates
+AD  - Department of Computer Science and Information Systems, College of Applied Sciences, AlMaarefa University, Riyadh, 13713, Saudi Arabia
+AD  - Department of Information Systems, College of Computer and Information Sciences, Princess Nourah Bint Abdulrahman University, Riyadh, 11671, Saudi Arabia
+AD  - Department of Computer Science & IT, The University of Lahore, Lahore, 54000, Pakistan
+AD  - Math and Computer Science Department, Faculty of Science, Menoufia University, Menoufia, Shibin El Kom, 32511, Egypt
+AD  - Computer Science Department, Applied College, Taibah University, Madinah, 41477, Saudi Arabia
+AB  - In the digital age, images permeate every facet of our lives, often carrying critical information for organizations, institutions, and even nation-states. Ensuring their security against unauthorized access is paramount. This research introduces a novel image encryption algorithm designed to safeguard the integrity and confidentiality of sensitive gray-scale digital images. The algorithm leverages the theory of axis-aligned bounding boxes, translating the input image into a 3D representation. Within this 3D space, two identically sized boxes are generated and assessed for overlap. If the boxes do not overlap, the pixels within them are swapped. This pixel-swapping process, guided by random numbers generated from a 5D multi-wing hyper-chaotic map, is repeated numerous times to infuse confusion into the image. To further enhance security, diffusion effects are introduced by performing an XoR operation between the confused image and random numbers provided by the piece-wise linear chaotic map. This study employs private key cryptography and utilizes four gray-scale images to validate the feasibility and effectiveness of the proposed method. Simulation has been carried out in the Pythonic ecosystem. So, the algorithms presented in this study are designed to closely resemble Python code. Comprehensive validation metrics attest to the robustness of the cipher, achieving an information entropy of 7.99985 and a computational speed of 0.3987 seconds. These results underscore the potential of this encryption approach for practical, real-world applications. These applications span military, diplomacy & government, commerce, showbiz, industry, and social life etc. © The Author(s) 2025.
+KW  - Chaotic map
+KW  - Non-linearity
+KW  - Random numbers
+KW  - S-Box
+KW  - Smart cities
+KW  - Wireless communication security
+KW  - algorithm
+KW  - army
+KW  - article
+KW  - benchmarking
+KW  - commercial phenomena
+KW  - confidentiality
+KW  - cryptography
+KW  - diffusion
+KW  - diplomacy
+KW  - encryption
+KW  - entropy
+KW  - human
+KW  - simulation
+KW  - velocity
+KW  - wing
+KW  - wireless communication
+PB  - Nature Research
+SN  - 20452322 (ISSN)
+C2  - 40379821
+LA  - English
+J2  - Sci. Rep.
+M3  - Article
+DB  - Scopus
+N1  - Export Date: 03 July 2026; Cited By: 2; Correspondence Address: A.S. Alluhaidan; Department of Information Systems, College of Computer and Information Sciences, Princess Nourah Bint Abdulrahman University, Riyadh, 11671, Saudi Arabia; email: corresponding.asalluhaidan@pnu.edu.sa
+ER  -
+
+TY  - JOUR
+AU  - Ragab, M.
+AU  - Ashary, E.B.
+AU  - Alghamdi, B.M.
+AU  - Aboalela, R.
+AU  - Alsaadi, N.
+AU  - Maghrabi, L.A.
+AU  - Allehaibi, K.H.
+TI  - Advanced artificial intelligence with federated learning framework for privacy-preserving cyberthreat detection in IoT-assisted sustainable smart cities
+PY  - 2025
+T2  - Scientific Reports
+VL  - 15
+IS  - 1
+C7  - 4470
+DO  - 10.1038/s41598-025-88843-2
+UR  - https://www.scopus.com/pages/publications/85218203422?origin=resultslist
+AD  - Information Technology Department, Faculty of Computing and Information Technology, King Abdulaziz University, Jeddah, 21589, Saudi Arabia
+AD  - Electrical and Computer Engineering Department, Faculty of Engineering, King Abdulaziz University, Jeddah, 21589, Saudi Arabia
+AD  - Information Systems Department, Faculty of Computing and Information Technology at Rabigh, King Abdulaziz University, Jeddah, 21589, Saudi Arabia
+AD  - Department of Industrial Engineering, Faculty of Engineering at Rabigh, King Abdulaziz University, Jeddah, 21589, Saudi Arabia
+AD  - Department of Software Engineering, College of Engineering, University of Business and Technology, Jeddah, Saudi Arabia
+AD  - Computer Science Department, Faculty of Computing and Information Technology, King Abdulaziz University, Jeddah, 21589, Saudi Arabia
+AB  - With the fast growth of artificial intelligence (AI) and a novel generation of network technology, the Internet of Things (IoT) has become global. Malicious agents regularly utilize novel technical vulnerabilities to use IoT networks in essential industries, the military, defence systems, and medical diagnosis. The IoT has enabled well-known connectivity by connecting many services and objects. However, it has additionally made cloud and IoT frameworks vulnerable to cyberattacks, production cybersecurity major concerns, mainly for the growth of trustworthy IoT networks, particularly those empowering smart city systems. Federated Learning (FL) offers an encouraging solution to address these challenges by providing a privacy-preserving solution for investigating and detecting cyberattacks in IoT systems without negotiating data privacy. Nevertheless, the possibility of FL regarding IoT forensics remains mostly unexplored. Deep learning (DL) focused cyberthreat detection has developed as a powerful and effective approach to identifying abnormal patterns or behaviours in the data field. This manuscript presents an Advanced Artificial Intelligence with a Federated Learning Framework for Privacy-Preserving Cyberthreat Detection (AAIFLF-PPCD) approach in IoT-assisted sustainable smart cities. The AAIFLF-PPCD approach aims to ensure robust and scalable cyberthreat detection while preserving the privacy of IoT users in smart cities. Initially, the AAIFLF-PPCD model utilizes Harris Hawk optimization (HHO)-based feature selection to identify the most related features from the IoT data. Next, the stacked sparse auto-encoder (SSAE) classifier is employed for detecting cyberthreats. Eventually, the walrus optimization algorithm (WOA) is used for hyperparameter tuning to improve the parameters of the SSAE approach and achieve optimal performance. The simulated outcome of the AAIFLF-PPCD technique is evaluated using a benchmark dataset. The performance validation of the AAIFLF-PPCD technique exhibited a superior accuracy value of 99.47% over existing models under diverse measures. © The Author(s) 2025.
+KW  - Artificial Intelligence
+KW  - Cyberthreat
+KW  - Federated Learning
+KW  - IoT
+KW  - Privacy preserving
+KW  - Smart cities
+KW  - Walrus optimization Algorithm
+KW  - algorithm
+KW  - article
+KW  - artificial intelligence
+KW  - benchmarking
+KW  - classifier
+KW  - computer security
+KW  - cyberattack
+KW  - data privacy
+KW  - deep learning
+KW  - diagnosis
+KW  - feature selection
+KW  - federated learning
+KW  - forensic science
+KW  - hawk
+KW  - internet of things
+KW  - posterior polymorphous corneal dystrophy
+KW  - privacy
+KW  - simulation
+KW  - sparse autoencoder
+KW  - vulnerability
+KW  - walrus
+PB  - Nature Research
+SN  - 20452322 (ISSN)
+C2  - 39915579
+LA  - English
+J2  - Sci. Rep.
+M3  - Article
+DB  - Scopus
+N1  - Export Date: 03 July 2026; Cited By: 48; Correspondence Address: M. Ragab; Information Technology Department, Faculty of Computing and Information Technology, King Abdulaziz University, Jeddah, 21589, Saudi Arabia; email: mragab@kau.edu.sa
+ER  -
+
+TY  - JOUR
+AU  - Sydorchuk, O.
+AU  - Bashtannyk, V.
+AU  - Terkhanov, F.
+AU  - Kravtsov, O.
+AU  - Akimova, L.
+AU  - Akimov, O.
+TI  - Integrating digitization into public administration: Impact on national security and the economy through spatial planning
+PY  - 2024
+T2  - Edelweiss Applied Science and Technology
+VL  - 8
+IS  - 5
+SP  - 747
+EP  - 759
+DO  - 10.55214/25768484.v8i5.1740
+UR  - https://www.scopus.com/pages/publications/85205131035?origin=resultslist
+AD  - Department of Regional and Local Development, Lviv Polytechnic National University, Lviv, Ukraine
+AD  - Department of Public Administration аnd Local Self-Government, Dnipro University of Technology, Dnipro, Ukraine
+AD  - Department of Labor Resources and Entrepreneurship, National University of Water and Environmental Engineering, Rivne, Ukraine
+AD  - Department of Public Administration, Interregional Academy of Personnel Management, Kyiv, Ukraine
+AB  - The evolutionary development of the security sphere, on the one hand, and the rapid involvement of digital technologies (and, as a consequence, changes) on the other, formulate the first level of problematization of this study. The study seeks to provide evidence of how the dynamics of changes in the security sphere are formed by constructing an empirical model of changes and assessing the state security system within the framework of spatial planning under the influence of digital technologies. Particular attention in the study is paid to spatial planning and spatial development in smart cities the main threats to national security are systematized, located in closely intersecting planes of digital technologies, social processes, and economic interests. It is shown that areas covered by spatial planning, and particularly smart cities, pose a serious local threat to national and international security policy at the levels of political, social, technical, and economic governance. © 2024 by the authors; licensee Learning Gate.
+KW  - Digitization
+KW  - Economy
+KW  - National security
+KW  - Spatial planning
+PB  - Learning Gate
+SN  - 25768484 (ISSN)
+LA  - English
+J2  - Edelweiss Appl. Sci. Technol.
+M3  - Article
+DB  - Scopus
+N1  - Export Date: 03 July 2026; Cited By: 22; Correspondence Address: O. Sydorchuk; Department of Regional and Local Development, Lviv Polytechnic National University, Lviv, Ukraine; email: Sydorchuk.Orystlava@lpnu.ua
+ER  -
+
+TY  - JOUR
+AU  - Mazunga, F.
+AU  - Nechibvute, A.
+TI  - Ultra-low power techniques in energy harvesting wireless sensor networks: Recent advances and issues
+PY  - 2021
+T2  - Scientific African
+VL  - 11
+C7  - e00720
+DO  - 10.1016/j.sciaf.2021.e00720
+UR  - https://www.scopus.com/pages/publications/85100777062?origin=resultslist
+AD  - Applied Physics and Telecommunications Department, Midlands State University, P. Bag 9055, Gweru, Zimbabwe
+AB  - Wireless sensor network (WSN) technology has gained increasing importance in industrial automation, agriculture, smart cities, environmental monitoring, target tracking, structural health monitoring, healthcare, military applications, and so on. WSNs powered by batteries have a problem of limited lifetime due to energy constraints. Energy harvesting technology aims to eliminate the burden of replacing or replenishing depleted batteries for the sensor nodes by harnessing energy from the environment. Ultra-low power techniques are aimed at prolonging the overall sensor network lifetime by yielding significant energy savings in the WSN. The performance and lifetime of energy harvesting wireless sensor networks (EHWSNs) can be enhanced by the development of Dynamic Power Management techniques. Energy management and conservation are critical issues in EHWSNs, hence the need to develop energy harvesting-aware protocols and algorithms that facilitate perpetual network operation. It is anticipated that advancements in miniaturization and ultra-low power techniques will drive the widespread adoption of the energy harvesting paradigm. This article provides a comprehensive review of recent advances towards ultra-low power techniques in EHWSNs. We explore some of the existing types of power management techniques in WSNs including their disadvantages. The operating principles of recently proposed applications of ultra-low power techniques in EHWSNs are reviewed along with their associated fundamental mathematical expressions and assumptions. An analysis of these recent ultra-low power schemes is also presented. For each of the techniques, a summary of strengths, weaknesses and proposed solutions is presented. We provide the research community with open research issues and future research directions as well. © 2021 The Author(s)
+KW  - Dynamic Power Management
+KW  - Energy harvesting
+KW  - Network lifetime
+KW  - Routing protocol
+KW  - Ultra-low power
+KW  - Wireless sensor network
+PB  - Elsevier B.V.
+SN  - 24682276 (ISSN)
+LA  - English
+J2  - Sci.  African
+M3  - Review
+DB  - Scopus
+N1  - Export Date: 03 July 2026; Cited By: 84; Correspondence Address: ; F. Mazunga; email: mazungaf@staff.msu.ac.zw
+ER  -
+
+TY  - JOUR
+AU  - Pandey, V.K.
+AU  - Prakash, S.
+AU  - Gupta, T.K.
+AU  - Sinha, P.
+AU  - Yang, T.
+AU  - Rathore, R.S.
+AU  - Wang, L.
+AU  - Tahir, S.
+AU  - Bakhsh, S.T.
+TI  - Enhancing intrusion detection in wireless sensor networks using a Tabu search based optimized random forest
+PY  - 2025
+T2  - Scientific Reports
+VL  - 15
+IS  - 1
+C7  - 18634
+DO  - 10.1038/s41598-025-03498-3
+UR  - https://www.scopus.com/pages/publications/105006826624?origin=resultslist
+AD  - Department of Electronics and Communication, University of Allahabad, Prayagraj, India
+AD  - Department of Computer Science, Miranda House, University of Delhi, Delhi, India
+AD  - University of South Wales, Llantwit Rd, Pontypridd, CF37 1DL, United Kingdom
+AD  - Department of Computer Science, Cardiff School of Technologies, Cardiff Metropolitan University, Llandaff Campus, Western Avenue, Cardiff, CF5 2QS, United Kingdom
+AD  - Xi’an Jiaotong-Liverpool University, Suzhou, China
+AB  - Intrusion detection in Wireless Sensor Networks (WSNs) is an emerging area of research, given their extensive use in sensitive fields like military surveillance, healthcare, environmental monitoring, and smart cities. However, WSNs face several security challenges due to their limited computational capabilities and energy constraints. Their deployment in open, unattended environments makes them especially vulnerable to threats like eavesdropping, interference, and jamming. To address this problem, Random Forest (RF) is a popular machine learning model. The RF model can be tweaked because of its multiple hyperparameters. Tuning these parameters manually is tedious, as the combinations will be exponential. This work presents an enhanced intrusion detection approach by integrating Tabu Search (TS) optimization with a RF classifier. As a result, TS will help RF automatically search optimal hyperparameters and improve the generalization ability. This work integrates the pros of TS with RF. The model was tested on three different datasets, i.e., (a) the WSN-DS dataset, (b) CICIDS 2017, and (c) the CIC-IoT 2023 dataset, which shows better results on different metrics like precision, recall, F1-score, Cohen’s Kappa, and ROC AUC. Detection of Blackhole and Gray Hole attacks also improved, demonstrating the effectiveness of combining metaheuristic optimization with ensemble learning for stronger WSN security. © The Author(s) 2025.
+KW  - Intrusion detection
+KW  - Optimization
+KW  - Random forest
+KW  - Tabu search
+KW  - Wireless sensor networks (WSNs)
+KW  - WSN-DS
+KW  - area under the curve
+KW  - army
+KW  - article
+KW  - benchmarking
+KW  - classifier
+KW  - diagnosis
+KW  - ensemble learning
+KW  - environmental monitoring
+KW  - environmental surveillance
+KW  - human
+KW  - machine learning
+KW  - male
+KW  - metaheuristics
+KW  - random forest
+KW  - Tabu search
+PB  - Nature Research
+SN  - 20452322 (ISSN)
+C2  - 40437002
+LA  - English
+J2  - Sci. Rep.
+M3  - Article
+DB  - Scopus
+N1  - Export Date: 03 July 2026; Cited By: 16; Correspondence Address: S. Prakash; Department of Electronics and Communication, University of Allahabad, Prayagraj, India; email: shivprakash@allduniv.ac.in; R.S. Rathore; Department of Computer Science, Cardiff School of Technologies, Cardiff Metropolitan University, Cardiff, Llandaff Campus, Western Avenue, CF5 2QS, United Kingdom; email: rsrathore@cardiffmet.ac.uk
+ER  -
+
