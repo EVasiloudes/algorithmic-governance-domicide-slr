@@ -152,3 +152,40 @@ title:("domicide" OR "urbicide" OR "spatial violence" OR "home unmaking" OR "urb
 | **Identification phase total** | **~768** | **~193** |
 
 **Note:** The Policy Commons files had their filenames swapped on export (Policy Commons generates UUID filenames, not descriptive ones); corrected on 2026-07-03. Search A content was in the "Search B" file and vice versa.
+
+
+## Screening: Title/Abstract — 2026-07-11
+
+### Pre-processing
+- **Deduplication**: 963 raw → 874 unique (80 DOI dupes + 9 title-fuzzy dupes removed)
+- **Triage**: 195 HIGH, 326 MEDIUM, 276 LOW, 77 EXCLUDED (no abstract / very short abstract)
+- **Files created:**
+  - `Literature [.RIS]/deduplicated/All Searches — Merged Deduplicated.ris`
+  - `Literature [.RIS]/deduplicated/Search A — Deduplicated.ris` (698 recs)
+  - `Literature [.RIS]/deduplicated/Search B — Deduplicated.ris` (176 recs)
+  - `Literature [.RIS]/deduplicated/screening_master.csv` (874 rows)
+  - `Literature [.RIS]/deduplicated/ai_screen.py`
+
+### AI-assisted screening
+- **Model**: OpenRouter DS4-flash (`deepseek/deepseek-v4-flash`)
+- **Temperature**: 0.0 for deterministic classification
+- **Priority order**: HIGH → MEDIUM → LOW (resolved all into Include/Exclude, no Maybes remaining)
+
+### Results
+| Verdict | Count | % |
+|---------|-------|---|
+| Include | **151** | 17.2% |
+| Exclude | **723** | 82.8% |
+| **Total** | **874** | 100% |
+
+- Dissertations identified and excluded (manual review of Maybes)
+- Conference papers retained as eligible (disclosed in methods)
+- Output RIS: `Included_151_records.ris` (clean UTF-8, ready for Zotero)
+
+### Encoding fix
+- Original CSV had mojibake from latin-1 read of UTF-8 RIS data
+- Rebuilt `screening_master.csv` from clean RIS sources with proper UTF-8 encoding
+- Old corrupted CSV backed up as `screening_master_CORRUPTED_BACKUP.csv`
+
+### Next step
+Import `Included_151_records.ris` into Zotero, begin full-text retrieval.
