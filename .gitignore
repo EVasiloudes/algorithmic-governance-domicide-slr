@@ -11,6 +11,8 @@ desktop.ini
 *.swo
 *~
 
+#don't track phat .pdfs
+*.pdf
 # Python
 __pycache__/
 *.py[cod]
