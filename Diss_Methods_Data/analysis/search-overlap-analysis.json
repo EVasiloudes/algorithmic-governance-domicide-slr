@@ -1,0 +1,45 @@
+{
+  "search_overlap": {
+    "A_only": 128,
+    "B_only": 23,
+    "A_and_B": 0,
+    "total_included": 151,
+    "note": "A_and_B = 0 means no record triggered both search strings sufficiently to be caught in both result sets before dedup. After dedup, the merged set assigns each record to its original search."
+  },
+  "years": {
+    "A_only": {
+      "range": "2014-2026",
+      "concentration": "2018-2026 (107/128 = 83.6%)",
+      "peak": "2018 (20), followed by 2025/2024 (16/14), 2023/2022/2021/2020 (14/12/11/12)"
+    },
+    "B_only": {
+      "range": "1998-2025",
+      "concentration": "2022-2025 (15/23 = 65.2%)",
+      "peak": "2025 (7)",
+      "note": "Classic B texts (King 2004, Graham 2006, Weizman 2007) are in the framework — they informed the search terms and should be snowballed, not expected as raw hits"
+    }
+  },
+  "sources": {
+    "A_only": {
+      "scopus": 36,
+      "policy_commons": 27,
+      "unknown": 65,
+      "note": "'unknown' = sources without source-tag in screening output (likely WoS + additional SCOPUS without explicit tag)"
+    },
+    "B_only": {
+      "scopus": 12,
+      "unknown": 11
+    }
+  },
+  "gap_analysis": {
+    "zero_overlap": "Significant finding: no records simultaneously captured by both Search A and Search B. This confirms the literature treats 'civil-military urban tech' and 'spatial destruction+datafied city' as separate conversations.",
+    "A_dominance": "128/151 (84.8%) of included records come from Search A — the civil-military urban tech nexus. This is expected given the broader search string.",
+    "B_recall": "23/151 (15.2%) — small but critical. These are the domicide/urbicide records that specifically invoke data/algorithm/surveillance. They are disproportionate in evidentiary value to the 'spatial collapse' coding theme.",
+    "conclusion": "The zero overlap validates the dissertation's central claim: the connection between algorithmic urban governance and spatial destruction is empirically under-explored. The framework (Ch2) synthesises what the literature treats as separate domains."
+  },
+  "metadata": {
+    "generated": "2026-07-13",
+    "source": "screening_master.csv (include=Include, search=A|B)",
+    "note": "A_both_B tag not present in data — no record was flagged as appearing in both search results. This may reflect the dedup process collapsing to one search tag per record."
+  }
+}

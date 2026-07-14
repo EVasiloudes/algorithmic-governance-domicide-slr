@@ -1,0 +1,457 @@
+{
+  "raw_total": 963,
+  "doi_duplicates": 80,
+  "title_duplicates": 9,
+  "final_unique": 874,
+  "search_a_unique": 698,
+  "search_b_unique": 176,
+  "doi_dedup_log": [
+    {
+      "doi": "10.22201/fcpys.2448492xe.2024.252.89335",
+      "source": "Search A \u2014 Civil-military urban tech nexus -- Web of Science.ris",
+      "title": ""
+    },
+    {
+      "doi": "10.1007/s10922-021-09611-x",
+      "source": "Search A \u2014 Scopus (merged, deduplicated).ris",
+      "title": "Building an Intelligent Global IoT Reputation and Malicious "
+    },
+    {
+      "doi": "10.1080/16078055.2019.1639922",
+      "source": "Search A \u2014 Scopus (merged, deduplicated).ris",
+      "title": "Innovative sport and leisure approaches to quality of life i"
+    },
+    {
+      "doi": "10.1108/jaee-09-2020-0244",
+      "source": "Search A \u2014 Scopus (merged, deduplicated).ris",
+      "title": "Performance measurement in smart city governance: a case stu"
+    },
+    {
+      "doi": "10.1080/20507828.2019.1705558",
+      "source": "Search A \u2014 Scopus (merged, deduplicated).ris",
+      "title": "Hidden in Plain Sight: Toward a Smart Future in Eindhoven"
+    },
+    {
+      "doi": "10.1017/s0026749x24000222",
+      "source": "Search A \u2014 Scopus (merged, deduplicated).ris",
+      "title": "Ritual, war, and opium: Infrastructural sedimentations in th"
+    },
+    {
+      "doi": "10.1080/00856401.2024.2381997",
+      "source": "Search A \u2014 Scopus (merged, deduplicated).ris",
+      "title": "Smart Cities, Surveillance and Speed in Imphal, Manipur"
+    },
+    {
+      "doi": "10.4324/9781003694182_ch03",
+      "source": "Search A \u2014 Scopus (merged, deduplicated).ris",
+      "title": "Embodying Data, Shifting Perspective: A Conversation with Ah"
+    },
+    {
+      "doi": "10.1177/13675494231168177",
+      "source": "Search A \u2014 Scopus (merged, deduplicated).ris",
+      "title": "Post-racial politics, pre-emption and in/security"
+    },
+    {
+      "doi": "10.1177/0162243921992864",
+      "source": "Search A \u2014 Scopus (merged, deduplicated).ris",
+      "title": "Public Trust and Political Legitimacy in the Smart City: A R"
+    },
+    {
+      "doi": "10.1080/21582041.2021.1887508",
+      "source": "Search A \u2014 Scopus (merged, deduplicated).ris",
+      "title": "Social dimensions of evidence-based policy in a digital soci"
+    },
+    {
+      "doi": "10.1016/j.polgeo.2024.103211",
+      "source": "Search A \u2014 Scopus (merged, deduplicated).ris",
+      "title": "Territorialising the cloud or clouding the territory? Volume"
+    },
+    {
+      "doi": "10.1007/s11196-020-09719-4",
+      "source": "Search A \u2014 Scopus (merged, deduplicated).ris",
+      "title": "Pre-crime, Post-criminology, and the Captivity of Ultramoder"
+    },
+    {
+      "doi": "10.3390/systems12010014",
+      "source": "Search A \u2014 Scopus (merged, deduplicated).ris",
+      "title": "Smart Installation Weather Warning Decision Support"
+    },
+    {
+      "doi": "10.1109/wf-iot.2019.8767169",
+      "source": "Search A \u2014 Scopus (merged, deduplicated).ris",
+      "title": "Interoperability for Disaster Relief Operations in Smart Cit"
+    },
+    {
+      "doi": "10.1007/s10479-021-04142-9",
+      "source": "Search A \u2014 Scopus (merged, deduplicated).ris",
+      "title": "A review of the role of heuristics in stochastic optimisatio"
+    },
+    {
+      "doi": "10.1016/j.dsp.2023.104012",
+      "source": "Search A \u2014 Scopus (merged, deduplicated).ris",
+      "title": "An automated accurate sound-based amateur drone detection me"
+    },
+    {
+      "doi": "10.1109/fmec65595.2025.11119388",
+      "source": "Search A \u2014 Scopus (merged, deduplicated).ris",
+      "title": "Harnessing IoT for Real-Time Anomaly Detection in sUAS Secur"
+    },
+    {
+      "doi": "10.1016/j.cor.2021.105265",
+      "source": "Search A \u2014 Scopus (merged, deduplicated).ris",
+      "title": "A mobile multi-agent sensing problem with submodular functio"
+    },
+    {
+      "doi": "10.1177/18724981241305882",
+      "source": "Search A \u2014 Scopus (merged, deduplicated).ris",
+      "title": "Dingo optimized deep learning framework for intrusion detect"
+    },
+    {
+      "doi": "10.1007/978-3-031-08545-1_24",
+      "source": "Search A \u2014 Scopus (merged, deduplicated).ris",
+      "title": "Data Security, Privacy, and\u00a0Regulatory Issues: A Conceptual "
+    },
+    {
+      "doi": "10.1177/20539517221112431",
+      "source": "Search A \u2014 Scopus (merged, deduplicated).ris",
+      "title": "Big data surveillance across fields: Algorithmic governance "
+    },
+    {
+      "doi": "10.1109/wf-iot.2019.8767181",
+      "source": "Search A \u2014 Scopus (merged, deduplicated).ris",
+      "title": "Generic Architecture for Edge Computing Based on SPF for Mil"
+    },
+    {
+      "doi": "10.1109/smartworld-uic-atc-scalcom-iop-sci.2019.00327",
+      "source": "Search A \u2014 Scopus (merged, deduplicated).ris",
+      "title": "Iot in smart cities: Exploring information theoretic and dee"
+    },
+    {
+      "doi": "10.1109/dasc/picom/cbdcom/cyberscitech.2019.00136",
+      "source": "Search A \u2014 Scopus (merged, deduplicated).ris",
+      "title": "FPGA-based implementation of reduced-complexity filtering al"
+    },
+    {
+      "doi": "10.1080/17539153.2025.2485610",
+      "source": "Search A \u2014 Scopus (merged, deduplicated).ris",
+      "title": "Developing CTS 4-o: a CTS research agenda on AI, terrorism a"
+    },
+    {
+      "doi": "10.17573/cepar.2024.1.04",
+      "source": "Search A \u2014 Scopus (merged, deduplicated).ris",
+      "title": "Revitalizing Ukrainian Cities: The Role of Public-Private Pa"
+    },
+    {
+      "doi": "10.1177/0308518x16651445",
+      "source": "Search A \u2014 Scopus (merged, deduplicated).ris",
+      "title": "Speculative futures: Cities, data, and governance beyond sma"
+    },
+    {
+      "doi": "10.1177/14614448221079033",
+      "source": "Search A \u2014 Scopus (merged, deduplicated).ris",
+      "title": "Sociotechnical imaginaries of algorithmic governance in EU p"
+    },
+    {
+      "doi": "10.1177/2399654417743767",
+      "source": "Search A \u2014 Scopus (merged, deduplicated).ris",
+      "title": "Secure the city, revitalize the zone: Smart urbanization in "
+    },
+    {
+      "doi": "10.5220/0010968900003191",
+      "source": "Search A \u2014 Scopus (merged, deduplicated).ris",
+      "title": "Critical Vehicle Detection for Intelligent Transportation Sy"
+    },
+    {
+      "doi": "10.3390/su14137804",
+      "source": "Search A \u2014 Scopus (merged, deduplicated).ris",
+      "title": "Human-Centered Artificial Intelligence: The Superlative Appr"
+    },
+    {
+      "doi": "10.1093/ijlit/eaw007",
+      "source": "Search A \u2014 Scopus (merged, deduplicated).ris",
+      "title": "Privacy in public spaces: What expectations of privacy do we"
+    },
+    {
+      "doi": "10.1108/dta-03-2025-0170",
+      "source": "Search A \u2014 Scopus (merged, deduplicated).ris",
+      "title": "Optimization of the homicide predictive classification algor"
+    },
+    {
+      "doi": "10.1177/00420980221100462",
+      "source": "Search A \u2014 Scopus (merged, deduplicated).ris",
+      "title": "Illiberal smart urbanism? Lessons from the politics of state"
+    },
+    {
+      "doi": "10.1177/09670106221125041",
+      "source": "Search A \u2014 Scopus (merged, deduplicated).ris",
+      "title": "Securitizing mobility: Profiling \u2018non-core\u2019 Europeans"
+    },
+    {
+      "doi": "10.3390/smartcities6020032",
+      "source": "Search A \u2014 Scopus (merged, deduplicated).ris",
+      "title": "Open Data Insights from a Smart Bridge Datathon: A Multi-Sta"
+    },
+    {
+      "doi": "10.23919/indiacom49435.2020.9083731",
+      "source": "Search A \u2014 Scopus (merged, deduplicated).ris",
+      "title": "5G network and security"
+    },
+    {
+      "doi": "10.3390/smartcities6010008",
+      "source": "Search A \u2014 Scopus (merged, deduplicated).ris",
+      "title": "The Future Possibilities and Security Challenges of City Dig"
+    },
+    {
+      "doi": "10.3390/su14084455",
+      "source": "Search A \u2014 Scopus (merged, deduplicated).ris",
+      "title": "Callous Optimism: On Some Wishful Thinking \u2018Blowbacks\u2019 Under"
+    },
+    {
+      "doi": "10.1080/09584935.2019.1647144",
+      "source": "Search A \u2014 Scopus (merged, deduplicated).ris",
+      "title": "Smart cities, backward frontiers: digital urbanism in India'"
+    },
+    {
+      "doi": "10.1109/techdefense63521.2024.10863442",
+      "source": "Search A \u2014 Scopus (merged, deduplicated).ris",
+      "title": "Black-Box Adversarial ML Attacks on IDS and Multi-Domain Imp"
+    },
+    {
+      "doi": "10.1111/anti.12522",
+      "source": "Search A \u2014 Scopus (merged, deduplicated).ris",
+      "title": "Contesting Digital Futures: Urban Politics, Alternative Econ"
+    },
+    {
+      "doi": "10.1177/0975425319863931",
+      "source": "Search A \u2014 Scopus (merged, deduplicated).ris",
+      "title": "City Profile: Khon Kaen, Thailand"
+    },
+    {
+      "doi": "10.1177/00420980221115051",
+      "source": "Search A \u2014 Scopus (merged, deduplicated).ris",
+      "title": "Fabrication of space: The design of everyday life in South K"
+    },
+    {
+      "doi": "10.1109/cts.2016.90",
+      "source": "Search A \u2014 Scopus (merged, deduplicated).ris",
+      "title": "Smart solutions for smart cities: Using wireless sensor netw"
+    },
+    {
+      "doi": "10.1007/978-3-319-75232-7_12",
+      "source": "Search A \u2014 Scopus (merged, deduplicated).ris",
+      "title": "Situational Awareness in Megacities"
+    },
+    {
+      "doi": "10.1525/as.2023.2081515",
+      "source": "Search A \u2014 Scopus (merged, deduplicated).ris",
+      "title": "Securitizing COVID-19 in an Environment of Low Political Tru"
+    },
+    {
+      "doi": "10.1109/ithings-greencom-cpscom-smartdata.2017.47",
+      "source": "Search A \u2014 Scopus (merged, deduplicated).ris",
+      "title": "A New Digital Forensics Model of Smart City Automated Vehicl"
+    },
+    {
+      "doi": "10.1017/s1537592721003145",
+      "source": "Search A \u2014 Scopus (merged, deduplicated).ris",
+      "title": "Algorithmic Governance and the International Politics of Big"
+    },
+    {
+      "doi": "10.1177/02633957211009719",
+      "source": "Search A \u2014 Scopus (merged, deduplicated).ris",
+      "title": "Surveillance, race, and social sorting in the United Arab Em"
+    },
+    {
+      "doi": "10.14763/2023.1.1699",
+      "source": "Search A \u2014 Scopus (merged, deduplicated).ris",
+      "title": "Your face is not new to me \u2013 Regulating the surveillance pow"
+    },
+    {
+      "doi": "10.3389/fpos.2025.1642328",
+      "source": "Search A \u2014 Scopus (merged, deduplicated).ris",
+      "title": "The Great Terror on steroids: exploring the counterfactual s"
+    },
+    {
+      "doi": "10.24908/ss.v17i1/2.12903",
+      "source": "Search A \u2014 Scopus (merged, deduplicated).ris",
+      "title": "Surveillance capitalism and platform policing: The surveilla"
+    },
+    {
+      "doi": "10.1145/3281548.3281556",
+      "source": "Search A \u2014 Scopus (merged, deduplicated).ris",
+      "title": "Vision-based UAVs aerial image localization: A survey"
+    },
+    {
+      "doi": "10.1111/lapo.12164",
+      "source": "Search A \u2014 Scopus (merged, deduplicated).ris",
+      "title": "The law in computation: What machine learning, artificial in"
+    },
+    {
+      "doi": "10.3390/su132413827",
+      "source": "Search A \u2014 Scopus (merged, deduplicated).ris",
+      "title": "C4I system security architecture: A perspective on big data "
+    },
+    {
+      "doi": "10.3390/smartcities6020035",
+      "source": "Search A \u2014 Scopus (merged, deduplicated).ris",
+      "title": "Guidelines for Renewal and Securitization of a Critical Infr"
+    },
+    {
+      "doi": "10.1155/hbe2/9939274",
+      "source": "Search A \u2014 Scopus (merged, deduplicated).ris",
+      "title": "Enhancing Public Safety in Eswatini: A Machine Learning\u2013Driv"
+    },
+    {
+      "doi": "10.23865/intpol.v80.3096",
+      "source": "Search A \u2014 Scopus (merged, deduplicated).ris",
+      "title": "Digital Tracking - a Matter of National Security?"
+    },
+    {
+      "doi": "10.1146/annurev-polisci-090216-023229",
+      "source": "Search A \u2014 Scopus (merged, deduplicated).ris",
+      "title": "The challenge of big data and data science"
+    },
+    {
+      "doi": "10.1155/2021/6687189",
+      "source": "Search A \u2014 Scopus (merged, deduplicated).ris",
+      "title": "MAC Layer Energy Consumption and Routing Protocol Optimizati"
+    },
+    {
+      "doi": "10.1038/s41598-025-89397-z",
+      "source": "Search A \u2014 Scopus (merged, deduplicated).ris",
+      "title": "A novel pythonic paradigm for image encryption using axis-al"
+    },
+    {
+      "doi": "10.1038/s41598-025-88843-2",
+      "source": "Search A \u2014 Scopus (merged, deduplicated).ris",
+      "title": "Advanced artificial intelligence with federated learning fra"
+    },
+    {
+      "doi": "10.1016/j.sciaf.2021.e00720",
+      "source": "Search A \u2014 Scopus (merged, deduplicated).ris",
+      "title": "Ultra-low power techniques in energy harvesting wireless sen"
+    },
+    {
+      "doi": "10.1038/s41598-025-03498-3",
+      "source": "Search A \u2014 Scopus (merged, deduplicated).ris",
+      "title": "Enhancing intrusion detection in wireless sensor networks us"
+    },
+    {
+      "doi": "10.1177/0011392120927769",
+      "source": "Search B \u2014 Spatial destruction and the datafied city -- Web of Science.ris",
+      "title": "Administrative mediation data as naturally-occurring records"
+    },
+    {
+      "doi": "10.1891/vv-2024-0071",
+      "source": "Search B \u2014 Spatial destruction and the datafied city -- Web of Science.ris",
+      "title": "Restorative Domicide: Meaning-Making in Homicide Covictims' "
+    },
+    {
+      "doi": "10.1093/nsr/nwae304",
+      "source": "Search B \u2014 Spatial destruction and the datafied city -- Web of Science.ris",
+      "title": "Time-series satellite remote sensing reveals gradually incre"
+    },
+    {
+      "doi": "10.2752/175174214x13891916944751",
+      "source": "Search B \u2014 Spatial destruction and the datafied city -- Web of Science.ris",
+      "title": "QUEER DOMICIDE LGBT Displacement and Home Loss in Natural i'"
+    },
+    {
+      "doi": "10.1109/icmt65201.2025.11061360",
+      "source": "Search B \u2014 Spatial destruction and the datafied city -- Web of Science.ris",
+      "title": "Exploration of Wargaming and AI Applications in Military Dec"
+    },
+    {
+      "doi": "10.5821/ace.15.43.9014",
+      "source": "Search B \u2014 Spatial destruction and the datafied city -- Web of Science.ris",
+      "title": "Mapping the destruction. The Spanish Civil War bombings and "
+    },
+    {
+      "doi": "10.1002/gea.70027",
+      "source": "Search B \u2014 Spatial destruction and the datafied city -- Web of Science.ris",
+      "title": "The Flooding of Lagash (Iraq): Evidence for Urban Destructio"
+    },
+    {
+      "doi": "10.1075/ni.17076.luc",
+      "source": "Search B \u2014 Spatial destruction and the datafied city -- Web of Science.ris",
+      "title": "Ecological landscape in narrative thought How siege survivor"
+    },
+    {
+      "doi": "10.1080/09592318.2022.2035098",
+      "source": "Search B \u2014 Spatial destruction and the datafied city -- Web of Science.ris",
+      "title": "Environmental dimensions of conflict and paralyzed responses"
+    },
+    {
+      "doi": "10.3390/ijgi14100367",
+      "source": "Search B \u2014 Spatial destruction and the datafied city -- Web of Science.ris",
+      "title": "Spatio-Temporal Mapping of Violence Against Women: An Urban "
+    },
+    {
+      "doi": "10.3390/su14105760",
+      "source": "Search B \u2014 Spatial destruction and the datafied city -- Web of Science.ris",
+      "title": "An IndoorGeoBML Model Based IORP Algorithm for Indoor Operat"
+    },
+    {
+      "doi": "10.1093/ej/ueab045",
+      "source": "Search B \u2014 Spatial destruction and the datafied city -- Web of Science.ris",
+      "title": "Ethnic Violence Across Space"
+    },
+    {
+      "doi": "10.7440/histcrit82.2021.03",
+      "source": "Search B \u2014 Spatial destruction and the datafied city -- Web of Science.ris",
+      "title": "Legitimizing and Resisting Spatial Violence in Southern Chil"
+    },
+    {
+      "doi": "10.22395/angr.v22n43a20",
+      "source": "Search B \u2014 Spatial destruction and the datafied city -- Web of Science.ris",
+      "title": ""
+    }
+  ],
+  "title_dedup_log": [
+    {
+      "source1": "N",
+      "source2": "N",
+      "similarity": 0.935
+    },
+    {
+      "source1": "D",
+      "source2": "D",
+      "similarity": 0.977
+    },
+    {
+      "source1": "D",
+      "source2": "D",
+      "similarity": 0.958
+    },
+    {
+      "source1": "N",
+      "source2": "G",
+      "similarity": 0.94
+    },
+    {
+      "source1": "R",
+      "source2": "P",
+      "similarity": 0.871
+    },
+    {
+      "source1": "C",
+      "source2": "C",
+      "similarity": 1.0
+    },
+    {
+      "source1": "W",
+      "source2": "N",
+      "similarity": 0.946
+    },
+    {
+      "source1": "N",
+      "source2": "N",
+      "similarity": 1.0
+    },
+    {
+      "source1": "R",
+      "source2": "R",
+      "similarity": 0.867
+    }
+  ]
+}

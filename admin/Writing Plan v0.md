@@ -52,6 +52,7 @@ gantt
 **Current position (12 Jul):** p5 (screening) complete. Moving into p6 (extraction + coding) and w0/w1 (coding manual + Ch2 drafting) in parallel.
 
 **Revised timeline to deadline (13 Aug = 32 days):**
+
 | Phase | Sub-phase | Days | Dates |
 |---|---|---|---|
 | 1 | Full-text retrieval + Zotero import | 3 | 12–14 Jul |
