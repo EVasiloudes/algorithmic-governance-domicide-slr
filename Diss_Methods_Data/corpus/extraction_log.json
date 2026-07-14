@@ -1,12 +1,13 @@
 {
-  "timestamp": "2026-07-14T01:53:33.336202",
-  "collection": "SLR-INCLUDED-RECORDS",
+  "timestamp": "2026-07-14T13:11:39.706627",
+  "pipeline": "pipeline_01_extract_v2",
+  "source": "/Users/eliasvasnic/Obsidian Vaults/Elias Vasnic Obsidian Vault/Atoms/Public_Policy_&_Management/Courses/MSc PPM Dissertation - Repo/Diss_Methods_Data/{exported from Zotero}/SLR-INCLUDED-RECORDS{export from Zotero}",
+  "ris_file": "SLR-INCLUDED-RECORDS{export from Zotero}.ris",
   "stats": {
-    "total": 100,
-    "valid": 64,
-    "removed": 6,
-    "no_pdf": 30,
-    "extraction_ok": 64,
+    "total": 148,
+    "valid": 145,
+    "no_pdf": 3,
+    "extraction_ok": 145,
     "extraction_failed": 0,
     "errors": []
   },
