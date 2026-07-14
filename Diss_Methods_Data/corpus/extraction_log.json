@@ -1,0 +1,16 @@
+{
+  "timestamp": "2026-07-14T01:53:33.336202",
+  "collection": "SLR-INCLUDED-RECORDS",
+  "stats": {
+    "total": 100,
+    "valid": 64,
+    "removed": 6,
+    "no_pdf": 30,
+    "extraction_ok": 64,
+    "extraction_failed": 0,
+    "errors": []
+  },
+  "metadata_path": "Diss_Methods_Data/corpus/metadata.csv",
+  "pdf_dir": "Diss_Methods_Data/corpus/pdfs",
+  "text_dir": "Diss_Methods_Data/corpus/text"
+}
