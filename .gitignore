@@ -13,6 +13,9 @@ desktop.ini
 
 #don't track phat .pdfs
 *.pdf
+# Sensitive config
+.env
+
 # Python
 __pycache__/
 *.py[cod]
@@ -36,3 +39,9 @@ final-draft/*.out
 final-draft/*.run.xml
 final-draft/*.toc
 final-draft/*.pdf
+
+# Pipeline run artifacts (regenerated each run)
+Diss_Methods_Data/corpus/extraction_log.json
+Diss_Methods_Data/corpus/run.log
+Diss_Methods_Data/corpus/extraction_results.csv
+Diss_Methods_Data/corpus/extractions/

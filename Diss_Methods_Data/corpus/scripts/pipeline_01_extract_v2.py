@@ -302,30 +302,49 @@ def main():
         # ── Copy PDF to corpus ──────────────────────────────────────
         pdf_filename_disk = f"{safe_name}.pdf"
         pdf_dst = PDF_DIR / pdf_filename_disk
-        shutil.copy2(str(pdf_src), str(pdf_dst))
-        stats["valid"] += 1
-        log(f"  ✓ PDF copied ({pdf_src.stat().st_size / 1024:.0f} KB)")
+        if not pdf_dst.exists():
+            shutil.copy2(str(pdf_src), str(pdf_dst))
+            stats["valid"] += 1
+            log(f"  ✓ PDF copied ({pdf_src.stat().st_size / 1024:.0f} KB)")
+        else:
+            stats["valid"] += 1
+            log(f"  ✓ PDF already exists ({pdf_dst.stat().st_size / 1024:.0f} KB)")
 
         # ── Extract text ────────────────────────────────────────────
         text_path = TEXT_DIR / f"{safe_name}.txt"
-        try:
-            full_text = extract_text_from_pdf(pdf_dst)
-            if len(full_text.strip()) >= 50:
-                text_path.write_text(full_text, encoding="utf-8")
+        if text_path.exists() and text_path.stat().st_size > 0:
+            existing_text = text_path.read_text(encoding="utf-8")
+            if existing_text.strip() != "EXTRACTION_FAILED" and len(existing_text.strip()) >= 50:
                 stats["extraction_ok"] += 1
-                log(f"  ✓ Text: {len(full_text):,} chars")
+                log(f"  ✓ Text already extracted: {len(existing_text):,} chars")
                 extraction_ok = True
+            elif existing_text.strip() == "EXTRACTION_FAILED":
+                stats["extraction_failed"] += 1
+                log(f"  ⚠ Previous extraction failed — skipping")
+                extraction_ok = False
             else:
                 stats["extraction_failed"] += 1
-                log(f"  ⚠ Text too short ({len(full_text.strip())} chars)")
-                text_path.write_text(full_text or "EXTRACTION_FAILED\n", encoding="utf-8")
+                log(f"  ⚠ Previous text too short ({len(existing_text.strip())} chars) — skipping")
                 extraction_ok = False
-        except Exception as e:
-            stats["extraction_failed"] += 1
-            stats["errors"].append(f"{safe_name}: extraction failed: {e}")
-            log(f"  ✖ EXTRACTION FAILED: {e}")
-            text_path.write_text("EXTRACTION_FAILED\n", encoding="utf-8")
-            extraction_ok = False
+        else:
+            try:
+                full_text = extract_text_from_pdf(pdf_dst)
+                if len(full_text.strip()) >= 50:
+                    text_path.write_text(full_text, encoding="utf-8")
+                    stats["extraction_ok"] += 1
+                    log(f"  ✓ Text: {len(full_text):,} chars")
+                    extraction_ok = True
+                else:
+                    stats["extraction_failed"] += 1
+                    log(f"  ⚠ Text too short ({len(full_text.strip())} chars)")
+                    text_path.write_text(full_text or "EXTRACTION_FAILED\n", encoding="utf-8")
+                    extraction_ok = False
+            except Exception as e:
+                stats["extraction_failed"] += 1
+                stats["errors"].append(f"{safe_name}: extraction failed: {e}")
+                log(f"  ✖ EXTRACTION FAILED: {e}")
+                text_path.write_text("EXTRACTION_FAILED\n", encoding="utf-8")
+                extraction_ok = False
 
         results.append({
             "title": title, "authors": "; ".join(authors), "year": year,

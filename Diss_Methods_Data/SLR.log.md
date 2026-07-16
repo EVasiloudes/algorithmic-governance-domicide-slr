@@ -189,3 +189,127 @@ title:("domicide" OR "urbicide" OR "spatial violence" OR "home unmaking" OR "urb
 
 ### Next step
 Import `Included_151_records.ris` into Zotero, begin full-text retrieval.
+
+
+## Full-Text Retrieval & PDF Extraction — 2026-07-14 to 2026-07-16
+
+### Zotero import
+- `Included_151_records.ris` imported into Zotero collection `SLR-INCLUDED-RECORDS_BUP` (collection ID 94)
+- 148 records in RIS export (3 excluded during screening re-verification)
+- 144 PDFs attached in Zotero from the 151 included records
+
+### RIS rebuild (content-based matching)
+- Earlier position-based mapping between `screening_master.csv` and merged `.ris` was broken: the RIS was regenerated after CSV creation, shuffling record order
+- Tshilongamulenzhe (CSV ID 76, marked Exclude in screening) was appearing in position-based output — confirmed position mapping invalid
+- **Solution:** Content-based matching by DOI, then normalised title with author/year disambiguation
+- `Included_151_records.ris` and `Included_151_records_tagged.ris` verified correct; Tshilongamulenzhe confirmed excluded
+
+### Pipeline: pipeline_01_extract_v2.py
+- **Location:** `corpus/scripts/pipeline_01_extract_v2.py`
+- **Function:** Reads Zotero RIS export + files directory; matches records to PDFs via SQLite DB (collection 94); extracts text with pdfplumber (PyPDF2 fallback); outputs metadata CSV
+- **Key feature:** Resumable — skips already-extracted PDFs/texts on re-run
+- **Dependencies:** pdfplumber (PyPDF2 absent but not needed; pdfplumber handles all files)
+
+**Results:**
+| Metric | Count |
+|---|---|
+| RIS records | 148 |
+| PDFs copied to corpus/ | 145 |
+| No PDF found | 3 |
+| Text extraction OK | 145 |
+| Extraction failed | 0 |
+
+**3 no-PDF records (marked in metadata.csv):**
+1. "Big Data Applications in Crime and Security" — book, not located
+2. "Intelligent 5G Networks Designed and Integrated for Globalized Operations (INDIGO)" — no PDF in export
+3. "An automated security response robot" — no PDF in export
+
+**Output:**
+- `corpus/metadata.csv` (148 rows)
+- `corpus/pdfs/` (145 PDFs)
+- `corpus/text/` (145 text files)
+- `corpus/extraction_log.json` (run metadata)
+- `corpus/run.log` (timestamped execution log)
+
+
+## AI-Assisted Thematic Coding — 2026-07-16
+
+### Script: ai_extract.py
+- **Location:** `Diss_Methods_Data/Literature [.RIS]/deduplicated/ai_extract.py`
+- **Model:** DeepSeek V4 Flash (`deepseek/deepseek-v4-flash`) via OpenRouter, temperature 0.0
+  - Initial slug error: `openrouter/deepseek/...` (OpenClaw convention) → corrected to `deepseek/deepseek-v4-flash` (OpenRouter convention)
+  - Fallback model: `deepseek/deepseek-chat` (used for first run before slug fix; record #3 extracted via fallback)
+- **Batch size:** 5 records per invocation (resumable via `extraction_results.csv` checkpoint)
+- **Text ceiling:** 450K chars (~112K tokens); 9 papers smart-truncated (intro 55% + middle samples + conclusion 25%)
+- **Special handling:** 3 edited volume chapters extracted by byte position (IDs 160, 516, 665); 1 missing chapter flagged for manual retrieval (ID 750, duplicate of ID 727 Routledge Handbook)
+
+### Coding Framework (4 themes, 0–3 scale)
+1. **Information Good & Dual-Use Fluidity** (Arrow, 1962)
+2. **Epistemic Authority & Black-Boxing** (Michael, 2007; Pasquale, 2015)
+3. **Machinic City & Modulation** (Deleuze, 1990; De Landa, 1992/2014)
+4. **Spatial Collapse & Home Unmaking** (King, 2004; Graham, 2006/2011; Weizman, 2007)
+
+Additional fields: dual_use_explicit, dual_use_direction, dual_use_structural, doc_type, methodology, geography, thesis, key_quotes, policy_relevance.
+
+### Results
+| Metric | Count |
+|---|---|
+| Papers scored | 147 |
+| No text / not retrievable | 3 |
+| API extraction failed | 1 |
+| **Total in output CSV** | **151** |
+
+### Score Distributions
+| Theme | 0 | 1 | 2 | 3 | Mean | % Scoring ≥1 |
+|---|---|---|---|---|---|---|
+| T1: Information Good & Dual-Use | 51 | 35 | 52 | 9 | 1.13 | 65% |
+| T2: Epistemic Authority & Black-Boxing | 44 | 38 | 54 | 11 | 1.22 | 70% |
+| T3: Machinic City & Modulation | 26 | 63 | 51 | 7 | 1.27 | 82% |
+| T4: Spatial Collapse & Home Unmaking | 97 | 32 | 8 | 10 | 0.53 | 34% |
+
+### Dual-Use Classification
+| Field | yes | tangential | no |
+|---|---|---|---|
+| dual_use_explicit | 45 | 34 | 68 |
+| dual_use_structural | 31 | 24 | 92 |
+
+Note: Only 31/147 papers address *structural* properties (software as information good) enabling dual-use, despite 45 using "dual-use" language explicitly.
+
+### Search A/B Divergence (MAIN FINDING)
+| Theme | Search A (n=126) | Search B (n=21) |
+|---|---|---|
+| T1 (Dual-use fluidity) | 1.21 | 0.67 |
+| T2 (Epistemic authority) | 1.33 | 0.57 |
+| T3 (Machinic city) | 1.33 | 0.86 |
+| T4 (Spatial destruction) | 0.32 | 1.81 |
+
+**Key finding:** Zero overlap between Search A and Search B at the screening stage. The two literatures are separate conversations. Search A (civil-military urban tech) is rich on data governance, algorithmic opacity, and smart city critique — but virtually silent on spatial violence or domicide. Search B (spatial destruction + data) is deeply engaged with urbicide, home unmaking, and the weaponisation of urban space — but barely engages with data/software infrastructure, dual-use properties, or algorithmic governance. **The separation validates the central thesis: the connection between algorithmic governance tools and systemic spatial destruction is empirically under-explored in the literature.**
+
+### Bridge Papers (comprehensive across all themes)
+Papers scoring ≥2 on three themes and ≥1 on the fourth:
+- #58: Who Buys and Controls CCTV? Myanmar's Slippery Slope to Mass Surveillance (T1=3, T2=3, T3=2, T4=1)
+- #173: Realtime Urbanism: The Architecture of Packets, Pixels, and Neurons (T1=2, T2=2, T3=3, T4=2)
+- #308: Territorialising the Cloud or Clouding the Territory? Volumetric Vulnerabilities (T1=3, T2=2, T3=2, T4=2)
+- #642: Compliance-Industrial Complex: The Operating System of a Pre-Crime Society (T1=3, T2=3, T3=2, T4=0) — strong on themes 1-3, absent on T4
+- #742: Robowar™ Dreams: US Military Technophilia and Global South Urbanisation (T1=0, T2=2, T3=3, T4=3) — absent on T1, strong on others
+
+Only 3 papers (#58, #308, #173) score ≥2 on three themes AND ≥1 on the fourth — true bridges are rare.
+
+### Temporal Trend
+Theme 4 (spatial destruction) shows marked acceleration:
+- 2015–2019 (n=44): T4 mean = 0.27
+- 2020–2024 (n=75): T4 mean = 0.52
+- 2025+     (n=18): T4 mean = 0.94
+
+Likely driven by Gaza scholarship post-2023. The literature's engagement with spatial destruction is intensifying — but still largely disconnected from the data-governance / dual-use conversation.
+
+### Output files
+- `corpus/extraction_results.csv` — 151 rows, full scoring + metadata
+- `corpus/extractions/*.json` — 148 per-paper JSON files for qualitative review
+
+### Next steps (analysis phase)
+1. Descriptive statistics from extraction results (PRISMA flow, theme distributions, methodology × geography)
+2. Search A/B scatter plot (T1 × T4, coloured by Search origin)
+3. Bridge paper qualitative deep dives for Ch.4 vignettes
+4. Temporal trend visualisation
+5. Ch.2 Theoretical Framework prose drafting

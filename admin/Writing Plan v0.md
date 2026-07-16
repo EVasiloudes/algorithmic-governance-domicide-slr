@@ -6,8 +6,8 @@ tags:
 
 # Writing Plan v1 — Agentic Task Decomposition
 
-**Created:** 11 June 2026 · **Updated:** 12 July 2026
-**Status:** Active — Screening COMPLETE (151 Include / 723 Exclude). Next: Zotero import + full-text retrieval.
+**Created:** 11 June 2026 · **Updated:** 16 July 2026
+**Status:** Active — Extraction + thematic coding COMPLETE (147/151 papers scored). Next: Analysis + Ch2 drafting.
 **Hard constraint:** 13,750 words max, 100% of grade. Submission deadline: **13 August 2026** (confirmed).
 
 ---
@@ -17,10 +17,10 @@ tags:
 | Ch. | Title | Words | Source material | Status |
 |---|---|---|---|---|
 | 1 | Introduction: The Algorithm and the City | 1,500 | Revised formative (cut ~40%, add bridge ¶ + provisional policy landing zone) | Drafted, needs trim |
-| 2 | Theoretical Framework | 2,500 | Arrow · Deleuze/De Landa · Michael · King/Graham/Weizman — organised around **one primary axis: disciplinary → control** | Fragments only |
+| 2 | Theoretical Framework | 2,500 | Arrow · Deleuze/De Landa · Michael · King/Graham/Weizman — organised around **one primary axis: disciplinary → control** | Outline complete; prose drafting next |
 | 3 | Methodology | 2,500 | Revised formative methods + completed PRISMA ns + calibration narrative from `SLR.log.md` | Drafted, needs tense shift to past + real ns |
-| 4 | Findings: The Systematic Map | 3,500 | SLR extraction output | Blocked on full-text retrieval |
-| 5 | Discussion | 2,250 | Findings × framework; the A/B convergence-gap finding; policy implications | Not started |
+| 4 | Findings: The Systematic Map | 3,500 | Extraction results: 147 scored papers across 4-theme framework; Search A/B divergence analysis; temporal trends; bridge papers | Extraction complete; analysis pending |
+| 5 | Discussion | 2,250 | Findings × framework; the A/B convergence-gap finding; critical gap analysis; policy implications | Not started |
 | 6 | Conclusion & Research Agenda | 1,250 | Discussion + limitations | Not started |
 | — | Front/back matter, AI statement | 250 | — | Template exists |
 | | **Total** | **13,750** | | |
@@ -49,20 +49,21 @@ gantt
     Polish, refs, proofread, submit     :w5, after w4, 7d
 ```
 
-**Current position (12 Jul):** p5 (screening) complete. Moving into p6 (extraction + coding) and w0/w1 (coding manual + Ch2 drafting) in parallel.
+**Current position (16 Jul):** p6 (extraction + coding) COMPLETE. Analysis + Ch2 drafting begin in parallel.
 
-**Revised timeline to deadline (13 Aug = 32 days):**
+**Revised timeline to deadline (13 Aug = 28 days):**
 
-| Phase | Sub-phase | Days | Dates |
+| Phase | Task | Days | Dates |
 |---|---|---|---|
-| 1 | Full-text retrieval + Zotero import | 3 | 12–14 Jul |
+| 1 | Full-text retrieval + Zotero import | ✓ | 12–16 Jul |
 | 2 | Snowballing from anchors | 5 | 12–16 Jul |
-| 3 | Extraction + coding (151 papers) | 10 | 15–24 Jul |
-| 4 | Ch2 Theoretical Framework writing | 14 | 12–25 Jul |
-| 5 | Ch4 Findings (descriptive stats + synthesis) | 10 | 25 Jul – 3 Aug |
-| 6 | Ch5 Discussion + Ch6 Conclusion | 7 | 3–10 Aug |
-| 7 | Ch1+Ch3 revision, references, AI statement | 2 | 10–12 Aug |
-| 8 | Polish, proofread, submit | 1 | 12–13 Aug |
+| 3 | Extraction + thematic coding (151 papers) | ✓ | 15–16 Jul |
+| 4 | Analysis: descriptive stats, visualisations, bridge paper deep dives | 5 | 17–21 Jul |
+| 5 | Ch2 Theoretical Framework writing | 7 | 17–23 Jul |
+| 6 | Ch4 Findings (descriptive stats + synthesis) | 8 | 22–29 Jul |
+| 7 | Ch5 Discussion + Ch6 Conclusion | 7 | 30 Jul – 5 Aug |
+| 8 | Ch1+Ch3 revision, references, AI statement | 4 | 6–9 Aug |
+| 9 | Polish, proofread, submit | 4 | 10–13 Aug |
 
 **Contingency:** if full-text retrieval reveals >~80 papers with retrievable full text, narrow extraction scope (date-weighted sampling or tightened relevance). Finalise rule with Craig before extraction begins.
 
@@ -109,13 +110,12 @@ gantt
 
 | Priority | Task | Who | Notes |
 |---|---|---|---|
-| **High** | Import `Included_151_records.ris` into Zotero | Author | File ready in `Literature [.RIS]/deduplicated/` |
-| **High** | Begin full-text PDF retrieval | Author | ~151 papers to locate; prioritise online access via Glasgow Uni |
-| **Medium** | Run snowballing from anchor texts (Graham 2006, Kitchin 2014, Weizman 2007) | Author + Agent | Agent can format candidate lists from reference PDFs |
-| **Medium** | Draft extraction/coding spreadsheet columns + codebook | Agent | Propose coding scheme for author review |
-| **Low** | Draft agenda for next supervision slot | Agent | Open questions + screening progress summary |
+| **High** | Begin analysis: descriptive stats, Search A/B divergence, temporal trends | Agent | Extraction data ready in `corpus/extraction_results.csv` |
+| **High** | Qualitative deep dives: 5-8 bridge papers for Ch.4 vignettes | Agent | Use `corpus/extractions/*.json` key_quotes |
+| **Medium** | Build visualisations: scatter plot (T1×T4), PRISMA flow, theme distribution | Agent | Matplotlib + Mermaid |
+| **Medium** | Draft Ch2 prose (theoretical framework) | Author + Agent | Outline exists at `projects/dissertation/ch2-outline.md` |
+| **High** | Run snowballing from anchor texts (Graham 2006, Kitchin 2014, Weizman 2007) | Author + Agent | Agent can format candidate lists from reference PDFs |
 | **Low** | Write AI-use statement draft from AGENTS.md conventions | Agent | Place in `final-draft/dissertation.tex` appendix A |
-| **Medium** | Draft Ch2 outline (full section map) | Agent | Structuring Arrow → Deleuze → De Landa → Michael → King/Graham/Weizman narrative arc |
 
 ## 6. Completed milestones
 
@@ -125,10 +125,13 @@ gantt
 - [x] All RIS files deduplicated (874 unique records)
 - [x] AI-assisted title/abstract screening (DS4-flash, temp 0.0) — 151 Include
 - [x] `Included_151_records.ris` and tagged variant verified correct
+- [x] Full-text retrieval: 145/148 PDFs located and extracted (pipeline_01_extract_v2)
+- [x] AI-assisted thematic coding (DS4-flash, temp 0.0) — 147/151 papers scored across 4 themes
 - [x] SLR.log.md captures full calibration + execution history
 
 ## 7. Version history
 
+- **v1.3 (16 Jul 2026):** Full-text retrieval + extraction + thematic coding complete. 147/151 papers scored. Initial analysis: A/B divergence confirmed, bridge papers identified, analysis modalities recommended. Phase plan updated to reflect 28-day runway.
 - **v1.2 (12 Jul 2026):** Screening complete milestone added. Revised phase plan + immediate tasks for 12–14 Jul. Contingency rule added. Completed milestones section. Gordon-clarke.
 - **v1.1 (30 Jun 2026):** Rayyan/pilot-screen removed, `final-draft/` LaTeX directory created.
 - **v1 (11 Jun 2026):** Initial decomposition. Pending supervision review.
