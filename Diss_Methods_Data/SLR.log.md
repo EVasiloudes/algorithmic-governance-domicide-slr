@@ -313,3 +313,50 @@ Likely driven by Gaza scholarship post-2023. The literature's engagement with sp
 3. Bridge paper qualitative deep dives for Ch.4 vignettes
 4. Temporal trend visualisation
 5. Ch.2 Theoretical Framework prose drafting
+
+
+## Citation Chaining (Snowballing) — 2026-07-19
+
+### Protocol
+Single iteration, backward + forward, from 4 anchor texts (protocol specified 3–5; the 3 named anchors plus Michael 2007, central to the Ch2 framework). Executed via **OpenAlex** API (no Scopus access at execution time) with the same filters as the database searches: 1990–2025, English, article/book-chapter/review.
+
+### Anchors (resolved records)
+| Anchor | OpenAlex record | Backward (refs indexed) | Forward (citing, filtered) |
+|---|---|---|---|
+| Graham 2006, *Cities, War, and Terrorism* | W2503071168 | 0 (book — no indexed bibliography) | 194 |
+| Kitchin 2014, *Big Data, new epistemologies…* | W2112031167 | 49 → 33 filtered | 1,490 |
+| Weizman 2007, *Hollow Land* | W1805035031 | 0 (book — no indexed bibliography) | 346 |
+| Michael 2007, *IDF as epistemic authority* | W2042077210 | 14 → 8 filtered | 17 |
+
+**Coverage note:** OpenAlex indexes no reference lists for the two book anchors (Graham, Weizman); backward pass was executable only for Kitchin (33) and Michael (8). Disclosed in Ch3 §3.3.4.
+
+### Pipeline
+- Unique candidates after protocol filters: **2,087**
+- Duplicates of existing 874-record corpus: **9** (3 DOI, 6 title) — the citation network extends well beyond the keyword perimeter
+- New records: **2,078**
+- Triage exclusion (no/vestigial abstract <200 chars, mirrors main pipeline rule): **516**
+- Screened (title+abstract, identical prompt/model/temp as main run: DS4-flash, temp 0.0, 4 parallel workers, resumable): **1,562**
+
+### Results
+| Verdict | Count |
+|---|---|
+| Include | **119** |
+| Exclude | 1,917 |
+| Maybe (pending author resolution) | 41 |
+| Unresolved error | 1 |
+
+Includes by anchor path: Kitchin fwd 56, Graham fwd 35, Weizman fwd 29, Kitchin bwd 1 (2 records via multiple anchors; Michael yielded 0).
+
+### Files (Diss_Methods_Data/analysis/snowball/)
+- `pull_candidates.py`, `dedup_against_corpus.py`, `screen_snowball.py` — pipeline scripts
+- `candidates.json`, `candidates_deduped.json` — raw + deduped candidate pools
+- `snowball_screening.csv` — all 2,078 verdicts
+- `maybes_for_author.md` — 41 records pending author decision
+- `snowball_summary.json` — machine-readable counts
+
+### Next steps
+1. Author resolves 41 Maybes → final Include count
+2. Full-text retrieval for new Includes (OpenAlex OA links where available)
+3. Thematic coding of new Includes (same codebook/pipeline as main corpus)
+4. PRISMA diagram updated: "identification via other methods" branch
+5. Ch3 §3.3.4 rewritten from protocol deviation to executed pass
