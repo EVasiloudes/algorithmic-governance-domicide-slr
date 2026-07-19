@@ -248,3 +248,20 @@
 - **DOI:** https://doi.org/10.1353/pmc.2018.0037
 - **Decision:** 
 
+
+---
+
+# Scopus-stream Maybes (added 20 Jul)
+
+## 42. Remaking the Urban: International Actors and the Post-war Reconstruction of Cities
+- **Year:** 2024 | **Source:** International Studies Quarterly
+- **Via:** Scopus cited-by (scopus_export_Jul_20_2026_8e76)
+- **DOI:** 10.1093/isq/sqae054
+- **Decision:** 
+
+## 43. Dual cellular-path (MIHP) healthy urbanism-a proactive means to sustain placemaking
+- **Year:** 2024 | **Source:** Edelweiss Applied Science and Technology
+- **Via:** Scopus cited-by (scopus_export_Jul_20_2026_277d)
+- **DOI:** 10.55214/25768484.v8i4.1161
+- **Decision:** 
+
