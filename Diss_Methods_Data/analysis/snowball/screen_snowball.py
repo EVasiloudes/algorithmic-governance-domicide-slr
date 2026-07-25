@@ -9,8 +9,9 @@ Output: snowball_screening.csv  (resumable — skips rows already present)
 Triage: records with no/vestigial abstract (<200 chars) are excluded at triage,
 mirroring the main pipeline's 77-record no-abstract exclusion.
 """
-import os, csv, json, time, re, sys, threading
+import os, csv, json, time, re, sys, threading, ssl
 import urllib.request, urllib.error
+import certifi
 from concurrent.futures import ThreadPoolExecutor, as_completed
 
 WORKERS = 4
@@ -19,8 +20,8 @@ write_lock = threading.Lock()
 OUT = os.path.dirname(os.path.abspath(__file__))
 API_KEY = os.environ.get("OPENROUTER_API_KEY", "")
 OPENROUTER_URL = "https://openrouter.ai/api/v1/chat/completions"
-MODEL = "deepseek/deepseek-v4-flash"
-FALLBACK_MODEL = "deepseek/deepseek-chat"
+MODEL = "deepseek/deepseek-chat"
+FALLBACK_MODEL = "deepseek/deepseek-v4-flash"
 MIN_ABS = 200
 
 SYSTEM_PROMPT = open(os.path.join(OUT, "screening_prompt.txt")).read()
@@ -37,7 +38,7 @@ def call_model(model, text, retries=3):
                  "X-Title": "SLR-Snowball-Screener"})
     for attempt in range(retries):
         try:
-            with urllib.request.urlopen(req, timeout=90) as r:
+            with urllib.request.urlopen(req, timeout=90, context=ssl.create_default_context(cafile=certifi.where())) as r:
                 data = json.load(r)
             msg = data["choices"][0]["message"]
             txt = (msg.get("content") or msg.get("reasoning_content") or "").strip()

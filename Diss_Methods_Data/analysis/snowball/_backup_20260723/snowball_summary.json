@@ -1,0 +1,17 @@
+{
+ "n_candidates": 2087,
+ "n_dup_corpus": 9,
+ "n_new": 2078,
+ "n_triage_no_abstract": 516,
+ "n_screened": 1562,
+ "include": 119,
+ "exclude": 1917,
+ "maybe": 41,
+ "error": 1,
+ "includes_by_anchor": {
+  "Graham 2006:forward": 35,
+  "Weizman 2007:forward": 29,
+  "Kitchin 2014:backward": 1,
+  "Kitchin 2014:forward": 56
+ }
+}

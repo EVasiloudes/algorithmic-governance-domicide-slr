@@ -1,17 +1,24 @@
 {
- "n_candidates": 2087,
- "n_dup_corpus": 9,
- "n_new": 2078,
- "n_triage_no_abstract": 516,
- "n_screened": 1562,
- "include": 119,
- "exclude": 1917,
- "maybe": 41,
- "error": 1,
+ "n_candidates": 2090,
+ "n_deduped": 9,
+ "n_kept": 2081,
+ "n_triage_no_abstract": 517,
+ "n_screened": 2081,
+ "include": 121,
+ "exclude": 1685,
+ "maybe": 275,
+ "error": 0,
  "includes_by_anchor": {
-  "Graham 2006:forward": 35,
-  "Weizman 2007:forward": 29,
-  "Kitchin 2014:backward": 1,
-  "Kitchin 2014:forward": 56
+  "Graham 2006:forward": 37,
+  "Weizman 2007:forward": 46,
+  "Kitchin 2014:forward": 40
+ },
+ "total_by_anchor": {
+  "Graham 2006:forward": 192,
+  "Weizman 2007:forward": 346,
+  "Kitchin 2014:backward": 33,
+  "Kitchin 2014:forward": 1492,
+  "Michael 2007:backward": 8,
+  "Michael 2007:forward": 17
  }
 }

@@ -3,7 +3,8 @@
 Anchors: Graham 2006, Kitchin 2014, Weizman 2007, Michael 2007.
 Protocol filters (same as main searches): 1990-2025, English, article/chapter/review.
 """
-import json, time, urllib.request, urllib.parse, sys, os
+import json, time, urllib.request, urllib.parse, sys, os, ssl
+import certifi
 
 MAILTO = "liase@openclaw.local"
 BASE = "https://api.openalex.org/works"
@@ -20,6 +21,8 @@ def _load_key():
 
 API_KEY = _load_key()
 
+ctx = ssl.create_default_context(cafile=certifi.where())
+
 def get(url):
     sep = "&" if "?" in url else "?"
     url = f"{url}{sep}mailto={MAILTO}"
@@ -28,7 +31,7 @@ def get(url):
     req = urllib.request.Request(url, headers={"User-Agent": "Mozilla/5.0 (snowball-slr)"})
     for attempt in range(4):
         try:
-            with urllib.request.urlopen(req, timeout=60) as r:
+            with urllib.request.urlopen(req, timeout=60, context=ctx) as r:
                 return json.load(r)
         except Exception as e:
             wait = 2 ** attempt * 5
