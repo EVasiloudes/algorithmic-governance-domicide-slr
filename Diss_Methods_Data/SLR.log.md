@@ -355,8 +355,60 @@ Includes by anchor path: Kitchin fwd 56, Graham fwd 35, Weizman fwd 29, Kitchin 
 - `snowball_summary.json` — machine-readable counts
 
 ### Next steps
-1. Author resolves 41 Maybes → final Include count
-2. Full-text retrieval for new Includes (OpenAlex OA links where available)
-3. Thematic coding of new Includes (same codebook/pipeline as main corpus)
-4. PRISMA diagram updated: "identification via other methods" branch
-5. Ch3 §3.3.4 rewritten from protocol deviation to executed pass
+1. Author resolves 279 Maybes → final Include count
+2. Full-text retrieval for 124 snowball Includes (Zotero/library flow)
+3. Run `enrich_springer.py` when Springer META rate limit resets (225 records, ~60-80 expected abstracts)
+4. Thematic coding of snowball Includes (same codebook/pipeline as main corpus)
+5. PRISMA diagram updated: "identification via other methods" branch
+6. Ch3 §3.3.4 rewritten from protocol deviation to executed pass
+
+---
+
+## Snowball Re-Run — 2026-07-23
+
+### Context
+Original pull (Jul 19-22) had an expired OpenAlex API key. Kitchin 2014 has 2,300+ citations — without auth, OpenAlex silently rate-limited or returned incomplete pages. The old `.env` was empty.
+
+### Fresh run with valid key
+- Kitchin forward: 1,498 screenable (was ~56 in truncated run)
+- Weizman forward: 338 screenable
+- Graham forward: 238 screenable
+- **New totals:** 2,090 candidates → 2,081 after dedup → 1,564 screened → 121 Include, 275 Maybe, 1,685 Exclude, 517 triaged (no abstract)
+- Maybes exploded from 41 → 275 — the real bottleneck became author resolution
+
+---
+
+## Abstract Enrichment Pipeline — 2026-07-26
+
+### Purpose
+517 triage records had no abstract from OpenAlex. Elias supplied publisher API keys (Elsevier, Springer META, Springer OA, IEEE Xplore) to close the gap.
+
+### APIs tested
+| API | Status | Reason |
+|-----|--------|--------|
+| **Semantic Scholar** | ✅ Used | Free, no key. 59/497 enriched |
+| **OpenAlex re-scan** | ✅ Used | 17/498 newly got abstracts |
+| **Springer META** | ⚠️ Working | 500 calls/day. Rate-limited from earlier failed runs. 225 Springer records pending |
+| **Elsevier** | ❌ | Free tier returns no abstract text (needs institutional subscription) |
+| **IEEE Xplore** | ❌ | Account marked "Inactive" on developer.ieee.org |
+| **Crossref** | ❌ | Publishers don't deposit abstracts |
+| **Springer OA** | ❌ | Only covers open-access subset |
+
+### Re-screening results
+58 triaged records gained abstracts (57 S2 + 1 OpenAlex). Re-screened with same DS4-chat model + system prompt:
+- **+3 Include:** From SARS to COVID-19 (Elsevier), Civic data governance & democratic smart cities, Spatiotemporal resolution in predictive policing
+- **+4 Maybe:** Neoliberalising the divided city, Smart systems for smart places, Social implications of autonomous vehicles, Dwelling within political violence (Palestinian women)
+- 51 remain Exclude
+
+### Current state
+| | Before | After |
+|---|---|---|
+| Include | 121 | **124** |
+| Maybe | 275 | **279** |
+| Exclude | 1,685 | 1,678 |
+| No abstract | 517 | 459 |
+
+### Scripts added
+- `enrich_abstracts.py` — unified enrichment (S2 + OpenAlex + Springer)
+- `enrich_springer.py` — Springer-only, self-throttling for rate limits
+- `rescreen_enriched.py` — re-screens enriched records using same AI pipeline
