@@ -1,0 +1,17 @@
+{
+  "timestamp": "2026-07-28T22:24:09.868939",
+  "pipeline": "pipeline_snowball_extract",
+  "source": "/Users/eliasvasnic/Obsidian Vaults/Elias Vasnic Obsidian Vault/Atoms/Public_Policy_&_Management/Courses/MSc PPM Dissertation - Repo/Diss_Methods_Data/{exported from Zotero}/SNOWBALLED-RECORDS{export from Zotero}",
+  "ris_file": "SNOWBALLED-RECORDS{export from Zotero}.ris",
+  "stats": {
+    "total": 124,
+    "valid": 123,
+    "no_pdf": 1,
+    "extraction_ok": 123,
+    "extraction_failed": 0,
+    "errors": []
+  },
+  "metadata_path": "Diss_Methods_Data/corpus/metadata_snowball.csv",
+  "pdf_dir": "Diss_Methods_Data/corpus/pdfs_snowball",
+  "text_dir": "Diss_Methods_Data/corpus/text_snowball"
+}
