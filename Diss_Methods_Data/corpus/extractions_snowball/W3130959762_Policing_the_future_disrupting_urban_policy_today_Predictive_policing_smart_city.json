@@ -1,0 +1,30 @@
+{
+  "title": "Policing the future, disrupting urban policy today. Predictive policing, smart city, and urban policy in Memphis (TN)",
+  "year": "2022",
+  "doi": "10.1080/02723638.2021.1887634",
+  "doc_type": "journal_article",
+  "methodology": "empirical_mixed",
+  "geography": "Memphis, TN, USA",
+  "thesis": "通过实证批判孟菲斯Blue CRUSH预测性警务，揭示其缺乏预防犯罪效力，并证明它通过促进治安扩张、破坏警察工作而重塑城市政策，从而批判智慧城市的救世话语。",
+  "theme_1_score": 0,
+  "theme_1_justification": "Not addressed. The paper does not discuss the economic/material properties of software/data, dual-use fluidity, or technology transfer between civilian and military domains. It focuses on predictive policing as a policing tool, not on the information good characteristics that enable dual-use.",
+  "theme_2_score": 2,
+  "theme_2_justification": "Substantive engagement. The paper discusses algorithmic opacity ('black box' society, Pasquale 2015), lack of transparency (copyrights protecting algorithms, secret implementation), epistemic authority of data-driven systems (technology as ideology), and the reproduction of racial biases through data. It explicitly critiques the claim of technical neutrality and the 'scientific truth' aura of predictive policing.",
+  "theme_3_score": 2,
+  "theme_3_justification": "Substantive engagement. The paper discusses the smart city discourse and predictive policing as part of anticipatory logics, real-time management, and algorithmic governance. It frames the smart city as a mode of governance ('technology as ideology') and addresses the shift toward data-driven, technocratic urban management. However, it does not deeply theorize the city as a machinic assemblage or continuous modulation in Deleuzian terms.",
+  "theme_4_score": 1,
+  "theme_4_justification": "Tangential mention. The paper discusses the territorial discrimination and over-policing of minority neighborhoods, describing it as 'occupation' and noting the concentration of cameras in affluent areas. It mentions 'reassuring the rich, policing the (racialized) poor' but does not address physical spatial destruction, urbicide, home unmaking, or military urbanism beyond policing.",
+  "dual_use_explicit": "no",
+  "dual_use_direction": "neither",
+  "dual_use_structural": "no",
+  "key_quotes": [
+    "the article, first, shows that there is no evidence of Blue CRUSH's capacity to prevent crime, thus adding empirical material to skepticism over the role of predictive policing as a policy solution in the first place. And, second, it argues that, rather than making crime a matter of technological solutions, predictive policing shifts the politics therein – in short, it contributes to the expansion of policing into the field of urban policy at the same time as it disrupts present police work.",
+    "The smart city, in this sense, can be understood as the ultimate attempt at deploying technology as ideology, an ideology that is typical of the neoliberal(izing) city: the corporatization of urban services, dismantling of welfare programs, and over-securitization of public space.",
+    "the collection of massive data about crime raises problems of privacy and data handling, particularly when data are shared among governmental agencies and corporations. Third, predictive policing is heavily shaped by the data it uses; and in contexts where enforcement, hence reporting, is influenced by class and racial biases (the USA being the quintessentially problematic case), it cannot help but reproduce those same biases through its algorithmic elaboration."
+  ],
+  "policy_relevance": "论文指出预测性警务将资源从社会政策转向治安，加剧紧缩和不平等，并呼吁超越技术解决方案，追求更公正的城市治理。",
+  "notes": "完整期刊文章，无截断。",
+  "via": "Kitchin 2014:forward",
+  "text_truncated": false,
+  "openalex_id": "https://openalex.org/W3130959762"
+}

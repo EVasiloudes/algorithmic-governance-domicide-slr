@@ -1,0 +1,30 @@
+{
+  "title": "The changing character of Israel's occupation: planning and civilian control",
+  "year": "2010",
+  "doi": "10.3828/tpr.2010.28",
+  "doc_type": "journal_article",
+  "methodology": "policy_analysis",
+  "geography": "West Bank (Israel/Palestine)",
+  "thesis": "Israel uses planning and land policy instruments in the West Bank to restrict Palestinian development and enable settlement expansion, continuing occupation through bureaucratic means.",
+  "theme_1_score": 0,
+  "theme_1_justification": "Not addressed. No discussion of dual-use, technology transfer, or information good properties between civilian and military domains.",
+  "theme_2_score": 1,
+  "theme_2_justification": "Tangential. Discusses opaque planning procedures and bureaucratic interpretation used to restrict Palestinian building, but does not focus on algorithmic opacity or data-driven epistemic authority. Mentions 'anti-planning' (citing Weizman, 2007) as a concept.",
+  "theme_3_score": 0,
+  "theme_3_justification": "Not addressed. No discussion of algorithmic governance, smart city, continuous modulation via data, or automated decision-making.",
+  "theme_4_score": 2,
+  "theme_4_justification": "Substantive. Addresses spatial destruction through planning restrictions, house demolitions, separation barrier, enclaves, and displacement of Palestinians. Discusses 'home unmaking' indirectly via demolitions and restricted development. Engages with Weizman's concept of 'anti-planning' and vertical separation. No explicit mention of domicide/urbicide as terms.",
+  "dual_use_explicit": "no",
+  "dual_use_direction": "neither",
+  "dual_use_structural": "no",
+  "key_quotes": [
+    "The plan emphasised that insofar as areas adjacent to the 1948/49 armistice Green Line were concerned, 'immediate action on the subject of planning is essential both within and outside the area' (WZO, 1983, 7–8).",
+    "Israel has made use of the power to demolish houses with increased vigilance over the past decade (Bimkom, 2008). In fact, a recent report notes that in June 2009, OCHA recorded the single highest monthly total of Area C demolitions since it developed its database, in 2005.",
+    "as the percentage of rejections increases, Palestinians lose hope that they will succeed in obtaining one, and apply for permits only as a stop-gap measure when demolition orders to existing structures have been published."
+  ],
+  "policy_relevance": "Describes how planning and land policy under occupation violate international law and humanitarian principles, with implications for peace negotiations and the two-state solution. The paper calls for planners to recognize ethical duties to all affected populations.",
+  "notes": "Paper is part of a Policy Forum including two commentary articles and a response. Focuses on planning and land policy, not on algorithmic governance or dual-use technology. The term 'anti-planning' is used citing Weizman (2007), which may be relevant to other themes in the broader SLR context.",
+  "via": "Weizman 2007:forward",
+  "text_truncated": false,
+  "openalex_id": "https://openalex.org/W1892196310"
+}

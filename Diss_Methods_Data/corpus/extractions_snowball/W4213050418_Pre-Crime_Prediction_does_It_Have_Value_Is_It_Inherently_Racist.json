@@ -1,0 +1,30 @@
+{
+  "title": "Pre-Crime Prediction: does It Have Value? Is It Inherently Racist?",
+  "year": "2022",
+  "doi": "10.4018/IJSSMET.298672",
+  "doc_type": "journal_article",
+  "methodology": "theoretical",
+  "geography": "United States, also China, UK",
+  "thesis": "Predictive algorithms in policing have value but carry risks of bias, error, and infringement of rights; they should be used cautiously with human oversight.",
+  "theme_1_score": 0,
+  "theme_1_justification": "Not addressed. The paper discusses predictive policing but does not engage with dual-use properties or technology transfer between civilian and military domains.",
+  "theme_2_score": 2,
+  "theme_2_justification": "Substantive engagement: discusses algorithmic opacity ('black-box conundrum'), bias, the epistemic authority of data-driven systems, and the idea that algorithms are 'opinions embedded in code' (O'Neil). Also addresses feedback loops and racial bias.",
+  "theme_3_score": 1,
+  "theme_3_justification": "Tangential mention: discusses predictive policing as a mode of governance through data analysis (hot spots, risk scores), but does not frame it as machinic modulation or smart city governance. Focus is on justice system rather than urban modulation.",
+  "theme_4_score": 0,
+  "theme_4_justification": "Not addressed. No discussion of spatial destruction, urbicide, home unmaking, or weaponisation of urban infrastructure.",
+  "dual_use_explicit": "no",
+  "dual_use_direction": "neither",
+  "dual_use_structural": "no",
+  "key_quotes": [
+    "O'Neil (2016, 2017), a mathematician and data scientist, insisted that algorithms were nothing more than opinions embedded in code.",
+    "Transparency was problematic because deep learning algorithms continually updated their pattern-finding function autonomously to reach the point where human programmers and/or analysts were unable to understand exactly how the final outcome was reached (i.e., the 'black-box conundrum') (O'Donnell, 2019, p. 546).",
+    "Lum and Isaac (2016) found PredPol dispatched police more often to minority neighborhoods and concluded that the PredPol algorithm tended to target Blacks at two times the rate of Whites. This disparate outcome was a consequence of a 'pernicious feedback loop' (O'Neil, 2016, p. 87)."
+  ],
+  "policy_relevance": "Recommends caution, transparency, accountability, and human rights protections; suggests using predictive tools for social services rather than purely punitive measures; notes need for long-term data collection (20 years) for policy assessment.",
+  "notes": "Journal article, complete text. Focuses on predictive policing in the US, with brief mentions of China and UK. Does not address urban dual-use or spatial destruction themes.",
+  "via": "Kitchin 2014:forward",
+  "text_truncated": false,
+  "openalex_id": "https://openalex.org/W4213050418"
+}

@@ -1,0 +1,30 @@
+{
+  "title": "Beyond data as representation: The performativity of Big Data in surveillance",
+  "year": "2016",
+  "doi": null,
+  "doc_type": "journal_article",
+  "methodology": "theoretical",
+  "geography": "global",
+  "thesis": "Data-based surveillance produces suspect subjectivities parasitically on other data-based subjectivations, requiring a performative rather than representationalist account.",
+  "theme_1_score": 0,
+  "theme_1_justification": "Not addressed. The paper does not discuss dual-use, technology transfer, or the economic properties of information goods.",
+  "theme_2_score": 2,
+  "theme_2_justification": "Substantive engagement with epistemic authority and algorithmic opacity. Critiques representationalist views, discusses the 'speculative faith' in data systems, and how data-based judgments gain authority through citationality.",
+  "theme_3_score": 1,
+  "theme_3_justification": "Tangential mention of control society concepts (Deleuze's dividuals, modulation) but not specifically in an urban context. Focus is on surveillance generally.",
+  "theme_4_score": 0,
+  "theme_4_justification": "Not addressed. No discussion of spatial destruction, urbicide, or home unmaking.",
+  "dual_use_explicit": "no",
+  "dual_use_direction": "civil_to_military",
+  "dual_use_structural": "no",
+  "key_quotes": [
+    "Surveillance is not a separate application of Big Data but a potential that emerges from all uses of data analysis.",
+    "The performativity of data in surveillance is parasitical to such other performatives. Thus, no data remains innocent: All ways in which we can become a subject also are ways to become a suspect.",
+    "Data-based surveillance is legitimized by the circumspect collection of data which are then put into new relations. It is based on the power relations that emanate by the possibility to cite a wide range of data in contexts of effective authority and governance."
+  ],
+  "policy_relevance": "None",
+  "notes": "Full text provided. Paper is theoretical, drawing on Butler and Deleuze. No empirical data.",
+  "via": "Kitchin 2014:forward",
+  "text_truncated": false,
+  "openalex_id": "https://openalex.org/W2538090753"
+}

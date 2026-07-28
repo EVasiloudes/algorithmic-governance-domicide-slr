@@ -1,0 +1,30 @@
+{
+  "title": "Predict and Surveil: Data, Discretion, and the Future of Policing",
+  "year": "2021",
+  "doi": null,
+  "doc_type": "book_chapter",
+  "methodology": "empirical_qualitative",
+  "geography": "United States (Los Angeles, California)",
+  "thesis": "Big data policing is fundamentally social, not objective, and its use in the LAPD amplifies inequality and displaces discretion to less visible parts of the process.",
+  "theme_1_score": 2,
+  "theme_1_justification": "Substantive engagement with dual-use: discusses migration of defense technologies (Palantir, originally for counterinsurgency in Iraq/Afghanistan) to local policing (p. 7). Also mentions private vendors and proprietary algorithms lowering accountability (p. 5). However, does not deeply theorize the structural properties of software/data that enable this transfer.",
+  "theme_2_score": 2,
+  "theme_2_justification": "Substantive engagement with epistemic authority and black-boxing: discusses how algorithms are not objective but shaped by social contexts (p. 4-5), private vendors hiding behind trade secrecy (p. 5), and 'techwashing' inequality (p. 6). Also addresses how data is positioned as an antidote to bias but obscures social processes (p. 6).",
+  "theme_3_score": 1,
+  "theme_3_justification": "Tangential mention: discusses predictive policing (PredPol) and real-time crime analysis centers (RACR) as modes of algorithmic governance (p. 8-9), and the shift from reactive to predictive policing (p. 14). But does not deeply theorize the city as a programmable system or continuous modulation.",
+  "theme_4_score": 0,
+  "theme_4_justification": "Not addressed: no discussion of spatial destruction, domicide, urbicide, home unmaking, or urban warfare.",
+  "dual_use_explicit": "yes",
+  "dual_use_direction": "military_to_civil",
+  "dual_use_structural": "tangential",
+  "key_quotes": [
+    "As I attended surveillance industry conferences and talked with individuals working in state, federal, and local law enforcement agencies, I learned that these agencies were starting to purchase licenses for analytic platforms originally designed for counterinsurgency efforts in Iraq and Afghanistan. One platform stood out early in my research—a platform designed by Palantir Technologies.",
+    "Private vendors can hide behind trade secrecy and nondisclosure agreements, ultimately circumventing typical public-sector transparency requirements and lowering the accountability of the police by making it harder for scholars to study, regulators to regulate, and activists to mobilize for or against specific practices.",
+    "The potential of big data is widely celebrated. Proponents argue it is more objective and can eliminate inequality by stripping discretion from biased front-line actors. But when we actually look at big data on the ground, we see that the use of big data does not replace discretion, but rather displaces discretionary power to earlier, less visible (and less accountable) parts of the policing process."
+  ],
+  "policy_relevance": "Calls for curbing institutions' craving for data and offers guidelines for academics, lawmakers, and community groups to promote efficiency, fairness, and accountability in criminal justice reform (p. 16).",
+  "notes": "This is the introduction and first chapter of a book. The text is complete for this chapter. The book is a case study of the LAPD's use of big data and surveillance technologies.",
+  "via": "Kitchin 2014:forward",
+  "text_truncated": false,
+  "openalex_id": "https://openalex.org/W3094168498"
+}

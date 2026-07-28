@@ -1,0 +1,30 @@
+{
+  "title": "21 Militarized Civic Ritual: Pentagon, Police, and US Professional Football",
+  "year": "2021",
+  "doi": "10.1057/978-1-137-56854-0_21",
+  "doc_type": "book_chapter",
+  "methodology": "theoretical",
+  "geography": "United States",
+  "thesis": "Militarized civic rituals, exemplified by the NFL's relationship with the US military and homeland security, have become routine in US cities, blurring civilian-military boundaries and legally equating fans with citizen-soldiers.",
+  "theme_1_score": 3,
+  "theme_1_justification": "Central argument: the chapter explicitly addresses the conflation between military and civilian discourses and practices in urban contexts through sport, detailing technology transfer (Pentagon adopting NFL instant replay, behavior pattern recognition from airports to stadiums), legal frameworks (SAFETY Act, Government Contractor Defense) that enable dual-use, and the recruitment of citizens into intelligence-gathering via mobile apps. The blurring of civilian-military boundaries is the paper's primary contribution.",
+  "theme_2_score": 2,
+  "theme_2_justification": "Substantive engagement: discusses surveillance technologies (face recognition, biometric databases, behavior pattern recognition) deployed at NFL events without fan knowledge, the epistemic authority of security systems (e.g., 'If you see something, say something' campaign recruiting citizens as intelligence gatherers), and the democratic deficit created by suspending civil liberties. However, the focus is more on militarization than algorithmic opacity specifically.",
+  "theme_3_score": 2,
+  "theme_3_justification": "Substantive engagement: describes how NFL events modulate urban populations through security measures that restrict movement, control commerce, subject citizens to military procedures, and create 'NFL-only commercial zones.' The Super Bowl alters traffic patterns and normalizes continuous surveillance. The concept of 'battlespace' (Graham) is invoked to describe limitless militarization of urban everyday life.",
+  "theme_4_score": 2,
+  "theme_4_justification": "Substantive engagement: addresses the weaponization of civilian infrastructure (stadiums as terrorist targets), the 'battlespace' concept transforming cities into permanent war zones, and the erosion of democratic urban space through militarized policing and surveillance. References Stephen Graham's work on new military urbanism. However, spatial destruction/home unmaking is not the central focus; it is more about the militarization of civic rituals.",
+  "dual_use_explicit": "yes",
+  "dual_use_direction": "both",
+  "dual_use_structural": "tangential",
+  "key_quotes": [
+    "In this chapter I suggest that militarized civic rituals have now become an ever-present feature of US urban life and represent a troubling new conflation between military and civilian discourses and practices employed through sport, particularly the NFL and the Super Bowl.",
+    "This effectively means that the NFL is legally viewed the same as a Pentagon supplier, and the fans in attendance, and the citizens in the urban spaces, are the soldiers at war.",
+    "Legally equated with a soldier at war, the NFL fan's call of duty is perceived through a mobile phone application, everyday citizens recruited to assist, in the name of patriotism, in terrorism prevention. This blurs legal and operational separations between intelligence-gathering and citizenship and further collapses civilian-military boundaries suggesting a changed notion of duty for all US residents."
+  ],
+  "policy_relevance": "Discusses the SAFETY Act (2002) which provides liability protection to anti-terrorism technology sellers, including the NFL, and the Government Contractor Defense that immunizes sellers against claims from terrorist acts; notes that citizens are not informed of their legal status as soldiers and lack the benefits (e.g., veteran pensions, medical care) that actual soldiers receive; recommends awareness of militarization and its implications for citizenship.",
+  "notes": "Book chapter from an edited volume, adapted from an earlier journal article (Schimmel, 2017, Sociology of Sport Journal). Text is complete. Focuses on US context, specifically the NFL and Super Bowl.",
+  "via": "Graham 2006:forward",
+  "text_truncated": false,
+  "openalex_id": "https://openalex.org/W3215403016"
+}

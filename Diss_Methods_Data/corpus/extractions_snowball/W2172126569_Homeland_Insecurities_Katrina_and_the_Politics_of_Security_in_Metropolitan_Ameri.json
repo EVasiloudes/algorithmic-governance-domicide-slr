@@ -1,0 +1,30 @@
+{
+  "title": "“Homeland” Insecurities? Katrina and the Politics of “Security” in Metropolitan America",
+  "year": "2006",
+  "doi": "10.1177/1206331205283671",
+  "doc_type": "journal_article",
+  "methodology": "policy_analysis",
+  "geography": "United States (New Orleans)",
+  "thesis": "The Bush administration's post-9/11 focus on terrorism undermined urban preparedness for natural disasters like Katrina, revealing the politics of security.",
+  "theme_1_score": 0,
+  "theme_1_justification": "Not addressed. No discussion of information goods, dual-use technology transfer, or software/data properties.",
+  "theme_2_score": 0,
+  "theme_2_justification": "Not addressed. No discussion of algorithmic opacity, epistemic authority, or surveillance as knowledge production.",
+  "theme_3_score": 0,
+  "theme_3_justification": "Not addressed. No conceptualization of the city as a programmable system or modulation through data.",
+  "theme_4_score": 1,
+  "theme_4_justification": "Tangential mention: discusses urban combat operations in New Orleans echoing Baghdad/Fallujah, displacement, and militarized response, but not as a central theme of spatial destruction or home unmaking.",
+  "dual_use_explicit": "no",
+  "dual_use_direction": "neither",
+  "dual_use_structural": "no",
+  "key_quotes": [
+    "In disturbing echoes of Baghdad and Fallujah, U.S. Army commanders, in response to Katrina, talked openly in the Army Times about the need to launch 'urban combat' operations to 'take back' the city from 'insurgents' who had bred anarchy and violence.",
+    "The Katrina disaster unerringly revealed some of the stark politics that surround 'security' in the post-9/11 United States.",
+    "Such a policy shift may have directly contributed to the scale and devastation of Katrina. In early 2004, the federal government withdrew moneys from levee maintenance around New Orleans to pay for homeland security programs and the Iraq war budget."
+  ],
+  "policy_relevance": "Critiques the diversion of resources from disaster mitigation to antiterror spending; implies need for balanced security policies that address natural hazards and climate change.",
+  "notes": "Short intervention piece (4 pages); focuses on political critique rather than technology or data systems.",
+  "via": "Graham 2006:forward",
+  "text_truncated": false,
+  "openalex_id": "https://openalex.org/W2172126569"
+}

@@ -1,0 +1,30 @@
+{
+  "title": "Kafka at the West Bank checkpoint: de-normalizing the Palestinian encounter before the law",
+  "year": "2014",
+  "doi": "10.1080/17449855.2013.850245",
+  "doc_type": "journal_article",
+  "methodology": "theoretical",
+  "geography": "West Bank, Palestine/Israel",
+  "thesis": "Alternative filmic representations of the West Bank checkpoint de-normalize the encounter, revealing it as a manifestation of Agamben's state of exception and sovereign law.",
+  "theme_1_score": 0,
+  "theme_1_justification": "Not addressed. The paper does not discuss information goods, dual-use, or technology transfer.",
+  "theme_2_score": 1,
+  "theme_2_justification": "Tangential mention. The paper discusses the opacity and arbitrary authority of the checkpoint's 'law', but not in terms of algorithmic or data-driven epistemic authority.",
+  "theme_3_score": 1,
+  "theme_3_justification": "Tangential mention. The paper discusses the checkpoint as a mechanism of continuous modulation of movement and securitization, but does not conceptualize the city as a programmable or algorithmic system.",
+  "theme_4_score": 3,
+  "theme_4_justification": "Central argument. The paper focuses on the checkpoint as a mechanism of spatial destruction, 'spatio-cide', and home unmaking, drawing on Weizman and Hanafi.",
+  "dual_use_explicit": "no",
+  "dual_use_direction": "neither",
+  "dual_use_structural": "no",
+  "key_quotes": [
+    "the checkpoint has emerged as a quintessential trope within the contemporary Palestinian imagination, to such an extent that 'checkpoint narratives' have arguably come to assume a dangerously 'normalized' status as everyday, even iconic features of Palestinian existence.",
+    "the article argues that apprehension of the enduring oddity and abnormality of the checkpoint serves as a vital mode of critical resistance to the policies of 'spatio-cide' 'securitization' and colonialism exercised at the hands of the State of Israel through the checkpoint mechanism.",
+    "the checkpoint operates as a physical manifestation of the 'state of exception' exercised by Israel as 'sovereign law', according to which the Palestinian subject is reduced to the status of 'homo sacer'"
+  ],
+  "policy_relevance": "Suggests that de-normalization of checkpoint narratives is a form of resistance; references BDS movement in notes.",
+  "notes": "Full text provided. Journal article.",
+  "via": "Weizman 2007:forward",
+  "text_truncated": false,
+  "openalex_id": "https://openalex.org/W1965195317"
+}

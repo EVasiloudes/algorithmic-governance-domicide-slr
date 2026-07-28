@@ -1,0 +1,30 @@
+{
+  "title": "Security Zones and New York City's Shrinking Public Space",
+  "year": 2010,
+  "doi": "10.1111/j.1468-2427.2009.00899.x",
+  "doc_type": "journal_article",
+  "methodology": "empirical_mixed",
+  "geography": "New York City, USA (Lower Manhattan)",
+  "thesis": "This paper empirically measures the extent of security zones in Lower Manhattan, finding that 27% of non-building area is now secured, and argues this new land use shrinks public space and threatens democratic urban life.",
+  "theme_1_score": 0,
+  "theme_1_justification": "Not addressed. The paper focuses on physical security infrastructure (barriers, bollards, surveillance) and does not discuss information goods, dual-use, or technology transfer.",
+  "theme_2_score": 1,
+  "theme_2_justification": "Tangential. The paper discusses surveillance cameras and security personnel, and notes that security measures limit civil liberties and democratic practice, but does not engage with algorithmic opacity, epistemic authority of data, or black-boxing.",
+  "theme_3_score": 0,
+  "theme_3_justification": "Not addressed. The paper does not conceptualize the city as a programmable or algorithmic system, nor does it discuss continuous modulation or smart city governance.",
+  "theme_4_score": 1,
+  "theme_4_justification": "Tangential. The paper discusses the loss of public space and the creation of security zones as a new type of land use that limits public life and democratic expression, but does not address spatial destruction, home unmaking, or military urbanism.",
+  "dual_use_explicit": "no",
+  "dual_use_direction": "neither",
+  "dual_use_structural": "no",
+  "key_quotes": [
+    "We argue that this new type of land use is an important and permanent feature of twenty-first century global cities.",
+    "Public spaces are the lifeblood of cities. More than simple physical entities, truly public spaces are sites of interaction in which individuals are sometimes forced to interact with those whom they usually criticize or dislike.",
+    "The diminution of the public realm was palpable in both neighborhoods: clearly, the security zone is a new type of land use and deserves more earnest consideration by the planning and development community."
+  ],
+  "policy_relevance": "The paper recommends that cities inventory their public realm, balance security with openness, and consider more flexible security measures. It notes that pedestrianization for security purposes might be politically palatable.",
+  "notes": "Full text provided. The paper does not address algorithmic governance or dual-use of technology; it is about physical security zones in the built environment.",
+  "via": "Graham 2006:forward",
+  "text_truncated": false,
+  "openalex_id": "https://openalex.org/W1777222574"
+}

@@ -1,0 +1,30 @@
+{
+  "title": "Architecture as event space: Violence, securitisation, and resistance",
+  "year": "2019",
+  "doi": "10.1017/eis.2019.13",
+  "doc_type": "journal_article",
+  "methodology": "theoretical",
+  "geography": "global, with focus on Israel/Palestine, US, UK, China",
+  "thesis": "Architecture is an active political agent in security practices and resistance, analyzed through Tschumi's event space concept and Weizman's forensic architecture.",
+  "theme_1_score": 1,
+  "theme_1_justification": "Tangential mention: discusses dual-use of architecture (e.g., hotel as Cold War project, Holiday Inn as militia base), but not focused on software/data dual-use. No engagement with information good properties.",
+  "theme_2_score": 1,
+  "theme_2_justification": "Tangential: discusses forensic architecture as a practice to reveal hidden violence and contest official narratives (e.g., Hampton apartment, Weizman's work), but not centrally about algorithmic opacity or epistemic authority of data.",
+  "theme_3_score": 2,
+  "theme_3_justification": "Substantive: conceptualizes buildings as 'event spaces' shaped by human action and violence; discusses security practices as modulating urban populations (checkpoints, walls, temporal rhythms); engages with smart city-like control (hotel geopolitics, MI6 building).",
+  "theme_4_score": 2,
+  "theme_4_justification": "Substantive: discusses spatial destruction (Israeli occupation, wall, checkpoints, 'inverse geometry' of Nablus attack), home unmaking (Fred Hampton's apartment, Palestinian displacement), and forensic architecture as counter-forensics. Engages with Weizman's vertical sovereignty (drones) indirectly.",
+  "dual_use_explicit": "tangential",
+  "dual_use_direction": "both",
+  "dual_use_structural": "no",
+  "key_quotes": [
+    "'There is no architecture without action, no architecture without events, no architecture without program … no architecture without violence.' (Tschumi, quoted p. 368)",
+    "'buildings are not static entities … they continually undergo dynamic transformations' (Weizman, quoted p. 370)",
+    "'the architecture of occupation … [is met with] a counter architecture, which involves (among other things) redesigns that create possibilities of mobility that the Separation Wall and checkpoints stymie.' (p. 382)"
+  ],
+  "policy_relevance": "Implicitly calls for forensic architecture as a critical practice to document war crimes and human rights violations in urban contexts.",
+  "notes": "Text is complete. Paper is theoretical, drawing on film, literature, and architectural theory. Dual-use is not a central concept; the focus is on architecture as a site of violence and resistance.",
+  "via": "Weizman 2007:forward",
+  "text_truncated": false,
+  "openalex_id": "https://openalex.org/W2966810677"
+}

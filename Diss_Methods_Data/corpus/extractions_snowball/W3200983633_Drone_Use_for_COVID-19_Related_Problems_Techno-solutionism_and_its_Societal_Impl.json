@@ -1,0 +1,30 @@
+{
+  "title": "Drone Use for COVID-19 Related Problems: Techno-solutionism and its Societal Implications",
+  "year": "2021",
+  "doi": "10.1111/1758-5899.13007",
+  "doc_type": "journal_article",
+  "methodology": "theoretical",
+  "geography": "global",
+  "thesis": "The pandemic-driven use of drones by authorities creates a new socio-technical assemblage that accelerates regulatory processes, normalizes exceptionalism, and expands surveillance, with limited public contestation.",
+  "theme_1_score": 2,
+  "theme_1_justification": "The paper discusses function expansion and function creep of drone technology (e.g., agricultural drones repurposed for disinfection, delivery drones for medical supplies), and dual-use potential is implied through the use of military drones for civilian pandemic tasks (e.g., Spanish Military Emergency Unit using agricultural drones). It also addresses how civilian drone use creates new safety and security issues (e.g., counter-drone technology challenges). The term 'dual-use' is not used explicitly, but the civil-military convergence and repurposing are substantively discussed.",
+  "theme_2_score": 2,
+  "theme_2_justification": "The paper discusses surveillance assemblages (Haggerty & Ericson), the politics of the vertical (Weizman), and the creation of 'data doubles'. It addresses how drone surveillance (thermal, video) produces knowledge about populations, often without consent or transparency. However, it does not deeply engage with algorithmic opacity or black-boxing, focusing more on legal and regulatory gaps.",
+  "theme_3_score": 2,
+  "theme_3_justification": "The paper conceptualizes drone use as part of a 'socio-technical assemblage' that modulates urban populations through real-time surveillance, delivery, and disinfection. It discusses the 'smart environment' and how technology regulates behavior (citing Hildebrandt). The shift from visible discipline to ambient algorithmic control is implied but not explicitly theorized.",
+  "theme_4_score": 1,
+  "theme_4_justification": "The paper mentions the 'militarization of law enforcement' and 'civilian-military entanglements' but does not discuss spatial destruction, domicide, or urbicide. It touches on vertical sovereignty (Weizman, 2017) and the politics of verticality, but only in relation to surveillance, not spatial violence or home unmaking.",
+  "dual_use_explicit": "tangential",
+  "dual_use_direction": "both",
+  "dual_use_structural": "tangential",
+  "key_quotes": [
+    "Equipping drones with spraying functions is not a new attribute, as the technology has been used in a similar way for spraying pesticides at agricultural sites. Yet the objective of these spraying drones, namely, to disinfect public areas to avoid the spread of a virus, is an example of function expansion to face a new problem.",
+    "The recent drone use by national authorities has largely taken place without widespread contestation, unlike the public criticism we have seen towards contact tracing apps, which itself has led local and national governments to revert or revise decisions on these apps.",
+    "C-UAS technology is a surveillance system, which raises privacy concerns and can lead to psychological stress and to elevation of threat perception. It is part of a growing militarization of law enforcement and often takes civilian-military entanglements a step further."
+  ],
+  "policy_relevance": "The paper provides policy implications: accelerate regulation without reducing safety/privacy, continuously review ethical/legal implications of drone technology, involve public and civil society in regulation, and debate social/political impacts of technology.",
+  "notes": "Full text provided; paper is a journal article, theoretical with empirical illustrations.",
+  "via": "Weizman 2007:forward",
+  "text_truncated": false,
+  "openalex_id": "https://openalex.org/W3200983633"
+}

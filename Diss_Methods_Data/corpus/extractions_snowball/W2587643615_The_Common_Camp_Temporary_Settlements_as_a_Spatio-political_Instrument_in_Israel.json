@@ -1,0 +1,30 @@
+{
+  "title": "The Common Camp: Temporary Settlements as a Spatio-political Instrument in Israel-Palestine",
+  "year": null,
+  "doi": null,
+  "doc_type": "book_chapter",
+  "methodology": "case_study",
+  "geography": "Israel-Palestine",
+  "thesis": "The camp is a versatile spatio-political mechanism used for territorial expansion and exclusion in Israel-Palestine, functioning beyond Agamben's 'space of exception' to include both control and resistance.",
+  "theme_1_score": 0,
+  "theme_1_justification": "Not addressed. The paper discusses physical camps, not information goods, software, data, or technology transfer.",
+  "theme_2_score": 0,
+  "theme_2_justification": "Not addressed. No discussion of algorithmic opacity, epistemic authority of data, or democratic deficit in urban governance.",
+  "theme_3_score": 0,
+  "theme_3_justification": "Not addressed. The paper does not conceptualize the city as a programmable system or discuss modulation through data.",
+  "theme_4_score": 3,
+  "theme_4_justification": "Central argument. The paper extensively discusses spatial destruction, forced relocation, home unmaking, and the use of camps as instruments of territorial control and expulsion, engaging with concepts of urbicide and vertical sovereignty (e.g., satellite surveillance, house demolitions). The paper explicitly frames camps as tools of 'expansion and exclusion' that facilitate spatial violence.",
+  "dual_use_explicit": "tangential",
+  "dual_use_direction": "both",
+  "dual_use_structural": "no",
+  "key_quotes": [
+    "Camps are extensively employed by both authoritarian regimes and contemporary democracies as instruments of control, custody, care and abandonment.",
+    "This new conceptualization of the camp allows it to be examined as a complex territorial instrument which belongs to the variety of radical spatio-political practices.",
+    "They push you into a corner. While being deprived of any “life supporting” mechanisms such as economic resources, infrastructures or state services, the residents of Rachme are at the same time exposed to direct state violence and being controlled by tight surveillance."
+  ],
+  "policy_relevance": "Implications for spatial planning, recognition of Bedouin villages, and understanding the political use of temporary settlements as tools of displacement.",
+  "notes": "The paper is a detailed analysis of physical camps in Israel-Palestine, not algorithmic governance. It is highly relevant to Theme 4 (Spatial Collapse & Home Unmaking) but not to the other themes related to information goods or algorithmic systems.",
+  "via": "Weizman 2007:forward",
+  "text_truncated": false,
+  "openalex_id": "https://openalex.org/W2587643615"
+}

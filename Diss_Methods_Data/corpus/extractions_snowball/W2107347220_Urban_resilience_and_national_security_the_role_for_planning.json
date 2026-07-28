@@ -1,0 +1,30 @@
+{
+  "title": "Urban resilience and national security: the role for planning",
+  "year": "2008",
+  "doi": "10.1680/udap.2008.161.4.173",
+  "doc_type": "journal_article",
+  "methodology": "case_study",
+  "geography": "UK, with references to USA, Israel/Palestine, Northern Ireland",
+  "thesis": "This paper analyzes how counter-terrorism urban resilience has become embedded in planning, shifting from crude militaristic fortification to a more integrated role for built environment professionals, raising concerns about proportionality and co-option.",
+  "theme_1_score": 1,
+  "theme_1_justification": "The paper discusses the transfer of 'defensible space' and target-hardening concepts from military to civilian contexts (e.g., Cold War blast-resistant design for military facilities being applied to civilian buildings post-9/11, para 3.2). It also mentions technology transfer from military to civilian planning in Israel/Palestine (para 3.1). However, the dual-use concept is not the central argument; it is a tangential observation within the broader discussion of urban resilience and counter-terrorism planning.",
+  "theme_2_score": 0,
+  "theme_2_justification": "Not addressed. The paper does not discuss algorithmic opacity, epistemic authority of data, surveillance as knowledge production, or democratic deficits in algorithmic decision-making. It focuses on physical security measures and planning processes.",
+  "theme_3_score": 1,
+  "theme_3_justification": "Discusses the shift from visible institutional power to ambient/algorithmic control only tangentially. Mentions 'invisible' or 'light touch' security technologies (Briggs, 2005, para 5) and raises questions about decision-making and monitoring of such technologies. But this is not a central theme; the paper primarily deals with physical fortification and planning policy, not algorithmic modulation of urban populations.",
+  "theme_4_score": 2,
+  "theme_4_justification": "Substantive engagement with spatial destruction and militarisation of urban space. Discusses 'peace walls' in Belfast (Fig. 1, para 3.1), the Israeli separation wall (para 3.1), 'rings of steel' in London and Northern Ireland, and the 'fortress city' concept applied to Washington DC (para 4.1). Engages with Weizman's 'Hollow Land' (ref 25). The paper details how security measures can destroy urban permeability and liveability, though it focuses on counter-terrorism resilience rather than direct home unmaking or urbicide as a primary theme.",
+  "dual_use_explicit": "tangential",
+  "dual_use_direction": "military_to_civil",
+  "dual_use_structural": "no",
+  "key_quotes": [
+    "'blast resistant design specialists and the tools they use to understand explosions are Cold War legacies...such specialists were deployed to defend not civilian buildings, but military facilities such as missile silos or bunkers. Now, however, in response to the threat of terrorist attack against civil buildings, civil planners are being urged to incorporate resilience for counter-terrorism.' (para 3.2)",
+    "'The link between the military and planning in Israel must be viewed not only in a historical context but also in terms of different strategies of intervention at national, regional and local scales creating a 'security scape' preoccupied with 'impending threats, defence strategies and precautionary measures'.' (para 3.1)",
+    "'The truth is we do not design buildings to withstand bomb blasts because bomb blasts are the exception to the rule…the key point is the defining of the line between risk and recklessness.' (para 3.2, quoting Finch 1996)"
+  ],
+  "policy_relevance": "Discusses UK policy implications: Contest strategy, National Security Strategy, need for planning training, integration of counter-terrorism into building design, tension between proportionality and over-reaction, and potential for co-option of planning profession into security agenda.",
+  "notes": "Paper is primarily about urban resilience and planning for counter-terrorism, not about algorithmic governance. Dual-use discussion is implicit in technology transfer from military to civilian planning. No discussion of software/data properties or algorithmic systems.",
+  "via": "Graham 2006:forward",
+  "text_truncated": false,
+  "openalex_id": "https://openalex.org/W2107347220"
+}

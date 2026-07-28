@@ -1,0 +1,30 @@
+{
+  "title": "Non-state space: the strategic ejection of dangerous and high maintenance urban space",
+  "year": "2017",
+  "doi": "10.1080/21622671.2016.1220868",
+  "doc_type": "journal_article",
+  "methodology": "theoretical",
+  "geography": "Northern Ireland (UK) and Mexico City (Mexico)",
+  "thesis": "The paper introduces the concept of 'autotomic space' to describe how state, policing, and citizen strategies strategically eject dangerous or high-maintenance urban spaces to minimize costs and maintain the integrity of the remaining city.",
+  "theme_1_score": 0,
+  "theme_1_justification": "Not addressed: The paper does not discuss information goods, software/data properties, or dual-use technology transfer between civilian and military domains.",
+  "theme_2_score": 0,
+  "theme_2_justification": "Not addressed: The paper does not engage with algorithmic opacity, epistemic authority of data, surveillance as knowledge production, or democratic deficits related to algorithmic decision-making.",
+  "theme_3_score": 0,
+  "theme_3_justification": "Not addressed: The paper does not conceptualize the city as a programmable or algorithmic system, nor does it discuss continuous modulation, smart city governance, or real-time urban analytics.",
+  "theme_4_score": 3,
+  "theme_4_justification": "Central argument: The paper's primary contribution is the concept of 'autotomic space'—the strategic ejection of urban space via disinvestment, depolicing, and withdrawal—directly addressing spatial destruction, home unmaking, and the weaponization of urban governance. It engages with militarized urbanism (e.g., 'killspace'), suspension of citizenship, and forced displacement through case studies of Northern Ireland 'no-go areas' and Mexico City's La Merced.",
+  "dual_use_explicit": "no",
+  "dual_use_direction": "neither",
+  "dual_use_structural": "no",
+  "key_quotes": [
+    "autotomic in nature – spaces that are ejected in order to avoid losses or further damage to the body politic of the city in ways akin to the response of certain animals that protect themselves from predation by shedding a limb or body part.",
+    "we have sought to develop understandings of public space and city/neighbourhood governance using this metaphor of ejection as a kind of strategic reflex action by threatened governments, citizens and private service providers.",
+    "The no-go area thus exemplifies not only resistance to authority as is commonly understood, but also the deployment of a kind of power that stems from disregard."
+  ],
+  "policy_relevance": "The paper critiques autotomic strategies as deepening inequality and spatial injustice but does not offer explicit policy recommendations; it calls for recognizing the paradoxical nature of control through abandonment.",
+  "notes": "The paper presents a theoretical framework (autotomic space) with illustrative case studies; no primary empirical data collection.",
+  "via": "Weizman 2007:forward",
+  "text_truncated": false,
+  "openalex_id": "https://openalex.org/W2464707225"
+}

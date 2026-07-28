@@ -1,0 +1,30 @@
+{
+  "title": "Slow urbicide: Accounting for the shifting temporalities of political violence in the West Bank",
+  "year": "2022",
+  "doi": "10.1016/j.geoforum.2022.04.012",
+  "doc_type": "journal_article",
+  "methodology": "empirical_qualitative",
+  "geography": "West Bank, Palestine/Israel",
+  "thesis": "The paper proposes 'slow urbicide' to capture the gradual, attritional destruction of Palestinian urbanity in the West Bank through Israeli settlement policies and environmental violence.",
+  "theme_1_score": 0,
+  "theme_1_justification": "Not addressed. The paper does not discuss information goods, dual-use technology, or software/data properties.",
+  "theme_2_score": 0,
+  "theme_2_justification": "Not addressed. The paper does not engage with algorithmic opacity, epistemic authority of data, or black-boxing.",
+  "theme_3_score": 0,
+  "theme_3_justification": "Not addressed. The paper does not conceptualize the city as a programmable system or discuss modulation through data.",
+  "theme_4_score": 3,
+  "theme_4_justification": "Central argument. The paper explicitly focuses on urbicide, slow violence, home unmaking, displacement, and the weaponisation of urban space in the West Bank, engaging with concepts like vertical sovereignty and spatial destruction.",
+  "dual_use_explicit": "no",
+  "dual_use_direction": "neither",
+  "dual_use_structural": "no",
+  "key_quotes": [
+    "The article proposes the concept of 'slow urbicide' to account for the shifting temporalities of urbicidal violence as much as for its reliance on, or activation of, human and more-than-human agencies and forces.",
+    "Slow urbicide... involves a gradual destruction of Palestinian urbanity through such strategies as physical strangulation, obscure systems of land administration, bureaucratic neglect, pollution, and obliteration of the vernacular landscape.",
+    "The policy of intense, cartographically premeditated settlement in the West Bank... mobilizes one form of urbanity (Israeli) against another (Palestinian) and is deliberately aimed at the suppression of the latter."
+  ],
+  "policy_relevance": "None",
+  "notes": "Full text provided; no truncation issues.",
+  "via": "Graham 2006:forward",
+  "text_truncated": false,
+  "openalex_id": "https://openalex.org/W4225117531"
+}

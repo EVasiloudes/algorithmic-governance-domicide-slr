@@ -1,0 +1,30 @@
+{
+  "title": "Walls and shadows: The occupation of Baghdad",
+  "year": "2007",
+  "doi": "10.1080/13604810701687993",
+  "doc_type": "journal_article",
+  "methodology": "other",
+  "geography": "Baghdad, Iraq",
+  "thesis": "The occupation of Baghdad created a segregated, dual city of walls and shadows, where American military control and isolation fostered violence, racism, and failure.",
+  "theme_1_score": 0,
+  "theme_1_justification": "Not addressed. The paper does not discuss dual-use properties of information goods or technology transfer between civilian and military domains.",
+  "theme_2_score": 0,
+  "theme_2_justification": "Not addressed. No discussion of algorithmic opacity, epistemic authority of data, or surveillance as knowledge production.",
+  "theme_3_score": 0,
+  "theme_3_justification": "Not addressed. The paper does not conceptualize the city as a programmable or algorithmic system, nor does it engage with modulation or smart city governance.",
+  "theme_4_score": 2,
+  "theme_4_justification": "Substantive engagement. The paper describes the spatial destruction and segregation of Baghdad under occupation, the weaponization of urban infrastructure, and the home unmaking caused by walls and military control. It cites Graham (2004, 2005) on military urbanism.",
+  "dual_use_explicit": "no",
+  "dual_use_direction": "neither",
+  "dual_use_structural": "no",
+  "key_quotes": [
+    "The paper examines the complex dynamics of urban occupation from the author's particular vantage, exploring how technology, doctrine, psychology, and tactics interrelate in the high-stress combat environment. Drawing wider conclusions from his experience, the author argues that the occupation of Baghdad offers a bleak vision of our urban future, a future where security for the few promotes a violent anarchy for the many, a future of walls and the shadows they cast.",
+    "The overall system comprised a dispersal of fortress-like FOBs, each surrounded by enormous concrete barriers and guarded by watchtowers manned by machine-gun crews, connected by routes running along the major expressways, which themselves hosted military convoys, patrols and checkpoints, all forming a lattice of American quasi-control laid over the teeming metropolis of Baghdad like a second city, an American network deliberately separate from, bypassing and avoiding as much of the real city as possible.",
+    "That is, going outside the wire, leaving the FOB, was not just to enter into a city full of hostile people, but it was to enter a city that was, in itself, hostile, that was, in its very roads and sidewalks, the enemy. It was as if Baghdad itself was trying to kill us."
+  ],
+  "policy_relevance": "None, but the paper implies that militarized segregation and lack of cultural engagement are counterproductive.",
+  "notes": "First-person narrative essay; not empirical research. Focuses on physical occupation rather than algorithmic governance or dual-use technology.",
+  "via": "Graham 2006:forward",
+  "text_truncated": false,
+  "openalex_id": "https://openalex.org/W2133517802"
+}

@@ -1,0 +1,30 @@
+{
+  "title": "Vertical Security in the Megacity: Legibility, Mobility and Aerial Politics",
+  "year": "2010",
+  "doi": null,
+  "doc_type": "journal_article",
+  "methodology": "theoretical",
+  "geography": "global",
+  "thesis": "Megacity security is increasingly waged and consumed through the helicopter's machinic-prosthetic view, enabling legibility, mobility, and territorialization with violent consequences.",
+  "theme_1_score": 2,
+  "theme_1_justification": "Substantive discussion of technology transfer between military and civilian domains, e.g., 'military technophilia' and exporting of security expertise from US/Israeli military to megacity policing. Does not address information goods or software properties.",
+  "theme_2_score": 2,
+  "theme_2_justification": "Engages with epistemic authority of the aerial view, making-legible, and the transformation of inhabitants into suspects. Discusses the helicopter's 'machinic-prosthetic view' and 'verticalized omniscience'. Does not directly address algorithmic opacity or black-boxing.",
+  "theme_3_score": 1,
+  "theme_3_justification": "Tangential mention of modulating urban circulation through helicopter mobility, drawing on Foucault's biopolitics. Does not conceptualize the city as a programmable machinic assemblage or engage with Deleuzian modulation.",
+  "theme_4_score": 3,
+  "theme_4_justification": "Central argument addresses spatial destruction, violence, and home unmaking in megacities. Discusses favela displacement, 'urbicide', and helicopter operations as indistinguishable from military incursions. Engages with vertical sovereignty and the weaponisation of aerial surveillance.",
+  "dual_use_explicit": "tangential",
+  "dual_use_direction": "military_to_civil",
+  "dual_use_structural": "no",
+  "key_quotes": [
+    "The article argues that megacity security marches to the rotator-beat of the police helicopter, fuelled by military technophilia (Graham, 2008) and in a context of the biopolitical desertion of the city’s most vulnerable.",
+    "By excavating the ambiguities of the helicopter’s machinic-prosthetic view, a perspective which may be distant and abstract, while also near and viscerally present, this article will explore how megacity security is increasingly waged and consumed.",
+    "In a way that Loïc Wacquant (2008) says is all but indistinguishable from military incursions into an occupied territory, megacity police forces such as Brazil’s policia militaria routinely intrude into shanty-towns with ‘blitzes’, during which low-flying helicopters knock off tin rooftops and troops break down doors and windows, ransack houses and bully their occupants, fire weapons indiscriminately, close down stores and schools, and carry out mass arrests for ‘vagrancy’."
+  ],
+  "policy_relevance": "The paper suggests that permanent community policing, rather than temporary helicopter-based incursions, may be more effective, but also highlights the ambiguity of aerial security and the potential for helicopters to be used for terrorism.",
+  "notes": "Full text journal article. No truncation.",
+  "via": "Weizman 2007:forward",
+  "text_truncated": false,
+  "openalex_id": "https://openalex.org/W2155039585"
+}

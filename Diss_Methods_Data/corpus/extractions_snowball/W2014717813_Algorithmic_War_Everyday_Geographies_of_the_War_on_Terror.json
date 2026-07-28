@@ -1,0 +1,30 @@
+{
+  "title": "Algorithmic War: Everyday Geographies of the War on Terror",
+  "year": "2009",
+  "doi": "10.1111/j.1467-8330.2008.00655.x",
+  "doc_type": "journal_article",
+  "methodology": "theoretical",
+  "geography": "global",
+  "thesis": "Algorithmic security technologies in the war on terror blur military, commercial, and civil spheres, producing violent geographies through pre-emptive calculation and targeting in everyday life.",
+  "theme_1_score": 3,
+  "theme_1_justification": "The paper's central argument is that algorithmic techniques (e.g., association rules, RFID) developed for commercial retail (Marks & Spencer, Wal-Mart) are directly transferred to homeland security and military applications (e.g., US VISIT, e-borders, Raytheon contracts). It explicitly discusses dual-use, technology transfer, and the 'stitching together' of commercial, security, and military spheres. The paper traces the movement of algorithms from supermarket checkout to subway surveillance and border control, and highlights the near-zero marginal cost of software reproduction and frictionless transferability.",
+  "theme_2_score": 2,
+  "theme_2_justification": "The paper discusses algorithmic opacity and the epistemic authority of data-driven systems, arguing that algorithmic calculations 'conceal political difficulty, even discrimination and violence, within an apparently neutral and glossy techno-science.' It addresses how algorithms produce a 'screened geography of suspicion' and bypass democratic deliberation by rendering security decisions as technical and scientific. However, this is not the paper's primary focus; it is a supporting argument within the broader dual-use analysis.",
+  "theme_3_score": 2,
+  "theme_3_justification": "The paper conceptualizes the city as a programmable, data-driven system through examples of subway surveillance, RFID tracking, and algorithmic profiling of urban populations. It discusses continuous modulation of movement and behavior via smart travel cards, sensors, and public vigilance campaigns. It engages with the 'smart city' as a mode of governance, but this is not the central argument; it is part of the broader analysis of algorithmic war.",
+  "theme_4_score": 1,
+  "theme_4_justification": "The paper discusses the weaponisation of civilian infrastructure and urban data for targeting, particularly through RFID and algorithmic association rules. It mentions the 'violent geographies' concealed in algorithmic calculation and the targeting of mobile bodies in everyday spaces. However, it does not substantively engage with spatial destruction, domicide, or home unmaking. The focus is on pre-emptive security rather than direct spatial violence.",
+  "dual_use_explicit": "yes",
+  "dual_use_direction": "both",
+  "dual_use_structural": "yes",
+  "key_quotes": [
+    "It is not that algorithmic techniques have their origins strictly in the military domain (though, as we will see, many of them do), nor that society is strictly undergoing renewed militarization, but that security practices oscillate back and forth across different domains.",
+    "The promise that algorithmic calculations held out to the commercial authorities of the 1990s—to enable surveillance from a distance, to make market judgements in advance, to generate patterns of normal and atypical consumer behaviour—is now being re-made in the context of state security desires.",
+    "The association rules of the algorithm claim precisely to identify associations, to connect together here and there, to link that location of suspicion and this embodied risk, to suture together the forces of war in one place and the possibility of threat in the spaces of everyday life."
+  ],
+  "policy_relevance": "The paper critiques the privatization of security and the transfer of commercial data-mining techniques to state security, suggesting that these practices conceal violence and discrimination. It implies a need for greater transparency and democratic oversight of algorithmic security systems, but does not offer specific policy recommendations.",
+  "notes": "Full text available and complete.",
+  "via": "Graham 2006:forward",
+  "text_truncated": false,
+  "openalex_id": "https://openalex.org/W2014717813"
+}

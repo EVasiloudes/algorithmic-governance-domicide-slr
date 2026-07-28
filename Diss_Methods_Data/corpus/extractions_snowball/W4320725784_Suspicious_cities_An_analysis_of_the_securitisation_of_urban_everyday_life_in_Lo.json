@@ -1,0 +1,30 @@
+{
+  "title": "Suspicious cities: An analysis of the securitisation of urban everyday life in London and Brussels",
+  "year": "2023",
+  "doi": "10.1080/17539153.2023.2176408",
+  "doc_type": "journal_article",
+  "methodology": "empirical_qualitative",
+  "geography": "London, UK; Brussels, Belgium",
+  "thesis": "Urban everyday life in London and Brussels has been incrementally securitised under counterterrorism, with human and non-human bodies increasingly assigned suspiciousness, constituting a process of urban segregation with ethical implications for collective responsibility.",
+  "theme_1_score": 0,
+  "theme_1_justification": "Not addressed. The paper does not discuss the economic properties of software/data, dual-use, or technology transfer between civilian and military domains. It focuses on securitisation through material-discursive practices, not on the dual-use nature of information goods.",
+  "theme_2_score": 1,
+  "theme_2_justification": "Tangential mention. The paper briefly references 'search algorithms' as non-human actors subject to criticism (p. 321), but does not engage substantively with algorithmic opacity, epistemic authority of data, or black-boxing. The main focus is on the discursive-material construction of suspiciousness, not on algorithmic governance.",
+  "theme_3_score": 1,
+  "theme_3_justification": "Tangential mention. The paper discusses pre-emptive security, resilience, and the expansion of suspiciousness across urban sites, but does not conceptualise the city as a programmable system or engage with Deleuzian modulation. References to CCTV and facial recognition are peripheral to the main argument about entanglement and securitisation.",
+  "theme_4_score": 1,
+  "theme_4_justification": "Tangential mention. The paper argues that securitisation constitutes a process of urban segregation, excluding marginalised communities and neighbourhoods (e.g., Molenbeek, Finsbury Park). However, it does not discuss spatial destruction, domicide, urbicide, or weaponisation of civilian infrastructure. The focus is on exclusion and suspicion rather than physical destruction or home unmaking.",
+  "dual_use_explicit": "no",
+  "dual_use_direction": "neither",
+  "dual_use_structural": "no",
+  "key_quotes": [
+    "I conceptualise urban everyday life as an entanglement of intra-acting sites, objects, and people.",
+    "the securitisation of everyday life in European metropoles constitutes a process of urban segregation.",
+    "everyone and everything that intra-acts in urban everyday life is also to some extent responsible for its securitisation"
+  ],
+  "policy_relevance": "Calls for critical reflection and resistance to securitisation, but no specific policy recommendations.",
+  "notes": "Full text provided. No truncation issues.",
+  "via": "Graham 2006:forward",
+  "text_truncated": false,
+  "openalex_id": "https://openalex.org/W4320725784"
+}

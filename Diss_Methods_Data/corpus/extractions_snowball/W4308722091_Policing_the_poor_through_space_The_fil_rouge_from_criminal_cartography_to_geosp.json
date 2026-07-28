@@ -1,0 +1,30 @@
+{
+  "title": "Policing the poor through space: The fil rouge from criminal cartography to geospatial predictive policing",
+  "year": "2022",
+  "doi": "10.35295/osls.iisl/0000-0000-0000-1360",
+  "doc_type": "journal_article",
+  "methodology": "theoretical",
+  "geography": "global",
+  "thesis": "Contemporary predictive policing perpetuates historical political and epistemic dictates linking crime to poverty and space, undermining the distinction between place-based and person-based predictions.",
+  "theme_1_score": 0,
+  "theme_1_justification": "Not addressed. The paper does not discuss dual-use, technology transfer, or the economic properties of software/data enabling transfer between civilian and military domains.",
+  "theme_2_score": 2,
+  "theme_2_justification": "Substantive engagement with epistemic authority of crime mapping, citing critical cartography and the idea that maps are not neutral (Lacoste). Discusses how predictive policing naturalizes assumptions and creates accountability gaps, but focus is on historical continuity rather than algorithmic opacity.",
+  "theme_3_score": 0,
+  "theme_3_justification": "Not addressed. The paper does not conceptualize the city as a programmable machinic system or discuss modulation/ambient algorithmic control.",
+  "theme_4_score": 0,
+  "theme_4_justification": "Not addressed. No discussion of spatial destruction, domicide, urban warfare, or weaponization of civilian infrastructure.",
+  "dual_use_explicit": "no",
+  "dual_use_direction": "neither",
+  "dual_use_structural": "no",
+  "key_quotes": [
+    "I argue that contemporary predictive mapping basically perpetuates the political and epistemic dictates which have historically framed the conceptualisation of crime in relation to space.",
+    "the application of algorithmic technologies to the domain of security is not in itself an epistemological break with past modalities.",
+    "the most visible discontinuities in the trajectory from the Cartographic school to the situational theories consist in the progressive dilution of the normative specificity of crime... Nevertheless, two major points ensure a fundamental epistemic continuity... First, the basic explanatory pattern is a rational action model uninterruptedly secured to the socio-economic deficit paradigm... Secondly, the aetiology of crime... is supported by a persisting ontologisation of crime which resorts to naturalistic metaphors."
+  ],
+  "policy_relevance": "Calls for centering critique on the political meaning of crime predictability rather than technical fixes; no specific policy recommendations.",
+  "notes": "Full journal article, not truncated.",
+  "via": "Kitchin 2014:forward",
+  "text_truncated": false,
+  "openalex_id": "https://openalex.org/W4308722091"
+}

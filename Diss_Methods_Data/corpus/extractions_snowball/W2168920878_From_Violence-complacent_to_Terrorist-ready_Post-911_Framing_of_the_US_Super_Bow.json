@@ -1,0 +1,30 @@
+{
+  "title": "From ‘Violence-complacent’ to ‘Terrorist-ready’: Post-9/11 Framing of the US Super Bowl",
+  "year": "2011",
+  "doi": null,
+  "doc_type": "journal_article",
+  "methodology": "empirical_qualitative",
+  "geography": "US",
+  "thesis": "Post-9/11 news media framed the Super Bowl as both vulnerable and safe, incorporating these frames into pro-growth discourse to maintain hegemonic ideology and justify militarization of urban space.",
+  "theme_1_score": 0,
+  "theme_1_justification": "Not addressed. The paper does not discuss the economic properties of software/data or dual-use technology transfer in the Arrow sense.",
+  "theme_2_score": 1,
+  "theme_2_justification": "Tangential mention. Discusses surveillance technologies (face recognition, cameras) and the lack of public challenge to their use, but does not deeply engage with algorithmic opacity or epistemic authority of data.",
+  "theme_3_score": 2,
+  "theme_3_justification": "Substantive engagement. Describes the city as a programmable space through security measures, continuous modulation of urban populations via surveillance and restrictions, and the 'new normal' of militarized urban space.",
+  "theme_4_score": 1,
+  "theme_4_justification": "Tangential mention. Discusses weaponization of civilian infrastructure (stadia) as terrorist targets, militarization of urban spaces, and incursion into civic life, but does not directly address spatial destruction or home unmaking.",
+  "dual_use_explicit": "tangential",
+  "dual_use_direction": "military_to_civil",
+  "dual_use_structural": "no",
+  "key_quotes": [
+    "The massive security build-up that accompanies the Super Bowl is thus presented as the ‘new normal’.",
+    "In post-9/11 era, the Super Bowl is both ‘vulnerable’ and ‘the safest place on earth’. And we are ‘privileged’ host communities and football fans, even as we are surveilled, digitally scanned, corralled, barricaded and patted-down.",
+    "Rather than re-place the pro-growth discourse, these frames were effectively incorporated by journalists into the pro-growth discourse—both vulnerability and safety are now presented as contributing to the ‘fact’ that hosting a Super Bowl is good for the city-as-a-whole."
+  ],
+  "policy_relevance": "None explicitly. The paper critiques the militarization of urban space and the acceptance of security measures, but offers no policy recommendations.",
+  "notes": "Full text provided. No truncation issues.",
+  "via": "Graham 2006:forward",
+  "text_truncated": false,
+  "openalex_id": "https://openalex.org/W2168920878"
+}

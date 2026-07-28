@@ -1,0 +1,30 @@
+{
+  "title": "Living Beirut's Security Zones: An Investigation of the Modalities and Practice of Urban Security",
+  "year": "2012",
+  "doi": "10.1111/j.1548-744X.2012.01074.x",
+  "doc_type": "journal_article",
+  "methodology": "empirical_qualitative",
+  "geography": "Beirut, Lebanon",
+  "thesis": "Security in Beirut is fragmented, overlapping, and reflects political divisions, reinforcing social hierarchies and constraining daily urban practices.",
+  "theme_1_score": 0,
+  "theme_1_justification": "Not addressed. No discussion of information good properties or dual-use technology transfer.",
+  "theme_2_score": 0,
+  "theme_2_justification": "Not addressed. No engagement with algorithmic opacity, epistemic authority, or black-boxing.",
+  "theme_3_score": 0,
+  "theme_3_justification": "Not addressed. The paper does not conceptualize the city as a programmable/algorithmic system or discuss modulation.",
+  "theme_4_score": 1,
+  "theme_4_justification": "Tangential mention: references 'urbicide' in literature review and mentions spatial destruction from Israeli war, but not a central theme.",
+  "dual_use_explicit": "no",
+  "dual_use_direction": "neither",
+  "dual_use_structural": "no",
+  "key_quotes": [
+    "These days, I feel that I am back in the village except that those who are harassing me, inquiring about my whereabouts and ordering me around are 100 strangers, dressed in different costumes, playing police...",
+    "A certain 'normalization' of security has occurred in the perception of many city dwellers who see security elements as part of the daily hassles they deal with.",
+    "Like capital, security has become one more form in which existing social hierarchies are consolidated and/or challenged and new ones imposed."
+  ],
+  "policy_relevance": "None",
+  "notes": "Paper is a journal article based on extensive fieldwork. No discussion of algorithmic governance or dual-use; focus is on physical security mechanisms.",
+  "via": "Graham 2006:forward",
+  "text_truncated": false,
+  "openalex_id": "https://openalex.org/W1777030935"
+}

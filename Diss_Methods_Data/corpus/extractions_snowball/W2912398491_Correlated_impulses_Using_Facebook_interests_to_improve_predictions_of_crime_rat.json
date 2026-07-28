@@ -1,0 +1,30 @@
+{
+  "title": "Correlated impulses: Using Facebook interests to improve predictions of crime rates in urban areas",
+  "year": "2019",
+  "doi": "10.1371/journal.pone.0211350",
+  "doc_type": "journal_article",
+  "methodology": "empirical_quantitative",
+  "geography": "United States (Baltimore, Boston, Chicago, Dallas, Los Angeles, New York, Philadelphia, San Francisco, Washington)",
+  "thesis": "Facebook interests can improve predictions of crime rates in urban areas beyond demographic factors.",
+  "theme_1_score": 0,
+  "theme_1_justification": "Not addressed. No discussion of dual-use, technology transfer, or properties of software/data.",
+  "theme_2_score": 1,
+  "theme_2_justification": "Tangential mention of algorithmic opacity: 'The Facebook algorithms that generate the data are a black box' (Discussion). No deep engagement with epistemic authority or surveillance.",
+  "theme_3_score": 0,
+  "theme_3_justification": "Not addressed. The paper does not conceptualize the city as a programmable system or discuss modulation.",
+  "theme_4_score": 0,
+  "theme_4_justification": "Not addressed. No discussion of spatial destruction, home unmaking, or urban warfare.",
+  "dual_use_explicit": "no",
+  "dual_use_direction": "neither",
+  "dual_use_structural": "no",
+  "key_quotes": [
+    "The Facebook algorithms that generate the data are a black box, creating two issues. The first is one of substantive interpretation and what exactly it means for a particular ZIP code to be high in a given interest. The second is that changes in these algorithms would mean that the models need to be re-calibrated over time for long-term prediction purposes.",
+    "Last, there is a general caveat for modern digital data resources: 'researcher beware' [40–42].",
+    "This study is exploratory, thus we propose no a priori hypotheses linking particular preferences to a given theory of criminality."
+  ],
+  "policy_relevance": "None",
+  "notes": "Standard journal article; no truncation.",
+  "via": "Kitchin 2014:forward",
+  "text_truncated": false,
+  "openalex_id": "https://openalex.org/W2912398491"
+}

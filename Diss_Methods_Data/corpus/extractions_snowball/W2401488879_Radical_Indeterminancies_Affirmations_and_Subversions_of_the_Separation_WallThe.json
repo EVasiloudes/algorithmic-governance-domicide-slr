@@ -1,0 +1,30 @@
+{
+  "title": "Radical Indeterminancies: Affirmations and Subversions of the Separation Wall—The Case of the Palestinian Children of the Junction",
+  "year": "2016",
+  "doi": "10.1080/08865655.2016.1174600",
+  "doc_type": "journal_article",
+  "methodology": "theoretical",
+  "geography": "Israel/Palestine (West Bank, Jerusalem)",
+  "thesis": "Palestinian children crossing the Separation Wall simultaneously subvert and affirm Israel's performances of separation, revealing the border's epistemological and political functions.",
+  "theme_1_score": 1,
+  "theme_1_justification": "Tangential mention: The paper discusses the children's mobility through borders as a 'licit' activity (Roitman 2006) and the barrier as a 'performance of separation' (Jones 2012), but does not engage with the economic properties of software/data or dual-use technology transfer. The concept of dual-use is not explicitly addressed.",
+  "theme_2_score": 2,
+  "theme_2_justification": "Substantive engagement: The paper discusses how the children's bodies become 'the border itself' (Azoulay 2008), and how their movements 'puncture' the 'real fantasies of security' (Ochs 2011). It addresses the epistemic authority of the state's bureaucratic and legal categories, and how the children's 'radical indeterminancies' challenge these categories. The paper also discusses the 'structured chaos' (Weizman 2007) of the occupation and the production of contradictions as a mode of control.",
+  "theme_3_score": 1,
+  "theme_3_justification": "Tangential mention: The paper references Weizman's 'Hollow Land' and the occupation's 'matrix of control' but does not conceptualize the city as a programmable or algorithmic system. The focus is on physical borders and mobility, not on data-driven urban governance or modulation.",
+  "theme_4_score": 2,
+  "theme_4_justification": "Substantive engagement: The paper discusses the Separation Wall as a tool of spatial destruction and control, and the children's 'home unmaking' through displacement and poverty. It engages with Weizman's concept of 'vertical sovereignty' and the 'hollow land' of the occupation. The children's bodies are described as sites where 'performances of separation leave their combined mark'.",
+  "dual_use_explicit": "no",
+  "dual_use_direction": "neither",
+  "dual_use_structural": "no",
+  "key_quotes": [
+    "The crux of my claim here is that these agents’ unique mobility punctuates and challenges Israel’s performances of separation (Jones 2012, 175).",
+    "The movements of these children allow us to detail the lived contours of what Eyal Weizman (2007) defines as 'The Hollow Land:' formal and informal spaces, paths and dimensions of passing, that appear and become prominent when and while spatial segregation is radicalized by the state of Israel.",
+    "When the child’s body is both a means to a political end, and still a child’s body, we—those who gaze at the child—know the child can no longer be a 'jahhil,' the traditional Palestinian image of a child as carefree and without any sort of political and economic consciousness."
+  ],
+  "policy_relevance": "The paper critiques the Israeli state's inaction regarding the Children of the Junction, noting that despite multiple Knesset sub-committee meetings, no practical steps were taken to care for the children. It highlights the bureaucratic and legal lacunae that prevent intervention.",
+  "notes": "The paper is a theoretical analysis of representations (documentaries and parliamentary transcripts) of Palestinian children crossing the Separation Wall. It does not discuss algorithmic governance, smart cities, or dual-use technology. The focus is on physical borders, mobility, and the politics of childhood.",
+  "via": "Weizman 2007:forward",
+  "text_truncated": false,
+  "openalex_id": "https://openalex.org/W2401488879"
+}

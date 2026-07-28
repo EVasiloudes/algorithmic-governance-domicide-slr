@@ -1,0 +1,30 @@
+{
+  "title": "Privatizing Security, Securitizing Policing: The Case of the G20 in Toronto, Canada",
+  "year": "2014",
+  "doi": "10.1111/ips.12052",
+  "doc_type": "journal_article",
+  "methodology": "case_study",
+  "geography": "Toronto, Canada",
+  "thesis": "Examines how the privatization and securitization of policing during the G20 in Toronto blur internal/external security, militarize urban space, and undermine democratic accountability.",
+  "theme_1_score": 2,
+  "theme_1_justification": "Substantive engagement with dual-use technology transfer: LRADs originally developed for military use (Somali pirates, Iraqi insurgents) later tested in Pittsburgh G20 and deployed in Toronto; also discusses blurring of internal/external security networks (Möbius ribbon) and militarization of urban policing. However, focuses on hardware and tactics rather than information good properties.",
+  "theme_2_score": 1,
+  "theme_2_justification": "Tangential mention of epistemic authority: cites Leander's concept of 'epistemic power' of private security companies shaping security meaning, and discusses lack of transparency in security operations. No engagement with algorithmic opacity, data epistemology, or black-boxing.",
+  "theme_3_score": 2,
+  "theme_3_justification": "Substantive engagement with the city as a site of securitization and control: discusses 'cities under siege', 'urbanization of security', 'rings of steel', continuous surveillance through CCTV, and control of movement via fences and ID checks. Not explicitly framed as Deleuzian modulation but aligns with concepts of ambient/algorithmic governance of urban populations.",
+  "theme_4_score": 2,
+  "theme_4_justification": "Explicitly mentions 'urbicide' and 'war on cities' (citing Campbell, Graham, Monk; Cowen). Discusses spatial control through security fence, exclusion zones, and the 'purification' of public space. Addresses home unmaking indirectly through restrictions on residents' access and police searches. Focus is more on securitization than physical destruction.",
+  "dual_use_explicit": "tangential",
+  "dual_use_direction": "military_to_civil",
+  "dual_use_structural": "no",
+  "key_quotes": [
+    "Long-range acoustical devices (LRADs), or 'sound cannons,' were originally developed by the US military for use against Somali pirates and Iraqi insurgents, only to be later tested 'at home' in the space of the city during Pittsburgh's 2009 hosting of the G20.",
+    "The idea that 'security is coming home' (Coaffee and Wood 2006) shapes cities in particular ways... the 'reciprocal dynamic of urban securitization' or the 'urbanization of security' (Coward 2009:399) in which 'the security agenda is urbanized and urbanity is insofar as it induces insecurity and vulnerability—securitized' has particular implications for cities.",
+    "increased militarization is not only fought through the city but is related to what some have called 'urbicide' and a war on cities (Campbell, Graham and Monk 2007; Cowen 2007)."
+  ],
+  "policy_relevance": "Recommends repeal of the Public Works Protection Act (later enacted); emphasizes need for public debate on acquisition of military-grade equipment by police; highlights accountability gaps and constitutional concerns with security regulations.",
+  "notes": "Paper is a case study of the G20 summit in Toronto; focuses on privatization of security and securitization of policing; does not discuss algorithmic governance or information good properties directly.",
+  "via": "Graham 2006:forward",
+  "text_truncated": false,
+  "openalex_id": "https://openalex.org/W2002387436"
+}

@@ -1,0 +1,30 @@
+{
+  "title": "Folding and Enfolding Walls: Statist Imperatives and Bureaucratic Aesthetics in Divided Jerusalem",
+  "year": "2010",
+  "doi": "10.3167/sa.2010.540205",
+  "doc_type": "journal_article",
+  "methodology": "theoretical",
+  "geography": "Jerusalem, Israel/Palestine",
+  "thesis": "The paper analyzes a vector of wall-like architectural forms in Jerusalem as a topological mechanism of statist control, folding and enfolding space to reinforce state imperatives and destroy Palestinian urban life.",
+  "theme_1_score": 0,
+  "theme_1_justification": "Not addressed. The paper focuses on physical walls and architecture, not on software/data properties or dual-use technology transfer.",
+  "theme_2_score": 0,
+  "theme_2_justification": "Not addressed. No discussion of algorithmic opacity, epistemic authority of data, or surveillance as knowledge production. The paper uses aesthetic and topological analysis, not data-driven governance.",
+  "theme_3_score": 0,
+  "theme_3_justification": "Not addressed. Although the paper discusses control and modulation through Deleuzian folding, it is about physical architectural forms (walls, museum, mall, barrier), not algorithmic governance, smart cities, or data-driven urban management.",
+  "theme_4_score": 3,
+  "theme_4_justification": "Central argument. The paper extensively discusses spatial destruction through the separation barrier, home unmaking of Palestinians (e.g., tens of thousands cut off from services), the mall-wall as a battering ram driving into the Old City, and the weaponization of urban space. The vector culminates in the brutal security barrier that blocks and destroys Palestinian metropolitan Jerusalem.",
+  "dual_use_explicit": "no",
+  "dual_use_direction": "neither",
+  "dual_use_structural": "no",
+  "key_quotes": [
+    "The effect of the security barrier will be to destroy Palestinian metropolitan Jerusalem 'and control it without annexing it' (Klein 2005: 71).",
+    "Up close, it is a row of huge blunt teeth sunk into the earth, their bite savage and unyielding. Horizons of living are blocked, perspective severely foreshortened. One cannot look over, under, or around.",
+    "Beginning with the harmonic pylon-parabola as the entry to the historic and holy capital, gathering sacrificial empowerment through the museum-wall, its velocity becoming more directional, the vector accelerates through the mall-wall, gathering the power to own and fetishize, pinning Palestinians-as-objects against the security barrier with Holocaust history, squeezing, flattening, and sacrificing them with the power to consume against its unyielding, brute form."
+  ],
+  "policy_relevance": "None. The paper critiques existing state practices but does not offer policy recommendations.",
+  "notes": "Paper is about physical architecture and spatial control in Jerusalem, not algorithmic governance or dual-use software/data. Scores reflect low direct relevance to the SLR's core themes, except Theme 4 which is strongly addressed.",
+  "via": "Weizman 2007:forward",
+  "text_truncated": false,
+  "openalex_id": "https://openalex.org/W2091931510"
+}

@@ -1,0 +1,30 @@
+{
+  "title": "Predictive Policing and the Politics of Patterns",
+  "year": "2019",
+  "doi": "10.1093/bjc/azy060",
+  "doc_type": "journal_article",
+  "methodology": "empirical_qualitative",
+  "geography": "Norway, Germany, Switzerland, Europe, United States, Australia",
+  "thesis": "Patterns are the epistemological core of predictive policing, but they vary in rationalities and conceal assumptions, making them political.",
+  "theme_1_score": 0,
+  "theme_1_justification": "Not addressed. The paper does not discuss dual-use, technology transfer, or the economic properties of software/data.",
+  "theme_2_score": 3,
+  "theme_2_justification": "Central argument. The paper extensively discusses the epistemological authority of patterns, algorithmic opacity, black-boxing (proprietary software), and how patterns conceal assumptions and decisions, rendering policing decisions opaque.",
+  "theme_3_score": 2,
+  "theme_3_justification": "Substantive engagement. The paper discusses predictive policing as a mode of data-driven governance, algorithmic sorting, and how patterns guide police action and shape understandings of crime, though not explicitly conceptualizing the city as a machinic assemblage.",
+  "theme_4_score": 1,
+  "theme_4_justification": "Tangential mention. The paper discusses spatial patterns (hotspots, near-repeat) and potential stigmatization of neighborhoods, but does not address spatial destruction, domicide, or weaponization of urban space.",
+  "dual_use_explicit": "no",
+  "dual_use_direction": "neither",
+  "dual_use_structural": "no",
+  "key_quotes": [
+    "Patterns are the epistemological core of predictive policing. With the move towards digital prediction tools, the authority of the pattern is rearticulated and reinforced in police work.",
+    "The clean surface of the pattern makes it impossible to defend oneself against their results.",
+    "Unless patterns are accompanied and contextualized by explanatory material, they render policing decisions opaque."
+  ],
+  "policy_relevance": "The paper calls for greater transparency and reflection on pattern-based policing, suggesting that patterns should be accompanied by explanatory material to allow police officers and affected citizens to interrogate the assumptions behind predictions.",
+  "notes": "",
+  "via": "Kitchin 2014:forward",
+  "text_truncated": false,
+  "openalex_id": "https://openalex.org/W2904032123"
+}

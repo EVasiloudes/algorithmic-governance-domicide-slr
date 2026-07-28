@@ -1,0 +1,30 @@
+{
+  "title": "Violent infrastructure, nationalist stigmatisation and spatial erasure",
+  "year": "2024",
+  "doi": "10.1177/02633957221148070",
+  "doc_type": "journal_article",
+  "methodology": "empirical_qualitative",
+  "geography": "Turkey (Diyarbakir)",
+  "thesis": "Turkish nationalist infrastructure in Diyarbakir inflicts symbolic violence by stigmatizing and erasing Kurdish identity, but Kurdish residents also resist and reaffirm their identity through the same space.",
+  "theme_1_score": 0,
+  "theme_1_justification": "Not addressed. The paper focuses on physical nationalist infrastructure (statues, murals) and symbolic violence, with no discussion of information goods, dual-use properties, or technology transfer.",
+  "theme_2_score": 0,
+  "theme_2_justification": "Not addressed. No discussion of algorithmic opacity, epistemic authority of data, or surveillance as knowledge production.",
+  "theme_3_score": 0,
+  "theme_3_justification": "Not addressed. No conceptualization of the city as programmable or algorithmic; the paper discusses built environment and symbolic power, not data-driven modulation.",
+  "theme_4_score": 3,
+  "theme_4_justification": "Central argument. The paper explicitly examines nationalist infrastructure as a form of symbolic spatial violence, erasure, and stigmatization of Kurdish identity, engaging with concepts of 'infrastructural violence' (Rodgers & O'Neill), spatial cleansing, and territorial dominance via fighter jets (vertical sovereignty).",
+  "dual_use_explicit": "no",
+  "dual_use_direction": "neither",
+  "dual_use_structural": "no",
+  "key_quotes": [
+    "In general, urban infrastructure is a mechanism of state power. But, through the case of the imposing presence of Turkish nationalist infrastructure in the Kurdish city Diyarbakir, it demonstrates that when tied to an antagonistic nationalist political project, this infrastructure is often purposefully built to violently cleanse urban spaces of the national 'other'.",
+    "Statues, murals and slogans cannot injure, maim or kill. So, the Turkish infrastructure in Dağkapı Square does not result in any physical violence. Instead, my interlocutors' experiences reveal that it inflicts a form of symbolic violence as the infrastructure works to stigmatise and erase their Kurdish identity.",
+    "That is not abnormal. Remember how I used to be beaten up in school for speaking Kurdish? Before that I spoke Kurdish, but I never knew that I was Kurdish. But when I was beaten up I really understood that I was Kurdish, I felt Kurdish, and I wanted to say, 'I am Kurdish'. When we lined up for lunch the teacher would say, Ne mutlu Türküm diyene. But we would whisper to each other Ne mutlu Kürdüm diyene."
+  ],
+  "policy_relevance": "None",
+  "notes": "Complete text; paper is an ethnographic study of nationalist infrastructure in Diyarbakir, Turkey.",
+  "via": "Graham 2006:forward",
+  "text_truncated": false,
+  "openalex_id": "https://openalex.org/W4315699709"
+}

@@ -1,0 +1,30 @@
+{
+  "title": "Future war in cities: Urbanization's challenge to strategic studies in the 21st century",
+  "year": "2016",
+  "doi": "10.1017/S1816383117000066",
+  "doc_type": "journal_article",
+  "methodology": "theoretical",
+  "geography": "global",
+  "thesis": "Western militaries must engage with urban studies to develop nuanced strategies for diverse urban environments, moving beyond a narrow focus on megacities.",
+  "theme_1_score": 0,
+  "theme_1_justification": "Not addressed. The paper does not discuss information goods, dual-use, or technology transfer between civilian and military domains.",
+  "theme_2_score": 0,
+  "theme_2_justification": "Not addressed. No discussion of algorithmic opacity, epistemic authority, or surveillance as knowledge production.",
+  "theme_3_score": 0,
+  "theme_3_justification": "Not addressed. The paper mentions smart cities briefly but does not conceptualize the city as a programmable system or discuss modulation.",
+  "theme_4_score": 0,
+  "theme_4_justification": "Not addressed. The paper discusses urban warfare and civilian casualties but not spatial destruction, domicide, or home unmaking as deliberate strategies.",
+  "dual_use_explicit": "no",
+  "dual_use_direction": "neither",
+  "dual_use_structural": "no",
+  "key_quotes": [
+    "One of the continuing weaknesses of Western strategic studies is the paucity of serious research on the role of the city in armed conflict.",
+    "Because cities represent crucibles of civilization, it is uncomfortable to regard them as arenas for future armed conflict or as scenes of humanitarian emergency.",
+    "In the coming years, if we are to better understand the city as an armed conflict zone, an urban-oriented strand of strategic studies needs to be developed by security scholars working in close conjunction with the macro- and micro-level schools identified earlier."
+  ],
+  "policy_relevance": "Recommends developing an urban-oriented strategic studies, engaging with urban specialists, and using discriminate force to reduce civilian casualties and uphold humanitarian law.",
+  "notes": "The paper is a journal article focused on military strategy and urbanization. It does not address algorithmic governance, dual-use of technology, or the specific themes of the coding framework.",
+  "via": "Graham 2006:forward",
+  "text_truncated": false,
+  "openalex_id": "https://openalex.org/W2587864690"
+}

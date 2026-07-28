@@ -1,0 +1,30 @@
+{
+  "title": "Geometry after the Circle: Security Interventions in the Urban Gray Zone",
+  "year": "2019",
+  "doi": null,
+  "doc_type": "journal_article",
+  "methodology": "theoretical",
+  "geography": "Liberia (West Africa)",
+  "thesis": "The paper argues that despite fantasies of post-geometric urban warfare, security interventions in African urban gray zones inevitably resort to the circle (cordon sanitaire), and outsourcing to surrogate forces does not overcome this basic geometry.",
+  "theme_1_score": 0,
+  "theme_1_justification": "Not addressed. The paper does not discuss information goods, software, data, or dual-use technology transfer.",
+  "theme_2_score": 0,
+  "theme_2_justification": "Not addressed. The paper does not discuss algorithmic opacity, epistemic authority, or surveillance as knowledge production.",
+  "theme_3_score": 0,
+  "theme_3_justification": "Not addressed. The paper engages with Deleuze and Guattari's concepts of smooth and striated space but in the context of urban warfare, not algorithmic governance or modulation.",
+  "theme_4_score": 3,
+  "theme_4_justification": "Central argument. The paper extensively discusses the West Point quarantine as an act of urban war, spatial destruction, and the violence of security interventions, engaging with concepts of new military urbanism and the city as battlespace.",
+  "dual_use_explicit": "no",
+  "dual_use_direction": "neither",
+  "dual_use_structural": "no",
+  "key_quotes": [
+    "The West Point cordon sanitaire was, by any measure, a disaster. Soldiers and police officers responded to rioting West Point residents with beatings and with shots fired, wounding a teenage boy who bled to death before he could receive medical care.",
+    "The combination of urban chaos and the deployment of the armed forces of the Liberian state turned a health emergency into an act of urban war.",
+    "What is new about the current moment of militarization across Africa and around the globe is not its kinetic formations. It is the way the discourses and fantasies of contemporary urban space and urban threats render familiar formations largely invisible."
+  ],
+  "policy_relevance": "None",
+  "notes": "Full text provided. The paper is a theoretical analysis of the West Point quarantine and broader urban security interventions, with a case study approach.",
+  "via": "Weizman 2007:forward",
+  "text_truncated": false,
+  "openalex_id": "https://openalex.org/W2897812227"
+}

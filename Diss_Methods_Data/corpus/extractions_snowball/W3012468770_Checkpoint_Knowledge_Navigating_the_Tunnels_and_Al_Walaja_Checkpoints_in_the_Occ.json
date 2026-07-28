@@ -1,0 +1,30 @@
+{
+  "title": "Checkpoint Knowledge: Navigating the Tunnels and Al Walaja Checkpoints in the Occupied Palestinian Territories",
+  "year": "2021",
+  "doi": "10.1080/14650045.2020.1737020",
+  "doc_type": "journal_article",
+  "methodology": "empirical_qualitative",
+  "geography": "West Bank, Occupied Palestinian Territories",
+  "thesis": "Checkpoints are spatial political technologies that produce two mobility regimes—smooth for Jewish settlers and controlled for Palestinians—through low-tech design and arbitrary biopolitical categorization, which Palestinians navigate using 'checkpoint knowledge'.",
+  "theme_1_score": 0,
+  "theme_1_justification": "Not addressed. The paper does not discuss information goods, software/data properties, dual-use technology transfer, or repurposing of civilian urban tech for military/security functions.",
+  "theme_2_score": 1,
+  "theme_2_justification": "Tangential mention of arbitrary power and lack of transparency in checkpoint decision-making, but no engagement with algorithmic opacity, data-driven epistemic authority, or machine learning bias. The paper focuses on biopolitical categorization by soldiers, not on data-driven systems.",
+  "theme_3_score": 0,
+  "theme_3_justification": "Not addressed. The paper does not conceptualise the city as a programmable or algorithmic system, nor does it discuss continuous modulation through data, automated decision-making, or smart city governance. It focuses on physical checkpoints and manual control.",
+  "theme_4_score": 0,
+  "theme_4_justification": "Not addressed. The paper does not discuss spatial destruction, domicide, urbicide, weaponisation of civilian infrastructure, home unmaking, or vertical sovereignty. It analyses checkpoints as mechanisms of mobility control, not as instruments of spatial destruction.",
+  "dual_use_explicit": "no",
+  "dual_use_direction": "neither",
+  "dual_use_structural": "no",
+  "key_quotes": [
+    "As stated by Yael Berda (2018), the occupation regime should not be seen as a regime of rights but rather as a 'regime of privileges'. She explained that the Palestinian subject is dependent upon the goodwill of the ruler.",
+    "The decision of who is stopped and who can pass unhindered is thus made solely by the soldiers.",
+    "Palestinian commuters used various tactics based on their 'checkpoint knowledge' to try to make their passages as smooth as possible."
+  ],
+  "policy_relevance": "None explicitly, but the paper highlights the arbitrary and humiliating nature of checkpoints, implicitly calling for recognition of human rights violations.",
+  "notes": "Text is complete. The paper is a qualitative empirical study using interviews and go-along methods. It does not engage with the dual-use or algorithmic governance themes of the SLR, focusing instead on biopolitical control and mobility regimes in an occupation context.",
+  "via": "Weizman 2007:forward",
+  "text_truncated": false,
+  "openalex_id": "https://openalex.org/W3012468770"
+}

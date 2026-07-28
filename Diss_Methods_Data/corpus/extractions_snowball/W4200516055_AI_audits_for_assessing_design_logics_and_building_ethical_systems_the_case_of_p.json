@@ -1,0 +1,30 @@
+{
+  "title": "AI audits for assessing design logics and building ethical systems: the case of predictive policing algorithms",
+  "year": "2022",
+  "doi": "10.1007/s43681-021-00117-5",
+  "doc_type": "journal_article",
+  "methodology": "theoretical",
+  "geography": "global",
+  "thesis": "AI audits should evaluate the theoretical foundations of algorithms to uncover hidden biases and avoid harms, using predictive policing as a case example.",
+  "theme_1_score": 0,
+  "theme_1_justification": "Not addressed. The paper does not discuss dual-use, technology transfer, or the economic properties of software/data that enable frictionless transfer between domains.",
+  "theme_2_score": 2,
+  "theme_2_justification": "Substantive engagement. The paper discusses algorithmic opacity ('black box systems'), epistemic authority of data-driven systems (e.g., assumption that police data reflects criminality), and the need for audits to uncover hidden design logics. It critiques techno-determinism and addresses accountability gaps.",
+  "theme_3_score": 1,
+  "theme_3_justification": "Tangential mention. The paper discusses how predictive policing algorithms generate positive feedback loops that modulate police presence and shape urban space, but does not explicitly conceptualize the city as a programmable system or engage with Deleuzian control society.",
+  "theme_4_score": 1,
+  "theme_4_justification": "Tangential mention. The paper discusses crime displacement as a potential adverse outcome of PPAs, including spatial relocation of crime, but does not address spatial destruction, domicide, urbicide, or vertical sovereignty.",
+  "dual_use_explicit": "no",
+  "dual_use_direction": "neither",
+  "dual_use_structural": "no",
+  "key_quotes": [
+    "the inner workings of black box systems particularly ML models can become opaque, making it difficult to anticipate, understand and mitigate risks.",
+    "PPAs can have self-reinforcing properties fuelled by their underpinning near repeat/SEPPs design. Systematics in the models generate feedback loops that repeatedly target the same areas",
+    "audits should investigate and question typically less visible dimensions, such as the theoretical assumptions about human behaviour and the social world, that can infuse tech design with potential social implications."
+  ],
+  "policy_relevance": "Recommends that AI audits evaluate theoretical foundations; suggests questions for auditors to uncover design logics; advocates for design justice to diversify AI development.",
+  "notes": "Full journal article, not truncated.",
+  "via": "Kitchin 2014:forward",
+  "text_truncated": false,
+  "openalex_id": "https://openalex.org/W4200516055"
+}

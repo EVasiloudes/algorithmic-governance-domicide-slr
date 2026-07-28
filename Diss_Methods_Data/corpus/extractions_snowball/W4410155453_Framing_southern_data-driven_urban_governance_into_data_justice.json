@@ -1,0 +1,30 @@
+{
+  "title": "Framing southern data-driven urban governance into data justice",
+  "year": "2026",
+  "doi": "10.1080/07352166.2025.2492698",
+  "doc_type": "journal_article",
+  "methodology": "empirical_mixed",
+  "geography": "Brazil (Rio de Janeiro)",
+  "thesis": "Data-driven urban governance via Rio's 1746 CiRM system perpetuates socio-spatial injustices and fails to address structural inequalities, as revealed by a data justice framework.",
+  "theme_1_score": 0,
+  "theme_1_justification": "Not addressed. The paper discusses technology transfer from New York City's 311 system but does not engage with dual-use between civilian and military/security domains. No mention of military or security applications of urban tech.",
+  "theme_2_score": 2,
+  "theme_2_justification": "Substantive engagement. The paper discusses algorithmic opacity, data bias, lack of transparency, and the constructed nature of data-driven 'truth'. It cites Kitchin and Pasquale on epistemic authority and black-boxing. Dedicated sections on procedural justice and how data shapes reality (e.g., 'data is not a neutral representation of reality but rather the product of a selective process that constructs particular versions of the world').",
+  "theme_3_score": 2,
+  "theme_3_justification": "Substantive engagement. The paper conceptualizes the smart city as a mode of governance, discusses continuous modulation through service requests, dashboards, and performance management. It references 'algorithmic governmentality' and depoliticization of governance. However, the central argument is data justice, not machinic city theory.",
+  "theme_4_score": 0,
+  "theme_4_justification": "Not addressed. The paper discusses socio-spatial inequalities and uneven development but does not address spatial destruction, domicide, urbicide, home unmaking, or the weaponization of civilian infrastructure. No mention of military urbanism, vertical sovereignty, or Forensic Architecture.",
+  "dual_use_explicit": "no",
+  "dual_use_direction": "neither",
+  "dual_use_structural": "no",
+  "key_quotes": [
+    "data is not a neutral representation of reality but rather the product of a selective process that constructs particular versions of the world",
+    "the system has a limited capacity to democratize urban governance in Rio de Janeiro. While it facilitates the communication between citizens and the City Hall, it falls short in influencing long-term urban planning, fostering the inclusion of marginalized groups, and addressing underlying social structures.",
+    "the instrumentalization of data in Rio must be understood as part of an urban management culture, politically and symbolically embodied in the figure of Mayor Eduardo Paes, which prioritizes efficiency, the rationalization of public services, and results-oriented practices."
+  ],
+  "policy_relevance": "The paper argues that data-driven urban governance systems must be evaluated through a data justice lens that addresses structural inequalities, not just efficiency. It calls for an integrated social justice agenda that connects data justice to struggles for urban reform and the right to the city, and warns against privatization and entrepreneurial urbanism.",
+  "notes": "Full text provided. No truncation. The paper does not discuss dual-use in the civilian-military sense; its focus is on data justice within civilian urban governance.",
+  "via": "Kitchin 2014:forward",
+  "text_truncated": false,
+  "openalex_id": "https://openalex.org/W4410155453"
+}

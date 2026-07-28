@@ -1,0 +1,28 @@
+{
+  "title": "The security-threat-community",
+  "year": "2017",
+  "doi": "10.1080/13604813.2017.1412598",
+  "doc_type": "journal_article",
+  "methodology": "case_study",
+  "geography": "Belfast, Northern Ireland",
+  "thesis": "Examines how Troubles-era social-housing redevelopment in Belfast became an instrument of security policy, creating the 'security-threat-community' where housing need was subordinated to military threat assessment.",
+  "theme_1_score": 2,
+  "theme_1_justification": "Substantive engagement with dual-use/transfer: the paper details how civilian social-housing policy and infrastructure were repurposed for military/security functions through the Standing Committee on the Security Implications of Housing. It discusses the 'confluence of housing and security policy' and how 'housing policy itself is not political, but the prosecution and promulgation of it is' (p. 709). The paper explicitly describes the use of housing as a 'tool' for security control, though does not frame this in terms of information good properties.",
+  "theme_2_score": 2,
+  "theme_2_justification": "Substantive engagement with opacity and epistemic authority: the paper extensively documents the confidential, opaque decision-making of the Standing Committee, noting that 'transparency and opacity' are central themes. It describes how security advice was depoliticised as 'merely a technical matter' (p. 710), bypassing democratic deliberation. The paper discusses how the government chose to 'weaken sectarian boundary lines by stealth' rather than public debate (p. 704). Surveillance as knowledge production is implicit in the Security Forces' monitoring of population movements.",
+  "theme_3_score": 2,
+  "theme_3_justification": "Substantive engagement with the city as a programmable system: the paper conceptualises Belfast's housing estates as a 'grid of intelligibility' (p. 711) and describes how the Security Forces modelled and modulated population movements through controlled allocation of tenancies, buffer zones, and physical barriers. It discusses 'continuous modulation' through 'controlled allocation' of tenants and pre-emptive spatial design. The paper engages with the 'smart city' concept only tangentially, but strongly addresses algorithmic/administrative sorting of urban populations.",
+  "theme_4_score": 2,
+  "theme_4_justification": "Substantive engagement with spatial destruction and home unmaking: the paper documents forced evictions, intimidation, and displacement of families (e.g., 700 Protestant families fleeing New Barnsley, 154 Catholic families forced from Willowfield). It discusses the deliberate creation of 'no man's land' buffer zones, the weaponisation of housing allocation, and the physical barriers (dual carriageways, heavy planting) that permanently divide communities. The paper engages with Graham's 'new military urbanism' and Weizman's work on architecture and conflict, though does not explicitly discuss vertical sovereignty or drones.",
+  "dual_use_explicit": "yes",
+  "dual_use_direction": "civil_to_military",
+  "dual_use_structural": "yes",
+  "key_quotes": [
+    "The paper makes visible the sophisticated socio-material effects of these operations and illustrates how they remain embedded within contemporary community structures. The paper concludes by reflecting on how this permits conflict-era forces to remain active, but largely unacknowledged, within the post-conflict era."
+  ],
+  "policy_relevance": "Argues for a 'revaluing of the value' of conflict-architecture within post-conflict policy frameworks, noting that the Together: Building a United Community Strategy fails to recognise the security-threat-community as a legacy of conflict. Recommends cross-departmental political process to address the hidden spatial divisions.",
+  "notes": "Full text available. The paper is a detailed historical case study using declassified government documents.",
+  "via": "Weizman 2007:forward",
+  "text_truncated": false,
+  "openalex_id": "https://openalex.org/W2489683967"
+}

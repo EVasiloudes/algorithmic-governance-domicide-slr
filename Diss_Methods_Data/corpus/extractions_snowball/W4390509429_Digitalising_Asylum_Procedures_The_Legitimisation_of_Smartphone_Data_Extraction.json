@@ -1,0 +1,30 @@
+{
+  "title": "Digitalising Asylum Procedures: The Legitimisation of Smartphone Data Extraction for Retrospective Border Control",
+  "year": "2024",
+  "doi": "10.1080/14650045.2023.2288162",
+  "doc_type": "journal_article",
+  "methodology": "empirical_qualitative",
+  "geography": "Germany, Austria, Switzerland (DACH region)",
+  "thesis": "Examines how smartphone data extraction became a legitimate policy instrument in asylum procedures through moralising securitisation and techno-solutionist rationalisations.",
+  "theme_1_score": 2,
+  "theme_1_justification": "Substantive engagement with repurposing of a criminal prosecution tool (SDE) for asylum bureaucracy, and mention of commercial forensic solution used across criminal, military, and border control domains. However, no discussion of economic properties of information goods or explicit dual-use terminology.",
+  "theme_2_score": 3,
+  "theme_2_justification": "Central argument about legitimisation through epistemic authority of data, black-boxing via metadata discourse, machine-based readouts as objective, and removal of democratic scrutiny. Engages with algorithmic governmentality and Big Data-security assemblage.",
+  "theme_3_score": 0,
+  "theme_3_justification": "Not addressed. Paper focuses on asylum procedures and border control, not urban governance or modulation of urban populations.",
+  "theme_4_score": 0,
+  "theme_4_justification": "Not addressed. No discussion of spatial destruction, urbicide, home unmaking, or vertical sovereignty.",
+  "dual_use_explicit": "tangential",
+  "dual_use_direction": "both",
+  "dual_use_structural": "tangential",
+  "key_quotes": [
+    "The re-appropriation of this everyday technology for purposes of border control marks a critical innovation in digital infrastructures in this sphere.",
+    "the use of computers as intermediaries is linked to conceptions of machine-to-machine communication as a legally and socio-politically unproblematic process.",
+    "a metadata discourse produces notions of objective and apolitical machine-based outcomes."
+  ],
+  "policy_relevance": "Discusses implications for liberal democratic governance, privacy, data protection, and procedural safeguards. Notes German Federal Administrative Court ruling requiring changes to SDE practice. Highlights need for balancing security and rights in digital border control.",
+  "notes": "Full text provided; no truncation. Paper is a single journal article.",
+  "via": "Kitchin 2014:forward",
+  "text_truncated": false,
+  "openalex_id": "https://openalex.org/W4390509429"
+}

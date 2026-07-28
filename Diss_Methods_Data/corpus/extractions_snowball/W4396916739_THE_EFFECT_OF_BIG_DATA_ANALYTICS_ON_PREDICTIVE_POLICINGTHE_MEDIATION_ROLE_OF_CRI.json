@@ -1,0 +1,30 @@
+{
+  "title": "THE EFFECT OF BIG DATA ANALYTICS ON PREDICTIVE POLICING:THE MEDIATION ROLE OF CRISIS MANAGEMENT",
+  "year": "2024",
+  "doi": "10.24857/rgsa.v18n2-119",
+  "doc_type": "journal_article",
+  "methodology": "empirical_quantitative",
+  "geography": "UAE (Dubai)",
+  "thesis": "Big data analytics significantly enhances predictive policing, with crisis management acting as a mediator in this relationship within Dubai police.",
+  "theme_1_score": 0,
+  "theme_1_justification": "Not addressed. The paper does not discuss dual-use, technology transfer, or repurposing of civilian tech for military/security domains. It focuses solely on law enforcement applications.",
+  "theme_2_score": 1,
+  "theme_2_justification": "Tangential mention. The paper acknowledges bias in big data and algorithms (e.g., 'biased information that produced misleading... affecting fairness') but does not engage with epistemic authority, black-boxing, or democratic deficit. No discussion of surveillance as knowledge production.",
+  "theme_3_score": 2,
+  "theme_3_justification": "Substantive engagement. The paper discusses predictive policing as a data-driven approach to modulate police deployment and anticipate crime, describing the city as a programmable system. It references 'big data analytics' and 'predictive policing' as modes of governance, but does not use Deleuzian or control-society terminology.",
+  "theme_4_score": 0,
+  "theme_4_justification": "Not addressed. No discussion of spatial destruction, domicide, weaponisation of infrastructure, or urban warfare. The paper is about crime prevention and crisis management, not spatial violence.",
+  "dual_use_explicit": "no",
+  "dual_use_direction": "neither",
+  "dual_use_structural": "no",
+  "key_quotes": [
+    "Predictive policing relies on computer algorithms to see patterns, predict the occurrence of future events based on large quantities of data, and aims to carefully target police presence to the necessary minimum to achieve desired results (Carrie and James, 2017, p.7).",
+    "Big data analytics is a process of collecting, aggregating, examining, and exploiting massive volumes of data from disparate and autonomous resources in order to identify patterns and other useful information for better managerial decisions (Sun, 2015).",
+    "The use of big data analytics provides excellent resources for achieving this goal, but is it enough to prevent or reduce the effect of crisis. Various studies have previously validated the use of big data analytics in policing, but with the mediation role of crisis management the performance of police will be enhance and can predict not only crimes but also crisis before it happens."
+  ],
+  "policy_relevance": "The study recommends integrating big data analytics into police operations to enhance predictive policing and crisis management, with practical guidelines for UAE police forces. It also notes the need to balance technology use with privacy and ethical considerations.",
+  "notes": "The paper is a standard applied management study with a quantitative empirical approach. It does not engage with critical perspectives on dual-use or algorithmic governance. The reference to Kitchin (2014) is used only for defining big data, not for its dual-use implications.",
+  "via": "Kitchin 2014:forward",
+  "text_truncated": false,
+  "openalex_id": "https://openalex.org/W4396916739"
+}

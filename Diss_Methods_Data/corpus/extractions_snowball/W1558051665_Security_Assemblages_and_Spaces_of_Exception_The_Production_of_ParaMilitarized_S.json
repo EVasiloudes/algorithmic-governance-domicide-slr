@@ -1,0 +1,30 @@
+{
+  "title": "Security Assemblages and Spaces of Exception: The Production of (Para)Militarized Spaces in the U.S. War on Drugs",
+  "year": "2011",
+  "doi": null,
+  "doc_type": "book_chapter",
+  "methodology": "theoretical",
+  "geography": "United States, Mexico, Latin America",
+  "thesis": "The war on drugs paramilitarizes space through security assemblages that blur policing and war, producing spaces of exception for illiberal governance.",
+  "theme_1_score": 0,
+  "theme_1_justification": "Not addressed; no discussion of information goods, dual-use, or technology transfer.",
+  "theme_2_score": 1,
+  "theme_2_justification": "Tangential mention of knowledge regimes and risk management in security assemblages, but no engagement with algorithmic opacity or data-driven epistemic authority.",
+  "theme_3_score": 2,
+  "theme_3_justification": "Substantive engagement with security assemblages as mechanisms for managing flows of people and resources, drawing on Foucault's apparatuses of security and Weizman's logic of security; discusses configuration and reconfiguration of space for population control.",
+  "theme_4_score": 2,
+  "theme_4_justification": "Discusses production of paramilitarized spaces, hyperghettos, and border regimes as spaces of exception; addresses targeting of populations through spatial control and blurring of inside/outside.",
+  "dual_use_explicit": "no",
+  "dual_use_direction": "neither",
+  "dual_use_structural": "no",
+  "key_quotes": [
+    "Security centres around the management of flows of people and resources by means of configuring and re-configuring space.",
+    "The hyperghetto and the prison are instruments for controlling risky populations. But they also constitute risky spaces that, due to the very fact that they warehouse risky populations, need to be constantly monitored, controlled, policed and targeted by a variety of different tactics and technologies.",
+    "The war on drugs has eroded the very boundaries between policing and war-fighting, it has also led to what we may call the 'policization' of the military."
+  ],
+  "policy_relevance": "Critique of war on drugs and paramilitarization; implications for understanding security assemblages and spaces of exception.",
+  "notes": "Book chapter in Radical Criminology; theoretical analysis with historical examples; no discussion of dual-use or algorithmic governance.",
+  "via": "Weizman 2007:forward",
+  "text_truncated": false,
+  "openalex_id": "https://openalex.org/W1558051665"
+}

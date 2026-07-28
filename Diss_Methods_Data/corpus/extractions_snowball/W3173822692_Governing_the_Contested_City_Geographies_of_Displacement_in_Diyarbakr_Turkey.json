@@ -1,0 +1,30 @@
+{
+  "title": "Governing the Contested City: Geographies of Displacement in Diyarbakır, Turkey",
+  "year": "2021",
+  "doi": "10.1111/anti.12753",
+  "doc_type": "journal_article",
+  "methodology": "empirical_qualitative",
+  "geography": "Turkey (Diyarbakır)",
+  "thesis": "Urban renewal projects in Suriçi, as part of a post-conflict urban regime, rendered Kurdish lower-class dwellers displaceable and paved the way for subsequent destruction during urban warfare.",
+  "theme_1_score": 0,
+  "theme_1_justification": "Not addressed. The paper does not discuss information goods, dual-use, or technology transfer between civilian and military domains.",
+  "theme_2_score": 0,
+  "theme_2_justification": "Not addressed. The paper does not discuss algorithmic opacity, epistemic authority of data, or surveillance as knowledge production.",
+  "theme_3_score": 0,
+  "theme_3_justification": "Not addressed. The paper does not conceptualize the city as a programmable or algorithmic system; it focuses on physical urban space and state violence.",
+  "theme_4_score": 3,
+  "theme_4_justification": "Central argument. The paper extensively discusses spatial destruction, displacement, urbicide, and the weaponisation of urban space, engaging with Graham's new military urbanism and the concept of displaceability.",
+  "dual_use_explicit": "no",
+  "dual_use_direction": "neither",
+  "dual_use_structural": "no",
+  "key_quotes": [
+    "This abrupt shift from renewal schemes aiming to forge a governmental spatio-politics to draconian measures that Öktem (2019) describes as 'urbicide' requires examining the processes that inform the spatiality of politics in the successive conjunctures of non-conflict and conflict.",
+    "The idea of securitisation through marketisation has invigorated urban imaginaries that devalue lower-class Kurdish dweller's experience attached to place. The post-conflict rehabilitation has stripped dwellers of their right to the city by depicting their everyday forms of urbanity as unfit.",
+    "Displaceability here is crucial to understand how the violence expressed in further re-militarisation of space during and after the urban warfare became possible. As 'the state of being susceptible to involuntary distancing from' urban material and cultural resources and right to the city (Yiftachel 2020:154), displaceability 'holds large parts of urban society in suspense, often living on borrowed time in conditions of growing vulnerability and uncertainty'."
+  ],
+  "policy_relevance": "None",
+  "notes": "Full journal article; no truncation.",
+  "via": "Graham 2006:forward",
+  "text_truncated": false,
+  "openalex_id": "https://openalex.org/W3173822692"
+}

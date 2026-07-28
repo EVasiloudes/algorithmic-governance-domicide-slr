@@ -1,0 +1,30 @@
+{
+  "title": "How walls do work: Security barriers as devices of interruption and data capture",
+  "year": "2016",
+  "doi": "10.1177/0967010615615729",
+  "doc_type": "journal_article",
+  "methodology": "empirical_qualitative",
+  "geography": "Multiple: Ceuta/Melilla, Israel/Palestine, Iraq",
+  "thesis": "Security barriers are sociotechnical devices that govern populations through interruption and data capture, going beyond mere blockading.",
+  "theme_1_score": 2,
+  "theme_1_justification": "Substantive engagement with dual-use: discusses repurposing of biometric data from Falluja fence for later sectarian violence, and human rights risks of data aggregation. However, does not explicitly address Arrow's economic properties of information goods.",
+  "theme_2_score": 2,
+  "theme_2_justification": "Discusses how barriers produce knowledge about populations through data capture, classification, and profiling (e.g., 'shady douchebag' categories). Touches on epistemic authority and constructed nature of categories, but does not centralize algorithmic opacity or democratic deficit.",
+  "theme_3_score": 3,
+  "theme_3_justification": "Central argument: barriers work through circulation and modulation of populations, drawing on Foucault's security apparatus. Discusses continuous data accumulation, management of flows, and the shift from territorial to biopolitical governance. The paper is fundamentally about modulation via sociotechnical devices.",
+  "theme_4_score": 2,
+  "theme_4_justification": "Discusses spatial destruction and weaponisation of data in counterinsurgency (Falluja, Gaza). The data captured later facilitates targeting and violence, but home unmaking and urbicide are not the primary focus; the paper is more about the productive role of barriers.",
+  "dual_use_explicit": "yes",
+  "dual_use_direction": "both",
+  "dual_use_structural": "tangential",
+  "key_quotes": [
+    "I argue that understanding barriers as objects on their own stresses their blockading role, whereas employing an analytic of devices, where devices are thought to be productive, foregrounds what barriers work to produce.",
+    "The Falluja fence no longer exists, but the data it captured remains in use in Iraq and is still stored on servers in Virginia.",
+    "The massive aggregation of secret files on Iraqis, linked to permanent biometric identifiers, creates an unprecedented human rights risk that could easily be exploited by a future government."
+  ],
+  "policy_relevance": "Highlights risks of biometric data aggregation and potential for misuse by future governments or non-state actors; cites concerns from EPIC, Privacy International, and Human Rights Watch.",
+  "notes": "Full text provided. The paper is a theoretical-empirical analysis using case studies. No truncation issues.",
+  "via": "Weizman 2007:forward",
+  "text_truncated": false,
+  "openalex_id": "https://openalex.org/W2317246442"
+}

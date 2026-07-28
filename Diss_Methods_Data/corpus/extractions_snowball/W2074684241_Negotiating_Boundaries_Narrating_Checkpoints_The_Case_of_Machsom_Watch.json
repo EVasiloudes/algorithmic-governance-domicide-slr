@@ -1,0 +1,30 @@
+{
+  "title": "Negotiating Boundaries, Narrating Checkpoints: The Case of Machsom Watch",
+  "year": "2008",
+  "doi": "10.1080/10669920701862476",
+  "doc_type": "journal_article",
+  "methodology": "empirical_qualitative",
+  "geography": "Israel/West Bank",
+  "thesis": "Analyzes how Machsom Watch activists challenge Israeli territorial policies by observing, documenting, and personalizing checkpoints to reframe security and morality.",
+  "theme_1_score": 0,
+  "theme_1_justification": "Not addressed; no discussion of software, data, dual-use, or technology transfer.",
+  "theme_2_score": 0,
+  "theme_2_justification": "Not addressed; no focus on algorithmic opacity, black-boxing, or epistemic authority of data systems.",
+  "theme_3_score": 0,
+  "theme_3_justification": "Not addressed; no conceptualization of city as programmable system, modulation, or smart city governance.",
+  "theme_4_score": 2,
+  "theme_4_justification": "Substantive engagement with spatial destruction, home unmaking, displacement via checkpoints, separation barrier, roadblocks, and house demolitions, with detailed description of their impact on Palestinian life.",
+  "dual_use_explicit": "no",
+  "dual_use_direction": "neither",
+  "dual_use_structural": "no",
+  "key_quotes": [
+    "In contrast to the open violence, the occupying forces also engage in hidden violence. There is bureaucratic violence, which the film attached to this report attempts to uncover.",
+    "The politicization of the Holocaust as a constituting factor in Israeli national identity, and in justifying any and all action as necessary defensive measures, is contested by Watchers’ activism ... Remembering the silence of the majority during the Nazi/fascist period impels many of us to speak out, now, while there is still time.",
+    "Just imagine the amount of time you are wasting over the last four years. Even if you are crossing [the checkpoint] and people [soldiers] are polite, just try to calculate how much time is being wasted. People are late to their job if they are lucky enough to have one. People cannot really study, work or live because every inch of their autonomy is being controlled by someone else."
+  ],
+  "policy_relevance": "Highlights activism that challenges occupation policies and documents human rights abuses; notes tensions between humanitarian improvements and legitimating the checkpoint regime.",
+  "notes": "Paper is about physical checkpoint regime and activism, not about algorithmic governance or dual-use technology. No direct relevance to themes 1–3.",
+  "via": "Weizman 2007:forward",
+  "text_truncated": false,
+  "openalex_id": "https://openalex.org/W2074684241"
+}

@@ -1,0 +1,30 @@
+{
+  "title": "Explaining spacio-cide in the Palestinian territory: Colonization, separation, and state of exception",
+  "year": "2012",
+  "doi": "10.1177/0011392112456505",
+  "doc_type": "journal_article",
+  "methodology": "theoretical",
+  "geography": "Palestinian territory (West Bank, Gaza, East Jerusalem)",
+  "thesis": "The Israeli colonial project is 'spacio-cidal'—targeting land to induce 'voluntary' transfer of Palestinians—enabled by a regime of colonization, separation, and state of exception.",
+  "theme_1_score": 0,
+  "theme_1_justification": "Not addressed. The paper does not discuss information goods, dual-use, or technology transfer between civilian and military domains.",
+  "theme_2_score": 1,
+  "theme_2_justification": "Tangential mention. The paper discusses surveillance and bio-politics (e.g., 'military bureaucracy in using the most sophisticated anthropological tools to divide Palestinians into categories in order to manage them'), but does not engage with algorithmic opacity, black-boxing, or epistemic authority of data systems.",
+  "theme_3_score": 1,
+  "theme_3_justification": "Tangential mention. The paper discusses spatial partitioning and control (e.g., 'checkpoints, roadblocks, and panoptic towers'), and references Foucault's plague management as a modality of power, but does not conceptualize the city as a programmable algorithmic system or engage with smart city governance.",
+  "theme_4_score": 3,
+  "theme_4_justification": "Central argument. The paper's primary contribution is the concept of 'spacio-cide'—the deliberate destruction of space to induce population transfer. It extensively discusses house demolitions, land confiscation, ethnic cleansing, and the weaponization of urban planning (e.g., 'the weapons of mass destruction are not so much tanks as bulldozers'). Engages with urbicide and spatial annihilation.",
+  "dual_use_explicit": "no",
+  "dual_use_direction": "neither",
+  "dual_use_structural": "no",
+  "key_quotes": [
+    "The Israeli settler-colonial project is not a genocidal project in a legal sense but a 'spacio-cidal' one. In every conflict, belligerents define their enemy and shape their mode of action accordingly. In the Palestinian–Israeli conflict, the Israeli target is the place.",
+    "The weapons of mass destruction are not so much tanks as bulldozers, which have destroyed streets, houses, cars, and dunam after dunam of olive trees. It is a war in an age of literal agoraphobia, the fear of space, seeking not the division of territory but its abolition.",
+    "Spacio-cide is mainly land confiscation in order to construct Jewish settlement, house demolition, and population transfer."
+  ],
+  "policy_relevance": "Critiques the Oslo peace process and international community's reluctance to challenge Israeli settlement expansion; suggests that humanitarian organizations (e.g., UNRWA) inadvertently reinforce the state of exception by not advocating for refugee return.",
+  "notes": "Full text available; no truncation. Paper is a theoretical analysis with secondary data and interviews.",
+  "via": "Weizman 2007:forward",
+  "text_truncated": false,
+  "openalex_id": "https://openalex.org/W2126496809"
+}

@@ -1,0 +1,30 @@
+{
+  "title": "Decision",
+  "year": "2022",
+  "doi": "10.1093/oso/9780192859624.003.0003",
+  "doc_type": "book_chapter",
+  "methodology": "theoretical",
+  "geography": "Chicago, USA",
+  "thesis": "Algorithmic decisions are mundane, unexceptional partitions of abstract feature spaces based on calculations of distance, which produce and proliferate differences in urban governance.",
+  "theme_1_score": 1,
+  "theme_1_justification": "Tangential mention of dual-use through military funding for PredPol (counterinsurgency model) and CivicScape founder moving to Department of Defense, but no sustained engagement with dual-use as a structural property of information goods.",
+  "theme_2_score": 2,
+  "theme_2_justification": "Substantive engagement with algorithmic opacity, black-boxing, and epistemic authority (e.g., 'black box society', debates on bias and discrimination, transparency limitations), though not the central argument.",
+  "theme_3_score": 2,
+  "theme_3_justification": "Substantive engagement with algorithmic governance of urban space through predictive policing, continuous re-partitioning of feature spaces, and hotspots as interventionist tools; discusses city as programmable through data.",
+  "theme_4_score": 0,
+  "theme_4_justification": "Not addressed; no discussion of spatial destruction, domicide, home unmaking, or urban warfare.",
+  "dual_use_explicit": "tangential",
+  "dual_use_direction": "both",
+  "dual_use_structural": "no",
+  "key_quotes": [
+    "Algorithms shape not only what we see, how we are taught, how books are written, how party manifestos are put together, but also what urban areas are policed, who is surveilled, and even who might be targeted by drones.",
+    "We propose to understand how heterogeneous algorithmic decisions are constitutive of another element of algorithmic reason and the government of difference. To do so, we 'follow' a predictive policing algorithm in order to unpack its decisions as distributed workflows and unexceptional data transformations.",
+    "PredPol had built on Pentagon funding for its co-founder Brantingham to develop a counterinsurgency model forecasting casualties in Iraq."
+  ],
+  "policy_relevance": "Discusses accountability tools (principles, audits, certification, ethics boards) for algorithmic decision-making; critiques transparency as insufficient without infrastructure and expertise for effective use.",
+  "notes": "Chapter 2 of 'Algorithmic Reason' by Claudia Aradau and Tobias Blanke. Focuses on predictive policing case study (CivicScape) and theoretical engagement with Günther Anders. Dual-use is mentioned briefly but not central.",
+  "via": "Kitchin 2014:forward",
+  "text_truncated": false,
+  "openalex_id": "https://openalex.org/W4283333272"
+}

@@ -1,0 +1,28 @@
+{
+  "title": "The war on teenage terrorists: Philly's 'Flash Mob Riots' and the banality of post-9/11 securitization",
+  "year": 2011,
+  "doi": "10.1080/13604813.2011.630856",
+  "doc_type": "journal_article",
+  "methodology": "case_study",
+  "geography": "Philadelphia, USA",
+  "thesis": "Philadelphia's response to gatherings of African American youth as 'flash mobs' uses banal post-9/11 antiterrorism discourse to justify aggressive policing and reinforce historical racial and class segregation.",
+  "theme_1_score": 0,
+  "theme_1_justification": "Not addressed. The paper does not discuss economic properties of software/data, dual-use, or technology transfer between civilian and military domains.",
+  "theme_2_score": 2,
+  "theme_2_justification": "Substantive engagement with epistemic authority and black-boxing through the discursive construction of 'flash mobs' as terrorists, which bypasses democratic deliberation. Discusses how the 'flash mob' label assigns guilt and constructs a 'terrorist' figure that obscures social relations. Notes surveillance of social media (FBI monitoring of cell phones and websites) and preemptive policing (Love Park closure based on 'Internet chatter'). Mentions the 'dominant warrant of the white spatial imaginary' that makes racialization of space 'ideologically legitimate and politically impregnable' (p. 594).",
+  "theme_3_score": 2,
+  "theme_3_justification": "Substantive engagement with the city as a programmable system under continuous modulation. Discusses 'banal terrorism' as a mode of governance that sanctions preemptive policing, curfew zones, 'anti-flash mob zones', and 'targeted enforcement areas'. Analyzes how performance of security in everyday spaces works to conceal social relations. References Marcuse's concept of citadelization and the neoliberal city as an efficient business, with youth gatherings threatening the 'very fabric of the neoliberal city' (p. 593).",
+  "theme_4_score": 1,
+  "theme_4_justification": "Tangential mention. Discusses historical spatial destruction (MOVE bombing in 1985, which killed 11 and burned an entire block) as precedent. Addresses the weaponisation of antiterrorism discourse and aggressive policing in ghettoized neighborhoods. References citadel/ghetto division and 'urban fortressing' but focuses on discursive rather than physical spatial destruction. No discussion of vertical sovereignty, drones, or Forensic Architecture.",
+  "dual_use_explicit": "no",
+  "dual_use_direction": "neither",
+  "dual_use_structural": "no",
+  "key_quotes": [
+    "This paper interprets a recent, aggressive state crackdown on public gatherings of African American youth in the streets of Philadelphia's commercial districts against the backdrop of historical geographies of race and disinvestment. Drawing on news accounts and government publications, and deploying theories of securitization and space, it joins those who argue that the performance of security in everyday spaces works to conceal the social relations undergirding the post-9/11 security state. We consider how city officials and others have constructed the collective figure of the 'flash mob' as a perpetrator of urban terrorism and the subject of state intervention."
+  ],
+  "policy_relevance": "Critiques the use of antiterrorism legislation and surveillance to preempt youth gatherings and curtail civil rights, calling for closer attention to the social warrant of racialized space and banal terrorism.",
+  "notes": "Full text provided. Journal article, case study of Philadelphia's response to youth gatherings.",
+  "via": "Graham 2006:forward",
+  "text_truncated": false,
+  "openalex_id": "https://openalex.org/W1578662885"
+}

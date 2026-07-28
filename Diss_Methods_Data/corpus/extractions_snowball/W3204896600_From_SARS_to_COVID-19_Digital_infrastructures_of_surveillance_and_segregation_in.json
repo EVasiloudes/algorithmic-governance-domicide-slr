@@ -1,0 +1,30 @@
+{
+  "title": "From SARS to COVID-19: Digital infrastructures of surveillance and segregation in exceptional times",
+  "year": "2022",
+  "doi": "10.1016/j.cities.2021.103486",
+  "doc_type": "journal_article",
+  "methodology": "case_study",
+  "geography": "Singapore, Hong Kong, mainland China",
+  "thesis": "Compares digital surveillance and segregation measures during SARS and COVID-19 in three jurisdictions, arguing that temporary crisis infrastructures can have long-term effects on state power and are shaped by sociopolitical contexts.",
+  "theme_1_score": 2,
+  "theme_1_justification": "Paper substantively engages with dual-use potential: discusses mission creep (fusion centers), concerns about health data used for policing, and the flexibility of digital quarantine tools for non-health purposes. However, it does not centrally focus on the economic properties of information goods.",
+  "theme_2_score": 2,
+  "theme_2_justification": "Paper discusses algorithmic opacity of China's health codes (unknown parameters, no appeal), epistemic authority of surveillance data, and accountability gaps. Engages with black-boxing and democratic deficit, but not as the central argument.",
+  "theme_3_score": 2,
+  "theme_3_justification": "Paper conceptualizes the city as a programmable system through digital surveillance and segregation, discusses continuous modulation via health codes, cites Deleuze on control societies, and addresses smart city governance. Substantive engagement but not the primary focus.",
+  "theme_4_score": 0,
+  "theme_4_justification": "Paper does not address spatial destruction, domicide, urbicide, weaponisation of civilian infrastructure, vertical sovereignty, or Forensic Architecture. Focus is on surveillance and segregation for public health, not destruction of urban space.",
+  "dual_use_explicit": "yes",
+  "dual_use_direction": "civil_to_military",
+  "dual_use_structural": "tangential",
+  "key_quotes": [
+    "However, even after the precipitating crisis fades, the surveillance and segregating infrastructures built to respond to the initial threats can remain permanent.",
+    "The individualized nature of ‘mobile quarantines’ however makes it far harder to pinpoint the contours of segregation, compared to more traditional quarantine orders.",
+    "In China, the technical capabilities developed to generate and deploy individual-based quarantine orders in the form of health codes has fundamentally transformed the way segregation is and may continue to be administered."
+  ],
+  "policy_relevance": "Warns that temporary digital infrastructures can become permanent and that governments should consider long-term effects on privacy, trust, and civil liberties; notes that the extent of surveillance depends on sociopolitical context and calls for caution regarding mission creep.",
+  "notes": "Full journal article, complete text provided.",
+  "via": "Graham 2006:forward",
+  "text_truncated": false,
+  "openalex_id": "https://openalex.org/W3204896600"
+}

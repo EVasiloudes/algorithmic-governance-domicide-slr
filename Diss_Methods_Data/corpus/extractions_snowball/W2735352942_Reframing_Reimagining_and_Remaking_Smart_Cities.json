@@ -1,0 +1,30 @@
+{
+  "title": "Reframing, Reimagining and Remaking Smart Cities",
+  "year": "2018",
+  "doi": null,
+  "doc_type": "book_chapter",
+  "methodology": "theoretical",
+  "geography": "global",
+  "thesis": "Smart city initiatives need to be reframed, reimagined and remade through normative, conceptual, practical and political interventions to create more equitable and just urban futures.",
+  "theme_1_score": 1,
+  "theme_1_justification": "Tangential mention: The chapter discusses the transferability of smart city solutions across cities (e.g., 'one size fits all smart city in a box' solutions) and the role of companies in promoting generic solutions, but does not explicitly address dual-use between civilian and military domains or the economic properties of software/data that enable such transfer.",
+  "theme_2_score": 2,
+  "theme_2_justification": "Substantive engagement: The chapter critiques the epistemology of smart city data as reductionist, mechanistic, and decontextualized, and discusses how algorithmic governance produces a particular form of governmentality ('smartmentality') that bypasses democratic deliberation. It also addresses the opacity and normative values embedded in software systems.",
+  "theme_3_score": 2,
+  "theme_3_justification": "Substantive engagement: The chapter discusses algorithmic governance as a form of automated management that shifts governance from discipline to social control, with continuous modulation of behavior through software-mediated systems. It engages with the smart city as a mode of governance and control, not just infrastructure.",
+  "theme_4_score": 0,
+  "theme_4_justification": "Not addressed: The chapter does not discuss spatial destruction, domicide, urbicide, weaponization of civilian infrastructure, home unmaking, displacement, or urban warfare.",
+  "dual_use_explicit": "no",
+  "dual_use_direction": "neither",
+  "dual_use_structural": "no",
+  "key_quotes": [
+    "In control regimes, people become subject to constant modulation through software-mediated systems in which their behaviour is directed explicitly or implicitly reshaped, rather than being (self)disciplined.",
+    "The smart city thus produces a particular form of governmentality, what Vanolo (2014) terms 'smartmentality'.",
+    "Far from being impartial and objective, smart city technologies have built-in normative values and judgements about how systems should perform, and how they assess and manage outcomes, with these hardcoded into the underlying software."
+  ],
+  "policy_relevance": "The chapter recommends a multi-pronged approach to privacy and security including market-driven, technological, policy/regulatory/legal, and governance/management solutions, and advocates for co-creation and co-production between stakeholders.",
+  "notes": "This is a concluding chapter of an edited volume. The text is complete and well-structured. The chapter focuses on normative and practical recasting of smart cities, with strong engagement with themes 2 and 3, but no discussion of dual-use or spatial destruction.",
+  "via": "Kitchin 2014:forward",
+  "text_truncated": false,
+  "openalex_id": "https://openalex.org/W2735352942"
+}

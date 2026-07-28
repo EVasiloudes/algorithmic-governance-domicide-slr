@@ -1,0 +1,30 @@
+{
+  "title": "Bear Witness: Embedded Coverage of Turkey's Urban Warfare and the Demarcation of Sovereignty against a Dynamic Exterior",
+  "year": "2016",
+  "doi": null,
+  "doc_type": "journal_article",
+  "methodology": "case_study",
+  "geography": "Turkey (southeast, Kurdish regions)",
+  "thesis": "Analyzes how state television series 'Bear Witness' uses embedded reporting to portray urban warfare as a dynamic exterior threatening sovereignty, while fostering viewer identification with law enforcement.",
+  "theme_1_score": 0,
+  "theme_1_justification": "Not addressed. The paper does not discuss economic properties of information goods, dual-use technology transfer, or repurposing of civilian tech for military ends.",
+  "theme_2_score": 1,
+  "theme_2_justification": "Tangential. The paper discusses the show's claim to 'truth' and impartiality through visual styles, but does not engage with algorithmic opacity, data-driven epistemic authority, or surveillance as knowledge production in the sense of black-boxing or machine learning bias.",
+  "theme_3_score": 0,
+  "theme_3_justification": "Not addressed. The paper does not conceptualize the city as a programmable algorithmic system, discuss continuous modulation, or engage with smart city governance.",
+  "theme_4_score": 3,
+  "theme_4_justification": "Central argument. The paper extensively discusses urban warfare as home destruction, curfew-induced evacuation, and the weaponization of domestic space. It engages with Weizman's work on home destruction and sovereignty, and argues that the show exteriorizes operation zones from national space, portraying homes as spaces of entrapment.",
+  "dual_use_explicit": "no",
+  "dual_use_direction": "neither",
+  "dual_use_structural": "no",
+  "key_quotes": [
+    "In his work on the Israeli military's operations in Palestinian neighborhoods and towns, Eyal Weizman has interpreted the destruction of homes as a shift in the object of the state's pursuit of strengthening its sovereignty through siege warfare. The shift is from the walls of another state to those of the home.",
+    "The effect of the recent and ongoing curfews across the region has been to altogether evacuate curfew-affected areas rather than just oblige residents to stay indoors, thus sealing entire neighborhoods off from the outside world.",
+    "Bear Witness detaches the state and its claim to sovereignty from the places and times in which the operations are carried out. These places and times are thus rendered the spatiotemporal exterior of sovereignty."
+  ],
+  "policy_relevance": "None. The paper analyzes propaganda and sovereignty but does not offer policy recommendations.",
+  "notes": "Full journal article, not truncated. The paper is a case study of a Turkish state television series, focusing on spatial and temporal dimensions of sovereignty.",
+  "via": "Weizman 2007:forward",
+  "text_truncated": false,
+  "openalex_id": "https://openalex.org/W2273736663"
+}

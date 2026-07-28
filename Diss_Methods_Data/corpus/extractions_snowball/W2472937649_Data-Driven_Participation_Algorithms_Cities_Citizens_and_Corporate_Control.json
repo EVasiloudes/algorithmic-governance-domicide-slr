@@ -1,0 +1,30 @@
+{
+  "title": "Data-Driven Participation: Algorithms, Cities, Citizens, and Corporate Control",
+  "year": "2016",
+  "doi": "10.17645/up.v1i2.645",
+  "doc_type": "journal_article",
+  "methodology": "theoretical",
+  "geography": "Canada (Toronto)",
+  "thesis": "Data-driven civic participation via VGI and algorithms enacts passive engagement, shifts control to corporations, and undermines democratic deliberation.",
+  "theme_1_score": 2,
+  "theme_1_justification": "Substantive engagement with dual-use/transfer: discusses repurposing of citizen data (e.g., 'repurposed contributions present the public as data'), corporate control of urban data, and the role of private companies like IBM and Element Blue in municipal operations. The paper explicitly addresses how VGI is 'harvested' and 'repurposed' for governance, and how algorithms transfer control from citizens/planners to corporations.",
+  "theme_2_score": 2,
+  "theme_2_justification": "Substantive engagement with algorithmic opacity and epistemic authority: discusses 'black boxes' (citing Pasquale), 'algorithmic power' as autonomous decision-making, and how algorithms 'problematize public life' and create 'calculated publics'. Addresses how data-driven systems bypass democratic deliberation and how VGI is presented as 'easy or fast' without addressing structural divides.",
+  "theme_3_score": 2,
+  "theme_3_justification": "Substantive engagement with the city as a programmable system: discusses 'algorithmic-regulation', 'smart city' as a mode of governance, 'real-time measurements', and 'automated democracy'. The paper conceptualizes the city as a complex system that can be 'reduced to calculation of variables' and 'optimized through algorithmic tweaks'.",
+  "theme_4_score": 0,
+  "theme_4_justification": "Not addressed. The paper does not discuss spatial destruction, domicide, urbicide, weaponisation of infrastructure, home unmaking, or urban warfare.",
+  "dual_use_explicit": "tangential",
+  "dual_use_direction": "civil_to_military",
+  "dual_use_structural": "tangential",
+  "key_quotes": [
+    "These repurposed contributions present the public as data—without the need of 'distracting' people from their daily lives in order to actively engage with political activities (Cardone et al., 2013, 2014).",
+    "Deconstructing the black boxes of Big Data isn't easy. Even if they were willing to expose their methods to the public, the modern Internet and banking sectors pose tough challenges to our understanding of those methods. The conclusions they come to—about the productivity of employees, or the relevance of websites, or the attractiveness of investments—are determined by complex formulas devised by legions of engineers and guarded by a phalanx of lawyers. (Pasquale, 2015, p. 6)",
+    "Data-driven participation consequently shifts from its primary purposes in cases such as PPGIS and active deliberation methods that seek to empower citizens and influence government decision-making. Instead, datafication of participation via VGI propels the integral process of democracy into data-market economies that are largely driven by corporate interests outside those held by government officials and citizens."
+  ],
+  "policy_relevance": "Warns against adopting technological solutions to the 'messiness of democracy' that operate behind coded-doors; calls for examining whether passive data-driven participation signals a decline in more collective and demanding modes of engagement.",
+  "notes": "Full text available and complete.",
+  "via": "Kitchin 2014:forward",
+  "text_truncated": false,
+  "openalex_id": "https://openalex.org/W2472937649"
+}

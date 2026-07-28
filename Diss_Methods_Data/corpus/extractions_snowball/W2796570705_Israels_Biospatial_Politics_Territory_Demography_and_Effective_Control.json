@@ -1,0 +1,30 @@
+{
+  "title": "Israel's Biospatial Politics: Territory, Demography, and Effective Control",
+  "year": "2018",
+  "doi": "10.1215/08992363-4310888",
+  "doc_type": "journal_article",
+  "methodology": "theoretical",
+  "geography": "Israel/Palestine (including West Bank, East Jerusalem, Negev, Galilee)",
+  "thesis": "Israel's colonial project uses biospatial strategies—demographic classifications and land dispossession—to racialize space and maintain effective control over territory between the Jordan Valley and the Mediterranean.",
+  "theme_1_score": 0,
+  "theme_1_justification": "Not addressed. The paper does not discuss dual-use, technology transfer, or the economic properties of software/data.",
+  "theme_2_score": 2,
+  "theme_2_justification": "Substantive engagement with epistemic authority and black-boxing through statistical classifications. The paper details how the Israeli Central Bureau of Statistics (CBS) uses classifications (e.g., 'Jews and others' vs. 'Arab population') to produce racialized space and bypass democratic deliberation. It discusses how the CBS algorithm distinguishes 'Arab Christians' from 'non-Arab Christians' based on locality, and how 'unrecognized' Bedouin villages are erased from maps and statistics, severing the bio from space. The paper also notes that the word 'Palestinian' does not appear in statistical abstracts, and that nationality is recorded but 'Israeli' is not an option.",
+  "theme_3_score": 1,
+  "theme_3_justification": "Tangential mention. The paper discusses the use of biotechniques (statistics, surveillance) to manage populations and space, and mentions the division of the West Bank into Areas A, B, and C as a form of spatial control. However, it does not engage with the city as a programmable system, continuous modulation, or real-time algorithmic governance.",
+  "theme_4_score": 2,
+  "theme_4_justification": "Substantive engagement with spatial destruction and home unmaking. The paper details the destruction of Palestinian villages (e.g., 500 villages destroyed in 1948), forced displacement (750,000 Palestinians), home demolitions in the Negev (about 1,000 Bedouin homes demolished in the past year), and the use of Jewish settlements as mechanisms of surveillance and ethnic policing. It also discusses the 'silent deportation' policy in East Jerusalem and the planned destruction of Umm al-Hiran to replace it with a Jewish settlement. However, it does not address vertical sovereignty, drones, or Forensic Architecture.",
+  "dual_use_explicit": "no",
+  "dual_use_direction": "neither",
+  "dual_use_structural": "no",
+  "key_quotes": [
+    "The term biospatial denotes the deployment of such biotechniques to demarcate, control, manage, shape, and ascribe signification to space.",
+    "The algorithm developed by the CBS to distinguish between these two groups is based in part on where they live, namely, in a 'Jewish locality' or a 'non-Jewish' one. This suggests that race and space are mutually constitutive; biotechniques are used to produce a population's racial (and other) identity and in this way to racialize the inhabited space, while space itself helps determine the population's identity.",
+    "The CBS does not include these Bedouin villages in the count of localities and asks the people inhabiting them to indicate the name of their tribe instead of an address, thus revealing, yet again, the CBS's power of interpellation while severing the bio from space."
+  ],
+  "policy_relevance": "The paper critiques the 'good Israel/bad Israel' framing and argues that Israel's biospatial policies produce a single apartheid state. It implies that international support for Israel as a democracy is complicit in these policies.",
+  "notes": "Full text available and complete. The paper is a theoretical analysis of Israel's colonial project, focusing on biopolitics and spatial control, not on algorithmic governance or dual-use technology.",
+  "via": "Weizman 2007:forward",
+  "text_truncated": false,
+  "openalex_id": "https://openalex.org/W2796570705"
+}

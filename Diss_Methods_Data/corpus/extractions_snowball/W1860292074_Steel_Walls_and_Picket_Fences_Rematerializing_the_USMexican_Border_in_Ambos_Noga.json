@@ -1,0 +1,30 @@
+{
+  "title": "Steel Walls and Picket Fences: Rematerializing the U.S.–Mexican Border in Ambos Nogales",
+  "year": "2013",
+  "doi": "10.1111/aman.12029",
+  "doc_type": "journal_article",
+  "methodology": "empirical_qualitative",
+  "geography": "US-Mexico border (Ambos Nogales)",
+  "thesis": "The materialization of the US-Mexican border through Ambos Nogales emerges dialectically from fortification and transgression, shaping and being shaped by human agency.",
+  "theme_1_score": 0,
+  "theme_1_justification": "Not addressed. The paper discusses physical walls and fences, not software/data or dual-use properties of information goods.",
+  "theme_2_score": 0,
+  "theme_2_justification": "Not addressed. Surveillance is mentioned (cameras, motion sensors) but not in terms of epistemic authority, algorithmic opacity, or black-boxing.",
+  "theme_3_score": 0,
+  "theme_3_justification": "Not addressed. The city is not conceptualized as a programmable or algorithmic system; no discussion of smart city or modulation.",
+  "theme_4_score": 2,
+  "theme_4_justification": "Substantive engagement. The paper discusses spatial destruction, home unmaking, displacement, violence, and the militarization of the border. It references Weizman's work on architecture of occupation and describes the wall as causing ruptured bodies and lives.",
+  "dual_use_explicit": "no",
+  "dual_use_direction": "neither",
+  "dual_use_structural": "no",
+  "key_quotes": [
+    "The wall is the most visible and substantial instrument of the United States’ militarization of the Mexican border, but the wall has failed to secure the border.",
+    "The wall disrupts lives and breaks bodies.",
+    "The increasing militarization of the border with ever-growing delays to pass through the two downtown Nogales gates has led to a 30 percent decline in the number of people legally entering the United States between 2002 and 2011."
+  ],
+  "policy_relevance": "The paper concludes that fortifying the border will not provide a viable solution to undocumented migration or drug smuggling, and that these issues cannot be addressed by building more walls.",
+  "notes": "Paper is about a physical border wall, not algorithmic governance or urban technology. Relevant only to Theme 4 (spatial collapse).",
+  "via": "Weizman 2007:forward",
+  "text_truncated": false,
+  "openalex_id": "https://openalex.org/W1860292074"
+}

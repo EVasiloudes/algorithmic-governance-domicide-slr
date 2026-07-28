@@ -1,0 +1,30 @@
+{
+  "title": "Housing as Battleground: Targeting the City in the Battles of Algiers",
+  "year": "2017",
+  "doi": "10.1111/ciso.12118",
+  "doc_type": "journal_article",
+  "methodology": "case_study",
+  "geography": "Algiers, Algeria",
+  "thesis": "During the Algerian War, housing in Algiers was militarized through the state of exception, transforming dwellings into tools of surveillance, control, and resistance.",
+  "theme_1_score": 1,
+  "theme_1_justification": "Tangential mention: the paper discusses the transfer of the cité de transit model from Algiers to France (e.g., 'a decade later, in the late 1960s and 1970s, this model would reemerge in slightly altered form... to become the key mechanism for rehousing bidonville residents in cities throughout France'), but does not engage with the economic properties of software/data or frictionless transferability.",
+  "theme_2_score": 2,
+  "theme_2_justification": "Substantive engagement: the paper discusses the SAU's use of detailed censuses, housing files, and surveillance to control bidonville residents (e.g., 'detailed records were made of their inhabitants... these “housing files” (fiches de logement) were produced in addition to standard identity files'), and the epistemic authority of military officers as 'self-styled urban theorists'. However, it does not centrally address algorithmic opacity or black-boxing.",
+  "theme_3_score": 2,
+  "theme_3_justification": "Substantive engagement: the paper conceptualizes the city as a programmable system through the SAU's remapping of Algiers into militarized zones, the use of housing as a mechanism of pacification and control, and the continuous modulation of residents through social services and policing (e.g., 'the SAU effectively remapped the capital into militarized zones subject to their own administrative norms and policing procedures'). However, it does not focus on digital or algorithmic systems.",
+  "theme_4_score": 3,
+  "theme_4_justification": "Central argument: the paper's primary contribution is about the deliberate destruction and weaponization of urban space, including domicide (e.g., 'the simultaneous destruction of the bidonville'), the use of housing as a 'battleground', and the militarization of residential areas. It explicitly engages with urbicide and the city as battlespace, citing Graham and Weizman.",
+  "dual_use_explicit": "tangential",
+  "dual_use_direction": "civil_to_military",
+  "dual_use_structural": "no",
+  "key_quotes": [
+    "What has received less attention, however, is the degree to which housing complexes and residential districts also became targets of strategic militarization.",
+    "The sudden proliferation of emergency dwellings, like those erected in the Mahieddine and the Clos Salembier, represented a new stage in the militarization of housing in Algiers.",
+    "In this context, military officers became self-styled urban theorists as the numerous bidonvilles (shantytowns) in Algiers were placed directly under their control, and new emergency dwelling models––above all the cité de transit––were codified as their weapons of choice."
+  ],
+  "policy_relevance": "The paper discusses the state of emergency as a legal framework enabling militarized urban transformation, and notes its later reapplication in France for rehousing bidonville residents, with implications for contemporary states of emergency.",
+  "notes": "None",
+  "via": "Graham 2006:forward",
+  "text_truncated": false,
+  "openalex_id": "https://openalex.org/W2606254568"
+}

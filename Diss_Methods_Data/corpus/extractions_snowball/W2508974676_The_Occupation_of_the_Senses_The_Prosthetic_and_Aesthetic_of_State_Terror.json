@@ -1,0 +1,30 @@
+{
+  "title": "The Occupation of the Senses: The Prosthetic and Aesthetic of State Terror",
+  "year": "2017",
+  "doi": "10.1093/bjc/azw066",
+  "doc_type": "journal_article",
+  "methodology": "empirical_qualitative",
+  "geography": "Occupied East Jerusalem, Palestine",
+  "thesis": "The settler colonial state uses sensory technologies (visual, auditory, olfactory) to manage and control the colonized population, producing racial exclusivity and spatial domination.",
+  "theme_1_score": 0,
+  "theme_1_justification": "Not addressed. The paper focuses on sensory and aesthetic violence in settler colonialism, not on dual-use properties of information goods or technology transfer between civilian and military domains.",
+  "theme_2_score": 2,
+  "theme_2_justification": "Substantive engagement. The paper discusses how state-sponsored cultural events and graffiti impose a visual order that defines who can see and be seen, and how the state distributes the sensible (Rancière), creating epistemic authority through aesthetic control. It references Hochberg's 'uneven distribution of visual rights' (p. 1283) and the maiming of sight as control over knowledge production (p. 1293). However, it does not directly address algorithmic opacity or machine learning bias.",
+  "theme_3_score": 2,
+  "theme_3_justification": "Substantive engagement. The paper conceptualizes the city as a programmable space through parades, festivals, and sensory stimuli that modulate population behaviour. It discusses 'theatricalities of control' (p. 1280) and 'continuous sensory invasion' (p. 1294) as modes of governance. However, it does not engage with smart city dashboards or automated decision-making in a technical sense.",
+  "theme_4_score": 2,
+  "theme_4_justification": "Substantive engagement. The paper addresses spatial destruction, forced eviction, home unmaking through sensory invasion (e.g., burning of homes, displacement), and necropolitics. It discusses 'spacio-cide' (Hanafi, p. 1282), the maiming of children's sight, and embodied violence as spatial destruction. However, it does not centrally focus on urban warfare or aerial surveillance in the mode of Weizman's vertical sovereignty, though it cites Weizman's work.",
+  "dual_use_explicit": "no",
+  "dual_use_direction": "neither",
+  "dual_use_structural": "no",
+  "key_quotes": [
+    "By 'occupation of the senses', I refer to technologies that manage language, sight, sound, time and space in the colony; the administration of who acts, who speaks, who gives birth and how, and who walks/moves/drives where and how; and what kind of language, music, smells, marches, colours, cultures and scenes are promoted and inscribed over the spaces, lives and bodies of the colonized.",
+    "Gil Hochberg (2015: 3) argues that an 'uneven distribution of \"visual rights\" undergirds the relationship between the Israeli occupier and the Palestinian occupied'. For Hochberg, '[h]ow much one can see, what one can see, and in what way one can see or be seen' are outcomes of socially constructed 'visual arrangements' produced and sustained by power relations",
+    "The marking of power by maiming a child's sight, produces and reproduces injustice by dispossessing the colonized of the space and also dispossessing the colonized body of its own senses."
+  ],
+  "policy_relevance": "The paper calls for criminology to consider crimes against the senses and sensory deprivation as state crime, with implications for international law and human rights frameworks addressing settler colonial violence.",
+  "notes": "Full text analyzed; no truncation. The paper is a case study of occupied East Jerusalem and does not address dual-use technology properties.",
+  "via": "Weizman 2007:forward",
+  "text_truncated": false,
+  "openalex_id": "https://openalex.org/W2508974676"
+}

@@ -1,0 +1,30 @@
+{
+  "title": "THE LOCATION OF PALESTINE IN GLOBAL COUNTERINSURGENCIES",
+  "year": "2010",
+  "doi": "10.1017/S0020743810000425",
+  "doc_type": "journal_article",
+  "methodology": "theoretical",
+  "geography": "Palestine/global",
+  "thesis": "Palestine is a crucial node in the global transmission of counterinsurgency techniques, which are persistently used to control populations through spatial destruction and coercion.",
+  "theme_1_score": 1,
+  "theme_1_justification": "Tangential mention: The paper discusses the transmission of counterinsurgency techniques (e.g., fingerprinting, hollow-point bullets, fences) across military and civilian domains, but does not address the economic/material properties of software/data or the near-zero marginal cost of reproduction. Dual-use transfer is discussed but not framed in terms of information goods.",
+  "theme_2_score": 1,
+  "theme_2_justification": "Tangential mention: The paper discusses surveillance as knowledge production through identity cards, mapping, and biometric data, but does not address algorithmic opacity, black-boxing, or the epistemic authority of data-driven systems in a democratic deliberation sense.",
+  "theme_3_score": 1,
+  "theme_3_justification": "Tangential mention: The paper discusses urban control techniques such as walls, checkpoints, curfews, and closures that modulate population movement, but does not conceptualize the city as a programmable system or engage with Deleuze's modulation framework. It is more about military occupation than algorithmic governance.",
+  "theme_4_score": 3,
+  "theme_4_justification": "Central argument: The paper extensively documents spatial destruction, house demolitions, displacement, and the weaponisation of civilian infrastructure (e.g., bulldozers, walls) in Palestine. The transmission of these techniques of spatial control is a core part of the paper's contribution.",
+  "dual_use_explicit": "yes",
+  "dual_use_direction": "both",
+  "dual_use_structural": "no",
+  "key_quotes": [
+    "This article concerns the horizontal circuits through which colonial policing or 'security' practices have been transmitted across time or from one location to another, with Palestine as either a point of origin or an intermediary node of transmission.",
+    "The use of hostages or human shields was suggested to the Palestine Police by A. F. Perrott of Peshawar: 'It might be worthwhile forming a \"hostage corps\" composed of the sons of hostiles. A couple of these in the front car of a convoy would discourage the use of landmines.'",
+    "Much of the old city of Jaffa was destroyed to punish Jaffan protests; this was done under the pretense of city planning and public hygiene and with twenty-four-hours' notice."
+  ],
+  "policy_relevance": "None",
+  "notes": "The paper is a historical analysis of counterinsurgency knowledge transmission, not focused on software/data dual-use. Theme scores reflect the paper's emphasis on physical/spatial control rather than algorithmic governance.",
+  "via": "Weizman 2007:forward",
+  "text_truncated": false,
+  "openalex_id": "https://openalex.org/W2023657720"
+}

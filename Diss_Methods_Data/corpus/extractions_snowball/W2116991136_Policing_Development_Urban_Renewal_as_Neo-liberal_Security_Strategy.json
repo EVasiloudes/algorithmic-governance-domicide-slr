@@ -1,0 +1,30 @@
+{
+  "title": "Policing Development: Urban Renewal as Neo-liberal Security Strategy",
+  "year": "2010",
+  "doi": "10.1177/0042098009349772",
+  "doc_type": "journal_article",
+  "methodology": "empirical_qualitative",
+  "geography": "Cape Town, South Africa",
+  "thesis": "Post-apartheid policing in Cape Town townships, driven by neoliberal security ideology, reproduces aggressive apartheid-era policing, securitizes urban renewal, and undermines development by containing rather than addressing root causes of crime.",
+  "theme_1_score": 0,
+  "theme_1_justification": "Not addressed. The paper does not discuss information goods, dual-use, or technology transfer between civilian and military domains.",
+  "theme_2_score": 0,
+  "theme_2_justification": "Not addressed. The paper does not engage with algorithmic opacity, black-boxing, epistemic authority of data, or surveillance as knowledge production.",
+  "theme_3_score": 1,
+  "theme_3_justification": "Tangential mention. The paper discusses continuous modulation of urban populations through high-density policing operations (cordon and search, roadblocks) and order maintenance, but does not conceptualize the city as a programmable algorithmic system or engage with smart city governance.",
+  "theme_4_score": 2,
+  "theme_4_justification": "Substantive engagement. The paper discusses spatial fragmentation, militarized policing (joint military-police operations), containment of poor communities, and the reproduction of apartheid spatial divisions. It references Graham (2004) on new military urbanism and describes police raids that assault residents and destroy homes, but does not explicitly address vertical sovereignty or Forensic Architecture.",
+  "dual_use_explicit": "no",
+  "dual_use_direction": "neither",
+  "dual_use_structural": "no",
+  "key_quotes": [
+    "current approaches to urban renewal risk exacerbating social instability by reproducing aggressive forms of policing associated with the apartheid era.",
+    "Policing on the Cape Flats today is perhaps best understood not an example of bad policing or misdirected policing but, rather, from the point of view of the neo-liberal city, necessary policing.",
+    "The result of conflating crime reduction with development has been a widening of the police net, in which millions of poor South Africans are caught up every year, with insufficient change in what happens to those caught in it."
+  ],
+  "policy_relevance": "The paper critiques security-driven urban renewal and recommends addressing root causes of crime (socioeconomic development) rather than relying on aggressive policing and containment. It highlights the counterproductive effects of militarized policing on community trust and development.",
+  "notes": "Full text provided; no truncation. The paper is a journal article with empirical qualitative methodology based on interviews and document analysis.",
+  "via": "Graham 2006:forward",
+  "text_truncated": false,
+  "openalex_id": "https://openalex.org/W2116991136"
+}

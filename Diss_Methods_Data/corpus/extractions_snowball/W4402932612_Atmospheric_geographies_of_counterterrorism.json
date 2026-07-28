@@ -1,0 +1,30 @@
+{
+  "title": "Atmospheric geographies of (counter)terrorism",
+  "year": "2024",
+  "doi": "10.1177/03091325241268951",
+  "doc_type": "journal_article",
+  "methodology": "theoretical",
+  "geography": "Western Europe (with references to UK, France, Germany, Israel/Palestine, Colombia, Lebanon, Indonesia)",
+  "thesis": "This paper argues for an atmospheric approach to studying everyday urban experiences of (counter)terrorism, focusing on diffuse, felt experiences and the role of crowds and difference.",
+  "theme_1_score": 1,
+  "theme_1_justification": "Tangential mention: discusses the shift of terrorist attacks to 'soft targets' (ordinary public spaces) and the materiality of counterterrorism measures like bollards and barriers (e.g., 'Hostile Vehicle Mitigation'), and notes the aesthetic integration of these measures into urban design. However, the paper does not substantively engage with the dual-use concept or the frictionless transfer of technology between civilian and military domains. A single sentence references 'Graham (2004)' on military urbanism but does not develop the dual-use theme.",
+  "theme_2_score": 2,
+  "theme_2_justification": "Substantive engagement: discusses how counterterrorism measures and surveillance (e.g., CCTV, Project Servator) produce knowledge and modulate behavior. The paper critiques the 'epistemic authority' of official discourses and the lack of engagement with diverse publics (e.g., 'citizens gap'). It also addresses the racialized and gendered impacts of counterterrorism, mentioning 'suspect communities' and differential experiences of security. However, the focus is more on felt atmospheres than on algorithmic opacity or black-boxing per se.",
+  "theme_3_score": 3,
+  "theme_3_justification": "Central argument: the paper's primary contribution is to conceptualize urban (counter)terrorism through the lens of 'atmosphere' as a form of continuous, ambient modulation of urban populations. It explicitly discusses 'affective governance', 'atmospheric fortification', and the 'modulation' of crowds through techniques like policing and design. Concepts like 'atmotechnics' (after Sloterdijk and Wall) and references to Deleuze (via Massumi) are central. The paper argues for understanding the city as a site of diffuse, felt, and ongoing control beyond singular events.",
+  "theme_4_score": 2,
+  "theme_4_justification": "Substantive engagement: discusses the material and affective impacts of counterterrorism measures on urban space, including the weaponization of air (e.g., tear gas, 'Skunk Water') and the destruction of dwelling through counterterrorism raids (e.g., St Denis example). References 'new military urbanism' and 'urban securitization' (Graham). Addresses home unmaking, displacement, and differential experiences of space. However, the focus is more on atmospheric effects than on systematic spatial destruction or urbicide.",
+  "dual_use_explicit": "tangential",
+  "dual_use_direction": "neither",
+  "dual_use_structural": "no",
+  "key_quotes": [
+    "We argue that thinking atmospherically about the spaces of urban encounters with (counter)terrorism is important, firstly, to identify and question feelings and dispositions shaped by discourses, practices, and infrastructures of (counter)terrorism; secondly, to contribute spatial perspectives of felt experience to literatures on security and (counter)terrorism in geography and beyond; thirdly, to connect official understandings of (counter)terrorism with its everyday felt experiences and materialities.",
+    "Counterterrorism is replete with examples of specific policing and practices acting 'beyond the realm of the observable' and becoming embodied at the everyday level [...] that warrant consideration here for their atmospheric aspects and impacts.",
+    "How then might different atmospheres come into being through the performance of variously expressive activities amongst such materialities? There are evident parallels here when it comes to such a concern with both the material realities of urban environments and their role in securing people and institutions from the threat of terrorism, and the host of practices of policing and securing that seek to set a certain tone amongst this."
+  ],
+  "policy_relevance": "Discusses UK Protect Duty consultation and EU SafeCi project; highlights the need for policy to engage with diverse publics and the atmospheric/affective impacts of counterterrorism measures, not just physical security.",
+  "notes": "Paper is a theoretical review article with illustrative examples, not empirical research. Well within scope for atmospheric governance but dual-use is only tangential.",
+  "via": "Graham 2006:forward",
+  "text_truncated": false,
+  "openalex_id": "https://openalex.org/W4402932612"
+}

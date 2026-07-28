@@ -1,0 +1,30 @@
+{
+  "title": "Walking Through Walls: The Invisible War",
+  "year": "2015",
+  "doi": "10.1177/1206331213512919",
+  "doc_type": "journal_article",
+  "methodology": "empirical_qualitative",
+  "geography": "Palestine (Nablus)",
+  "thesis": "The Israeli 'walking through walls' strategy during the 2002 invasion of Nablus constitutes urban warfare that destroys domestic space and suspends everyday life, while inhabitants develop 'making-do' tactics to resist and cope.",
+  "theme_1_score": 0,
+  "theme_1_justification": "Not addressed. The paper does not discuss information goods, software/data properties, or dual-use technology transfer.",
+  "theme_2_score": 0,
+  "theme_2_justification": "Not addressed. The paper does not discuss algorithmic opacity, epistemic authority of data systems, or surveillance as knowledge production in the sense of algorithmic governance.",
+  "theme_3_score": 0,
+  "theme_3_justification": "Not addressed. The paper does not conceptualize the city as a programmable system or discuss modulation through data; it focuses on physical military tactics and urban warfare.",
+  "theme_4_score": 3,
+  "theme_4_justification": "Central argument. The paper extensively discusses spatial destruction, home unmaking, urbicide, weaponisation of civilian infrastructure, and the transformation of homes into battlefields, drawing on Graham and Weizman.",
+  "dual_use_explicit": "no",
+  "dual_use_direction": "neither",
+  "dual_use_structural": "no",
+  "key_quotes": [
+    "The Israeli assault and the 'walking through walls' mark a twofold military strategy. On one hand, it undermines the already slow modernization of the Palestinian urban society; ... On the other hand, it is of deliberate urban destruction that is closely integrated with Israeli's overall colonization efforts through carefully planned construction of place and space as a broader strategy of annihilation of the Palestinian landscape (Graham, 2004).",
+    "The 'walking through walls' not only turned inside space into outside space and the private domain to the thoroughfare, but also transformed the meaning of everyday space into a 'forbidden space' where it became a medium of warfare.",
+    "This article signifies that warfare, like everything else, is being urbanized and cities are the key sites: 'War has entered the city again—the sphere of the everyday, the private realm of the house' (Misselwitz & Weizman, 2003, p. 272; cf. Graham, 2004)."
+  ],
+  "policy_relevance": "The paper suggests that planning in conflict zones should incorporate the lived experience and 'making-do' tactics of inhabitants, but does not provide specific policy recommendations.",
+  "notes": "Full text provided; no truncation issues.",
+  "via": "Graham 2006:forward|Weizman 2007:forward",
+  "text_truncated": false,
+  "openalex_id": "https://openalex.org/W2039221755"
+}

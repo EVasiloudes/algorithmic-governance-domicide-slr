@@ -1,0 +1,30 @@
+{
+  "title": "Unplug and Play: Manufacturing Collapse in Gaza",
+  "year": "2011",
+  "doi": null,
+  "doc_type": "journal_article",
+  "methodology": "case_study",
+  "geography": "Gaza Strip, Palestine/Israel",
+  "thesis": "Infrastructural networks in post-disengagement Gaza function as geopolitical sites of spatial control and biopolitical tools to regulate and suppress life, manufacturing a regulated humanitarian collapse.",
+  "theme_1_score": 2,
+  "theme_1_justification": "The paper substantively engages with dual-use/transfer of civilian infrastructure for military/security purposes. It discusses how water, electricity, fuel, and sewage networks—normally civilian life-support systems—are weaponized as tools of collective punishment and spatial control. It explicitly addresses the repurposing of these systems for military/security functions (e.g., 'infrastructural oxygen' doctrine, cutting electricity/fuel as a weapon). However, it does not focus on the economic properties of software/data or frictionless transferability between civilian and military domains; the dual-use is about physical infrastructure, not information goods.",
+  "theme_2_score": 1,
+  "theme_2_justification": "The paper tangentially addresses epistemic authority and black-boxing. It discusses how Israel's control over infrastructure data and supply (e.g., 'humanitarian minimum' calculated by military experts) bypasses democratic deliberation and reduces Palestinian needs to abstract units. It mentions the 'civil administration' and 'joint cooperation committees' that regulate infrastructure flows opaquely. However, algorithmic opacity, surveillance as knowledge production, or machine learning bias are not central.",
+  "theme_3_score": 2,
+  "theme_3_justification": "The paper substantively engages with the city as a programmable, data-driven system of modulation. It describes how Israel uses infrastructural networks to continuously modulate urban life in Gaza—turning electricity, fuel, and water on/off to regulate population behavior. It discusses the shift from visible ground occupation to 'remote control' via airpower and infrastructure manipulation. The concept of 'infrastructural violence' and the 'elastic humanitarian crisis' reflect continuous modulation. However, it does not explicitly use Deleuzian or De Landa frameworks.",
+  "theme_4_score": 3,
+  "theme_4_justification": "Spatial collapse and home unmaking are central to the paper's argument. It explicitly discusses the deliberate destruction of Gaza's power plant, water mains, sewage systems, and other infrastructure as a form of urbicide and collective punishment. It addresses home unmaking through forced displacement, destruction of living spaces, and the weaponization of civilian infrastructure. It engages with vertical sovereignty (airpower, drones, sonic booms) and cites Weizman on the geometry of occupation. The concept of 'infrastructural violence' directly links infrastructure destruction to spatial cleansing and the manufacturing of humanitarian collapse.",
+  "dual_use_explicit": "yes",
+  "dual_use_direction": "civil_to_military",
+  "dual_use_structural": "no",
+  "key_quotes": [
+    "Infrastructure networks are thus the life support systems of modern societies, source of their vitality and yet source of its own fragility and manipulation.",
+    "The destruction of the power plant added to, and enhanced, what already was a chronic dependency on a legacy of colonial infrastructure used to manipulate and regulate the life of the colonized.",
+    "The concept of infrastructural violence provides a particularly useful lens through which to study the systematic politics of spatial reengineering that undoes the ordinary geographies of everyday life by generating and unfolding a hostile topography of infrastructure networks for purposes of population management and repression as well as territorial segregation and control."
+  ],
+  "policy_relevance": "The paper argues that targeting civilian infrastructure constitutes war crimes and collective punishment under international law, and calls for expanding the referents of political violence to include the material fabric of urban life. It highlights the role of human rights organizations in challenging these practices.",
+  "notes": "The paper is a case study of Gaza post-2005 disengagement, focusing on infrastructural violence. It does not address software/data dual-use but rather physical infrastructure dual-use. The text is complete.",
+  "via": "Graham 2006:forward",
+  "text_truncated": false,
+  "openalex_id": "https://openalex.org/W2359831387"
+}

@@ -1,0 +1,30 @@
+{
+  "title": "When Life Itself is War: On the Urbanization of Military and Security Doctrine",
+  "year": "2012",
+  "doi": "10.1111/j.1468-2427.2011.01026.x",
+  "doc_type": "journal_article",
+  "methodology": "theoretical",
+  "geography": "global",
+  "thesis": "New ideologies of permanent war are radically intensifying the militarization of urban life through the 'new military urbanism', which normalizes the targeting of everyday urban sites, circulations, and populations.",
+  "theme_1_score": 2,
+  "theme_1_justification": "Substantive engagement with dual-use technology transfer between civilian and military domains. The paper discusses how control technologies with military origins (e.g., GPS, internet, data mining) are fundamental to urban life and are re-appropriated by the military. It explicitly addresses the blurring of civilian and military applications: 'The new military urbanism's second foundation is the fusing and blurring of civilian and military applications of control, surveillance, communications, simulation and targeting technologies.' Also notes that 'commercial modifications of such technologies are in turn being widely re-appropriated by the military.'",
+  "theme_2_score": 2,
+  "theme_2_justification": "Substantive engagement with algorithmic opacity and epistemic authority. Discusses how computer algorithms define deviance and threat in advance of civil or criminal offences: 'The proliferation of anticipatory profiling and targeting systems... increasingly uses computer algorithms to define deviance, and hence threat, from the mass circulations and populations of the city, in advance of civil or criminal offences being proven.' Also addresses the shift from social identification to machinic 'Id-ing': 'the social identification of people within civilian law enforcement is complemented or even replaced by the machinic seeing of \"targets\".'",
+  "theme_3_score": 3,
+  "theme_3_justification": "Central argument. The paper extensively conceptualizes the city as a programmable, algorithmic system and discusses continuous modulation through data. It explicitly engages with Deleuze's 'societies of control': 'French philosopher Gilles Deleuze (1992) famously termed contemporary societies \"societies of control\". Because networked electronic control and surveillance devices are now distributed through society, Deleuze argued that everyday urban life is now modulated by a sense of ever-present tracking, scrutiny and electronic calculation.' The paper also discusses 'smart city' as a mode of governance and automated decision-making.",
+  "theme_4_score": 3,
+  "theme_4_justification": "Central argument. The paper extensively discusses spatial destruction, urbicide, and the weaponisation of civilian infrastructure. It defines urbicide as 'political violence intentionally designed to erase or \"kill\" cities' and provides multiple examples (e.g., Israeli bulldozing in Palestine, Fallujah, forced evictions). It engages with vertical sovereignty through drones and satellite surveillance: 'high-tech targeting practices employing unmanned drones and organized satellite surveillance programmes... are also starting to colonize the domestic urban spaces of the nation.' Also discusses Forensic Architecture and Weizman's work on lethal theory.",
+  "dual_use_explicit": "yes",
+  "dual_use_direction": "both",
+  "dual_use_structural": "yes",
+  "key_quotes": [
+    "The new military urbanism's second foundation is the fusing and blurring of civilian and military applications of control, surveillance, communications, simulation and targeting technologies. This is not surprising given that control technologies with military origins are now fundamental bases for virtually all acts of digitally mediated urban life and consumption in advanced industrial cities, and that commercial modifications of such technologies are in turn being widely re-appropriated by the military.",
+    "French philosopher Gilles Deleuze (1992) famously termed contemporary societies 'societies of control'. Because networked electronic control and surveillance devices are now distributed through society, Deleuze argued that everyday urban life is now modulated by a sense of ever-present tracking, scrutiny and electronic calculation.",
+    "Defined as political violence intentionally designed to erase or 'kill' cities, urbicidal violence can involve the ethno-nationalist targeting of spaces of cosmopolitan mixing (as in the Balkans in the 1990s); the systematic devastation of the means of modern urban living (as with the de-electrification of Iraq in 1991, the 2006–08 siege of Gaza or the 2006 attack on Lebanon); or the simple erasure of those demonized people and places that are cast out as unmodern, barbarian, unclean, pathological or subhuman."
+  ],
+  "policy_relevance": "Calls for critical urban research to expose and confront the normalization of the new military urbanism, and to explore how social and political mobilizations can obstruct and challenge these norms. Suggests need for comparative work on how securitization is refracted through different national and urban contexts.",
+  "notes": "Full text available. The paper is a theoretical and polemical synthesis, not an empirical study.",
+  "via": "Graham 2006:forward",
+  "text_truncated": false,
+  "openalex_id": "https://openalex.org/W1913938051"
+}

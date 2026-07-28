@@ -1,0 +1,30 @@
+{
+  "title": "Camps and Enclaves: Palestine in the Time of Closure",
+  "year": "2015",
+  "doi": null,
+  "doc_type": "journal_article",
+  "methodology": "empirical_qualitative",
+  "geography": "Palestine/West Bank/Gaza",
+  "thesis": "Refugee camps and enclaves in Palestine share a family resemblance as spatial devices for containing the displaced within a settler-colonial project, with enclaves representing a new form of inclusive exclusion through closure and immobility.",
+  "theme_1_score": 0,
+  "theme_1_justification": "Not addressed. The paper discusses physical enclaves, checkpoints, and walls, but does not engage with information goods, software/data properties, or technology dual-use.",
+  "theme_2_score": 1,
+  "theme_2_justification": "Tangential. The paper touches on surveillance and knowledge production through checkpoints and visuality, and mentions bureaucratic opacity (permit system as 'paper wall'), but does not address algorithmic opacity, black-boxing, or data-driven epistemic authority in a substantive way.",
+  "theme_3_score": 1,
+  "theme_3_justification": "Tangential. The paper discusses regulation of mobility, continuous monitoring, and calibrated chaos at checkpoints, but it frames these through Foucault's discipline and bio-power rather than Deleuze's control societies or the machinic city. No mention of smart city or algorithmic governance.",
+  "theme_4_score": 3,
+  "theme_4_justification": "Central argument. The paper's primary contribution is about spatial containment, enclavization, displacement, and home unmaking in Palestine. It discusses the wall, checkpoints, forced immobility, economic strangulation, and slow-motion ethnic cleansing, directly engaging with spatial destruction and the weaponisation of infrastructure.",
+  "dual_use_explicit": "no",
+  "dual_use_direction": "neither",
+  "dual_use_structural": "no",
+  "key_quotes": [
+    "Enclaves here refer to territory surrounded by a state, where concentrated and confined populations, often culturally distinct and excluded from the state, are subject to its detailed regulations, which include severe restrictions on and close monitoring of place of residency and, most prominently, the scope and speed of mobility.",
+    "In 2006, when Dov Weisglass, an adviser to the then Israeli Prime Minister Ehud Olmert, quipped in reference to the siege of Gaza that 'The idea is to put the Palestinians on a diet, but not to make them die of hunger'—a space opened for a critical discussion of bio-power. In enclaved Gaza, Israeli-imposed sanctions form a craftily spun web of restrictions that keeps Palestinian alive, just barely, on a highly restricted diet.",
+    "Without a publicly circulated plan to carve out and designate enclaves, they constitute legal and political grey zones with ambiguous borders in contrast to the more distinctly demarcated Bantustans, camps and reservations. This indeterminate grey zone makes life even more unbearable and ultimately more vulnerable."
+  ],
+  "policy_relevance": "None",
+  "notes": "Full text provided; paper is a journal article based on ethnographic fieldwork. No dual-use discussion; themes related to spatial control and displacement are central.",
+  "via": "Weizman 2007:forward",
+  "text_truncated": false,
+  "openalex_id": "https://openalex.org/W2414756256"
+}

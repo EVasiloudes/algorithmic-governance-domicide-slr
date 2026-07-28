@@ -1,0 +1,30 @@
+{
+  "title": "A Cartography of the Unknowable: Technology, Territory and Subterranean Agencies in Israel’s Management of the Gaza Tunnels",
+  "year": "2020",
+  "doi": "10.1080/14650045.2017.1399878",
+  "doc_type": "journal_article",
+  "methodology": "empirical_qualitative",
+  "geography": "Gaza/Israel",
+  "thesis": "The subterranean materiality of Gaza tunnels frustrates Israel's techno-scientific efforts to know and secure territory, destabilizing state sovereignty and risk management.",
+  "theme_1_score": 0,
+  "theme_1_justification": "Not addressed. The paper discusses physical tunnels, not information goods or software/data dual-use. The term 'dual-use' appears once in reference to smuggling tunnels serving both civilian and military functions, but this is not about algorithmic governance or data transfer.",
+  "theme_2_score": 1,
+  "theme_2_justification": "Tangential. The paper discusses the state's inability to know the subsurface ('cartography of the unknowable') and the reliance on expert interpretation of geophysical data, touching on epistemic authority and the limits of surveillance. However, it does not address algorithmic opacity, black-boxing, or democratic deliberation.",
+  "theme_3_score": 0,
+  "theme_3_justification": "Not addressed. The paper focuses on military tunnel detection and geophysical sensing, not on urban governance, smart cities, or modulation of urban populations through data.",
+  "theme_4_score": 1,
+  "theme_4_justification": "Tangential. The paper references Weizman's vertical sovereignty and volumetric territory, and discusses the weaponisation of tunnels and the blockade's impact on Gaza. However, spatial destruction, domicide, or home unmaking are not central themes.",
+  "dual_use_explicit": "yes",
+  "dual_use_direction": "both",
+  "dual_use_structural": "no",
+  "key_quotes": [
+    "the tunnels are perceived as a serious threat by Israel’s strategic decision-makers because they are a technology of occlusion that makes use of the material properties of the earth to subvert the Israeli state’s apparatuses of surveillance and calculation to secure against danger.",
+    "the soil’s ability to obfuscate techniques through which data can be gathered, analysed and used to predict future threats profoundly alters the calculus through which the political logic of risk operates in a fundamental way.",
+    "This dual-use arrangement has made the tunnels a crucial infrastructure in maintaining Hamas’ viability as the political hegemon inside Gaza, both financially as a source of income to sustain its government, and militarily as a logistical conduit."
+  ],
+  "policy_relevance": "The paper references the Israeli State Comptroller's report criticizing political leadership for failing to act on tunnel intelligence, implying a need for better integration of intelligence and technology, but offers no explicit policy recommendations.",
+  "notes": "Journal article, full text available. Focuses on physical tunnels and geophysical sensing, not on algorithmic governance or urban data systems.",
+  "via": "Weizman 2007:forward",
+  "text_truncated": false,
+  "openalex_id": "https://openalex.org/W2793204012"
+}

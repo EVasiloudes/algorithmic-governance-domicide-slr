@@ -1,0 +1,30 @@
+{
+  "title": "Infrastructures of Surveillance and Control in the Invisible City of Waste",
+  "year": "2025",
+  "doi": "10.1080/02691728.2024.2400080",
+  "doc_type": "journal_article",
+  "methodology": "empirical_qualitative",
+  "geography": "Rotterdam, Netherlands",
+  "thesis": "Surveillance technologies in Rotterdam's waste governance (oligopticons) engage in punitive politics that exceptionalize those who illegally dispose of waste, fighting difference rather than waste itself.",
+  "theme_1_score": 1,
+  "theme_1_justification": "Tangential mention: The paper discusses repurposing of civilian technologies (cameras) for punitive control, but does not explicitly engage with dual-use or technology transfer between civilian and military domains. The data is used for municipal enforcement, not military.",
+  "theme_2_score": 2,
+  "theme_2_justification": "Substantive engagement: The paper extensively addresses algorithmic opacity ('black-boxed by data-fever'), epistemic authority of data-driven systems ('data provide the objectivized associations'), and democratic deficits (fines impossible to contest for poor/migrant populations). It discusses how surveillance produces knowledge that bypasses deliberation.",
+  "theme_3_score": 2,
+  "theme_3_justification": "Substantive engagement: The paper conceptualizes the city as a programmable system through oligopticons, discusses continuous modulation of populations through data (camera surveillance tracking 'unusual behavior'), and engages with 'smart city' as governance mode. It explicitly references Deleuze's 'society of control'.",
+  "theme_4_score": 1,
+  "theme_4_justification": "Tangential mention: The paper discusses spatial stigmatization of Rotterdam South and punitive fines that exacerbate poverty, but does not address spatial destruction, urbicide, home unmaking, or weaponization of urban data for targeting. It mentions 'spatial tainting' and 'territorial stigmatization' as forms of social control rather than physical destruction.",
+  "dual_use_explicit": "no",
+  "dual_use_direction": "neither",
+  "dual_use_structural": "no",
+  "key_quotes": [
+    "The epistemological move here is that this black boxing renders visible part of the urban ecology as data, without either explaining pollution events or providing an alternative to them. In other words, 'it is one thing to identify patterns; it is another to explain them. This requires social theory and deep contextual knowledge' (Kitchin 2014, 8) that are, however, not attended to.",
+    "Oligopticons of surveillance and control are producers of associations between practices of illegal waste disposal and abject nodes in the network, meaning notably those people living in poverty and other un-assignable exceptions to the scaffolding logic of 'modern' and 'participatory' urban life.",
+    "The oligopticon of surveillance and control works 'on people above all' (Latour and Hermant 2006, 55). The representation through oligopticons is part of the exception management that interweaves the materiality of waste in the city with people that are observed as exceptions to the modern way of life."
+  ],
+  "policy_relevance": "Critiques punitive fines and surveillance as ineffective and harmful; suggests a more compassionate approach based on ethics of care and social/environmental justice, but does not offer specific policy recommendations.",
+  "notes": "Full text available and complete. Journal article in Social Epistemology.",
+  "via": "Kitchin 2014:forward",
+  "text_truncated": false,
+  "openalex_id": "https://openalex.org/W4403005248"
+}

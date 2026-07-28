@@ -1,0 +1,30 @@
+{
+  "title": "Predictive Policing: Review of Benefits and Drawbacks",
+  "year": "2019",
+  "doi": "10.1080/01900692.2019.1575664",
+  "doc_type": "journal_article",
+  "methodology": "review",
+  "geography": "global",
+  "thesis": "Predictive policing lacks a clear evidence base; claimed benefits and drawbacks are not empirically supported.",
+  "theme_1_score": 1,
+  "theme_1_justification": "Tangential mention: discusses data-driven models and potential for repurposing but does not explicitly address dual-use or technology transfer between civilian and military domains.",
+  "theme_2_score": 2,
+  "theme_2_justification": "Substantive engagement: discusses lack of transparency, algorithmic opacity, accountability gaps, and potential for discrimination and stigmatization.",
+  "theme_3_score": 1,
+  "theme_3_justification": "Tangential mention: discusses predictive policing as a data-driven, algorithmic system for urban management and resource deployment, but does not deeply engage with modulation or control society concepts.",
+  "theme_4_score": 0,
+  "theme_4_justification": "Not addressed: no discussion of spatial destruction, home unmaking, urbicide, or weaponisation of urban infrastructure.",
+  "dual_use_explicit": "no",
+  "dual_use_direction": "neither",
+  "dual_use_structural": "no",
+  "key_quotes": [
+    "Predictive policing is the collection and analysis of data about previous crimes for identification and statistical prediction of individuals or geospatial areas with an increased probability of criminal activity to help developing policing intervention and prevention strategies and tactics.",
+    "The risk here is that predictive policing could result in less effective and maybe even discriminatory police interventions.",
+    "We conclude that the current thrust of predictive policing initiatives is based on convincing arguments and anecdotal evidence rather than on systematic empirical research."
+  ],
+  "policy_relevance": "Urges independent empirical testing of both benefits and drawbacks to build an evidence base for predictive policing.",
+  "notes": "Systematic literature review; focuses on predictive policing in law enforcement, not explicitly on dual-use or urban destruction.",
+  "via": "Kitchin 2014:forward",
+  "text_truncated": false,
+  "openalex_id": "https://openalex.org/W2913346170"
+}

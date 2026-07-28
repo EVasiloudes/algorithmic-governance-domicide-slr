@@ -1,0 +1,30 @@
+{
+  "title": "Surveillance and violence from afar: The politics of drones and liminal security-scapes",
+  "year": "2011",
+  "doi": null,
+  "doc_type": "journal_article",
+  "methodology": "theoretical",
+  "geography": "global (Afghanistan, Iraq, Pakistan, US-Mexico border, US cities)",
+  "thesis": "Drones as surveillance and military devices reveal violent articulations of US imperialism, dehumanization of targets, and the insidious application of militarized systems to domestic territories.",
+  "theme_1_score": 2,
+  "theme_1_justification": "Substantive engagement with dual-use: the paper explicitly discusses the movement of military drone technology to civilian spheres (border control, urban policing) and the symbiotic relationship between war on crime and war on terror. Dedicated section 'Policing migrants, drugs, and citizens' addresses this transfer.",
+  "theme_2_score": 2,
+  "theme_2_justification": "Substantive engagement with epistemic authority and black-boxing: the paper critiques the 'drone stare' as abstracting people from contexts, reducing variation, and imposing homogenizing categories. Discusses the 'cosmic view' and the fantasy of objective knowledge, and the dehumanizing translation of bodies into targets.",
+  "theme_3_score": 1,
+  "theme_3_justification": "Tangential mention: the paper discusses drones in urban areas for policing and monitoring, and the extension of surveillance networks, but does not deeply engage with the city as a machinic assemblage or continuous modulation. Focus is more on the technology itself.",
+  "theme_4_score": 2,
+  "theme_4_justification": "Substantive engagement with spatial violence: the paper discusses drone strikes causing civilian casualties, the 'risk-transfer war', vertical sovereignty (citing Weizman), and the transformation of spaces into liminal security-scapes. However, it does not focus on spatial destruction or home unmaking as a central theme.",
+  "dual_use_explicit": "yes",
+  "dual_use_direction": "military_to_civil",
+  "dual_use_structural": "tangential",
+  "key_quotes": [
+    "Within the current political and cultural milieu, this particular movement of military technology to civilian spheres reveals a symbiotic relationship between the war on crime and war on terror.",
+    "The drone stare is a type of surveillance that abstracts people from contexts, thereby reducing variation, difference, and noise that may impede action or introduce moral ambiguity.",
+    "In the case of drone surveillance in combat settings, the exclusionary politics of omniscient vision not only harm ethnic and cultural others with great prejudice, but they also instigate an additional violence of radically homogenizing local difference, lumping together innocent civilians with enemy combatants, women and children with wanted terrorist leaders."
+  ],
+  "policy_relevance": "Warns against the erosion of civil liberties and the militarization of domestic spaces through drone surveillance; highlights the danger that existing legal protections and rights will be vitiated.",
+  "notes": null,
+  "via": "Weizman 2007:forward",
+  "text_truncated": false,
+  "openalex_id": "https://openalex.org/W2039141277"
+}

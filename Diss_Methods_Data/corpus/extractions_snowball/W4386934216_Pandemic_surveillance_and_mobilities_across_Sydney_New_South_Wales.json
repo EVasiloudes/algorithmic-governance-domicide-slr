@@ -1,0 +1,30 @@
+{
+  "title": "Pandemic surveillance and mobilities across Sydney, New South Wales",
+  "year": "2024",
+  "doi": "10.1111/1745-5871.12618",
+  "doc_type": "journal_article",
+  "methodology": "case_study",
+  "geography": "Sydney, New South Wales, Australia",
+  "thesis": "The paper argues that COVID-19 surveillance in Sydney deepened uneven sensory power, leaving lasting scars in Western Sydney despite dismantling of overt tools.",
+  "theme_1_score": 1,
+  "theme_1_justification": "Tangential mention of 'function creep' (Vitak & Zimmer, 2020) noting repurposing of technologies, but no explicit dual-use discussion or technology transfer between civilian and military domains.",
+  "theme_2_score": 1,
+  "theme_2_justification": "References privacy concerns and Kitchin's call to document new surveillance regime, but does not substantively engage with algorithmic opacity or epistemic authority of data systems.",
+  "theme_3_score": 2,
+  "theme_3_justification": "Substantive engagement with sensory power (Isin & Ruppert, 2020) and continuous modulation of mobilities through apps, QR codes, and location tracking; the city is treated as a space of governance through live surveillance.",
+  "theme_4_score": 0,
+  "theme_4_justification": "Discusses uneven enforcement and spatial restrictions in Western Sydney but does not address spatial destruction, domicide, or weaponisation of civilian infrastructure.",
+  "dual_use_explicit": "tangential",
+  "dual_use_direction": "neither",
+  "dual_use_structural": "no",
+  "key_quotes": [
+    "We argue that these technologies are examples of sensory power which rapidly enrolled human bodies in systems of surveillance that were difficult to unravel through 2022 and beyond.",
+    "the idea of 'back to normal' is troubled by the experiences of lockdowns and policing of mobilities in different parts of Sydney.",
+    "as the response to the crisis unfolds there is a need for geographers and others to document the ways in which a new surveillance and biopolitical regime is being produced through the alliance of government control and surveillance capitalism and their use of a range of technologies."
+  ],
+  "policy_relevance": "None explicit, but highlights the need for equitable crisis response and awareness of lasting community impacts.",
+  "notes": null,
+  "via": "Kitchin 2014:forward",
+  "text_truncated": false,
+  "openalex_id": "https://openalex.org/W4386934216"
+}

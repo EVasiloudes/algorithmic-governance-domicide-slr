@@ -1,0 +1,30 @@
+{
+  "title": "EXPERIENCES OF URBAN MILITARISM: Spatial Stigma, Ruins and Everyday Life",
+  "year": "2019",
+  "doi": "10.1111/1468-2427.12797",
+  "doc_type": "journal_article",
+  "methodology": "empirical_qualitative",
+  "geography": "Lydda-Lod, Israel",
+  "thesis": "Examines how poor Palestinians in Lydda experience spatial stigma and militarism through an uneasy combination of denigration, care, and historical awareness.",
+  "theme_1_score": 0,
+  "theme_1_justification": "Not addressed. The paper does not discuss information goods, dual-use, or technology transfer.",
+  "theme_2_score": 0,
+  "theme_2_justification": "Not addressed. The paper discusses surveillance but not algorithmic opacity, epistemic authority, or black-boxing.",
+  "theme_3_score": 0,
+  "theme_3_justification": "Not addressed. The paper does not conceptualize the city as a programmable system or discuss modulation or smart city governance.",
+  "theme_4_score": 3,
+  "theme_4_justification": "Central argument. The paper extensively discusses spatial destruction, displacement, ruins, urbicide, and the weaponisation of urban space through military and security agencies. Engages with Graham, Coward, and the urbicide literature.",
+  "dual_use_explicit": "no",
+  "dual_use_direction": "neither",
+  "dual_use_structural": "no",
+  "key_quotes": [
+    "Urban geopolitics has compellingly connected cities and broader geopolitical processes, identified cities as key targets of military interventions, and conceptualized the destruction of buildings as a distinct form of political violence.",
+    "The ruins and empty spaces of the old Arab city are some of the visible material traces of the mass displacement of Palestinians in July 1948, when the Israeli army expelled all the 20,000 Palestinian residents of the city...",
+    "By studying the interplay between interpretive and affective responses to a built environment that has been targeted and 'blemished' by militarism, this article resonates with Mona Harb's recent call to 'diversify urban studies' perspectives on the city at war'."
+  ],
+  "policy_relevance": "None. The paper calls for a new perspective on urban militarism focused on everyday life but does not offer specific policy recommendations.",
+  "notes": "Full text provided; no truncation issues.",
+  "via": "Graham 2006:forward",
+  "text_truncated": false,
+  "openalex_id": "https://openalex.org/W2916778134"
+}

@@ -1,0 +1,30 @@
+{
+  "title": "Colonialist Construction in the Urban Space of Jerusalem",
+  "year": "2014",
+  "doi": "10.3751/68.1.14",
+  "doc_type": "journal_article",
+  "methodology": "case_study",
+  "geography": "Jerusalem, Israel/Palestine",
+  "thesis": "Israel uses territorial and demographic engineering in Jerusalem to construct a Zionist identity-based space, while Palestinians resist through various practices.",
+  "theme_1_score": 0,
+  "theme_1_justification": "Not addressed. The paper does not discuss information goods, dual-use, or technology transfer.",
+  "theme_2_score": 1,
+  "theme_2_justification": "Tangential mention. The paper discusses surveillance and classification (census, permits, color-coded IDs) as methods of control, but does not engage with algorithmic opacity or epistemic authority of data-driven systems.",
+  "theme_3_score": 0,
+  "theme_3_justification": "Not addressed. The paper does not conceptualize the city as a programmable algorithmic system or discuss modulation through data.",
+  "theme_4_score": 3,
+  "theme_4_justification": "Central argument. The paper extensively discusses spatial destruction, home demolitions, forced evictions, displacement, the Separation Wall, and the weaponization of urban space. It engages with domicide and urbicide.",
+  "dual_use_explicit": "no",
+  "dual_use_direction": "neither",
+  "dual_use_structural": "no",
+  "key_quotes": [
+    "Israel employs various methods in this identity-based urban project. Archaeology and territorial reconfiguration become means for constructing the Israeli subject and society, while simultaneously deconstructing the Palestinian equivalents.",
+    "In 2011, 622 Palestinian structures were demolished by Israeli authorities in the Occupied Territories, resulting in the displacement of 1,094 people.",
+    "The Wall’s noncontiguity, nonlinearity, porosity, shifting evolution, and enclosures of settler populations are a deterritorialization of space."
+  ],
+  "policy_relevance": "The paper implies that international law and human rights frameworks are insufficient to counter Israeli practices; it highlights the need for accountability and recognition of Palestinian sovereignty.",
+  "notes": "The paper is a journal article focusing on physical urban colonialism, not algorithmic governance. It does not address dual-use or information technology.",
+  "via": "Weizman 2007:forward",
+  "text_truncated": false,
+  "openalex_id": "https://openalex.org/W1989881942"
+}

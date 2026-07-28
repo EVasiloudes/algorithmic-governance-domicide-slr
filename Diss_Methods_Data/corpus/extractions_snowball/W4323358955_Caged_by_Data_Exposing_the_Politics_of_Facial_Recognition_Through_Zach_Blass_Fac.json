@@ -1,0 +1,30 @@
+{
+  "title": "Caged by Data: Exposing the Politics of Facial Recognition Through Zach Blas’s Face Cages",
+  "year": "2023",
+  "doi": "10.5117/9789463722971_ch08",
+  "doc_type": "book_chapter",
+  "methodology": "theoretical",
+  "geography": "global",
+  "thesis": "Artistic interventions like Face Cages defamiliarize facial recognition to expose its violent reduction of identity and activate feminist critiques of biometric datafication.",
+  "theme_1_score": 1,
+  "theme_1_justification": "Tangential mention: The chapter discusses the repurposing of biometric data from civilian to security contexts (e.g., border control) and the structural failure of facial recognition systems, but does not explicitly engage with dual-use or technology transfer as a central concept.",
+  "theme_2_score": 2,
+  "theme_2_justification": "Substantive engagement: The chapter extensively discusses algorithmic opacity (black-boxing), the epistemic authority of data-driven systems (e.g., 'objective' facial recognition), and the constructed nature of algorithmic 'truth' (e.g., bias, misrecognition). It also addresses surveillance as a knowledge-producing function.",
+  "theme_3_score": 1,
+  "theme_3_justification": "Tangential mention: The chapter discusses the city as a site of biometric surveillance and datafication, but does not focus on continuous modulation or algorithmic governance of urban populations. The smart city is not addressed.",
+  "theme_4_score": 1,
+  "theme_4_justification": "Tangential mention: The chapter discusses the violent reduction of identity and embodiment through biometric capture, and references colonialist and racist histories of anthropometric measurement, but does not address spatial destruction, urbicide, or home unmaking.",
+  "dual_use_explicit": "no",
+  "dual_use_direction": "neither",
+  "dual_use_structural": "no",
+  "key_quotes": [
+    "The project exposes how biometric capta are not 'already out there' but rather need to be scanned and turned into digital code in order to be meaningful for the biometric apparatus.",
+    "Face Cages' violent aesthetic of the metal bars pressing into facial skin makes the violence implicit in biometric capta and capture visible and allows us to draw connections between current forms of biometric capture and the technologies' colonialist and racist histories.",
+    "Through the defamiliarizing image of the materialized biometric mask, Face Cages invites critical reflection on how we conceive of biometric data."
+  ],
+  "policy_relevance": "None",
+  "notes": "Text is a book chapter from an edited volume. The chapter focuses on artistic critique of facial recognition, not on urban governance or dual-use. Scores reflect the limited relevance to the SLR themes.",
+  "via": "Kitchin 2014:forward",
+  "text_truncated": false,
+  "openalex_id": "https://openalex.org/W4323358955"
+}

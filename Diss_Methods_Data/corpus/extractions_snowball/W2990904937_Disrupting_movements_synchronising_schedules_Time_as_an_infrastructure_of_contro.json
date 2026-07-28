@@ -1,0 +1,30 @@
+{
+  "title": "Disrupting movements, synchronising schedules: Time as an infrastructure of control in East Jerusalem",
+  "year": "2019",
+  "doi": "10.1080/13604813.2019.1689727",
+  "doc_type": "journal_article",
+  "methodology": "empirical_qualitative",
+  "geography": "East Jerusalem, Israel/Palestine",
+  "thesis": "Time operates as an infrastructure of control in East Jerusalem through two temporal regimes—deregulation (unpredictable) and synchronization (normalized)—that modulate Palestinian inclusion/exclusion and advance Israeli annexation.",
+  "theme_1_score": 0,
+  "theme_1_justification": "Not addressed. The paper focuses on time as immaterial infrastructure, not on information goods or dual-use technology transfer.",
+  "theme_2_score": 1,
+  "theme_2_justification": "Tangential mention: discusses surveillance (GPS monitoring, real-time tracking of buses) and legibility (Scott), constructing Palestinians as irrational subjects, but does not centrally engage with algorithmic opacity or epistemic authority of data-driven systems.",
+  "theme_3_score": 2,
+  "theme_3_justification": "Substantive engagement: explicitly discusses modulation of degrees of connection through temporal regulation, two temporal regimes as infrastructure of control, and references 'modulating degrees of connection' (abstract). However, not explicitly about machinic city or algorithmic governance.",
+  "theme_4_score": 2,
+  "theme_4_justification": "Substantial discussion of displacement, exclusion, and home unmaking through temporal deregulation and checkpoints; cites Weizman (2007) and discusses undermining of Palestinian claim to the city, 'quiet deportation', and residents considering emigration.",
+  "dual_use_explicit": "no",
+  "dual_use_direction": "neither",
+  "dual_use_structural": "no",
+  "key_quotes": [
+    "Two temporal regimes are at work in Palestinian Jerusalem simultaneously. One deregulates time, making it unpredictable while causing time–space divergence. ... The other temporal regime, which I have called 'annexation time', normalises Palestinian schedules by synchronising the rhythms of urban mobility between East and West Jerusalem.",
+    "Time here functions as an immaterial infrastructure which tethers East Jerusalem to the West of the city and thereby perpetuates its annexation.",
+    "GPS devices were installed in the vehicles, allowing the monitoring of each bus’s whereabouts. While in the past, drivers frequently made detours... this was now no longer possible. The Operations Manager explained: 'We can see where he is, and we get an alarm if he goes off his route or is behind schedule.'"
+  ],
+  "policy_relevance": "Critiques Israeli policy of annexation through temporal control; shows how formalization of Palestinian transport reduces autonomy and normalizes occupation; time as adaptable infrastructure of control.",
+  "notes": "None",
+  "via": "Weizman 2007:forward",
+  "text_truncated": false,
+  "openalex_id": "https://openalex.org/W2990904937"
+}

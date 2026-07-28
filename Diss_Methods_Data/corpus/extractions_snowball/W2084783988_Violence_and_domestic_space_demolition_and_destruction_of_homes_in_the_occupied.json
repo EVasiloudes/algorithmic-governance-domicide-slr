@@ -1,0 +1,30 @@
+{
+  "title": "Violence and domestic space: demolition and destruction of homes in the occupied Palestinian territories",
+  "year": "2011",
+  "doi": "10.1080/13602365.2011.547011",
+  "doc_type": "journal_article",
+  "methodology": "case_study",
+  "geography": "occupied Palestinian territories (West Bank, East Jerusalem, Gaza)",
+  "thesis": "Examines systematic demolition of Palestinian homes as violence, dispossession, and ethnic cleansing, using planning and military tactics to control urban space.",
+  "theme_1_score": 0,
+  "theme_1_justification": "Not addressed. The paper discusses physical destruction of homes, not information goods or dual-use technology transfer.",
+  "theme_2_score": 0,
+  "theme_2_justification": "Not addressed. No discussion of algorithmic opacity, epistemic authority, or surveillance as knowledge production.",
+  "theme_3_score": 0,
+  "theme_3_justification": "Not addressed. The paper does not conceptualize the city as a programmable or algorithmic system; it focuses on physical military occupation and demolition.",
+  "theme_4_score": 3,
+  "theme_4_justification": "Central argument. The paper is entirely about home demolition, spatial destruction, urbicide, and the weaponization of urban space. Discusses 'walking through walls' tactics, house demolitions as ethnic cleansing, and the use of planning as a weapon. Engages with Graham's 'new military urbanism' and Weizman's 'vertical sovereignty'.",
+  "dual_use_explicit": "no",
+  "dual_use_direction": "neither",
+  "dual_use_structural": "no",
+  "key_quotes": [
+    "In that demolition I lost everything. I lost all the memories of my life—pictures, documents, belongings from my childhood, my wedding, our years in Saudi Arabia. Everything that meant something to me personally. We lost all our possessions—our furniture, appliances. All our savings from all those years of work were gone.",
+    "Israel has turned urban planning into a tool of the government, to be used to help prevent the expansion of the city's non-Jewish population. In East Jerusalem in particular, it is a way of limiting the number of new homes built in Arab neighbourhoods, and thereby ensuring that the Arab percentage of the city's population—28.8% in 1967—does not grow beyond this level.",
+    "The most disturbing thing to me is that there is an absolutely wild west in the occupied territories. Brigade Commanders, Regiment Commanders and Company Commanders do whatever comes to their minds. No one checks them, and no one stops them."
+  ],
+  "policy_relevance": "Calls for an end to house demolitions and occupation; highlights the need for international pressure and recognition of planning as a tool of dispossession.",
+  "notes": "Journal article focused on physical violence and spatial destruction; no engagement with algorithmic governance or dual-use of technology.",
+  "via": "Graham 2006:forward",
+  "text_truncated": false,
+  "openalex_id": "https://openalex.org/W2084783988"
+}

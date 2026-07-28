@@ -1,0 +1,30 @@
+{
+  "title": "The Applicability of International Humanitarian Law in Peacetime Urban Civilian Operations: Analysing the Deployment of the Army to Fight Gang Violence in the Cape Flats",
+  "year": "2021",
+  "doi": "10.25159/2521-2583/9576",
+  "doc_type": "journal_article",
+  "methodology": "policy_analysis",
+  "geography": "South Africa, Cape Town",
+  "thesis": "Analyses whether the military deployment against Cape Flats gang violence is justified under IHL, concluding the violence is an 'other situation of violence' not triggering armed conflict law.",
+  "theme_1_score": 0,
+  "theme_1_justification": "Not addressed. The paper does not discuss dual-use properties of software/data or technology transfer between civilian and military domains.",
+  "theme_2_score": 0,
+  "theme_2_justification": "Not addressed. No discussion of algorithmic opacity, epistemic authority, or surveillance as knowledge production.",
+  "theme_3_score": 0,
+  "theme_3_justification": "Not addressed. No conceptualisation of the city as a programmable system or modulation of urban populations through data.",
+  "theme_4_score": 0,
+  "theme_4_justification": "Not addressed. While the paper mentions forced removals and spatial design of Cape Flats, it does not discuss spatial destruction, home unmaking, or weaponisation of infrastructure in the sense of the coding framework.",
+  "dual_use_explicit": "no",
+  "dual_use_direction": "neither",
+  "dual_use_structural": "no",
+  "key_quotes": [
+    "The situation of gang violence in Cape Town cannot be classified as urban warfare. ... it is not a military operation, but the main proponents and victims are civilians.",
+    "Stupart argues that the army is not well suited for combating gangsterism in Cape Town because soldiers are trained to 'find, fix and finish' their 'enemy'. ... gang members are not distinguishable from civilians.",
+    "The Cape Flats comprise of purpose-built ghettos with no communal amenities and no employment opportunities either. These new settlements were designed in such a way as to limit the number of points of exit and entry, in a bid to ensure that the inhabitants could easily be policed and cordoned off by the apartheid government."
+  ],
+  "policy_relevance": "Implies that a multi-pronged socio-economic approach is needed rather than military intervention; highlights the politicisation of gang violence as a barrier to effective policy.",
+  "notes": "Paper is a legal analysis of IHL applicability; does not engage with algorithmic governance or dual-use technology themes.",
+  "via": "Graham 2006:forward",
+  "text_truncated": false,
+  "openalex_id": "https://openalex.org/W4308214329"
+}

@@ -1,0 +1,30 @@
+{
+  "title": "Qalandia Checkpoint as Space and Nonplace",
+  "year": "2011",
+  "doi": "10.1177/1206331210389260",
+  "doc_type": "journal_article",
+  "methodology": "empirical_qualitative",
+  "geography": "Palestinian Territories (West Bank, Qalandia checkpoint)",
+  "thesis": "Checkpoints in the Palestinian Territories function as both anthropological spaces and nonplaces, embodying Israeli control and Palestinian spatial fragmentation.",
+  "theme_1_score": 0,
+  "theme_1_justification": "Not addressed. The paper does not discuss information goods, dual-use properties, or technology transfer between civilian and military domains. Focus is on physical checkpoint infrastructure and its social-economic role.",
+  "theme_2_score": 2,
+  "theme_2_justification": "Substantive engagement with epistemic authority and black-boxing through the arbitrary and opaque system of permits and checkpoint control. The paper emphasizes the 'invisible' system of bureaucratic control, the lack of transparency in decisions, and the constructed nature of Palestinian identity at checkpoints. Quotes include: 'Nothing is transparent... the reasons [for prohibiting Palestinians from passing] are so numerous, and the use made of them changes so much, that uncertainty becomes the ultimate system of control.' Also discusses surveillance through CCTV cameras, biometric devices, and the panoptic gaze of soldiers.",
+  "theme_3_score": 1,
+  "theme_3_justification": "Tangential mention. The paper discusses the checkpoint as a site of continuous modulation of movement and population control, referencing Deleuzian modulation implicitly through the concept of nonplace and the 'immobile mass.' However, it does not engage deeply with the city as a programmable system or algorithmic governance. The focus is on physical barricades and military control, not data-driven urban management.",
+  "theme_4_score": 2,
+  "theme_4_justification": "Substantive engagement with spatial destruction and home unmaking. The paper describes checkpoints as extensions of 'spacio-cide,' the hollowing of Palestinian land, and the creation of discontinuous space. It addresses the razing of hilltops, construction of walls, and the transformation of the landscape to suit military needs. Uses concept of 'spacio-cide' (Hanafi) and references 'new military urbanism' (Graham) and 'vertical sovereignty' (Weizman). Discusses how checkpoints fragment Palestinian territory and create immobility, displacing economic and social life.",
+  "dual_use_explicit": "no",
+  "dual_use_direction": "neither",
+  "dual_use_structural": "no",
+  "key_quotes": [
+    "Nothing is transparent . . . it is never clear who will [pass] and who will not. . . . The reasons [for prohibiting Palestinians from passing] are so numerous, and the use made of them changes so much, that uncertainty becomes the ultimate system of control within the framework of the certainty of the occupation.",
+    "Checkpoints form part of the matrix of Israeli occupation, or if one prefers, colonialism and apartheid... which includes the wall/separation barrier... Israeli/settler-only access roads... policies of closures... and bureaucratic controls over Palestinian life.",
+    "Israel neither officially acknowledges legal responsibility for checkpoints nor recognizes them as 'sovereign' spaces. In this sense, checkpoints are constructed by the Israeli military not simply as a 'nonplace' but as 'bare space' that is part of a broader philosophical and political casting out of Palestinians as mere zoological humanity."
+  ],
+  "policy_relevance": "None",
+  "notes": "Paper based on ethnographic research at Qalandia checkpoint; does not engage with dual-use of algorithmic governance or urban technology. Focus is on physical checkpoint infrastructure and its social/spatial effects.",
+  "via": "Weizman 2007:forward",
+  "text_truncated": false,
+  "openalex_id": "https://openalex.org/W2162186953"
+}

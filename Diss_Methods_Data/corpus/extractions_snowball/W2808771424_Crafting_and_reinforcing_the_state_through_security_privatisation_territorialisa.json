@@ -1,0 +1,30 @@
+{
+  "title": "Crafting and reinforcing the state through security privatisation: territorialisation as a public–private state project in East Jerusalem",
+  "year": "2019",
+  "doi": "10.1080/10439463.2018.1489396",
+  "doc_type": "journal_article",
+  "methodology": "empirical_qualitative",
+  "geography": "East Jerusalem, Israel/Palestine",
+  "thesis": "Security privatisation can reinforce state territorialisation by enabling unequal protection and evading accountability, as shown in Jewish-Israeli settlement compounds in East Jerusalem.",
+  "theme_1_score": 0,
+  "theme_1_justification": "Not addressed. The paper does not discuss information goods, dual-use properties of software/data, or technology transfer between civilian and military domains.",
+  "theme_2_score": 0,
+  "theme_2_justification": "Not addressed. The paper mentions CCTV cameras but does not engage with algorithmic opacity, epistemic authority of data, or democratic deficits in algorithmic governance.",
+  "theme_3_score": 0,
+  "theme_3_justification": "Not addressed. The paper does not conceptualise the city as a programmable system or discuss continuous modulation through data; it focuses on physical security guards and territorial control.",
+  "theme_4_score": 3,
+  "theme_4_justification": "Central argument. The paper extensively discusses spatial destruction through evictions, home unmaking, displacement, and the weaponisation of civilian infrastructure (settlement compounds) for territorialisation. It references Weizman's work on architecture of occupation and describes Palestinian houses transformed into 'urban fortresses'.",
+  "dual_use_explicit": "no",
+  "dual_use_direction": "neither",
+  "dual_use_structural": "no",
+  "key_quotes": [
+    "In this article, I seek to extend our understanding of the state’s changing role in policing and the enmeshing of state and non-state security actors through an exploration of the new public–private security configurations around East Jerusalem’s settlement compounds.",
+    "I suggest that the governmental policy of encompassing East Jerusalem into the state’s fold, despite legal, diplomatic and public opinion limitations, was pursued through a solution found on the private market.",
+    "Weizman (2007) explored how different forms of Israeli rule inscribe themselves in space, positing that the Israeli architecture in Jerusalem simultaneously embodied and rejected the old Palestinian cityscape (2007, p.43–44). Likewise, the sight of Jewish-Israeli settlement compounds – Palestinian houses transformed into urban fortresses and topped by towering flags – mirrors the ambivalence towards the indigenous Palestinian design and its competition with the thrust towards modernity and distinguishability."
+  ],
+  "policy_relevance": "The paper argues that security privatisation allows states to evade accountability and deflect legal challenges, with implications for human rights and democratic governance. It highlights the need for greater transparency and accountability in public-private security arrangements.",
+  "notes": "Full text provided. The paper is a journal article with empirical qualitative methodology based on fieldwork and interviews.",
+  "via": "Weizman 2007:forward",
+  "text_truncated": false,
+  "openalex_id": "https://openalex.org/W2808771424"
+}

@@ -1,0 +1,30 @@
+{
+  "title": "Police Pushback: When the Watcher Becomes the Watched",
+  "year": "2017",
+  "doi": null,
+  "doc_type": "book_chapter",
+  "methodology": "empirical_qualitative",
+  "geography": "Los Angeles, USA",
+  "thesis": "Examines police officers' resistance to being surveilled by technologies repurposed from civilian surveillance, revealing power dynamics and function creep in big data policing.",
+  "theme_1_score": 2,
+  "theme_1_justification": "Substantive engagement with dual-use through function creep: technologies introduced for crime reduction (e.g., AVLs, DICVs, TEAMS II) are repurposed to surveil officers. Also discusses data sharing asymmetry between local and federal agencies. Does not address economic properties of information goods.",
+  "theme_2_score": 2,
+  "theme_2_justification": "Dedicated section on 'Opacity Impedes Buy-In' discusses algorithmic secrecy, lack of transparency, and how officers dismiss algorithms as 'witchcraft' or 'voodoo science'. Also touches on devaluation of experiential knowledge, but not explicitly on epistemic authority or democratic deficit.",
+  "theme_3_score": 2,
+  "theme_3_justification": "Discusses predictive policing (PredPol), location-based boxes, real-time data analytics, and automated flags (TEAMS II) as modes of continuous modulation of officer behavior. Focuses on managerial control rather than city-wide modulation, but engages substantially with algorithmic governance of police work.",
+  "theme_4_score": 0,
+  "theme_4_justification": "Not addressed. No discussion of spatial destruction, urbicide, home unmaking, or military urbanism.",
+  "dual_use_explicit": "yes",
+  "dual_use_direction": "neither",
+  "dual_use_structural": "no",
+  "key_quotes": [
+    "Surveillance is fundamentally relational. The extent to which it is an exercise of power depends on the organizational contexts in which it is deployed, and how people feel about it depends on where they are in the organizational hierarchy.",
+    "Predictive algorithms are opaque, shrouded in 'algorithmic secrecy'.",
+    "The most vehement opposition was to function creep and quantified assessment when technologies and data originally designed for one purpose—such as risk management or crime reduction—were used for another, namely managerial assessment of job performance."
+  ],
+  "policy_relevance": "Implications for transparency, data governance, and the need for clear metrics to evaluate data collection practices; highlights tensions between risk management and performance evaluation.",
+  "notes": "Chapter from 'Predict and Surveil' by Sarah Brayne; based on ethnographic fieldwork with LAPD. Text is complete.",
+  "via": "Kitchin 2014:forward",
+  "text_truncated": false,
+  "openalex_id": "https://openalex.org/W3094225859"
+}

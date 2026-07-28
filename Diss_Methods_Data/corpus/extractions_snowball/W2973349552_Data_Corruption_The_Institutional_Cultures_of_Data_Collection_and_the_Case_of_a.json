@@ -1,0 +1,30 @@
+{
+  "title": "Data Corruption: The Institutional Cultures of Data Collection and the Case of a Crime-Mapping System in Latin America",
+  "year": "2019",
+  "doi": "10.22230/cjc.2019v44n3a3481",
+  "doc_type": "journal_article",
+  "methodology": "empirical_qualitative",
+  "geography": "Bogotá, Colombia (Latin America)",
+  "thesis": "This study examines how institutional cultures and police officers' data practices corrupt crime data in a crime-mapping system, revealing the politics of data-driven policing in the Global South.",
+  "theme_1_score": 0,
+  "theme_1_justification": "Not addressed. No discussion of dual-use, technology transfer, or information good properties.",
+  "theme_2_score": 2,
+  "theme_2_justification": "Substantive engagement with the performative and epistemic dimensions of crime data, including how data shape representations of the city and reinforce social inequalities. Discusses data silences, underreporting, and the constructed nature of data. However, not primarily about algorithmic opacity or black-boxing.",
+  "theme_3_score": 1,
+  "theme_3_justification": "Tangential mention of the city as a programmable system through quadrants and hot-spot policing, but focus is on institutional practices rather than the machinic governance of urban populations.",
+  "theme_4_score": 0,
+  "theme_4_justification": "Not addressed. No discussion of spatial destruction, home unmaking, or militarized urbanism.",
+  "dual_use_explicit": "no",
+  "dual_use_direction": "neither",
+  "dual_use_structural": "no",
+  "key_quotes": [
+    "The data produced to track crime are also used to inform performance outcome measures. When agents of surveillance are exposed to surveillance themselves, their attitude toward work and the tracking system changes.",
+    "It is important to take into consideration that urban crime data are actually used for several other purposes beyond policing, including the governing of cities at other levels: public policymaking, local planning, the allocation of public budgets, and investment in communities impacted by crime.",
+    "From the perspective of the Global South, this case study calls attention to the need for developing accounts of how institutional agents operationalize data in organizational cultures and social contexts characterized by pervasive corruption and inequality."
+  ],
+  "policy_relevance": "Calls for data justice, accountability in data production, and critical data studies from the Global South; notes limitations of open data approaches.",
+  "notes": "Short journal article (8 pages). Limited respondents due to police secrecy. Focuses on micro-level data practices within institutional cultures. No discussion of dual-use or spatial destruction.",
+  "via": "Kitchin 2014:forward",
+  "text_truncated": false,
+  "openalex_id": "https://openalex.org/W2973349552"
+}

@@ -1,0 +1,30 @@
+{
+  "title": "Coding Inequality: How the Use of Big Data Reduces, Obscures, and Amplifies Inequalities",
+  "year": "2019",
+  "doi": null,
+  "doc_type": "book_chapter",
+  "methodology": "empirical_qualitative",
+  "geography": "United States (Los Angeles, New York, Oakland)",
+  "thesis": "Big data policing amplifies and obscures inequality through biased training data, feedback loops, secondary surveillance networks, and system avoidance, despite potential for accountability.",
+  "theme_1_score": 2,
+  "theme_1_justification": "Substantive engagement with dual-use potential: discusses repurposing civilian data tools (AVLs, Palantir) for police accountability, and civilian surveillance tools being used to monitor police. However, focus is on police-civilian rather than military-civilian transfer. Explicitly mentions data as 'capital' and transactional, but not specifically on near-zero marginal cost.",
+  "theme_2_score": 2,
+  "theme_2_justification": "Substantive engagement with algorithmic opacity: discusses 'black box algorithms' (p. 105), trade secrecy of predictive policing algorithms (p. 117), and hidden feedback loops (p. 107-109). Addresses epistemic authority via 'aura of objectivity' (p. 100) and 'patina of objectivity' (p. 109). Mentions bias in training data and human discretion.",
+  "theme_3_score": 2,
+  "theme_3_justification": "Substantive engagement with modulation: discusses predictive policing as continuous modulation of urban populations (points system, place-based algorithms), automated decision-making (TEAMS II, heuristic scores), and real-time tracking (AVLs, ALPRs). Engages with 'smart city' governance via data-driven policing.",
+  "theme_4_score": 1,
+  "theme_4_justification": "Tangential mention: discusses spatial inequality via neighborhood-level predictive policing (p. 108-109) and 'net widening' but not spatial destruction, domicide, or urbicide. No discussion of military urbanism or home unmaking.",
+  "dual_use_explicit": "tangential",
+  "dual_use_direction": "civil_to_military",
+  "dual_use_structural": "tangential",
+  "key_quotes": [
+    "Rather than eliminating human discretion, big data is a form of capital, both a social product and a social resource. For that reason alone, big data cannot possibly obviate inequality: like other forms of capital, it is transactional, some people and groups have more of it than others, and it can be extracted from already disadvantaged populations.",
+    "Human judgment is hidden in the black box under a patina of objectivity.",
+    "When new technology is overlaid onto an old organizational structure, long-standing problems shape themselves to the contours of the new technology."
+  ],
+  "policy_relevance": "Recommends transparency, community engagement, accountability from tech companies, ongoing validation of algorithms, and using big data to target services not just punishment.",
+  "notes": "Chapter from edited volume 'Predict and Surveil'; focuses on policing inequality in US cities; no explicit military dual-use discussion.",
+  "via": "Kitchin 2014:forward",
+  "text_truncated": false,
+  "openalex_id": "https://openalex.org/W3093926333"
+}

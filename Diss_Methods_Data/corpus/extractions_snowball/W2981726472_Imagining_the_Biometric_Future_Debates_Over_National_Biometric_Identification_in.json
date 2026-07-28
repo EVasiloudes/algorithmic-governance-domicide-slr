@@ -1,0 +1,30 @@
+{
+  "title": "Imagining the Biometric Future: Debates Over National Biometric Identification in Israel",
+  "year": "2020",
+  "doi": "10.1080/09505431.2019.1667969",
+  "doc_type": "journal_article",
+  "methodology": "empirical_qualitative",
+  "geography": "Israel",
+  "thesis": "Both proponents and opponents of Israel's national biometric identification system used competing sociotechnical imaginaries of security to shape the system's legislative and technological outcomes.",
+  "theme_1_score": 0,
+  "theme_1_justification": "Not addressed. The paper discusses biometric identification but does not address dual-use, technology transfer, or the economic properties of information goods.",
+  "theme_2_score": 1,
+  "theme_2_justification": "Tangential mention. The paper discusses surveillance as a knowledge-producing function and the social construction of security, but does not delve into algorithmic opacity, black-boxing, or epistemic authority in detail.",
+  "theme_3_score": 0,
+  "theme_3_justification": "Not addressed. The paper does not conceptualize the city as a programmable system or discuss continuous modulation of urban populations.",
+  "theme_4_score": 0,
+  "theme_4_justification": "Not addressed. The paper does not discuss spatial destruction, urbicide, or weaponization of infrastructure.",
+  "dual_use_explicit": "no",
+  "dual_use_direction": "neither",
+  "dual_use_structural": "no",
+  "key_quotes": [
+    "Usually, security is offered as a justification for biometric identification. In the Israeli debate, security was foundational to both claims for and against the system.",
+    "Security, and the belief that technological innovations can enhance it, have long been priorities in the Israeli polity and ground collectively held visions of desirable futures.",
+    "By generating a dialectic of sociotechnical imaginaries animated by already well-established collective aspirations for security, opponents and proponents contested the very meaning of security itself by defining it, and its relationship to biometric technologies, in different ways."
+  ],
+  "policy_relevance": "The paper shows that sociotechnical imaginaries can shape the legislative and technological design of national surveillance systems, leading to compromises that incorporate both security and privacy concerns (e.g., the database was kept but with reduced data).",
+  "notes": "Full journal article; no truncation.",
+  "via": "Weizman 2007:forward",
+  "text_truncated": false,
+  "openalex_id": "https://openalex.org/W2981726472"
+}

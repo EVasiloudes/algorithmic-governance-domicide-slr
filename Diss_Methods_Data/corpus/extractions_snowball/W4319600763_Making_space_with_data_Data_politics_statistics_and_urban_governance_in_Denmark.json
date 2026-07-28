@@ -1,0 +1,30 @@
+{
+  "title": "Making space with data: Data politics, statistics and urban governance in Denmark",
+  "year": "2020",
+  "doi": null,
+  "doc_type": "journal_article",
+  "methodology": "case_study",
+  "geography": "Denmark",
+  "thesis": "Danish census data practices are central to spatialising and governing marginalised urban areas as 'ghettos', performing state authority and enabling top-down interventions.",
+  "theme_1_score": 0,
+  "theme_1_justification": "Not addressed. The paper focuses on state use of census data for urban governance without any discussion of dual-use, technology transfer, or repurposing between civilian and military domains.",
+  "theme_2_score": 2,
+  "theme_2_justification": "Substantive engagement. The paper discusses how data practices perform images of verticality and encompassment, establishing state and municipal authority. It addresses how data are used to make areas knowable and governable, and explores contestation over data validity, revealing epistemic politics.",
+  "theme_3_score": 1,
+  "theme_3_justification": "Tangential mention. The paper discusses data-driven monitoring systems and the ghetto list as tools for classifying and intervening in urban areas, but does not conceptualize the city as a machinic assemblage or engage with continuous modulation in a Deleuzian sense.",
+  "theme_4_score": 1,
+  "theme_4_justification": "Tangential mention. The paper notes that areas on the ghetto list may be converted from non-profit to private housing, leading to displacement of residents, but this is not a central theme. No discussion of urbicide, military urbanism, or vertical sovereignty.",
+  "dual_use_explicit": "no",
+  "dual_use_direction": "neither",
+  "dual_use_structural": "no",
+  "key_quotes": [
+    "In this article we engage with the contemporary data moment by exploring how particular data practices–– consisting of census data and statistics––have become embroiled in the making of urban space and governance in Denmark.",
+    "The use of census data by government to produce the ghetto list and by municipalities to monitor these areas performs an image of state, or municipal, vertical encompassment.",
+    "The data practices we have described are a crucial part of how the state, regions, and even local municipalities construct themselves as authorities over marginalised areas."
+  ],
+  "policy_relevance": "The paper critiques the use of census data for the ghetto list, which has consequences including forced displacement of residents through housing conversion policies. It highlights the need for accountability and the political nature of data practices in urban governance.",
+  "notes": "Full text available. No truncation issues.",
+  "via": "Kitchin 2014:forward",
+  "text_truncated": false,
+  "openalex_id": "https://openalex.org/W4319600763"
+}

@@ -1,0 +1,30 @@
+{
+  "title": "The uneven geographies of the Olympic carceral: from exceptionalism to normalisation",
+  "year": "2015",
+  "doi": "10.1111/geoj.12081",
+  "doc_type": "journal_article",
+  "methodology": "empirical_qualitative",
+  "geography": "London, Sochi, Rio de Janeiro",
+  "thesis": "Olympic security planning creates hyper-carceral spaces that normalise exceptional security measures, producing uneven geographies and transferring military-carceral strategies across host cities.",
+  "theme_1_score": 1,
+  "theme_1_justification": "Tangential mention: discusses transfer of security knowledge and strategies between Olympic host cities (London to Sochi, Rio), and repurposing of military technologies for civic realm (e.g., 'military–threat–response technologies and procedures being repurposed for use in the civic realm' citing Graham 2010). No explicit engagement with dual-use concept or information good properties.",
+  "theme_2_score": 1,
+  "theme_2_justification": "Tangential mention: discusses surveillance technologies (CCTV, ANPR, mobile fingerprint scanners) and their normalisation, but does not substantively engage with epistemic authority, black-boxing, or algorithmic opacity. References Foucault's panopticon and Deleuze's control societies but not in depth.",
+  "theme_3_score": 2,
+  "theme_3_justification": "Substantive engagement: conceptualises the city as a site of continuous modulation through security assemblages, surveillance, and control. Discusses 'lockdown security', 'hyper-carceral spaces', and the normalisation of exceptional measures. Engages with Agamben's state of exception and Deleuze's societies of control. Addresses smart city elements (Rio's IBM operations centre) as mode of governance.",
+  "theme_4_score": 2,
+  "theme_4_justification": "Substantive engagement: discusses spatial destruction through 'spatial cleansing' of sex workers and protesters, 'fortress urbanism', 'ring of steel', and uneven geographies of security. Addresses displacement and gentrification in favelas via 'pacification' programmes. Engages with vertical sovereignty (drones, airspace control, missiles). References Graham's military urbanism and Weizman's work.",
+  "dual_use_explicit": "tangential",
+  "dual_use_direction": "military_to_civil",
+  "dual_use_structural": "no",
+  "key_quotes": [
+    "This again connects with an enduring set of processes by which, slowly but surely, we see military–threat–response technologies and procedures being repurposed for use in the civic realm (Graham 2010).",
+    "In such spatial configurations the rule of law is suspended to facilitate extraordinary social control where citizens can be literally stripped of political rights (homo sacer) altering the established relationship between the state/sovereign and the citizenry within a particular territory, most graphically represented by the prisoner camp.",
+    "the spatial imprints and uneven geographies of such strategies can be seen to represent a contemporary carceral archipelago where the spaces that are secured, and their social and material effect on adjacent areas, the host city, or the wider nation, are relevant to contemporary urban restructuring debates within geography"
+  ],
+  "policy_relevance": "Critiques the normalisation of exceptional security measures in mega-events, highlighting the need for proportionality and the risks of permanent security legacies that exacerbate urban inequalities.",
+  "notes": "Full text available and complete. Paper is a journal article with empirical focus on London 2012, with comparative analysis of Sochi 2014 and Rio 2016.",
+  "via": "Graham 2006:forward",
+  "text_truncated": false,
+  "openalex_id": "https://openalex.org/W2164611119"
+}

@@ -1,0 +1,30 @@
+{
+  "title": "Educating the smart city: Schooling smart citizens through computational urbanism",
+  "year": "2015",
+  "doi": "10.1177/2053951715617783",
+  "doc_type": "journal_article",
+  "methodology": "theoretical",
+  "geography": "global",
+  "thesis": "Education is being reconfigured as a laboratory for smart city governance, where schools become data platforms and students are trained as computational operatives.",
+  "theme_1_score": 2,
+  "theme_1_justification": "The paper substantively discusses dual-use fluidity through the repurposing of commercial smart city technologies (IBM, Microsoft) for educational governance, and the transfer of data analytics and coding practices from urban management to schooling. It explicitly addresses how 'commercial vendors such as IBM and Microsoft are extending their global smart cities programs into a reimagining and reconfiguration of schools as data-based sites of real-time monitoring' (p.1). The concept of 'programmable pedagogies' and the alignment of education with smart city standards (ISO 37120:2014) further indicate technology transfer between civilian urban systems and educational governance.",
+  "theme_2_score": 2,
+  "theme_2_justification": "The paper engages substantively with epistemic authority and black-boxing. It discusses how smart schools rely on algorithmic opacity and data analytics to govern students, noting that 'predictive machine learning algorithms have to be constantly re-trained in an iterative process of monitoring, adjusting, revising and optimizing' (p.7), and that these systems are 'regulated from afar by technical experts' (p.7). It also addresses the 'epistemic authority' of data-driven systems, stating that 'the smart school is enabled to 'know' its quantified students intimately' (p.8), and critiques the democratic deficit in such algorithmic decision-making.",
+  "theme_3_score": 2,
+  "theme_3_justification": "The paper substantively conceptualizes the city as a programmable, algorithmic system and discusses continuous modulation of urban populations through data. It describes smart cities as 'programmable environments' where 'software code alters how aspects of city life are conducted' (p.3-4), and smart schools as spaces where 'the manipulation of the environment through programmable technologies will enable and activate, or constrain and delimit students' actions' (p.5). It engages with 'smart city' as a mode of governance, not just infrastructure, and discusses automated decision-making and real-time urban dashboards.",
+  "theme_4_score": 0,
+  "theme_4_justification": "Not addressed. The paper does not discuss spatial destruction, domicide, urbicide, weaponisation of civilian infrastructure, home unmaking, displacement, or urban warfare. It focuses on the governance and education of citizens within smart cities, not on spatial violence or destruction.",
+  "dual_use_explicit": "tangential",
+  "dual_use_direction": "civil_to_military",
+  "dual_use_structural": "yes",
+  "key_quotes": [
+    "The article contributes two original lines of critical analysis: (1) by tracing how commercial vendors such as IBM and Microsoft are extending their global smart cities programs into a reimagining and reconfiguration of schools as data-based sites of real-time monitoring and measurement, where students are increasingly treated as 'data objects' whose actions can be altered through programming the environment; and (2) by examining how governmental and civil society organizations are working within local smart cities initiatives to develop young people's capacities as active 'smart citizens', with the technical data skills to contribute to computational urbanism by participating in 'civic coding' on behalf of the city.",
+    "The programmable environments of the smart city are infused with the aspiration to orchestrate particular urban processes and ways of life through computational logics of programming. The standards that regulate smart cities developments are transcoded into software instruments that then alter the environment and consequently shape the everyday living of urban citizens.",
+    "The smart school is a laboratory for experimental forms of digital government where the sociotechnical imaginaries and expertise of computational urbanists and civic coders are to be projected from a distance into the city, both through monitoring young people's data points and through educating them to become active and responsible citizens with appropriate skills to compute the future of the city."
+  ],
+  "policy_relevance": "The paper critiques the technocratic and depoliticized nature of smart city education initiatives, highlighting the need for critical engagement with the governance implications of data-driven schooling and the production of 'smart citizens'.",
+  "notes": "Full text available and complete.",
+  "via": "Kitchin 2014:forward",
+  "text_truncated": false,
+  "openalex_id": "https://openalex.org/W2403858994"
+}

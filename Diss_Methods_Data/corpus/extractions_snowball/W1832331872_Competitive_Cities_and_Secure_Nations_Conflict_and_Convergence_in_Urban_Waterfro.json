@@ -1,0 +1,30 @@
+{
+  "title": "Competitive Cities and Secure Nations: Conflict and Convergence in Urban Waterfront Agendas after 9/11",
+  "year": "2006",
+  "doi": null,
+  "doc_type": "journal_article",
+  "methodology": "empirical_qualitative",
+  "geography": "North America (US and Canada)",
+  "thesis": "Post-9/11 port security and competitive city waterfront redevelopment agendas are both conflicting and converging, with implications for social justice.",
+  "theme_1_score": 0,
+  "theme_1_justification": "Not addressed. The paper does not discuss the economic/material properties of software/data, dual-use technology transfer, or data sharing between civilian and military domains.",
+  "theme_2_score": 0,
+  "theme_2_justification": "Not addressed. The paper discusses physical surveillance but not algorithmic opacity, epistemic authority of data, or democratic deficits in algorithmic decision-making.",
+  "theme_3_score": 0,
+  "theme_3_justification": "Not addressed. The paper does not conceptualize the city as a programmable system or discuss continuous modulation through data; it focuses on physical securitization and planning.",
+  "theme_4_score": 1,
+  "theme_4_justification": "Tangential mention. The paper discusses displacement of homeless people, blocking of low-income housing, and militarization of urban space, but does not directly address spatial destruction, urbicide, or home unmaking.",
+  "dual_use_explicit": "no",
+  "dual_use_direction": "neither",
+  "dual_use_structural": "no",
+  "key_quotes": [
+    "While proponents of competitive city projects appear directly concerned with promoting a particular vision of capitalist urban development in contrast to the national security agenda of port and border securitization, we contend that a simple dichotomy between 'economy' and 'security' cannot capture their complex intermingling.",
+    "The securitization of urban ports against potential terrorism in the US is imagined by government officials and security strategists as a front-line strategy in the protection of goods that flow into national transportation systems.",
+    "Whether urban waterfronts are rebuilt and policed in the interests of national security, local property developers and professional condominium residents, or all of these simultaneously, a large proportion of urban citizens are not a part of that picture."
+  ],
+  "policy_relevance": "The paper highlights the exclusionary implications of the convergence of security and economic agendas for marginalized groups, emphasizing the need for attention to spatial justice in waterfront cities.",
+  "notes": "Exploratory article; not conclusive. Focuses on physical port security and urban redevelopment, not algorithmic governance or dual-use technology. Dual-use is discussed in terms of economic/security agendas, not technology transfer.",
+  "via": "Graham 2006:forward",
+  "text_truncated": false,
+  "openalex_id": "https://openalex.org/W1832331872"
+}

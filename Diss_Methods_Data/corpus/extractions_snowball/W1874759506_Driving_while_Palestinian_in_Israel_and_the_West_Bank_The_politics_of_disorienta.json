@@ -1,0 +1,30 @@
+{
+  "title": "Driving while Palestinian in Israel and the West Bank: The politics of disorientation and the routes of a subaltern knowledge",
+  "year": "2015",
+  "doi": "10.1111/amet.12114",
+  "doc_type": "journal_article",
+  "methodology": "empirical_qualitative",
+  "geography": "Israel and the West Bank",
+  "thesis": "Driving as a practice generates embodied political knowledge for Palestinians, revealing the politics of disorientation and fragmentation under Israeli rule.",
+  "theme_1_score": 0,
+  "theme_1_justification": "Not addressed. The paper focuses on physical road infrastructure and checkpoints, not on information goods, software, or dual-use technology transfer.",
+  "theme_2_score": 2,
+  "theme_2_justification": "Substantive engagement with epistemic authority: the paper argues that Palestinian knowledge gained on the road is embodied, subaltern, and challenges official narratives. It discusses how the state controls knowledge through infrastructure and disorientation, but does not address algorithmic opacity or black-boxing.",
+  "theme_3_score": 0,
+  "theme_3_justification": "Not addressed. The paper does not conceptualize the city as a programmable system or discuss algorithmic modulation; it focuses on physical movement and checkpoints.",
+  "theme_4_score": 2,
+  "theme_4_justification": "Substantive engagement with spatial destruction and home unmaking: discusses displacement, destruction of villages (e.g., Al-Araqeeb, Iqrit), and the weaponization of roads and checkpoints. References Weizman (2007) and engages with urbicide, but this is not the central argument.",
+  "dual_use_explicit": "no",
+  "dual_use_direction": "neither",
+  "dual_use_structural": "no",
+  "key_quotes": [
+    "Palestinian knowledge gained on the road is not disembodied and dispassionate... it resists expertise.",
+    "The road is not a neutral site of technical governance; it is a space of political hegemony and contestation.",
+    "Israel's management of the roads operates for Palestinians as a politics of disorientation, as routes change because of Israeli closure policies and as Palestinians encounter road signs and road infrastructure that subtly elide their presence."
+  ],
+  "policy_relevance": "None explicitly; the paper implies the need to recognize subaltern knowledge and the political effects of infrastructure, but offers no direct policy recommendations.",
+  "notes": "Full text provided; no truncation issues.",
+  "via": "Weizman 2007:forward",
+  "text_truncated": false,
+  "openalex_id": "https://openalex.org/W1874759506"
+}

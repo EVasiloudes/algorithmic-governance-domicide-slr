@@ -1,0 +1,30 @@
+{
+  "title": "Network-Centric Violence, Critical Infrastructure and the Urbanization of Security",
+  "year": "2009",
+  "doi": "10.1177/0967010609342879",
+  "doc_type": "journal_article",
+  "methodology": "theoretical",
+  "geography": "global",
+  "thesis": "Contemporary urban warfare targets critical infrastructure because it is constitutive of metropolitan life, revealing a reciprocal dynamic of urban securitization.",
+  "theme_1_score": 2,
+  "theme_1_justification": "The paper substantively engages with dual-use through the concept of 'dual use facilities' in the context of Iraqi infrastructure sanctions (p. 406-407), and discusses the repurposing of civilian infrastructure as military targets. It addresses technology transfer between civilian and military domains via the concept of 'network-centric' warfare and the targeting of urban networks.",
+  "theme_2_score": 1,
+  "theme_2_justification": "Tangential mention: the paper discusses surveillance and securitization of urban networks (p. 411) but does not deeply engage with epistemic authority, black-boxing, or algorithmic opacity. Surveillance is mentioned as a response to vulnerability, not as a knowledge-producing function.",
+  "theme_3_score": 2,
+  "theme_3_justification": "Substantive engagement: the paper conceptualizes the city as a networked, programmable system (p. 409-411), discusses 'network-centric' warfare and 'effects-based' operations, and addresses the shift from planar to nodal battlespace. It engages with 'smart city' governance indirectly through the concept of critical infrastructure as constitutive of urban life.",
+  "theme_4_score": 2,
+  "theme_4_justification": "Substantive engagement: the paper discusses spatial destruction through targeting of critical infrastructure (e.g., Baghdad, New York, London), addresses urbicide and the weaponisation of civilian infrastructure, and engages with the concept of 'vertical geopolitics' (p. 410). It does not explicitly discuss home unmaking or Forensic Architecture.",
+  "dual_use_explicit": "yes",
+  "dual_use_direction": "civil_to_military",
+  "dual_use_structural": "tangential",
+  "key_quotes": [
+    "The sanctions regime did not target infrastructure per se, it prevented the reconstruction, repair or maintenance of a number of infrastructural sites on the basis that they comprised 'dual use' facilities of potential importance to the Iraqi military.",
+    "Targeting critical infrastructure in order to disrupt urbanity thus comprises a historically specific form of violence.",
+    "Network-centric warfare was conceived in the post-Cold War period as an element of the so-called Revolution in Military Affairs (RMA). It refers to a doctrine based on domination of the information spectrum supported by the use of precision munitions, mobile forces, and accurate real-time modelling of enemy forces and infrastructures."
+  ],
+  "policy_relevance": "The paper argues that securitization of urban infrastructure (hardening, surveillance) is insufficient because it protects material substrate but not networked interconnectivity, and calls for a security studies that appreciates the complex ecology of metropolitan subjectivity.",
+  "notes": "Full text available and complete.",
+  "via": "Graham 2006:forward",
+  "text_truncated": false,
+  "openalex_id": "https://openalex.org/W1963997592"
+}

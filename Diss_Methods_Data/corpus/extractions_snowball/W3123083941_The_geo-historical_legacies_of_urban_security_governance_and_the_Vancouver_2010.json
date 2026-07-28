@@ -1,0 +1,30 @@
+{
+  "title": "The geo-historical legacies of urban security governance and the Vancouver 2010 Olympics",
+  "year": "2015",
+  "doi": "10.1111/geoj.12070",
+  "doc_type": "journal_article",
+  "methodology": "empirical_qualitative",
+  "geography": "Canada (Vancouver)",
+  "thesis": "Mega-events like the Olympics catalyse long-term militarisation of urban policing through joint training and jurisdictional blurring, as seen in the Vancouver Police Department's Military Liaison Unit.",
+  "theme_1_score": 0,
+  "theme_1_justification": "Not addressed. The paper does not discuss information good properties or dual-use fluidity of software/data.",
+  "theme_2_score": 0,
+  "theme_2_justification": "Not addressed. The paper does not discuss algorithmic opacity, epistemic authority, or surveillance as knowledge production.",
+  "theme_3_score": 1,
+  "theme_3_justification": "Tangential. The paper discusses urban militarisation and mission-based policing, drawing on Graham's New Military Urbanism, but does not focus on algorithmic modulation or smart city governance.",
+  "theme_4_score": 1,
+  "theme_4_justification": "Tangential. The paper mentions reconfiguration of urban space as 'theatre of operation' and the boomerang effect of military tactics, but does not explicitly address spatial destruction or home unmaking.",
+  "dual_use_explicit": "yes",
+  "dual_use_direction": "both",
+  "dual_use_structural": "no",
+  "key_quotes": [
+    "The paper furthers Stephen Graham’s (2010) New Military Urbanism that considers the circulation of military expertise between neo-colonial frontiers of military intervention with Western urban spaces.",
+    "In this way, models of ‘pacification’, ‘militarisation’ and ‘control’, as the practical means through which the West prosecutes its military interventions, are remerging in Western urban contexts through a ‘boomerang effect’.",
+    "The MLU has trained members who are currently serving in Afghanistan and Sudan, demonstrating how the military police model is applicable to their own geo-political operations."
+  ],
+  "policy_relevance": "The paper highlights under-recognised security legacies of mega-events and calls for empirical attention to institutional-level geographies of policing and militarisation.",
+  "notes": "None",
+  "via": "Graham 2006:forward",
+  "text_truncated": false,
+  "openalex_id": "https://openalex.org/W3123083941"
+}

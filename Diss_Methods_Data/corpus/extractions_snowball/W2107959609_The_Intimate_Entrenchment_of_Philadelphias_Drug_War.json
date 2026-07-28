@@ -1,0 +1,28 @@
+{
+  "title": "The Intimate Entrenchment of Philadelphia's Drug War",
+  "year": "2015",
+  "doi": "10.1080/21622671.2015.1047898",
+  "doc_type": "journal_article",
+  "methodology": "empirical_qualitative",
+  "geography": "Philadelphia, USA",
+  "thesis": "The drug war in Philadelphia's inner city is maintained through militarized discourse and practices, but residents resist by occupying and defending the block as intimate spaces of survival and community.",
+  "theme_1_score": 1,
+  "theme_1_justification": "Tangential mention: The paper discusses the military transfer program supplying the Philadelphia Police Department with M-16 assault rifles from the US army (p. 377), indicating technology transfer from military to civilian policing. However, this is not a central argument about dual-use properties of software/data.",
+  "theme_2_score": 1,
+  "theme_2_justification": "Tangential mention: The paper discusses how police operate with mandates from 'on high' and lack accountability (p. 377), and how residents' civil rights are eroded through presumed guilt (p. 377). However, it does not substantively engage with algorithmic opacity or epistemic authority of data-driven systems.",
+  "theme_3_score": 2,
+  "theme_3_justification": "Substantive engagement: The paper conceptualizes the city block as a programmable, contested territory in the drug war, discussing continuous modulation of urban populations through policing, surveillance, and militarized tactics (pp. 371-373). It addresses the shift from visible institutional power to ambient/algorithmic control through police practices and the 'war on drugs' discourse.",
+  "theme_4_score": 2,
+  "theme_4_justification": "Substantive engagement: The paper discusses spatial destruction and home unmaking through drug war practices, including home seizures without hearings (p. 375), the bombing of a city block (p. 383, note 1), and the weaponization of civilian infrastructure (e.g., parks, community centers) as 'front lines' (p. 375). It also addresses the city as battlespace and militarized urban policing.",
+  "dual_use_explicit": "tangential",
+  "dual_use_direction": "military_to_civil",
+  "dual_use_structural": "no",
+  "key_quotes": [
+    "Through the military transfer programme implemented by congress in the 1990s, the PPD has a weapons arsenal supplied directly by the armed forces. In April 2013, there was a brief scandal when the PPD lost an M-16 assault rifle... Department officials noted that they were in possession of 1355 M-16 assault rifles in their arsenal. The weapons were given to the department by the US army."
+  ],
+  "policy_relevance": "The paper critiques the militarized approach to drug enforcement and suggests that policy should recognize the importance of semi-public spaces for residents' survival and community, rather than treating them solely as front lines of a war.",
+  "notes": "The paper is a journal article with ethnographic fieldwork and discourse analysis. It does not focus on algorithmic governance or data systems, but on militarized policing and spatial control in the context of the drug war.",
+  "via": "Graham 2006:forward",
+  "text_truncated": false,
+  "openalex_id": "https://openalex.org/W2107959609"
+}

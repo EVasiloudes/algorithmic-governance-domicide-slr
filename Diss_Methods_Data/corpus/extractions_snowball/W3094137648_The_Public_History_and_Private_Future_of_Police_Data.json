@@ -1,0 +1,30 @@
+{
+  "title": "The Public History and Private Future of Police Data",
+  "year": "2021",
+  "doi": null,
+  "doc_type": "book_chapter",
+  "methodology": "empirical_qualitative",
+  "geography": "United States (Los Angeles, California)",
+  "thesis": "Traces the history of data-driven policing and argues that the current era is defined by unprecedented private sector involvement and military-to-police technology transfer.",
+  "theme_1_score": 2,
+  "theme_1_justification": "Substantive engagement with dual-use: discusses military-to-police transfer of technologies (e.g., counterinsurgency tools, PredPol funded by Army Research Office), private sector data brokering, and function creep. Explicitly notes that software vendors demonstrate military applications to police to create demand.",
+  "theme_2_score": 1,
+  "theme_2_justification": "Tangential mention: discusses data as social product, not objective; mentions algorithmic opacity briefly (trade secrecy of data brokers); addresses data's role in legitimating policing and bypassing accountability, but not a central focus.",
+  "theme_3_score": 1,
+  "theme_3_justification": "Tangential: discusses predictive policing, COMPSTAT, and data-driven management as modes of governance, but does not deeply theorize the city as a programmable system or continuous modulation.",
+  "theme_4_score": 0,
+  "theme_4_justification": "Not addressed: no discussion of spatial destruction, domicide, urbicide, or weaponization of urban space.",
+  "dual_use_explicit": "yes",
+  "dual_use_direction": "military_to_civil",
+  "dual_use_structural": "tangential",
+  "key_quotes": [
+    "He wanted, he said, to learn about technology to help 'catch bad guys in my city,' and the real innovations weren't being developed by law enforcement, but by tech startups and national defense. He'd come to DC to see whether there were any new counterinsurgency technologies that might be used in his department.",
+    "Tracing the corporate lineage of police surveillance technologies and the creep of military and corporate interests and practices into local law enforcement's daily operations is crucial for understanding the practice and institution of policing today.",
+    "The tendency for data or systems initially used for one purpose to be used for another, often unintended or unanticipated purpose, is known as 'function creep' and is a fundamental component of the big data landscape."
+  ],
+  "policy_relevance": "Discusses implications of private sector involvement in policing, including reduced transparency and circumvention of privacy laws; notes that purchasing data from brokers can bypass constitutional protections.",
+  "notes": "Book chapter from 'Predict and Surveil' by Sarah Brayne. Text is complete.",
+  "via": "Kitchin 2014:forward",
+  "text_truncated": false,
+  "openalex_id": "https://openalex.org/W3094137648"
+}

@@ -1,0 +1,30 @@
+{
+  "title": "Is Big Data challenging criminology?",
+  "year": "2016",
+  "doi": "10.1177/1362480615586614",
+  "doc_type": "journal_article",
+  "methodology": "theoretical",
+  "geography": "global",
+  "thesis": "Big Data and predictive policing challenge traditional criminology by sidelining theory and causation in favour of correlation, but this approach has serious limitations.",
+  "theme_1_score": 1,
+  "theme_1_justification": "Tangential mention: discusses data sharing and use of social media data in criminological research, but does not explicitly address dual-use between civilian and military domains. The focus is on Big Data in law enforcement and criminology, not civil-military technology transfer.",
+  "theme_2_score": 2,
+  "theme_2_justification": "Substantive engagement: discusses algorithmic opacity (black-boxing of random forest algorithms), epistemic authority of data-driven systems (machine learning predictions as 'scientific oracle'), and democratic deficits in decision-making. Cites boyd and Crawford on Big Data mythology, and references Pasquale (2015).",
+  "theme_3_score": 1,
+  "theme_3_justification": "Tangential: discusses predictive policing and algorithmic governance of urban crime, but does not conceptualize the city as a programmable system or engage deeply with modulation of populations. Focus is on criminological methods rather than urban governance theory.",
+  "theme_4_score": 0,
+  "theme_4_justification": "Not addressed: no discussion of spatial destruction, weaponization of civilian infrastructure, home unmaking, or urban warfare.",
+  "dual_use_explicit": "no",
+  "dual_use_direction": "neither",
+  "dual_use_structural": "no",
+  "key_quotes": [
+    "The disregard of theory means that a lot of Big Data analysis (like the random forest algorithm described above) will be regarded as a 'black box'. As Brennan and Oliver (2013: 558) state, 'their logic can be inscrutable to human users … This failure to offer explanatory tools might be awkward for decision makers who must provide justifications for their decisions (e.g., judges, probation officers, and parole boards).'",
+    "Because these techniques make predictions with seeming clairvoyance based on methods that people who rely on those predictions cannot understand, there is an 'aura' around the predictions. There are no opportunities to challenge claims about future behaviour based on particular alleged correlations (e.g. race and crime) as they remain hidden.",
+    "If there are initial biases in the crimes noticed by police (for example racial bias affecting initial patrolling patterns), then this will be fed back into the algorithm and 'confirm' police biases (see Pasquale, 2015: 39–42). This feedback effect is self-perpetuating, thus unable to be solved by regular updating."
+  ],
+  "policy_relevance": "Discusses implications for predictive policing and criminal justice decisions, urging that decisions require causal understanding, transparency, and evaluation through experiments or quasi-experiments.",
+  "notes": "Text is complete; journal article.",
+  "via": "Kitchin 2014:forward",
+  "text_truncated": false,
+  "openalex_id": "https://openalex.org/W1898484762"
+}

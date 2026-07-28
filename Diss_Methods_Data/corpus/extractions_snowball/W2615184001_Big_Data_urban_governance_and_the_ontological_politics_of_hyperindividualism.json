@@ -1,0 +1,30 @@
+{
+  "title": "Big Data, urban governance, and the ontological politics of hyperindividualism",
+  "year": "2017",
+  "doi": "10.1177/2053951716682537",
+  "doc_type": "journal_article",
+  "methodology": "theoretical",
+  "geography": "USA (New York City, Camden, New Jersey)",
+  "thesis": "Big Data's ontology of hyperindividualism reduces governance to management of atomistic behavior, undermines urban complexity, erodes democracy, and eviscerates collective resistance.",
+  "theme_1_score": 0,
+  "theme_1_justification": "Not addressed. The paper does not discuss dual-use, technology transfer, or repurposing of civilian urban tech for military/security functions.",
+  "theme_2_score": 2,
+  "theme_2_justification": "Substantive engagement. Discusses algorithmic opacity ('black box of data management software'), epistemic authority of data-driven systems, and how Big Data naturalizes a particular ontology that bypasses democratic deliberation. Addresses the constructed nature of algorithmic 'truth' (e.g., NYPD crime statistics).",
+  "theme_3_score": 1,
+  "theme_3_justification": "Tangential mention. Discusses urban governance in the age of Big Data and real-time surveillance (ShotSpotter, CompStat), but does not explicitly engage with Deleuzian modulation or the city as a programmable system. Focus is on ontology rather than machinic control.",
+  "theme_4_score": 1,
+  "theme_4_justification": "Tangential mention. Discusses homelessness and displacement as examples of categorization, but does not address spatial destruction, weaponization of infrastructure, or urban warfare. No engagement with domicide or vertical sovereignty.",
+  "dual_use_explicit": "no",
+  "dual_use_direction": "neither",
+  "dual_use_structural": "no",
+  "key_quotes": [
+    "The practice of Big Data governed by an ontology of hyperindividualism is also constitutive of that ontology, naturalizing and diffusing it through practices of governance and, from there, throughout myriad dimensions of everyday life.",
+    "Big Data’s hyperindividuated ontology extracts and displaces the data point—the ‘thing’—from the coconstitutive, relational ontology of the assemblage.",
+    "Big Data’s ontology of hyperindividualism reduces governance to the management of atomistic behavior, undermines the contribution of urban complexity as a resource for governance, erodes the potential for urban democracy, and eviscerates the possibility of collective resistance."
+  ],
+  "policy_relevance": "Calls for critical reflection on Big Data's ontological assumptions in governance; no specific policy recommendations.",
+  "notes": "Theoretical article with examples from NYC and Camden. Part of a special issue on urban governance. No dual-use discussion.",
+  "via": "Kitchin 2014:forward",
+  "text_truncated": false,
+  "openalex_id": "https://openalex.org/W2615184001"
+}

@@ -1,0 +1,30 @@
+{
+  "title": "DATA-DRIVEN CRIMINAL JUSTICE IN THE AGE OF ALGORITHMS: EPISTEMIC CHALLENGES AND PRACTICAL IMPLICATIONS",
+  "year": "2023",
+  "doi": "10.1007/s10609-023-09454-y",
+  "doc_type": "journal_article",
+  "methodology": "theoretical",
+  "geography": "global",
+  "thesis": "Argues for prioritizing theory- and causation-based algorithms over opaque correlational ones in criminal justice, while critically using the latter with abductive reasoning.",
+  "theme_1_score": 0,
+  "theme_1_justification": "Not addressed. No discussion of dual-use, technology transfer, or information good properties of software/data.",
+  "theme_2_score": 3,
+  "theme_2_justification": "Central theme. Extensively discusses algorithmic opacity ('black boxes'), epistemic authority of data-driven tools, the distinction between theory-driven and data-driven knowledge, and the epistemological challenges of predictions in criminal justice. Engages with causality, correlation, and the value of scientific explanation.",
+  "theme_3_score": 0,
+  "theme_3_justification": "Not addressed. Paper focuses on criminal justice decision support systems, not urban governance or the city as a programmable system.",
+  "theme_4_score": 0,
+  "theme_4_justification": "Not addressed. No discussion of spatial destruction, urban warfare, home unmaking, or related concepts.",
+  "dual_use_explicit": "no",
+  "dual_use_direction": "neither",
+  "dual_use_structural": "no",
+  "key_quotes": [
+    "the measured usage of theory and causation-based algorithms is preferable over correlational (i.e., causally opaque) algorithms as support tools in the penal system.",
+    "the normative debate on these tools cannot be separated from their epistemic and scientific description without reducing their evaluation ad absurdum.",
+    "the epistemological value that can be attributed to correlations and predictions in general"
+  ],
+  "policy_relevance": "Discusses the need for standards for trustworthy algorithms (e.g., EU AI HLEG Assessment List) and advocates for incorporating epistemological considerations into the design and evaluation of algorithmic tools in criminal justice.",
+  "notes": "Full text provided. No truncation. Paper is a theoretical/epistemological analysis with examples from Spain and USA.",
+  "via": "Kitchin 2014:forward",
+  "text_truncated": false,
+  "openalex_id": "https://openalex.org/W4323031503"
+}

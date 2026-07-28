@@ -1,0 +1,30 @@
+{
+  "title": "In dangerous times: War, reconstruction and the city",
+  "year": "2024",
+  "doi": "10.1080/00187259.2024.2363897",
+  "doc_type": "journal_article",
+  "methodology": "theoretical",
+  "geography": "global, with focus on Middle East (Lebanon, Syria, Palestine, Iraq, Gaza, Yugoslavia)",
+  "thesis": "The article argues that urban destruction and reconstruction are linked through a post-conflict-catastrophe complex that reinforces neocolonial relations, militarism, and neoliberal marketization.",
+  "theme_1_score": 1,
+  "theme_1_justification": "Tangential mention: discusses AI systems (Lavender, Where's Daddy?) used for targeting in Gaza as a dual-use technology from civilian to military domain, but does not engage deeply with the economic properties of software/data or technology transfer. The article mentions the 'military-industrial complexes, now juiced with technology and finance capital' (p. 207) but does not explore dual-use fluidity conceptually.",
+  "theme_2_score": 1,
+  "theme_2_justification": "Tangential mention: critically discusses AI kill lists (Lavender and Where's Daddy?) and lack of 'meaningful human oversight' (p. 206), suggesting algorithmic opacity and authoritarian decision-making, but does not engage deeply with epistemic authority or black-boxing as governance mechanisms. Surveillance as a knowledge-producing function is not addressed.",
+  "theme_3_score": 1,
+  "theme_3_justification": "Tangential mention: references 'scale-jumping flows of people, ideas, goods, finance, technology' and 'complex assemblages of institutions' (p. 205) shaping cities, and mentions 'smart city' discourse implicitly through critique of technophilic dreams, but does not conceptualize the city as a programmable or modulated data-driven system. The concept of algorithmic governance is not directly engaged.",
+  "theme_4_score": 3,
+  "theme_4_justification": "Central argument: the article extensively discusses urbicide (citing Graham 2004, 2011), weaponization of civilian infrastructure (siege, starvation, demolition of schools and hospitals), vertical sovereignty (drones, barrel bombs, AI targeting of homes), displacement, and forced eviction. The destruction of 'urban spaces and the ways of life they make possible' (p. 205) and 'the very symbols of culture, difference, cosmopolitan life' (p. 205) are core themes. Specific examples include the Dahiya Doctrine, destruction of Aleppo, Homs, Raqqa, and Gaza.",
+  "dual_use_explicit": "tangential",
+  "dual_use_direction": "civil_to_military",
+  "dual_use_structural": "tangential",
+  "key_quotes": [
+    "The central argument: cities today are both productive of and produced by scale-jumping flows of people, ideas, goods, finance, technology, and aesthetic practices, all mediated by complex assemblages of institutions and regulation, above, below and shooting through, the state. (p. 205)",
+    "What some call urbicide (Graham 2004, 2011), however, is most devastatingly visible in contemporary late-modern warfare (Belcher 2011), itself a product of global transformations that fragment states and give rise to a range of sub-state political and military forces. (p. 205)",
+    "Israel's use of two such systems, known as Lavender and Where's Daddy?, may be indicative of what's to come. These systems are used to create kill lists of suspected Hamas fighters and 'operatives' down to the lowest levels. These suspects are targeted not in battle, but often tracked to their homes, where they are killed along with their families, often multiple generations at a time (Abraham 2024; Tharoor 2024). Without meaningful human oversight, and combined with the unprecedented destructive power of today's weapons, contemporary urban warfare gives lie to technophilic dreams of the sanitary smart bomb. (p. 206)"
+  ],
+  "policy_relevance": "The article critiques the Post-Conflict/Catastrophe Complex (P3C) and its neoliberal reconstruction policies, calling for anthropological engagement with alternative paths that prioritize local agency, peace, security, and sustainable economic revival over market-driven approaches. It advocates for critical voices to engage 'war where it is made' (p. 207).",
+  "notes": "Opinion editorial, short format (4 pages). Text is complete. Dual-use discussion is tangential, focused on AI targeting systems and military use of technology, but not on urban governance or algorithmic governance per se.",
+  "via": "Graham 2006:forward",
+  "text_truncated": false,
+  "openalex_id": "https://openalex.org/W4402515781"
+}

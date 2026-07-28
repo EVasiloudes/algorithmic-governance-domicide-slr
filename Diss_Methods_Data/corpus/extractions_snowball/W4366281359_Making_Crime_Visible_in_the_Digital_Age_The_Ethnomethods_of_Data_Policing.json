@@ -1,0 +1,30 @@
+{
+  "title": "Making Crime Visible in the Digital Age: The Ethnomethods of Data Policing",
+  "year": "2023",
+  "doi": "10.1007/s10612-023-09683-y",
+  "doc_type": "journal_article",
+  "methodology": "empirical_qualitative",
+  "geography": "Washington D.C. metropolitan area, USA",
+  "thesis": "Examines how police officers use ethnomethodological practices to interpret GPS location data, bridging interpretative gaps between decontextualized data and criminal activity.",
+  "theme_1_score": 1,
+  "theme_1_justification": "Tangential mention: The paper discusses how GPS location data (an information good) is used in policing, but does not explicitly address dual-use or technology transfer between civilian and military domains. It mentions data sharing and interoperability in passing (e.g., crossmatching telephone data against burglaries), but this is not a central theme.",
+  "theme_2_score": 2,
+  "theme_2_justification": "Substantive engagement: The paper extensively discusses how police officers construct epistemic authority through data interpretation, the opacity of data-driven practices (e.g., 'data holes'), and the need to combine big data with thick data. It addresses the constructed nature of algorithmic 'truth' and the democratic deficit in data policing, though not explicitly using the term 'black-boxing'.",
+  "theme_3_score": 1,
+  "theme_3_justification": "Tangential mention: The paper discusses CompStat as a management system for crime analysis and real-time data use, but does not conceptualize the city as a programmable system or engage with continuous modulation of urban populations. It focuses on individual suspect tracking rather than population-level algorithmic governance.",
+  "theme_4_score": 0,
+  "theme_4_justification": "Not addressed: The paper does not discuss spatial destruction, domicide, urbicide, weaponisation of civilian infrastructure, home unmaking, or vertical sovereignty. It focuses on police surveillance and data interpretation, not on spatial violence or military urbanism.",
+  "dual_use_explicit": "no",
+  "dual_use_direction": "neither",
+  "dual_use_structural": "no",
+  "key_quotes": [
+    "The telephone data for us was useful because we knew that we were barking up at the right tree. Because with the telephone data we can see where people are going, we can see when people are sleeping, when they wake up, all this kind of information that are useful for us, and we could track his movement over a long-extended period of time.",
+    "It is commonly known that the police are expert in finding people and that they have developed an exquisite technology involving special facilities and procedures of sleuthing. It is less well appreciated that all this technology builds upon those socially structured features of everyday life that render persons findable in the first place (Bittner, 1967: 706; emphasis added).",
+    "The social world that the police deal with does not come pre-coded or neatly packaged and self-assigned as coming under the transgression of one particular law or type of incident. (Benson, 1993: 89)."
+  ],
+  "policy_relevance": "The paper suggests that data-driven policing requires interpretive work and that officers must balance suspicion with legal admissibility, implying policy should focus on transparency and accountability in data use, but no explicit recommendations are made.",
+  "notes": "Full text available; no truncation issues.",
+  "via": "Kitchin 2014:forward",
+  "text_truncated": false,
+  "openalex_id": "https://openalex.org/W4366281359"
+}

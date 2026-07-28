@@ -1,0 +1,30 @@
+{
+  "title": "Constructing resilience through security and surveillance: The politics, practices and tensions of security-driven resilience",
+  "year": "2015",
+  "doi": "10.1177/0967010614557884",
+  "doc_type": "journal_article",
+  "methodology": "empirical_qualitative",
+  "geography": "UK (Birmingham, London)",
+  "thesis": "Security-driven resilience, drawing on surveillance and military technologies, generates tensions between state security and community cohesion that may subvert resilience's founding principles.",
+  "theme_1_score": 2,
+  "theme_1_justification": "Substantive engagement with dual-use technology transfer: ANPR cameras 'developed from former military technology' (p.95); military technologies 'increasingly utilized in civic spaces' (p.87-88); cameras redeployed for Olympic security (p.99-100). No explicit use of term 'dual-use' but concept is central to the case study.",
+  "theme_2_score": 1,
+  "theme_2_justification": "Tangential mention of opacity: 'active concealment of hi-tech cameras' (p.97-98), 'the opacity of many security-driven resilience initiatives' (p.101). Discusses lack of transparency in Project Champion but does not engage deeply with epistemic authority or algorithmic black-boxing.",
+  "theme_3_score": 2,
+  "theme_3_justification": "Substantive engagement with the city as a programmable system: 'software-driven systems facilitating automated production, ordering and control of space and everyday life' (p.91); anticipatory turn in social control; continuous modulation through surveillance. Discusses pre-emptive and preventative logic of security-driven resilience (p.92-93).",
+  "theme_4_score": 1,
+  "theme_4_justification": "Tangential engagement with spatial control: encirclement of Muslim neighbourhoods with cameras (p.95-96); 'labelling of dangerous populations' (p.96). Does not discuss spatial destruction, domicide, or vertical sovereignty explicitly.",
+  "dual_use_explicit": "yes",
+  "dual_use_direction": "military_to_civil",
+  "dual_use_structural": "no",
+  "key_quotes": [
+    "military technologies have been increasingly utilized in civic spaces, posing a series of questions about social control, citizenship and the ability to construct community resilience in local areas amidst state attempts to label the same areas as 'dangerous'.",
+    "Of the high-specification surveillance cameras in 'Project Champion', 150 came equipped with Automated Number Plate Recognition (ANPR) capability, developed from former military technology that could automatically monitor all vehicles entering and exiting the areas; whilst a further 72 covert cameras were camouflaged within street signs, furniture and other features of the urban landscape.",
+    "the opacity of many security-driven resilience initiatives, the politicized nature of hierarchical relationships within resilience practice, and the specific politics that such arrangements produce mean such aspirations are not always easy to realize."
+  ],
+  "policy_relevance": "Highlights need for transparent governance and community engagement in security-driven resilience; warns against co-opting local safety agendas for national security; describes erosion of police-community trust as a key consequence.",
+  "notes": "Case study of Project Champion in Birmingham, UK. The paper is a journal article with empirical qualitative methods (interviews, document analysis) and policy analysis. The dual-use concept is discussed through technology transfer (military to civilian) but not explicitly named.",
+  "via": "Graham 2006:forward",
+  "text_truncated": false,
+  "openalex_id": "https://openalex.org/W2157402500"
+}

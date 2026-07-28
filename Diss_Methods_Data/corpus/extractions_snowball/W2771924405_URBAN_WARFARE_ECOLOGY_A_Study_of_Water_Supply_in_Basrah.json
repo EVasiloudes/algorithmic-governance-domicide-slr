@@ -1,0 +1,30 @@
+{
+  "title": "URBAN WARFARE ECOLOGY: A Study of Water Supply in Basrah",
+  "year": "2018",
+  "doi": null,
+  "doc_type": "journal_article",
+  "methodology": "case_study",
+  "geography": "Basrah, Iraq",
+  "thesis": "Protracted armed conflict and sanctions degrade urban water services through cumulative direct, indirect, and brain-drain impacts, requiring a shift from relief-rehabilitation-development models to sustained support within urban warfare biospheres.",
+  "theme_1_score": 2,
+  "theme_1_justification": "Substantive engagement with dual-use restrictions: 'Dual-use restrictions are particularly problematic for restoring water services' and discusses denial of stainless steel tankers and parts due to dual-use concerns. Also addresses technology transfer and dependence on foreign parts/people, but does not make dual-use the central argument.",
+  "theme_2_score": 0,
+  "theme_2_justification": "Not addressed. The paper focuses on physical infrastructure, consumables, and staff, not on algorithmic opacity, epistemic authority, or surveillance as knowledge production.",
+  "theme_3_score": 0,
+  "theme_3_justification": "Not addressed. The paper does not conceptualize the city as a programmable or algorithmic system, nor discuss modulation or smart city governance.",
+  "theme_4_score": 2,
+  "theme_4_justification": "Substantive engagement with spatial destruction and home unmaking through the lens of 'infrastructural warfare', 'place annihilation', and 'urbicide'. Discusses weaponization of civilian infrastructure and the city as battlespace, but focuses on water service degradation rather than direct spatial violence.",
+  "dual_use_explicit": "yes",
+  "dual_use_direction": "civil_to_military",
+  "dual_use_structural": "yes",
+  "key_quotes": [
+    "'Dual-use' restrictions are particularly problematic for restoring water services. The impact in Gaza of the Israeli denial of a vast range of material deemed to serve military as well as civilian purposes is well-known to those agencies attempting emergency and development efforts there.",
+    "The analysis attributes a step-wise decline in service quality to a lack of water treatment chemicals, a lack of spare parts, and, primarily, an extended 'brain-drain' of qualified water service staff.",
+    "The urban warfare ecology lens is found to be a useful complement to 'infrastructural warfare' research, suggesting the study of protracted armed conflict upon all aspects of urban life be both deepened technically and broadened to other cases."
+  ],
+  "policy_relevance": "Calls for longer-term, flexible funding models and sustained technical support to local water operators, moving beyond the relief-rehabilitation-development (RRD) paradigm in chronic urban conflict settings.",
+  "notes": "Paper is a detailed case study of Basrah's water system; themes 2 and 3 are not addressed. Dual-use discussion is explicit but focused on material restrictions, not software/data properties.",
+  "via": "Weizman 2007:forward",
+  "text_truncated": false,
+  "openalex_id": "https://openalex.org/W2771924405"
+}

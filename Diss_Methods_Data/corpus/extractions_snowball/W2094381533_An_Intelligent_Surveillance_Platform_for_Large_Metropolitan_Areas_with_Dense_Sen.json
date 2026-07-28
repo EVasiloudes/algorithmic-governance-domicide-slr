@@ -1,0 +1,30 @@
+{
+  "title": "An Intelligent Surveillance Platform for Large Metropolitan Areas with Dense Sensor Deployment",
+  "year": "2013",
+  "doi": "10.3390/s130607414",
+  "doc_type": "journal_article",
+  "methodology": "case_study",
+  "geography": "global",
+  "thesis": "A technical description of an intelligent video surveillance platform using low-cost sensors and multiple AI engines for autonomous alarm detection in urban environments.",
+  "theme_1_score": 0,
+  "theme_1_justification": "Not addressed. The paper focuses on technical implementation of a surveillance system without discussing dual-use or technology transfer.",
+  "theme_2_score": 0,
+  "theme_2_justification": "Not addressed. No discussion of algorithmic opacity, epistemic authority, or surveillance as knowledge production beyond technical functionality.",
+  "theme_3_score": 0,
+  "theme_3_justification": "Not addressed. The paper describes a surveillance system but does not engage with concepts of machinic city or modulation of urban populations as a mode of governance.",
+  "theme_4_score": 0,
+  "theme_4_justification": "Not addressed. No discussion of spatial destruction, home unmaking, or weaponization of infrastructure.",
+  "dual_use_explicit": "no",
+  "dual_use_direction": "neither",
+  "dual_use_structural": "no",
+  "key_quotes": [
+    "This paper presents an intelligent surveillance platform based on the usage of large numbers of inexpensive sensors designed and developed inside the European Eureka Celtic project HuSIMS.",
+    "The fact that the system is using low resolution visual sensors provides an additional advantage regarding governance and politics: the provided image does not usually allow recognition of people’s faces, which makes the system more respectful of privacy.",
+    "HuSIMS' main target is to provide real-time alerts for irregular activity in both indoors and outdoors scenarios."
+  ],
+  "policy_relevance": "None",
+  "notes": "Technical paper; no engagement with dual-use or critical perspectives on algorithmic governance.",
+  "via": "Graham 2006:forward",
+  "text_truncated": false,
+  "openalex_id": "https://openalex.org/W2094381533"
+}

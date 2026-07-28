@@ -1,0 +1,30 @@
+{
+  "title": "Smart City Technologies: A Political Economy Introduction to Their Governance Challenges",
+  "year": "2022",
+  "doi": "10.1093/oxfordhb/9780197579329.013.48",
+  "doc_type": "book_chapter",
+  "methodology": "theoretical",
+  "geography": "global",
+  "thesis": "Smart city technologies pose governance challenges related to inequality, discrimination, and surveillance, shaped by political economy factors like institutions, market, and ideology.",
+  "theme_1_score": 1,
+  "theme_1_justification": "Tangential mention of repurposing civilian tech for surveillance (smart streetlights used by police) and data integration (Palantir), but no explicit discussion of dual-use or information good properties.",
+  "theme_2_score": 2,
+  "theme_2_justification": "Substantive engagement with algorithmic opacity, bias, and the constructed nature of data; discusses surveillance as knowledge production and democratic deficit.",
+  "theme_3_score": 2,
+  "theme_3_justification": "Discusses smart city as a mode of governance, continuous data collection, predictive policing, real-time operation centers, and algorithmic sorting of urban populations.",
+  "theme_4_score": 0,
+  "theme_4_justification": "Not addressed; no discussion of spatial destruction, domicide, urbicide, or weaponization of civilian infrastructure for targeting.",
+  "dual_use_explicit": "tangential",
+  "dual_use_direction": "civil_to_military",
+  "dual_use_structural": "tangential",
+  "key_quotes": [
+    "Smart city technologies ... can entrench inequality and discrimination patterns in cities’ fabric and turn cities into surveillance complexes.",
+    "The risk of enhancing surveillance through tools that are not meant for surveillance in the first place refers to the fact that even when certain digital technologies are not meant to surveil citizens, they may hold the capabilities to do so.",
+    "The chapter showed that even though digital technologies deployed in the city context hold the promise of making all sorts of processes, planning, and services more efficient, seamless, and quick, they can also entrench discrimination, inequality, and surveillance in a city’s fabric, and these effects cannot be easily displaced from the social and institutional contexts in which they operate."
+  ],
+  "policy_relevance": "Discusses local surveillance ordinances, EU AI Act, and suggests political economy analysis can identify points of intervention for oversight and accountability.",
+  "notes": "Chapter in edited volume; text complete.",
+  "via": "Kitchin 2014:forward",
+  "text_truncated": false,
+  "openalex_id": "https://openalex.org/W4311911447"
+}

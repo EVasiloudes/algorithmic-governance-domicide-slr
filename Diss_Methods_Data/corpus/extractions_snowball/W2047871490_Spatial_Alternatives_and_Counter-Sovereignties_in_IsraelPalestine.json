@@ -1,0 +1,30 @@
+{
+  "title": "Spatial Alternatives and Counter-Sovereignties in Israel/Palestine",
+  "year": "2014",
+  "doi": "10.1111/ips.12040",
+  "doc_type": "journal_article",
+  "methodology": "theoretical",
+  "geography": "Israel/Palestine (Jerusalem, West Bank, mixed cities)",
+  "thesis": "Explores how micro-level spatial alternatives and counter-sovereignties can challenge hyper-securitized spatial logics and foster nonviolent overlapment in the Israeli-Palestinian conflict.",
+  "theme_1_score": 0,
+  "theme_1_justification": "Not addressed. The paper does not discuss dual-use, technology transfer, data portability, or software properties between civilian and military domains.",
+  "theme_2_score": 0,
+  "theme_2_justification": "Not addressed. No discussion of algorithmic opacity, black-boxing, epistemic authority of data, or surveillance as knowledge production.",
+  "theme_3_score": 0,
+  "theme_3_justification": "Not addressed. No engagement with programmable cities, algorithmic modulation, smart city governance, or automated decision-making.",
+  "theme_4_score": 2,
+  "theme_4_justification": "Substantive engagement with spatial destruction and urbicide. References Graham (2004) on 'urbicide' via bulldozer in Occupied Territories, and Hanafi (2005) on 'spacio-cide' as erasure of Palestinian life from land. Discusses displacement, forced urbanization of Bedouins, and demolition of homes and villages. Uses Weizman's work on 'politics of verticality' and three-dimensional control of space. However, focus is on spatial alternatives rather than detailed analysis of destruction.",
+  "dual_use_explicit": "no",
+  "dual_use_direction": "neither",
+  "dual_use_structural": "no",
+  "key_quotes": [
+    "Graham (2004) distinguishes Israeli construction (for example, new settlements, barriers, and roads) with the de-construction of the urban and infrastructural assets of the Palestinians (demolishing houses, for example), labeled 'urbicide.'",
+    "Sari Hanafi (2005) terms the destruction of the full spectrum of Palestinian life—erased from the land—as 'spacio-cide.'",
+    "Weizman (2004) and Weizman and Lein (2002) focus on the developmental aspect of Israel's strategy in the Occupied Territories. They argue that the Israeli strategy in the Occupied Territories centers on three-dimensional control over the totality of space: infrastructure, the environment, and sub- and above-surface domains—a combination which orchestrates a 'politics of verticality' using planning and architecture."
+  ],
+  "policy_relevance": "Suggests rethinking sovereignty through fragmented, counter-, and social sovereignties at micro and local scales; advocates for shared governance of contested sites like Temple Mount/Haram al-Sharif via community-based authorities; notes potential of civil society activism and everyday practices to create spaces of nonviolent overlapment.",
+  "notes": "The paper is theoretical, drawing on Lefebvre, de Certeau, and sovereignty literature, with illustrative examples. It does not address algorithmic or data-driven governance; themes 1-3 are absent. Theme 4 is addressed through secondary citations of spatial destruction scholars.",
+  "via": "Graham 2006:forward|Weizman 2007:forward",
+  "text_truncated": false,
+  "openalex_id": "https://openalex.org/W2047871490"
+}

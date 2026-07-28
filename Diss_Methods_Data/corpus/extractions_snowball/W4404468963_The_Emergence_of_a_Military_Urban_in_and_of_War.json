@@ -1,0 +1,30 @@
+{
+  "title": "The Emergence of a Military Urban in and of War",
+  "year": "2025",
+  "doi": "10.1080/24694452.2024.2422856",
+  "doc_type": "journal_article",
+  "methodology": "theoretical",
+  "geography": "United States",
+  "thesis": "Traces the historical-conceptual emergence of a 'military urban' in U.S. military practice, where the urban becomes a distinct object of knowledge and management, enabling new forms of military action.",
+  "theme_1_score": 0,
+  "theme_1_justification": "Not addressed. The paper does not discuss dual-use, information goods, or technology transfer between civilian and military domains.",
+  "theme_2_score": 2,
+  "theme_2_justification": "Substantive engagement with epistemic authority: the paper argues that the U.S. military has developed a specialized knowledge of the urban as a distinct object, conditioning military actions. It discusses how the military produces and relies on this knowledge, though not specifically black-boxing or democratic deficits.",
+  "theme_3_score": 2,
+  "theme_3_justification": "Substantive engagement with the city as a system: the paper conceptualizes the urban as a 'system-of-systems,' a 'living organism,' and a dynamic, process-bound entity that requires simultaneous management and surgical intervention, aligning with modulation and machinic city concepts.",
+  "theme_4_score": 0,
+  "theme_4_justification": "Not addressed. The paper mentions historical urban destruction but focuses on the shift away from destruction to surgical intervention, not on spatial collapse, domicide, or home unmaking.",
+  "dual_use_explicit": "no",
+  "dual_use_direction": "neither",
+  "dual_use_structural": "no",
+  "key_quotes": [
+    "a gradual shift has occurred in terms of how the armed forces have begun to think of and act on the urban as a distinct object that can be made “known” and managed in and through a specialized knowledge.",
+    "The entire urban environment must be addressed simultaneously and systematically by applying power to disable hostile elements and enable those environmental elements that are essential to the city’s functioning.",
+    "just as a living organism relies on flows (in food, air and water), and flows out (waste) to stay alive, a city also requires flows"
+  ],
+  "policy_relevance": "None explicitly; offers critical understanding of military epistemology and its weaponization of knowledge for urban warfare.",
+  "notes": "Full text available; journal article.",
+  "via": "Graham 2006:forward",
+  "text_truncated": false,
+  "openalex_id": "https://openalex.org/W4404468963"
+}

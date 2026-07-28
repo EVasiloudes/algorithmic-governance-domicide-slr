@@ -1,0 +1,30 @@
+{
+  "title": "(Non)-lethality and war: tear gas as a weapon of governmental intervention",
+  "year": "2016",
+  "doi": "10.1080/17539153.2016.1197626",
+  "doc_type": "journal_article",
+  "methodology": "theoretical",
+  "geography": "global",
+  "thesis": "Tear gas is examined as a technology of governmentality, tracing its history from colonial to contemporary uses to reveal continuities in liberal power and the blurring of war and peace.",
+  "theme_1_score": 0,
+  "theme_1_justification": "The paper does not discuss information goods, software/data properties, or algorithmic governance. It focuses on tear gas as a physical chemical weapon.",
+  "theme_2_score": 0,
+  "theme_2_justification": "The paper does not address algorithmic opacity, epistemic authority of data, or democratic deficits in algorithmic decision-making.",
+  "theme_3_score": 1,
+  "theme_3_justification": "The paper discusses the use of tear gas in urban spaces for crowd control and the modulation of behavior through spatial and environmental means, referencing Foucault's governmentality and apparatuses of security. However, it does not engage with smart city or algorithmic systems.",
+  "theme_4_score": 3,
+  "theme_4_justification": "The paper centrally addresses the use of tear gas to make spaces unlivable, targeting the environment (atmosterror), weaponisation of domestic spaces (homes in Bahrain), and the volumetric control of urban space. It engages with Sloterdijk's concept of atmosterror and Weizman's politics of verticality.",
+  "dual_use_explicit": "tangential",
+  "dual_use_direction": "both",
+  "dual_use_structural": "no",
+  "key_quotes": [
+    "In examining the history of tear gas, I argue that this technology has been complicit in the demarcation of this frontier and continues to participate in its delineation in the contemporary moment.",
+    "As Sloterdijk suggests, 'When the body of the enemy can no longer be liquidated with direct assault, the possibility presents itself to the attacker of making his existence impossible, by immersing the enemy in an unlivable milieu.'",
+    "The 'weaponization' – to use the words of the report – of tear gas as a tool of general repression, terrorising activists by launching tear gas at any time of day or night into their homes, is a manifestly different type of use that betrays a bellicose logic with the tools of domestic governance."
+  ],
+  "policy_relevance": "The paper critiques the normalisation of tear gas and calls for reflection on its use as a tool of governance that blurs war and peace, with implications for international law and policing.",
+  "notes": "The paper is a journal article focusing on tear gas as a technology of governmentality, not directly on algorithmic governance. It is included as a snowball anchor from Weizman 2007.",
+  "via": "Weizman 2007:forward",
+  "text_truncated": false,
+  "openalex_id": "https://openalex.org/W2443456478"
+}

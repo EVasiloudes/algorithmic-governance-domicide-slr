@@ -1,0 +1,30 @@
+{
+  "title": "The Making of Crime Predictions: Sociotechnical Assemblages and the Controversies of Governing Future Crime",
+  "year": "2021",
+  "doi": null,
+  "doc_type": "journal_article",
+  "methodology": "empirical_qualitative",
+  "geography": "Rio de Janeiro, Brazil",
+  "thesis": "Traces the sociotechnical assemblage of CrimeRadar to show how political choices and biases are embedded in algorithmic crime forecasts, challenging claims of objectivity.",
+  "theme_1_score": 0,
+  "theme_1_justification": "Not addressed. No discussion of dual-use, technology transfer, or information good properties.",
+  "theme_2_score": 3,
+  "theme_2_justification": "Central argument. Extensively discusses algorithmic opacity (black boxes), epistemic authority of data-driven systems, naturalization of political choices, and democratic deficit in predictive policing.",
+  "theme_3_score": 1,
+  "theme_3_justification": "Tangential mention. References 'algorithmic turn in governance' and 'actuarial justice' but does not develop machinic city or modulation concepts.",
+  "theme_4_score": 0,
+  "theme_4_justification": "Not addressed. No discussion of spatial destruction, urbicide, or weaponisation of urban data.",
+  "dual_use_explicit": "no",
+  "dual_use_direction": "neither",
+  "dual_use_structural": "no",
+  "key_quotes": [
+    "As often happens with big data and machine-learning innovations, automated decisions with deep influence in society are made by algorithms hidden in black boxes (Pasquale 2015).",
+    "the algorithm itself is powered by 'concrete data, and its mathematics has no bias.... If a crime happened, the algorithm will see it, will read it without putting human values, and will make a prediction based on that. So, it's certainly impartial'.",
+    "the multiple choices involved in these practices are naturalized and de-politicized in the process of translating crime events into strings of codes, datasets, and maps."
+  ],
+  "policy_relevance": "None",
+  "notes": "Full text provided. Journal article in Surveillance & Society.",
+  "via": "Kitchin 2014:forward",
+  "text_truncated": false,
+  "openalex_id": "https://openalex.org/W3173946274"
+}

@@ -1,0 +1,30 @@
+{
+  "title": "Necronationalism: managing race, death and the nation's skeletons",
+  "year": "2015",
+  "doi": "10.1080/13504630.2015.1041014",
+  "doc_type": "journal_article",
+  "methodology": "theoretical",
+  "geography": "Palestine/Israel (Jerusalem)",
+  "thesis": "Settler colonial nation-building in Israel/Palestine operates through the management of dead Indigenous bodies, a practice termed 'necronationalism' that extends necropower beyond life to govern the conditions of life after death.",
+  "theme_1_score": 0,
+  "theme_1_justification": "Not addressed. The paper does not discuss information goods, dual-use, technology transfer, or the economic/material properties of software/data.",
+  "theme_2_score": 1,
+  "theme_2_justification": "Tangential. The paper discusses the epistemic authority of settler colonial narratives and the erasure of Palestinian history, but does not engage with algorithmic opacity, black-boxing, or data-driven epistemic authority in urban governance. It addresses how colonial power manages knowledge through erasure of corporeal traces, but not through algorithmic systems.",
+  "theme_3_score": 0,
+  "theme_3_justification": "Not addressed. The paper does not conceptualize the city as a programmable or algorithmic system, nor does it discuss modulation, smart city governance, or automated decision-making.",
+  "theme_4_score": 2,
+  "theme_4_justification": "Substantive engagement. The paper extensively discusses spatial destruction, home unmaking, and the weaponisation of civilian infrastructure (cemetery) for settler colonial nation-building. It engages with Weizman's vertical sovereignty and spatial politics, and addresses the deliberate destruction of sacred space and displacement of bodies. However, it does not discuss urban warfare, militarised policing, or Forensic Architecture directly.",
+  "dual_use_explicit": "no",
+  "dual_use_direction": "neither",
+  "dual_use_structural": "no",
+  "key_quotes": [
+    "The capacity to govern life after death is still firmly rooted in the reach of colonial power, and that by attending to the excavation and erasure of Mamilla Cemetery's deceased Palestinian subjects, we see a particular configuration of sovereignty defined through a calculus of absence.",
+    "Necronationalism signals attention to practices of settler colonial nation-building organized around the colonial management of dead racial (Indigenous) subjects through the strategic displacement of their corporeality.",
+    "What we see emerging in this particular instance of necronationalism is a practice of national memory formation built upon the management of death and its artifacts."
+  ],
+  "policy_relevance": "None",
+  "notes": "Paper is a theoretical article on settler colonialism, necropolitics, and nation-building in Palestine/Israel. It does not address algorithmic governance, dual-use technology, or urban data systems. Theme 4 is scored 2 due to substantial discussion of spatial destruction and home unmaking, but it is not the central argument (the paper's primary contribution is the concept of necronationalism).",
+  "via": "Weizman 2007:forward",
+  "text_truncated": false,
+  "openalex_id": "https://openalex.org/W1487113999"
+}

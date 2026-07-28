@@ -1,0 +1,30 @@
+{
+  "title": "Walled in/walled out in the West Bank: performing separation walls in Hany Abu-Assad's Omar",
+  "year": "2015",
+  "doi": "10.1080/20403526.2015.1084798",
+  "doc_type": "journal_article",
+  "methodology": "theoretical",
+  "geography": "West Bank, Palestine",
+  "thesis": "Analyzes the representation of the West Bank wall in Hany Abu-Assad's film Omar as both a physical reality of the state of exception and a site of radical potentiality.",
+  "theme_1_score": 0,
+  "theme_1_justification": "Not addressed. The paper does not discuss dual-use, technology transfer, or the economic properties of software/data.",
+  "theme_2_score": 1,
+  "theme_2_justification": "Tangential mention. The paper discusses surveillance and control through checkpoints and walls (e.g., 'grids of surveillance' p.124), but does not engage with algorithmic opacity, epistemic authority of data, or black-boxing.",
+  "theme_3_score": 2,
+  "theme_3_justification": "Substantive engagement. The paper discusses 'new military urbanism' (Graham 2011) and 'carceral urbanism' (Soja) as modes of control through walls, checkpoints, and permits (p.123-124). It addresses continuous modulation of urban populations through physical barriers and surveillance, but not algorithmic or data-driven systems.",
+  "theme_4_score": 2,
+  "theme_4_justification": "Substantive engagement. The paper discusses spatial destruction, dispossession, and the wall as an instrument of colonial control (p.124-125). It engages with Weizman's 'politics of verticality' (p.128) and the weaponization of infrastructure, but does not address home unmaking or domicide explicitly.",
+  "dual_use_explicit": "no",
+  "dual_use_direction": "neither",
+  "dual_use_structural": "no",
+  "key_quotes": [
+    "'At the core of this military urbanism lies the mechanism of walling. In particular, the wall that makes up the West Bank security barrier, erected in 2002 by the Israeli Government ostensibly to protect Israeli civilians from Palestinian militant attacks, constitutes the strongest spatial manifestation of an unyielding state of exception – the place where life has lost its political existence.' (p.124)",
+    "'Omar's vertical performance of the wall relates to the concept of 'the politics of verticality' developed by Weizman (2002, 2003, 2007; Segal and Weizman 2003) to grasp the three-dimensionality of the architecture of occupation in the West Bank.' (p.128)",
+    "'The wall is presented in Omar as the ultimate visual expression of dominion, a dynamic that plays itself out continually in a context of asymmetrical power dynamics, of an unequal access to visual rights (Hochberg 2015).' (p.129)"
+  ],
+  "policy_relevance": "None",
+  "notes": "The paper is a film analysis focusing on the West Bank wall as a spatial and political device, not on algorithmic governance or dual-use technology.",
+  "via": "Weizman 2007:forward",
+  "text_truncated": false,
+  "openalex_id": "https://openalex.org/W1957666003"
+}

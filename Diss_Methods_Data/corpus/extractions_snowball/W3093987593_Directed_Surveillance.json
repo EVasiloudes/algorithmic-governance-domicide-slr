@@ -1,0 +1,30 @@
+{
+  "title": "Directed Surveillance",
+  "year": null,
+  "doi": null,
+  "doc_type": "book_chapter",
+  "methodology": "empirical_qualitative",
+  "geography": "Los Angeles, USA",
+  "thesis": "Examines how predictive policing technologies in the LAPD create feedback loops of surveillance, reinforce social inequalities, and obscure bias through quantified risk scores.",
+  "theme_1_score": 1,
+  "theme_1_justification": "Tangential mention of military roots: 'battle rhythm', 'soft targets (originally a military term)', and PredPol cofounder with military grant funding. No sustained argument about dual-use or technology transfer.",
+  "theme_2_score": 2,
+  "theme_2_justification": "Substantive engagement with algorithmic opacity (proprietary PredPol algorithm), epistemic authority of data ('just math' hiding bias), and how FI cards produce knowledge. Discusses feedback loops and constructed nature of risk scores.",
+  "theme_3_score": 2,
+  "theme_3_justification": "Dedicated sections on predictive policing as a mode of governance: real-time data, automated alerts, dosage, stratified surveillance, and continuous modulation of patrol resources. Conceptualizes city as programmable through data.",
+  "theme_4_score": 0,
+  "theme_4_justification": "Not addressed. No discussion of spatial destruction, domicide, urbicide, or weaponization of urban infrastructure.",
+  "dual_use_explicit": "tangential",
+  "dual_use_direction": "military_to_civil",
+  "dual_use_structural": "no",
+  "key_quotes": [
+    "Predictive policing simply refers to analytic techniques used by law enforcement to forecast potential criminal activity.",
+    "The point system may ultimately serve to prevent individuals already in the criminal justice system from being further drawn into the surveillance net, while obscuring the role of police practices in shaping risk scores.",
+    "By relying on data, rather than human interpretation, of crime patterns, one supervisor believed he could use predictive policing to allocate his resources more efficiently."
+  ],
+  "policy_relevance": "Highlights how predictive policing can reinforce racial and spatial inequalities, and calls for scrutiny of algorithmic decision-making in policing. Notes legal compliance mechanisms and feedback loops that obscure bias.",
+  "notes": "Chapter 4 from the book 'Predict and Surveil' (likely by Sarah Brayne). Text appears complete for the chapter.",
+  "via": "Kitchin 2014:forward",
+  "text_truncated": false,
+  "openalex_id": "https://openalex.org/W3093987593"
+}

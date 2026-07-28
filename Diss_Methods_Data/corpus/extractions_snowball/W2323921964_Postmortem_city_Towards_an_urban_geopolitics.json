@@ -1,0 +1,30 @@
+{
+  "title": "Postmortem city: Towards an urban geopolitics",
+  "year": "2004",
+  "doi": "10.1080/1360481042000242148",
+  "doc_type": "journal_article",
+  "methodology": "theoretical",
+  "geography": "global",
+  "thesis": "The paper argues that warfare and political violence are intimately woven into the fabric of cities and urban planning, and calls for an urban geopolitics to confront the militarisation of urban space.",
+  "theme_1_score": 0,
+  "theme_1_justification": "Not addressed. The paper does not discuss the economic/material properties of software/data that enable dual-use fluidity. It mentions 'dual-use' once in the context of electrical infrastructure, not information goods.",
+  "theme_2_score": 0,
+  "theme_2_justification": "Not addressed. The paper does not engage with algorithmic opacity, black-boxing, or the epistemic authority of data-driven systems. Surveillance is discussed but not in terms of knowledge-producing functions characteristic of algorithmic governance.",
+  "theme_3_score": 0,
+  "theme_3_justification": "Not addressed. The paper does not conceptualise the city as a programmable, algorithmic, or data-driven system, nor does it discuss modulation of populations through data or smart city governance.",
+  "theme_4_score": 3,
+  "theme_4_justification": "Central argument. The paper extensively discusses spatial destruction, urbicide, place annihilation, home demolitions, targeting of civilian infrastructure, urban warfare, and the city as battlespace. It explicitly uses terms like 'urbicide' and 'place annihilation' and provides numerous historical and contemporary examples.",
+  "dual_use_explicit": "tangential",
+  "dual_use_direction": "both",
+  "dual_use_structural": "no",
+  "key_quotes": [
+    "War and the city have intimately shaped each other throughout urban and military history. \"There is ... a direct reciprocity between war and cities\", writes the geographer Ken Hewitt. \"The latter are the more thoroughgoing constructs of collective life, containing the definitive human places. War is the most thorough-going or consciously prosecuted occasion of collective violence that destroys places.\" (Hewitt, 1983, p. 258).",
+    "Even a leading US Air Force planner had to concede that this direct targeting of so-called 'dual-use' (military/civilian) electrical infrastructure in 1991 \"shut down water purification and sewage treatment plants. As a result, epidemics of gastroenteritis, cholera, and typhoid broke out, leading to as many as 100,000 civilian deaths and the doubling of infant mortality rates\" (Rizer, 2001).",
+    "Urban terrorism and state counter-terror tend to be umbilically connected. In the end, they tend, tragically, to be self-perpetuating in an endless circle of intensifying atrocity."
+  ],
+  "policy_relevance": "Calls for urban social science to confront militarisation of urban space and develop an urban geopolitics. Advocates for nurturing multicultural urban spaces as a normative response to fundamentalisms.",
+  "notes": "Full article, not truncated. Extensive historical and case-study support for theme 4.",
+  "via": "Graham 2006:forward",
+  "text_truncated": false,
+  "openalex_id": "https://openalex.org/W2323921964"
+}

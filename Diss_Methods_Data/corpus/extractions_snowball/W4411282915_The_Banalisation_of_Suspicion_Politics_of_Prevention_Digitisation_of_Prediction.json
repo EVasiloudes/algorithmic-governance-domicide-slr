@@ -1,0 +1,30 @@
+{
+  "title": "The Banalisation of 'Suspicion': Politics of Prevention, Digitisation of Prediction, Fate of Travellers",
+  "year": "2025",
+  "doi": "10.1111/imig.70047",
+  "doc_type": "journal_article",
+  "methodology": "theoretical",
+  "geography": "European Union",
+  "thesis": "Digitised predictive security based on a priori suspicion undermines democratic politics and criminal justice, banalising surveillance of all travellers.",
+  "theme_1_score": 2,
+  "theme_1_justification": "Substantive engagement with dual-use/transfer: discusses how US preventive security logic (war on terror) was borrowed and adapted by EU for traveller management, and how data from commercial sources (data brokers) is repurposed for security. The paper explicitly addresses the transfer of suspicion-prediction logic from counterterrorism to border control, and the role of digital data in enabling this transfer.",
+  "theme_2_score": 3,
+  "theme_2_justification": "Central argument: the paper's primary contribution is about how digitised data and algorithms create epistemic authority for 'scientific' prediction, bypassing democratic deliberation and the presumption of innocence. Discusses algorithmic opacity, black-boxing, the 'magical aura' of scientific knowledge given to dubious correlations, and the construction of algorithmic 'truth' through profiling and correlation.",
+  "theme_3_score": 2,
+  "theme_3_justification": "Substantive engagement: conceptualises the city/state as a programmable system through databases and algorithms that continuously modulate traveller populations. Discusses the shift from visible border controls to ambient algorithmic surveillance (ban-opticon), real-time data analytics, and automated decision-making for sorting travellers. However, the focus is more on border control than urban governance per se.",
+  "theme_4_score": 0,
+  "theme_4_justification": "Not addressed. The paper does not discuss spatial destruction, domicide, urbicide, weaponisation of civilian infrastructure, home unmaking, or urban warfare.",
+  "dual_use_explicit": "tangential",
+  "dual_use_direction": "civil_to_military",
+  "dual_use_structural": "yes",
+  "key_quotes": [
+    "The digitisation of data has accelerated this trend towards preventive security, which is created through the creation of specific data-organising categories according to algorithms, the sorting out of profiles of 'persons of concern' ranked according to their level of danger, and the so-called ability of artificial intelligence to predict the future behaviour of individuals in order to place some of them under surveillance.",
+    "It gives a 'magical' aura of scientific knowledge to dubious correlations and profoundly changes the way border controls are organised, creating categories of a priori suspicion that are applied to millions of people, and not just to so-called terrorists or radicalised individuals.",
+    "The databases of the European agency EU-LISA will help to show the functioning of this new 'dispositif' of suspicion, which endangers democratic politics."
+  ],
+  "policy_relevance": "Discusses the EU AI Act's ban on individual predictive policing AI, the role of courts in limiting algorithmic suspicion, and the need for immediate action on high-risk AI regulation and suspension of data exchange agreements with the US.",
+  "notes": "Text is complete. The paper is a theoretical analysis with some interview-based evidence regarding EU-LISA staff.",
+  "via": "Kitchin 2014:forward",
+  "text_truncated": false,
+  "openalex_id": "https://openalex.org/W4411282915"
+}

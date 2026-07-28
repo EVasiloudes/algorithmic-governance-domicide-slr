@@ -1,0 +1,30 @@
+{
+  "title": "The State, Sewers, and Security: How Does the Egyptian State Reframe Environmental Disasters as Terrorist Threats?",
+  "year": "2019",
+  "doi": "10.1080/24694452.2018.1497474",
+  "doc_type": "journal_article",
+  "methodology": "case_study",
+  "geography": "Egypt (Alexandria)",
+  "thesis": "The Egyptian state reframed the 2015 Alexandria floods as a terrorist attack to entrench repressive rule, obfuscating infrastructural neglect and climate change.",
+  "theme_1_score": 1,
+  "theme_1_justification": "Tangential mention: The paper discusses the state's use of terrorism discourse to reframe an environmental disaster, but does not substantively engage with dual-use properties of software/data or technology transfer between civilian and military domains. The focus is on narrative framing, not technological dual-use.",
+  "theme_2_score": 2,
+  "theme_2_justification": "Substantive engagement: The paper discusses how the state produces and erases environmental narratives (epistemic authority), and how the terrorism discourse bypasses alternative explanations. It addresses the state as a 'knowing state' that controls knowledge production, and mentions the obfuscation of alternative narratives through a master discourse of terrorism.",
+  "theme_3_score": 1,
+  "theme_3_justification": "Tangential mention: The paper discusses urban infrastructure (sewerage/drainage) as a site of state power and security, but does not conceptualize the city as a programmable or algorithmic system. It focuses on infrastructural neglect and state narratives rather than modulation or algorithmic governance.",
+  "theme_4_score": 1,
+  "theme_4_justification": "Tangential mention: The paper discusses the weaponization of civilian infrastructure (sewer system) through state narratives of terrorism, and mentions forced disappearances and material consequences. However, it does not engage with spatial destruction, urbicide, or home unmaking in a sustained way. The focus is on narrative reframing rather than physical destruction.",
+  "dual_use_explicit": "no",
+  "dual_use_direction": "neither",
+  "dual_use_structural": "no",
+  "key_quotes": [
+    "Blaming terrorists for targeting Egypt's urban sanitation infrastructure, however, revealed how the state's narrative of terrorism and security extended into its repressive approach to urban environmental governance.",
+    "Terrorism became the master discourse through which the floods were now to be understood; this narrative shifted the urgency of improving environmental governance or infrastructural development to a focus on terrorism's attendant state response, increased security.",
+    "I argue that in the current political moment in Egypt and across the globe, the discourse of terrorism and its attendant statist response of security have become important forces in urban environmental governance and infrastructural development."
+  ],
+  "policy_relevance": "The paper critiques the use of terrorism discourse to justify securitization and repressive governance, and calls for attention to infrastructural neglect and climate change rather than security responses.",
+  "notes": "Full text available and complete. The paper is a case study of the 2015 Alexandria floods, focusing on state narrative production and contestation. It does not address algorithmic governance or dual-use technology directly.",
+  "via": "Graham 2006:forward",
+  "text_truncated": false,
+  "openalex_id": "https://openalex.org/W2913763107"
+}

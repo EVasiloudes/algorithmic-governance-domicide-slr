@@ -1,0 +1,30 @@
+{
+  "title": "Performing colonial sovereignty and the Israeli ‘separation’ wall",
+  "year": "2013",
+  "doi": "10.1080/13504630.2013.835514",
+  "doc_type": "journal_article",
+  "methodology": "theoretical",
+  "geography": "Israel-Palestine",
+  "thesis": "The Israeli separation wall performs colonial sovereignty by constructing a psychic border between civilized inside and uncivilized outside while also revealing internal contestations within the Israeli state.",
+  "theme_1_score": 0,
+  "theme_1_justification": "Not addressed. The paper does not discuss information goods, zero marginal cost, or technology transfer between civilian and military domains.",
+  "theme_2_score": 0,
+  "theme_2_justification": "Not addressed. The paper does not discuss algorithmic opacity, epistemic authority of data, or black-boxing in governance systems.",
+  "theme_3_score": 0,
+  "theme_3_justification": "Not addressed. The paper does not conceptualize the city as a programmable system, discuss continuous modulation via data, or engage with smart city governance.",
+  "theme_4_score": 2,
+  "theme_4_justification": "Substantive engagement with spatial destruction and home unmaking. Discusses how the wall separates Palestinian communities, annexes land, and functions as a colonial mechanism of dispossession and displacement (e.g., 'deracinate populations', 'exclusion and dispossession'). References Weizman's 'elastic' geography of occupation.",
+  "dual_use_explicit": "no",
+  "dual_use_direction": "neither",
+  "dual_use_structural": "no",
+  "key_quotes": [
+    "The wall by no means represents a simple division of territory: it does not run along the 1967 borders (the 1949 Armistice line) that are internationally agreed upon as the basis for future peace settlement, and in fact, at 708 kilometres, the wall is more than double the length of the 'Green Line'.",
+    "As a performance of sovereignty, the way in which it encloses and 'blocks off' Palestinian presence can be read as immensely powerful. To 'disappear' the other, to create the demography desired is the ultimate expression of (bio-)sovereignty in the ethnic-exclusive state.",
+    "The wall both veils and partially constitutes 'the violent reality of a shifting colonial frontier' (Weizman, 2007, p. 179), and the 'us here'/'them there' ideology it supposedly performs is undermined by the settlement enterprise."
+  ],
+  "policy_relevance": "Critiques the wall's security discourse and separation ideology, arguing that it inhibits productive encounters and undermines Palestinian security; suggests a need to shift towards coexistence.",
+  "notes": null,
+  "via": "Weizman 2007:forward",
+  "text_truncated": false,
+  "openalex_id": "https://openalex.org/W1965549329"
+}

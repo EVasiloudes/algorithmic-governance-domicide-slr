@@ -1,0 +1,30 @@
+{
+  "title": "Border collapse and boundary maintenance: militarisation and the micro-geographies of violence in Israel–Palestine",
+  "year": "2016",
+  "doi": "10.1080/0966369X.2015.1136807",
+  "doc_type": "journal_article",
+  "methodology": "empirical_qualitative",
+  "geography": "Israel–Palestine (Tel Aviv and West Jerusalem)",
+  "thesis": "Militarisation shapes micro-geographies of violence in Israel–Palestine through gendered dynamics of border collapse and boundary maintenance, sustaining occupation.",
+  "theme_1_score": 0,
+  "theme_1_justification": "Not addressed. The paper does not discuss dual-use, technology transfer, or the economic properties of software/data.",
+  "theme_2_score": 0,
+  "theme_2_justification": "Not addressed. The paper does not discuss algorithmic opacity, epistemic authority of data, or surveillance as knowledge production.",
+  "theme_3_score": 0,
+  "theme_3_justification": "Not addressed. The paper does not conceptualise the city as a programmable system, discuss algorithmic modulation, or engage with smart city governance.",
+  "theme_4_score": 2,
+  "theme_4_justification": "Substantive engagement with spatial violence, occupation, and the collapse of homefront/battlefield boundaries. Discusses militarisation of urban space, home as a site of conflict, and micro-geographies of violence. References Weizman (2007) and Yiftachel (2006) on spatial control. Does not explicitly address domicide, urbicide, or Forensic Architecture.",
+  "dual_use_explicit": "no",
+  "dual_use_direction": "neither",
+  "dual_use_structural": "no",
+  "key_quotes": [
+    "Drawing upon subaltern geopolitics and feminist geography, this article explores how militarisation shapes micro-geographies of violence and occupation in Israel–Palestine.",
+    "Here, the borders between homefront and battlefield break down at the same time as communal boundaries are reproduced, generating conditions of 'total militarism' wherein military interests and agendas are both actively and passively diffused.",
+    "As these individuals encounter the occupation in the spaces of everyday life they participate in militarisation, not passively but actively, taking up ambivalent positions that reveal more precisely how hegemonic power endures."
+  ],
+  "policy_relevance": "None",
+  "notes": "Full text available. Paper focuses on gendered micro-geographies of militarisation and occupation, not on algorithmic governance or dual-use technology.",
+  "via": "Weizman 2007:forward",
+  "text_truncated": false,
+  "openalex_id": "https://openalex.org/W2278694128"
+}

@@ -1,0 +1,30 @@
+{
+  "title": "The Canadian Clearview AI Investigation as a Call for Digital Policy Literacy",
+  "year": "2024",
+  "doi": null,
+  "doc_type": "journal_article",
+  "methodology": "policy_analysis",
+  "geography": "Canada",
+  "thesis": "Argues that digital policy literacy (DPL) is needed to critically understand privacy issues from Clearview AI, moving beyond individualist approaches to privacy.",
+  "theme_1_score": 0,
+  "theme_1_justification": "Not addressed; no discussion of dual-use information goods or technology transfer between civilian and military domains.",
+  "theme_2_score": 2,
+  "theme_2_justification": "Substantive engagement with epistemic authority and black-boxing via discussion of big data epistemologies, algorithmic opacity, biometric fallacy, and racial bias in facial recognition.",
+  "theme_3_score": 0,
+  "theme_3_justification": "Not addressed; no discussion of urban modulation or programmable city.",
+  "theme_4_score": 0,
+  "theme_4_justification": "Not addressed; no discussion of spatial destruction, home unmaking, or vertical sovereignty.",
+  "dual_use_explicit": "no",
+  "dual_use_direction": "neither",
+  "dual_use_structural": "no",
+  "key_quotes": [
+    "Rob Kitchin (2014: 2) has argued, big data thus involves new epistemologies where 'rather than testing a theory by analysing relevant data, new data analytics seek to gain insights 'born from the data.''",
+    "biometric identification technologies such as facial recognition software can enact significant harms in their inherent misidentifications",
+    "the solutions proposed to deal with these problems reflect a narrow version of digital literacy that would benefit from the expanded concerns of the DPL model"
+  ],
+  "policy_relevance": "Calls for stronger privacy laws, regulatory reform (Bill C-27), and a digital policy literacy framework that goes beyond individual consent to address political-economic and infrastructural dimensions of surveillance.",
+  "notes": "Paper is a journal article; no truncation issues.",
+  "via": "Kitchin 2014:forward",
+  "text_truncated": false,
+  "openalex_id": "https://openalex.org/W4399756098"
+}

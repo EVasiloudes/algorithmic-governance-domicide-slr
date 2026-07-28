@@ -1,0 +1,30 @@
+{
+  "title": "Datafying citizens: Third-party trackers and data-as-payment in government infrastructure",
+  "year": "2025",
+  "doi": "10.2478/nor-2025-0004",
+  "doc_type": "journal_article",
+  "methodology": "empirical_quantitative",
+  "geography": "Scandinavia (Denmark, Norway, Sweden)",
+  "thesis": "Commercial third-party trackers on Scandinavian municipal websites impose hidden data costs on citizens, undermining the principle of universalism in welfare state governance.",
+  "theme_1_score": 0,
+  "theme_1_justification": "Not addressed. The paper does not discuss dual-use properties of software/data or technology transfer between civilian and military/security domains.",
+  "theme_2_score": 1,
+  "theme_2_justification": "Tangential mention. The paper discusses lack of transparency, hidden costs of data tracking, and opaque commercial entanglements, but does not deeply engage with algorithmic black-boxing or epistemic authority of data-driven systems.",
+  "theme_3_score": 0,
+  "theme_3_justification": "Not addressed. The paper does not conceptualize the city as a programmable system or discuss modulation of urban populations through data.",
+  "theme_4_score": 0,
+  "theme_4_justification": "Not addressed. No discussion of spatial destruction, domicide, urbicide, or weaponization of urban infrastructure.",
+  "dual_use_explicit": "no",
+  "dual_use_direction": "neither",
+  "dual_use_structural": "no",
+  "key_quotes": [
+    "The presence of tracking technologies thus amounts to an added cost of service that users pay when visiting websites, as their data is continuously collected and repurposed, including on government websites (Götze et al., 2022).",
+    "If an increased extraction of data can be equalled with increased cost, then the results suggest that this cost has increased over time in all three countries.",
+    "The embedded data infrastructures of Scandinavian municipal websites could thus be said to substantially undermine the principle of universalism, as they facilitate the market power of commercial, advertising-driven interests, Alphabet in particular."
+  ],
+  "policy_relevance": "Recommends banning commercial tracking on municipal websites, removing advertising functions and analytical trackers like Google Analytics, switching to open-source technologies, and providing analogue alternatives for citizens who do not wish to be digitally included.",
+  "notes": "Full text provided; no truncation or editing issues. Paper focuses on datafication and universalism in welfare state contexts, not on dual-use or military applications.",
+  "via": "Kitchin 2014:forward",
+  "text_truncated": false,
+  "openalex_id": "https://openalex.org/W4409589769"
+}

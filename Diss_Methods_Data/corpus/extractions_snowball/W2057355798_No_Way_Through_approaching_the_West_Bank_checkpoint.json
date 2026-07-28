@@ -1,0 +1,30 @@
+{
+  "title": "No Way Through: approaching the West Bank checkpoint",
+  "year": "2014",
+  "doi": "10.1080/17449855.2013.850250",
+  "doc_type": "journal_article",
+  "methodology": "theoretical",
+  "geography": "West Bank, Palestine/Israel",
+  "thesis": "Examines how cultural narratives use proxy crossings at the West Bank checkpoint to generate empathy and solidarity with Palestinians, while also exposing the limits of substitution.",
+  "theme_1_score": 0,
+  "theme_1_justification": "Not addressed. The paper does not discuss information goods, software properties, or dual-use technology transfer.",
+  "theme_2_score": 0,
+  "theme_2_justification": "Not addressed. The paper does not engage with algorithmic opacity or epistemic authority of data systems. It discusses state authority at checkpoints but not in terms of data-driven governance.",
+  "theme_3_score": 0,
+  "theme_3_justification": "Not addressed. The paper does not conceptualize the city as a programmable system or discuss modulation of urban populations through data.",
+  "theme_4_score": 1,
+  "theme_4_justification": "Tangential mention. The paper discusses the West Bank checkpoint regime as a form of spatial control and confinement, referencing home demolitions and the 'matrix of concrete and control.' However, this is background context for its primary argument about cultural narratives of empathy.",
+  "dual_use_explicit": "no",
+  "dual_use_direction": "neither",
+  "dual_use_structural": "no",
+  "key_quotes": [
+    "This highly visible instance of the global checkpoint is the site of a spectacular confrontation between opposing notions of safety, embodied in the encounter between the Israeli soldier guarding the checkpoint and the Palestinian who seeks to pass through it.",
+    "the occupation's matrix of concrete and control; the settlements, the roads, the 'terminals', and the Wall going up were like a net thrown out over the hills and valleys of the West Bank, and the Palestinian areas choked in between.",
+    "The checkpoint thus becomes a site of political conversion, a site where the protagonist, standing in for the reader or viewer, can be persuaded to stand in solidarity with Palestinians."
+  ],
+  "policy_relevance": "None explicitly; implies cultural advocacy can influence public opinion on the occupation.",
+  "notes": "Paper is a critical analysis of cultural narratives; does not engage with algorithmic governance, dual-use, or urban technology. Theme 4 relevance is peripheral.",
+  "via": "Weizman 2007:forward",
+  "text_truncated": false,
+  "openalex_id": "https://openalex.org/W2057355798"
+}

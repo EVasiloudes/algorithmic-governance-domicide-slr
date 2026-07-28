@@ -1,0 +1,30 @@
+{
+  "title": "UNMANNING THE POLICE MANHUNT: VERTICAL SECURITY AS PACIFICATION",
+  "year": "2013",
+  "doi": null,
+  "doc_type": "journal_article",
+  "methodology": "theoretical",
+  "geography": "United States",
+  "thesis": "The repurposing of military drones for domestic policing reveals the continuity of war and police power under the logic of pacification, extending the manhunt as a foundational practice of police power.",
+  "theme_1_score": 2,
+  "theme_1_justification": "The paper explicitly discusses the 'repurposing' of military UAVs for domestic policing, uses the term 'dual-use' (e.g., 'dual-use scopic technologies', 'dual-use capability'), and describes the 'green-to-blue pipeline' from military to domestic security applications. It engages substantively with technology transfer between military and civilian domains, though the central argument is about pacification rather than the economic properties of information goods.",
+  "theme_2_score": 1,
+  "theme_2_justification": "The paper discusses surveillance as a knowledge-producing function (e.g., 'scopic verticality', 'legibility', 'state as knowing subject') and the partiality of aerial views, but does not engage with algorithmic opacity, black-boxing, or epistemic authority bypassing democratic deliberation. It mentions the 'techno-cultural production of targets' but not in terms of machine learning bias or training data politics.",
+  "theme_3_score": 0,
+  "theme_3_justification": "The paper does not conceptualize the city as a programmable algorithmic system, discuss continuous modulation of urban populations through data, or engage with 'smart city' governance. Its focus is on policing, manhunting, and vertical security, not on algorithmic governance or real-time urban dashboards.",
+  "theme_4_score": 2,
+  "theme_4_justification": "The paper substantively addresses vertical sovereignty (citing Weizman), the weaponization of civilian infrastructure (drones for domestic policing), and the spatial violence of police helicopters and drones in urban communities (e.g., 'ghetto bird', fear induced in poor neighborhoods). It discusses home unmaking through aerial surveillance and the manhunt, but does not focus on urbicide or deliberate spatial destruction.",
+  "dual_use_explicit": "yes",
+  "dual_use_direction": "military_to_civil",
+  "dual_use_structural": "tangential",
+  "key_quotes": [
+    "military aerial drones are now being 'repurposed' as domestic security technologies",
+    "a number of our influential products have dual-use capability to locations and missions adjacent to our primary overseas ISR mission. One such example is local law enforcement, emergency first responders and border protection",
+    "the police drone is but one of the newest technologies that extends or reproduces the police's own design on the pacification of its territory"
+  ],
+  "policy_relevance": "The paper critiques the normalization of police drones and the security-accumulation assemblage, but does not offer explicit policy recommendations beyond a call to understand drones within the broader logic of pacification.",
+  "notes": "Full text available; no truncation.",
+  "via": "Weizman 2007:forward",
+  "text_truncated": false,
+  "openalex_id": "https://openalex.org/W2137739355"
+}

@@ -1,0 +1,30 @@
+{
+  "title": "Epistemologies of predictive policing: Mathematical social science, social physics and machine learning",
+  "year": "2021",
+  "doi": null,
+  "doc_type": "journal_article",
+  "methodology": "theoretical",
+  "geography": "global",
+  "thesis": "Distinguishes three epistemologies of predictive policing and analyzes their implications for the constitution of predictive knowledge.",
+  "theme_1_score": 1,
+  "theme_1_justification": "Tangential mention of technology transfer from business and seismology to predictive policing, but no explicit discussion of dual-use or military-civil convergence.",
+  "theme_2_score": 2,
+  "theme_2_justification": "Substantive engagement with algorithmic opacity and black-boxing, particularly in machine learning and social physics, and discussion of accountability and transparency.",
+  "theme_3_score": 2,
+  "theme_3_justification": "Discusses predictive policing as a mode of algorithmic governance and continuous modulation of urban populations, but does not explicitly engage with the machinic city concept.",
+  "theme_4_score": 0,
+  "theme_4_justification": "Not addressed; no discussion of spatial destruction, home unmaking, or weaponisation of urban infrastructure.",
+  "dual_use_explicit": "tangential",
+  "dual_use_direction": "neither",
+  "dual_use_structural": "tangential",
+  "key_quotes": [
+    "\"The same approach that lenders use to prequalify potential loan applicants can be used to assess the risk for escalation in a series of burglaries, while the models used to classify shopping patterns and purchasing decisions can be used to identify the motive in a homicide or predict the next incident in a crime series\" (McCue and Parker, 2003: 115).",
+    "\"For ML-based modelling to make explicit the causal mechanisms behind predicted outcomes is of no relevance: 'Understanding a phenomena may lead to improved forecasting accuracy, or it may not, but forecasting and explanation are different enterprises that can work at cross-purposes'\" (Berk and Bleich, 2013: 516).",
+    "\"SP-based and ML-based approaches lead to a lack of algorithmic accountability through a lack of model interpretability\""
+  ],
+  "policy_relevance": "None",
+  "notes": "Full text provided; no truncation.",
+  "via": "Kitchin 2014:forward",
+  "text_truncated": false,
+  "openalex_id": "https://openalex.org/W3137585408"
+}

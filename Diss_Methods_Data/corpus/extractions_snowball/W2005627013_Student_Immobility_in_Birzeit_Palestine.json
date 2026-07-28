@@ -1,0 +1,30 @@
+{
+  "title": "Student Im/mobility in Birzeit, Palestine",
+  "year": "2009",
+  "doi": "10.1080/17450100802657947",
+  "doc_type": "journal_article",
+  "methodology": "empirical_qualitative",
+  "geography": "Palestine (West Bank, Birzeit)",
+  "thesis": "Student mobilities in the West Bank are heavily impacted by Israeli occupation barriers, creating relative immobilities that shape experiences of home, place, and micropolitical responses.",
+  "theme_1_score": 0,
+  "theme_1_justification": "Not addressed. The paper does not discuss dual-use, technology transfer, or the economic properties of software/data.",
+  "theme_2_score": 0,
+  "theme_2_justification": "Not addressed. The paper does not engage with algorithmic opacity, epistemic authority of data, or surveillance as knowledge production.",
+  "theme_3_score": 0,
+  "theme_3_justification": "Not addressed. The paper does not conceptualize the city as a programmable system or discuss algorithmic governance, modulation, or smart city concepts.",
+  "theme_4_score": 2,
+  "theme_4_justification": "Substantive engagement with spatial destruction and home unmaking. The paper discusses how Israeli occupation barriers (checkpoints, roadblocks) render Palestinians less mobile, disrupt home spaces, and create tensions in Birzeit. It engages with Weizman's 'politics of verticality' and the weaponization of infrastructure (e.g., bypass roads, checkpoints) to control Palestinian movement. However, it does not directly address urbicide, domicide, or Forensic Architecture.",
+  "dual_use_explicit": "no",
+  "dual_use_direction": "neither",
+  "dual_use_structural": "no",
+  "key_quotes": [
+    "Halper (2001, n.p.) uses the term 'Matrix of Control' to describe this state of affairs, a concept that is explicitly concerned with Palestinian immobility: 'The Matrix, an intricate and an interlocking series of control mechanisms, resembles the Japanese game of 'Go.' Instead of defeating your opponent as in chess, in 'Go' you win by immobilizing the other side, by gaining control of key points of a matrix, so that every time your opponent moves he or she encounters another obstacle.'",
+    "Weizman (2002) uses the phrase 'politics of verticality', to describe how three-dimensional space is crashed into six dimensions, three Jewish and three Arab... Rather, Weizman suggests the spatiality of occupation is 'Escher like', as Palestinians and Israeli spaces pass through, around, below and above one another: Israeli tunnels dive into Palestinians mountains; Palestinian dirt tracks pass beneath Israeli highways.",
+    "The immobilities students experience are relative not just to other peoples' mobility (e.g., Israeli settlers), but also to prior experiences of mobility (an 'else when') and to experiences of mobility in other spaces (an else where). Students experience the brute fact of their relative immobility through barriers that are material (checkpoints), legal-bureaucratic (the ID and permit system) and imaginative (e.g., Khader) in nature."
+  ],
+  "policy_relevance": "The paper highlights the work of human rights organizations (B'Tselem), activist groups (Machsom Watch), and Birzeit University's 'Right to Education Campaign' that monitor and challenge movement restrictions. It also notes that high-level diplomatic negotiations frequently include demands to reduce barriers to movement.",
+  "notes": "The paper is a journal article focused on student mobilities in Palestine, not directly on algorithmic governance or dual-use technology. It engages with spatial control and home unmaking (Theme 4) through the lens of occupation infrastructure, but does not address the other themes.",
+  "via": "Weizman 2007:forward",
+  "text_truncated": false,
+  "openalex_id": "https://openalex.org/W2005627013"
+}

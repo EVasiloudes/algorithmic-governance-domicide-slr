@@ -1,0 +1,30 @@
+{
+  "title": "The Visibility of (In)security: The Aesthetics of Planning Urban Defences Against Terrorism",
+  "year": "2009",
+  "doi": "10.1177/0967010609343299",
+  "doc_type": "journal_article",
+  "methodology": "theoretical",
+  "geography": "UK, USA (London, Washington DC, New York)",
+  "thesis": "Examines the paradox of visible vs. invisible counter-terrorism measures in urban spaces, showing how overt security can induce fear while invisible security risks uncontested surveillance.",
+  "theme_1_score": 0,
+  "theme_1_justification": "Not addressed. The paper discusses physical security features (barriers, bollards, streetscape) but not the economic properties of software/data, dual-use technology transfer, or data sharing between civilian and military domains.",
+  "theme_2_score": 1,
+  "theme_2_justification": "Tangential. Mentions surveillance and 'watchful politics' (Amoore 2007) and the emotional impact of security, but does not engage with algorithmic opacity, epistemic authority of data, or black-boxing as central themes.",
+  "theme_3_score": 2,
+  "theme_3_justification": "Substantive engagement. References Deleuze's 'Society of Control' (p. 491) and discusses how security features modulate behavior and create ambient fear. The paper argues that security measures condition urban experience and control, though not specifically through data-driven algorithms.",
+  "theme_4_score": 1,
+  "theme_4_justification": "Tangential. Discusses exclusionary practices, fear, and the 'fortress city' effect (e.g., US embassy in London), but does not directly address spatial destruction, urbicide, home unmaking, or weaponization of civilian infrastructure.",
+  "dual_use_explicit": "no",
+  "dual_use_direction": "neither",
+  "dual_use_structural": "no",
+  "key_quotes": [
+    "security is becoming more civic, urban, domestic and personal: security is coming home (Coaffee & Murakami Wood, 2006: 504)",
+    "security features can arouse feelings of fear and anxiety by drawing attention to the fact that one’s safety and security is threatened (Boddy, 2007: 279)",
+    "invisible security, though potentially more aesthetically pleasing, and offering a redress to the many drawbacks of more obvious and obtrusive security interventions... must itself be treated with a healthy degree of scepticism"
+  ],
+  "policy_relevance": "Discusses the need for security features to be aesthetically acceptable and warns about the risk of invisible security leading to passive consent and uncontested expansion of surveillance.",
+  "notes": "Full text provided; no truncation issues.",
+  "via": "Weizman 2007:forward",
+  "text_truncated": false,
+  "openalex_id": "https://openalex.org/W2151533360"
+}

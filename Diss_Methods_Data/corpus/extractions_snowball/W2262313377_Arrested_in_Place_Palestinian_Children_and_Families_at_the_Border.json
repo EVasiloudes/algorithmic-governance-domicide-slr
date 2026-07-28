@@ -1,0 +1,30 @@
+{
+  "title": "Arrested in Place: Palestinian Children and Families at the Border",
+  "year": null,
+  "doi": null,
+  "doc_type": "book_chapter",
+  "methodology": "empirical_qualitative",
+  "geography": "occupied Palestinian territories (West Bank, Gaza, East Jerusalem)",
+  "thesis": "Explores how Palestinian children and families experience visible and invisible borders under Israeli occupation, revealing how these borders restrict movement and arrest them in place, while also demonstrating resilience and resistance.",
+  "theme_1_score": 0,
+  "theme_1_justification": "Not addressed. The paper does not discuss information goods, dual-use, or technology transfer.",
+  "theme_2_score": 0,
+  "theme_2_justification": "Not addressed. The paper does not discuss algorithmic opacity, epistemic authority, or data-driven governance.",
+  "theme_3_score": 0,
+  "theme_3_justification": "Not addressed. The paper does not conceptualize the city as a programmable system or discuss continuous modulation through data.",
+  "theme_4_score": 1,
+  "theme_4_justification": "Tangential mention. The paper discusses spatial destruction, home unmaking, and displacement through the 'matrix of control' and 'hollowing' of Palestinian land (citing Weizman 2007). However, this is not linked to algorithmic governance or dual-use technology.",
+  "dual_use_explicit": "no",
+  "dual_use_direction": "neither",
+  "dual_use_structural": "no",
+  "key_quotes": [
+    "These policies contribute to what Halper (2000) has termed Israel's ‘matrix of control’, which is the practice of cultivating artificial borders, limiting movement within and across borders, and effectively suppressing everyday life within the oPt.",
+    "the ‘hollowing’ of Palestinian land (Weizman, 2007) creates new facts on the ground that mark Israel’s presence and re-signifies Palestinian territory as belonging to Israel.",
+    "Abu-Majd remarked: ‘Our children are used to living like anyone who is in prison. You see our house is covered with these bars?’"
+  ],
+  "policy_relevance": "None",
+  "notes": "Book chapter from edited volume 'Children and Borders'. Not directly relevant to algorithmic governance or dual-use technology. Focuses on physical borders and occupation. Cited as forward citation of Weizman 2007.",
+  "via": "Weizman 2007:forward",
+  "text_truncated": false,
+  "openalex_id": "https://openalex.org/W2262313377"
+}

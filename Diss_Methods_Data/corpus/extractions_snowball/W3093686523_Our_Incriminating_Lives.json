@@ -1,0 +1,30 @@
+{
+  "title": "Our Incriminating Lives",
+  "year": "2023",
+  "doi": null,
+  "doc_type": "book_chapter",
+  "methodology": "empirical_qualitative",
+  "geography": "Los Angeles, USA",
+  "thesis": "Dragnet surveillance through Palantir and ALPRs enables suspicionless, programmatic data collection that reifies racial inequality and expands police power beyond traditional criminal justice institutions.",
+  "theme_1_score": 2,
+  "theme_1_justification": "Substantive engagement: Chapter describes data platform (Palantir) integrating civilian and police databases (e.g., LexisNexis, utility bills, foreclosure data) for law enforcement, and discusses 'function creep' and institutional data integration (pp. 39-41, 53-54). Also notes ability to purchase consumer data ('Other stuff, shopping data. You can buy it'). Explicitly addresses repurposing of non-police data for crime control.",
+  "theme_2_score": 2,
+  "theme_2_justification": "Substantive engagement: Discusses algorithmic opacity through Palantir's black-boxing (false positives, 'I don’t know' p.39). Addresses epistemic authority of data (assumption of infallible state, p.54). Mentions data doubles (p.54) and how 'institutional data imperative' bypasses consent ('consent is anachronistic', p.54). Notes how queries become proxies for suspiciousness (pp.48-49).",
+  "theme_3_score": 2,
+  "theme_3_justification": "Substantive engagement: Describes shift from query-based to alert-based continuous monitoring (pp.45-47). Discusses real-time geofencing and automated alerts (pp.46-47). Conceptualizes the city as a programmable field through ALPR and Palantir. Addresses automated decision-support systems and population-level analytics.",
+  "theme_4_score": 0,
+  "theme_4_justification": "Not addressed: No discussion of spatial destruction, domicide, urbicide, home unmaking, or weaponization of infrastructure for targeting. The chapter focuses on surveillance and policing, not military urbanism or spatial collapse.",
+  "dual_use_explicit": "tangential",
+  "dual_use_direction": "civil_to_military",
+  "dual_use_structural": "tangential",
+  "key_quotes": [
+    "The proliferation of digitized records makes it possible to merge data from previously separate institutional sources into an integrated, structural system... This integration facilitates one of the most transformative features of the big data landscape: the creep of criminal justice surveillance into other, non–criminal justice institutions. Function creep—the phenomenon of data originally collected for one purpose being used for another—contributes to a substantial increase in the data used by police.",
+    "Mass surveillance is not the 'natural' result of mass digitization. Instead, what we allow to proliferate and become the objects of massive data collection efforts are choices that reflect the social and political positions of the subjects and subject matter that we feel comfortable surveilling.",
+    "Digitized policing is different from traditional policing methods in a number of ways: the proliferation of automatic alert systems and shifts from query-based to alert-based systems makes it possible to systematically surveil ever larger groups of people; individuals with no direct police contact are now included in law enforcement systems, effectively lowering the threshold for inclusion in police databases; and institutional data systems are integrated, such that police now collect and use information gleaned from institutions that are typically not associated with crime control."
+  ],
+  "policy_relevance": "Calls for resisting technological determinism; notes that mass surveillance is a political choice not an inevitability; implicitly argues for greater oversight and restrictions on data integration and function creep.",
+  "notes": "Chapter from an edited volume (Predict and Surveil). Text appears complete. Dual-use is addressed only tangentially (function creep of civilian data into policing), not explicitly as military-civilian dual-use.",
+  "via": "Kitchin 2014:forward",
+  "text_truncated": false,
+  "openalex_id": "https://openalex.org/W3093686523"
+}

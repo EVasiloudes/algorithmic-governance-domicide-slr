@@ -1,0 +1,30 @@
+{
+  "title": "Data Matters: The Politics and Practices of Digital Border and Migration Management",
+  "year": "2022",
+  "doi": "10.1080/14650045.2021.1940538",
+  "doc_type": "journal_article",
+  "methodology": "theoretical",
+  "geography": "global",
+  "thesis": "This introduction argues that data in border and migration management must be studied as matters of concern, knowledge production, and material infrastructure to understand their performative and political effects.",
+  "theme_1_score": 2,
+  "theme_1_justification": "The paper discusses dual-use through the concept of the 'multipurpose drone' (Loukinas) that produces data for both human rights and repressive security measures, and addresses technology transfer between civilian and military domains. It also discusses data sharing and interoperability between civilian and security systems (e.g., EU databases). However, dual-use is not the central argument.",
+  "theme_2_score": 2,
+  "theme_2_justification": "The paper substantively engages with algorithmic opacity (black-boxed algorithms, lack of accountability), the epistemic authority of data (data as 'truth-telling', biometrics as infallible proof), and the democratic deficit in decision-making. It discusses how data preconfigure decisions and bypass deliberation. However, this is one of several themes, not the central argument.",
+  "theme_3_score": 1,
+  "theme_3_justification": "The paper discusses the city as a site of data-driven border control (e.g., cash card systems, biometric databases) and continuous modulation of mobility through data analytics. It mentions 'smart borders' and automated decision-making. However, the focus is on borders and migration, not urban governance per se.",
+  "theme_4_score": 0,
+  "theme_4_justification": "Not addressed. The paper does not discuss spatial destruction, domicide, urbicide, home unmaking, or urban warfare. It focuses on border control and migration management, not on the destruction of urban space.",
+  "dual_use_explicit": "tangential",
+  "dual_use_direction": "both",
+  "dual_use_structural": "tangential",
+  "key_quotes": [
+    "What he describes as the constitution of the 'multipurpose drone' indeed speaks closely to specific modes of seeing, knowing, and acting that become pre-structured through the interaction between human actors, technology, and data. For Loukinas, the alleged 'versatility' of drone technology can thus be mobilised as an analytical lens to reconstruct how diverging types of knowledge and ensuing action can be constituted from a single body of data, depending on the specific relations that data form with their surroundings.",
+    "When complex, mutable algorithms analyse large amounts of data, the ways in which recommendations for specific actions (e.g., let this person pass; single out and further question that person) come into being can become difficult or even impossible to understand (Amoore 2011; Côté-Boucher 2010; Leese 2014). A lack of insight into analytical processes in turn undercuts the possibility to challenge and contest decisions.",
+    "Data are increasingly used as evidence that supports or falsifies claims made by travellers or asylum seekers. Whereas such claims would in the past need to be manually investigated and their acceptance or rejection would be left to the discretion of border guards or bureaucrats (Magalhães 2018), data are now considered to be telling an unquestionable truth."
+  ],
+  "policy_relevance": "The paper calls for empirical engagement with data practices and infrastructures to expose power asymmetries and contest depoliticizing technocratic language. It suggests that scholars should 'stay with the trouble' and treat data as matters of concern to open them up for political debate and intervention.",
+  "notes": "This is an introduction to a special issue, so it synthesizes multiple contributions. The paper is primarily theoretical and conceptual, drawing on STS, data studies, and critical border studies. It does not present original empirical research but sets an agenda.",
+  "via": "Kitchin 2014:forward",
+  "text_truncated": false,
+  "openalex_id": "https://openalex.org/W3180001917"
+}

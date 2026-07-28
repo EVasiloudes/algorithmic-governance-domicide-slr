@@ -1,0 +1,30 @@
+{
+  "title": "From urban catastrophe to 'model' city? Politics, security and development in post-conflict Kigali",
+  "year": "2013",
+  "doi": null,
+  "doc_type": "journal_article",
+  "methodology": "empirical_qualitative",
+  "geography": "Rwanda (Kigali)",
+  "thesis": "Kigali's transformation from post-genocide catastrophe to a 'model' city was achieved through political consolidation, donor support, and securitisation strategies that tightly control urban space, but this may suppress underlying conflicts.",
+  "theme_1_score": 0,
+  "theme_1_justification": "Not addressed. The paper does not discuss dual-use properties of software/data or technology transfer between civilian and military domains.",
+  "theme_2_score": 1,
+  "theme_2_justification": "Tangential mention. The paper discusses surveillance and state reach (e.g., community policing, umudugudu system, taxi-moto surveillance) as knowledge-producing, but does not engage with algorithmic opacity, black-boxing, or epistemic authority of data-driven systems.",
+  "theme_3_score": 2,
+  "theme_3_justification": "Substantive engagement. The paper discusses the city as a programmed space through the Master Plan, urban reorganisation, cooperatives, performance contracts, and continuous control mechanisms (e.g., 'engineering secure urbanisation'). It conceptualises Kigali as a tightly controlled urban system.",
+  "theme_4_score": 2,
+  "theme_4_justification": "Substantive engagement. The paper discusses expropriations, displacement of informal settlements, forced relocations due to the Master Plan, and the elimination of poor people from the city. It addresses spatial destruction and home unmaking, but not urban warfare or vertical sovereignty.",
+  "dual_use_explicit": "no",
+  "dual_use_direction": "neither",
+  "dual_use_structural": "no",
+  "key_quotes": [
+    "The government’s overriding concern with national security issues, combined with its need for legitimacy, has led to sustained efforts to create a city that is tightly controlled through a range of strategies that project it as a ‘model’ space, both domestically and internationally.",
+    "The emphasis on order and urban reorganisation to some degree parallels the rural social engineering discussed elsewhere.",
+    "The expropriations in the name of the Master Plan discussed earlier have proved highly controversial, and the relative absence of social violence in the city should not obscure the use of actual or threatened violence by the state in relation to these kinds of state-society interactions."
+  ],
+  "policy_relevance": "The paper implies that post-conflict urban governance must balance security with inclusive civic engagement to avoid suppressing conflicts that may resurface. It highlights risks of elite-driven planning that excludes the poor.",
+  "notes": "Full text available; no truncation. The paper is a case study of Kigali, Rwanda, focusing on political and security dynamics rather than technology or data systems.",
+  "via": "Graham 2006:forward",
+  "text_truncated": false,
+  "openalex_id": "https://openalex.org/W2171371442"
+}

@@ -1,0 +1,30 @@
+{
+  "title": "Bible and Gun: Militarism in Jerusalem’s Holy Places",
+  "year": "2013",
+  "doi": null,
+  "doc_type": "journal_article",
+  "methodology": "empirical_qualitative",
+  "geography": "Jerusalem, Israel/Palestine",
+  "thesis": "Religious militarism is embedded in the physical construction and use of Jerusalem's holy sites, promoting violence and sacrifice in the name of national religious ideology.",
+  "theme_1_score": 0,
+  "theme_1_justification": "Not addressed. The paper does not discuss information goods, dual-use technology transfer, or repurposing of civilian tech for military.",
+  "theme_2_score": 0,
+  "theme_2_justification": "Not addressed. The paper does not discuss algorithmic opacity, epistemic authority of data, or surveillance as knowledge production.",
+  "theme_3_score": 0,
+  "theme_3_justification": "Not addressed. The paper does not conceptualize the city as a programmable system or discuss continuous modulation through data.",
+  "theme_4_score": 2,
+  "theme_4_justification": "Substantive engagement. Discusses spatial destruction (demolition of Magharib Quarter), fortress-like construction of Rachel's Tomb, separation barrier, and weaponisation of civilian infrastructure. Engages with home unmaking and displacement of Palestinians.",
+  "dual_use_explicit": "no",
+  "dual_use_direction": "neither",
+  "dual_use_structural": "no",
+  "key_quotes": [
+    "Within days after the 1967 War, the Israeli authorities demolished the Palestinian Magharib Quarter that stood in front of the Wall in order to create the large open plaza that stands there today and accommodates large numbers of people who flock there, including the pious, tourists, and the merely curious.",
+    "Today, the Tomb is completely enveloped by the concrete separation barrier making it available to Israeli Jews and tourists coming from Jerusalem in approved vehicles, but inaccessible to Palestinians. It has become a military zone, literally an urban fortress.",
+    "The extreme conditions of Rachel’s Tomb require further description. The sense of isolation, fortification and religiosity begins in the centre of Jerusalem."
+  ],
+  "policy_relevance": "The paper highlights how religious militarism at holy sites reinforces an embattled city and undermines viability for all inhabitants, implying the need to address occupation and dispossession, but offers no explicit policy recommendations.",
+  "notes": "Full text provided. No truncation.",
+  "via": "Weizman 2007:forward",
+  "text_truncated": false,
+  "openalex_id": "https://openalex.org/W1982700189"
+}
