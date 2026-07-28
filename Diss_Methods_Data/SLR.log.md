@@ -412,3 +412,56 @@ Original pull (Jul 19-22) had an expired OpenAlex API key. Kitchin 2014 has 2,30
 - `enrich_abstracts.py` — unified enrichment (S2 + OpenAlex + Springer)
 - `enrich_springer.py` — Springer-only, self-throttling for rate limits
 - `rescreen_enriched.py` — re-screens enriched records using same AI pipeline
+
+
+## Snowball Final Resolution — 2026-07-28
+
+### Abstract enrichment (APIs round 2)
+- **Springer META:** 217/225 Springer DOIs enriched (8 missed — API return empty)
+- **OpenAlex re-scan:** 18/224 remaining DOIs enriched
+- **Post-enrichment state:** 1,839 with abstracts, 242 still no-abstract (triage-excluded, mirrors main pipeline rule)
+
+### Decision: Drop Maybes
+279 Maybe-verdict records dropped without manual review. Rationale: the 124 Includes already represent a substantial snowball corpus (82% the size of the main 151-record corpus). The 279 Maybes are predominantly tangential — urban governance papers mentioning surveillance in passing, general smart-city critiques without dual-use relevance, or methodological pieces about big data without policy/spatial dimension. Noted for transparency in methods.
+
+### Final snowball corpus
+| Verdict | Count |
+|---|---|
+| Include | **124** |
+| Maybe (dropped) | 279 |
+| Exclude | 1,678 |
+| **Total** | **2,081** |
+
+### Via paths
+| Anchor | Includes |
+|---|---|
+| Weizman 2007 (forward) | 46 |
+| Kitchin 2014 (forward) | 42 |
+| Graham 2006 (forward) | 38 |
+| Kitchin 2014 (backward) | 0 |
+| Michael 2007 (forward) | 0 |
+| Michael 2007 (backward) | 0 |
+
+Note: 2 records came through multiple anchors (counted under both). Michael (2007) yielded no includes despite the theoretical centrality — it bridged to the counterinsurgency/epistemic-authority literature but those papers were already captured by the Weizman/Graham citation networks.
+
+### Output files
+- `snowball_included_124.ris` — clean RIS for Zotero import
+- `snowball_included_124_tagged.ris` — KW-tagged version with anchor path in N1 field
+
+### PDF availability
+- **Only 1/124** snowball Includes have PDFs in the existing `corpus/pdfs/` (a pre-existing overlap with the main corpus)
+- **123/124 need fresh PDF retrieval** — these are citation-network papers distinct from the keyword-search corpus
+
+### Combined corpus (main + snowball)
+| Source | Records |
+|---|---|
+| Database searches (WoS + Scopus + Policy Commons) | 151 |
+| Snowball (4 anchor texts) | 124 |
+| **Total** | **275** |
+
+### Next steps
+1. Import `snowball_included_124.ris` into Zotero
+2. PDF retrieval for ~123 new records
+3. Re-run `pipeline_01_extract_v2.py` for new PDFs
+4. Thematic coding of snowball corpus (same codebook)
+5. Updated PRISMA diagram
