@@ -45,3 +45,10 @@ Diss_Methods_Data/corpus/extraction_log.json
 Diss_Methods_Data/corpus/run.log
 Diss_Methods_Data/corpus/extraction_results.csv
 Diss_Methods_Data/corpus/extractions/
+
+# LaTeX extras
+final-draft/*.blg
+final-draft/*.fdb_latexmk
+final-draft/*.fls
+final-draft/*.synctex.gz
+final-draft/chapters/*.aux
