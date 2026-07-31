@@ -22,7 +22,7 @@ This appendix discloses the tools, configurations, and decisions involved, in ac
 
 The project was conducted on a personal machine (macOS 13.7, x64) running a persistent AI assistant — **OpenClaw** (v2026.7.1) — configured with the model `deepseek/deepseek-v4-flash` via the OpenRouter API gateway (interactive sessions additionally used other frontier models, e.g. Moonshot AI's Kimi K3, for drafting and verification support). OpenClaw functioned as an orchestration layer: it read project files, executed Python pipelines, called external APIs, and wrote outputs back to the filesystem. The author reviewed all AI outputs before accepting them into the analysis.
 
-Writing and note-taking were done in **Obsidian** (v1.x) with community plugins. The most methodologically significant was **Smart Connections** (v5.0.0, Brian Petro), which generates local embeddings from the Obsidian vault and surfaces semantically related notes. Smart Connections was used during the drafting and revision process to locate relevant references, link related concepts across chapters, and audit citation coverage. Embedding requests were routed through a locally configured proxy using OpenAI's `text-embedding-3-small` model.
+Writing and note-taking were done in **Obsidian** (v1.x) with community plugins. The most methodologically significant was **Smart Connections** (v5.0.0, Brian Petro), which generates local embeddings from the Obsidian vault and surfaces semantically related notes. Smart Connections was used during the drafting and revision process to locate relevant references, link related concepts across chapters, and audit citation coverage. It operates entirely locally — no vault content is sent to external servers — using the `bge-micro-v2` embedding model, which runs on-device.
 
 Reference management was handled by **Zotero** (v7.x), with PDFs stored locally and indexed by the pipeline scripts described below.
 
@@ -125,13 +125,13 @@ The script is resumable — already-extracted files are skipped on re-run.
 
 ## A.6 Local Embedding and Semantic Search
 
-Beyond the pipeline scripts, the author used **Smart Connections** (v5.0.0) in Obsidian for local semantic search across the project vault. Smart Connections generates vector embeddings from note content using OpenAI's `text-embedding-3-small` model, stored locally in the vault's `.smart-env/` directory. The author used this during drafting to:
+Beyond the pipeline scripts, the author used **Smart Connections** (v5.0.0) in Obsidian for local semantic search across the project vault. Smart Connections generates vector embeddings from note content using the locally running `bge-micro-v2` model, stored locally in the vault's `.smart-env/` directory. The author used this during drafting to:
 
 - Locate relevant references when the exact title was not recalled
 - Surface thematically related notes across chapter drafts
 - Audit citation coverage against the coding framework
 
-Embedding requests were routed through a locally configured proxy. Smart Connections is open-source (GPL-3.0) and the embedding model is specified in the plugin's `manifest.json`.
+No vault content is sent to external servers: the embedding model runs on-device. Smart Connections is open-source (GPL-3.0) and the embedding model is specified in the plugin's `manifest.json`.
 
 ---
 
@@ -187,7 +187,7 @@ The SLR log (`SLR.log.md`) records every run with timestamps, counts, and errors
 | Zotero | 7.x | Reference management |
 | Obsidian | 1.x | Note-taking & drafting |
 | Smart Connections | 5.0.0 | Local semantic search (Obsidian plugin) |
-| OpenAI `text-embedding-3-small` | — | Embedding model for Smart Connections |
+| `bge-micro-v2` | — | Local embedding model (Smart Connections) |
 | macOS | 13.7.8 (x64) | Host operating system |
 
 ---
