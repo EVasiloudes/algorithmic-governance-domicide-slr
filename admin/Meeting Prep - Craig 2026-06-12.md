@@ -6,7 +6,7 @@ tags:
 date: 2026-06-12
 ---
 
-# Meeting Prep — Craig Gurvey, 12 June 2026
+# Meeting Prep — Craig Gurney, 12 June 2026
 
 ## Progress Since Last Meeting (May 21st)
 

@@ -12,7 +12,7 @@ tags:
 
 ## A.1 Overview
 
-This dissertation used artificial intelligence at four stages: screening, citation-chaining, full-text extraction, and thematic coding. AI was not used to generate substantive text, analysis, or argument. All screening verdicts, coding judgements, and every sentence of the dissertation proper are the author's own. The AI pipeline was designed to be deterministic (temperature 0.0), resumable, and auditable — every API call was logged with timestamps, and all intermediate outputs (screening CSVs, extraction JSONs, metadata tables) are retained in the project repository.
+This dissertation used artificial intelligence at four stages: screening, citation-chaining, full-text extraction, and thematic coding. AI was used for mechanical, well-defined tasks at scale and, under close direction, for drafting assistance; every agent-drafted passage was reviewed and substantially rewritten by the author, and all screening verdicts, coding judgements, analytical claims, and the final text are the author's responsibility (see the AI-Use Statement in the dissertation). The AI pipeline was designed to be deterministic (temperature 0.0), resumable, and auditable — every run was logged with timestamps, and all intermediate outputs (screening CSVs, extraction JSONs, metadata tables) are retained in the project repository.
 
 This appendix discloses the tools, configurations, and decisions involved, in accordance with the University of Glasgow's guidance on AI in research and the emerging norms of transparent AI use in systematic reviewing (e.g. PRISMA-AI reporting extensions).
 
@@ -20,9 +20,9 @@ This appendix discloses the tools, configurations, and decisions involved, in ac
 
 ## A.2 Research Environment
 
-The project was conducted on a personal machine (macOS 13.7, x64) running a persistent AI assistant — **OpenClaw** (v2026.7.1) — configured with the model `deepseek/deepseek-v4-flash` via the OpenRouter API gateway. OpenClaw functioned as an orchestration layer: it read project files, executed Python pipelines, called external APIs, and wrote outputs back to the filesystem. The author reviewed all AI outputs before accepting them into the analysis.
+The project was conducted on a personal machine (macOS 13.7, x64) running a persistent AI assistant — **OpenClaw** (v2026.7.1) — configured with the model `deepseek/deepseek-v4-flash` via the OpenRouter API gateway (interactive sessions additionally used other frontier models, e.g. Moonshot AI's Kimi K3, for drafting and verification support). OpenClaw functioned as an orchestration layer: it read project files, executed Python pipelines, called external APIs, and wrote outputs back to the filesystem. The author reviewed all AI outputs before accepting them into the analysis.
 
-Writing and note-taking were done in **Obsidian** (v1.x) with community plugins. The most methodologically significant was **Smart Connections** (v5.0.0, Brian Petro), which generates local embeddings from the Obsidian vault and surfaces semantically related notes. Smart Connections was used during the drafting and revision process to locate relevant references, link related concepts across chapters, and audit citation coverage. It operates entirely locally — no vault content was sent to external servers — using OpenAI's `text-embedding-3-small` model via a local proxy.
+Writing and note-taking were done in **Obsidian** (v1.x) with community plugins. The most methodologically significant was **Smart Connections** (v5.0.0, Brian Petro), which generates local embeddings from the Obsidian vault and surfaces semantically related notes. Smart Connections was used during the drafting and revision process to locate relevant references, link related concepts across chapters, and audit citation coverage. Embedding requests were routed through a locally configured proxy using OpenAI's `text-embedding-3-small` model.
 
 Reference management was handled by **Zotero** (v7.x), with PDFs stored locally and indexed by the pipeline scripts described below.
 
@@ -131,7 +131,7 @@ Beyond the pipeline scripts, the author used **Smart Connections** (v5.0.0) in O
 - Surface thematically related notes across chapter drafts
 - Audit citation coverage against the coding framework
 
-No vault content was sent to external servers. Smart Connections is open-source (GPL-3.0) and the embedding model is specified in the plugin's `manifest.json`.
+Embedding requests were routed through a locally configured proxy. Smart Connections is open-source (GPL-3.0) and the embedding model is specified in the plugin's `manifest.json`.
 
 ---
 
@@ -143,11 +143,11 @@ AI was used to execute well-defined, mechanical tasks at scale: classifying reco
 - Calibrating search strings through scoping iterations
 - Writing the inclusion/exclusion criteria and coding framework
 - Resolving all "Maybe" screening verdicts
-- Reviewing all AI-generated coding scores for plausibility
+- Reviewing random samples of AI screening verdicts and coding scores for calibration (§3.6)
 - Identifying and excluding doctoral dissertations
 - Selecting bridge papers for qualitative deep dives
 - Interpreting the results and writing the analysis
-- All prose in the dissertation proper
+- Reviewing, revising, and substantially rewriting all agent-drafted text before inclusion
 
 The AI did not participate in any interpretive, analytical, or creative decision. Its role was strictly instrumental — performing at scale what would otherwise have required an impractical amount of manual labour for a single-author project.
 
@@ -196,10 +196,10 @@ The SLR log (`SLR.log.md`) records every run with timestamps, counts, and errors
 
 The author declares that:
 
-1. AI was used for screening, extraction, and coding as described above, but not for generating substantive text, analysis, or argument.
+1. AI was used for screening, extraction, coding, and directed drafting assistance as described above and in the dissertation's AI-Use Statement.
 2. All AI outputs were reviewed and verified by the author.
 3. The author takes full responsibility for all screening verdicts, coding judgements, and the content of this dissertation.
-4. No AI was used to write, rewrite, or paraphrase any portion of the dissertation proper.
+4. All agent-drafted text was reviewed and substantially edited by the author before inclusion; no AI-generated text was incorporated without authorial review.
 5. This appendix was drafted by the AI assistant (OpenClaw) at the author's direction, reviewed and edited by the author, and is included for transparency in accordance with University of Glasgow guidance on AI in research.
 
 ---
