@@ -465,3 +465,51 @@ Note: 2 records came through multiple anchors (counted under both). Michael (200
 3. Re-run `pipeline_01_extract_v2.py` for new PDFs
 4. Thematic coding of snowball corpus (same codebook)
 5. Updated PRISMA diagram
+
+
+## Combined-Corpus Synthesis Setup — 2026-07-29
+
+### Snowball coding complete
+- 124 snowball records extracted & coded (`extraction_results_snowball.csv`); 123 successfully coded, 1 no-PDF (Politics of Home in Jerusalem, UNC repository)
+
+### Known gaps (5 of 275 = 1.8%)
+| Corpus | Record | Reason |
+|---|---|---|
+| Main | ID 19 — Big Data Applications in Crime and Security | no text |
+| Main | ID 491 — Intelligent 5G Networks | no text |
+| Main | ID 750 — Constructing Urbicide… Xinjiang (Hulik chapter) | retrieved PDF is the full 631-page Routledge Handbook of Architecture, Urban Space and Politics Vol. I — chapter not contained in it |
+| Main | ID 836 — automated security response robot | no text |
+| Snowball | Politics of Home in Jerusalem | no PDF |
+
+### Outputs
+- `analysis/combined_coding_275.csv` — unified coded dataset (275 rows; corpus column = main|snowball)
+- `analysis/descriptive_synthesis.md` — descriptive stats: years, doc types, methodology, theme scores, dual-use typology, geography
+- `analysis/prisma_flow_2026-07-29.svg/.png` — updated PRISMA 2020 diagram with "identification via other methods" branch
+
+### Key descriptive patterns (provisional)
+- **Corpus complementarity:** main corpus skews T1 dual-use/information-good (mean 1.13 vs 0.59; 61 vs 25 scoring ≥2); snowball skews T4 spatial destruction/domicide (mean 1.33 vs 0.53; 58 vs 18). Citation searching recovered the critical-geography/destruction literature that keyword search under-captured — echoes the Search B asymmetry finding.
+- **Direction of transfer:** civil→military dominates (65) over military→civil (20) and both (32).
+- **Structural dual-use** explicit in only 37/270 reports.
+- **Temporal skew:** 2020s = 136, 2010s = 111; peak 2024 (28).
+
+### Next steps
+1. Thematic synthesis — sub-theme clustering within each of the 4 themes (Results chapter structure)
+2. Results chapter draft (deadline 2026-08-13)
+3. Note the 5-record gap in methods limitations
+
+### Thematic synthesis + Results chapter — 2026-07-29 (later)
+- Sub-theme clustering complete: `analysis/thematic_synthesis.md` — 20 clusters across 4 themes + cross-theme synthesis
+- Ch4 draft written: `projects/dissertation/ch4-draft.md` (draft zero, ~3,600 words, Table 4.1 + Fig 4.1 placeholder)
+- Ch3 updated: snowball retrieval/coding completion (123/124), sixth limitation added (5 uncoded records itemised), PRISMA mermaid updated (snowball coded n=123)
+- Headline finding: T4-G (algorithmically mediated destruction) is nearly empty — 5 records, all 2021+. The two literatures barely intersect; corpus structure reproduces Search B asymmetry at scale.
+- Ch5 draft written: `projects/dissertation/ch5-draft.md` (Discussion, ~2,300 words) — framework tested element-by-element; empty intersection explained (path dependence / secrecy / timing); dual-use-as-warrant inversion; 4 policy implications
+- Ch6 draft written: `projects/dissertation/ch6-draft.md` (Conclusion + 5-point research agenda, ~1,150 words)
+- All six chapters now at draft stage (ch1 draft one; ch2/ch4/ch5/ch6 draft zero; ch3 draft two)
+- Figure 4.1 generated: `analysis/figure_4_1_theme_distributions.svg/.png` (stacked % distributions, 4 themes × 2 corpora)
+- `semifinal_draft.docx` assembled at repo root via pandoc: all 6 chapters + TOC, PRISMA PNG replaces mermaid block (Word can't render mermaid), Fig 4.1 + Table 4.1 embedded. ~13.9k words — over the 13,750 cap; trim during authorial rewrite.
+
+### Sanity check & reconciliation — 2026-07-29
+Fixed: §3.5 retrieval arithmetic (147+3+1=151, matches ground truth: 142 pdfs/texts on disk, 147 scored of 151 attempted); §3.4.1 961-vs-963 VERIFY → AUTHOR CONFIRM (likely targeted repository adds); ch4 cross-ref to "Search B asymmetry" (not in ch3) → points to §3.4.1 zero-overlap; ch4/ch2 word targets aligned to Writing Plan (3,500/2,750); register ("demonstrate"→"show" ch2/ch6); ch6 screened total 2,955→2,713 (874+1,839 per ch3's own figures).
+Reconciled canonical docs: MuNote (4 anchors, retrieval table, completion state), admin/AGENTS.md (4 anchors, 6 limitations, Writing Plan v2 pointer), Writing Plan (status table).
+Verified clean: ~60 author-year citations in ch4-6 against corpus data; British English (US spellings only inside verbatim quotes); numbers 275/270/151/124/147/123 consistent across ch3/ch4/PRISMA/log; RQ coverage; framework element coverage in ch5.
+Open flags for author: 961/963 (check Zotero history); human-AI division AUTHOR CONFIRM (pre-existing); ch1 "demonstrates" ×2 (authorial call); Kitchen vs Kitchin near-homonym in refs; "the Gospel" (ch5) is public knowledge not corpus record.

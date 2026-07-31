@@ -1,0 +1,96 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1080" height="660" viewBox="0 0 1080 660" font-family="Helvetica, Arial, sans-serif">
+<rect width="1080" height="660" fill="white"/>
+<text x="540.0" y="34" text-anchor="middle" font-size="19" font-weight="bold">Figure 4.1 — Theme score distributions by corpus</text>
+<text x="540.0" y="56" text-anchor="middle" font-size="13" fill="#444">Share of coded records scoring 0–3 on each theme (main corpus n=147; snowball corpus n=123)</text>
+<rect x="330" y="74" width="16" height="16" fill="#ededed" stroke="#999" stroke-width="0.5"/>
+<text x="351" y="87" font-size="12.5" fill="#333">Score 0 — absent</text>
+<rect x="478.6" y="74" width="16" height="16" fill="#c2ccd6" stroke="#999" stroke-width="0.5"/>
+<text x="499.6" y="87" font-size="12.5" fill="#333">Score 1 — tangential</text>
+<rect x="653.6" y="74" width="16" height="16" fill="#55789b" stroke="#999" stroke-width="0.5"/>
+<text x="674.6" y="87" font-size="12.5" fill="#333">Score 2 — substantive</text>
+<rect x="835.2" y="74" width="16" height="16" fill="#17364f" stroke="#999" stroke-width="0.5"/>
+<text x="856.2" y="87" font-size="12.5" fill="#333">Score 3 — central</text>
+<text x="20" y="160" font-size="13.5" font-weight="bold" fill="#111">T1 Dual-use / information-good</text>
+<text x="318" y="141.5" text-anchor="end" font-size="12.5" fill="#333">Main (n=147)</text>
+<rect x="330.0" y="120" width="232.4" height="34" fill="#ededed" stroke="white" stroke-width="1"/>
+<text x="446.2" y="141.5" text-anchor="middle" font-size="12" fill="#333">35% <tspan font-size="10">(n=51)</tspan></text>
+<rect x="562.4" y="120" width="159.5" height="34" fill="#c2ccd6" stroke="white" stroke-width="1"/>
+<text x="642.2" y="141.5" text-anchor="middle" font-size="12" fill="#333">24% <tspan font-size="10">(n=35)</tspan></text>
+<rect x="722.0" y="120" width="237.0" height="34" fill="#55789b" stroke="white" stroke-width="1"/>
+<text x="840.5" y="141.5" text-anchor="middle" font-size="12" fill="white">35% <tspan font-size="10">(n=52)</tspan></text>
+<rect x="959.0" y="120" width="41.0" height="34" fill="#17364f" stroke="white" stroke-width="1"/>
+<text x="979.5" y="141.5" text-anchor="middle" font-size="11" fill="white">6%</text>
+<text x="318" y="185.5" text-anchor="end" font-size="12.5" fill="#333">Snowball (n=123)</text>
+<rect x="330.0" y="164" width="419.4" height="34" fill="#ededed" stroke="white" stroke-width="1"/>
+<text x="539.7" y="185.5" text-anchor="middle" font-size="12" fill="#333">63% <tspan font-size="10">(n=77)</tspan></text>
+<rect x="749.4" y="164" width="114.4" height="34" fill="#c2ccd6" stroke="white" stroke-width="1"/>
+<text x="806.6" y="185.5" text-anchor="middle" font-size="12" fill="#333">17% <tspan font-size="10">(n=21)</tspan></text>
+<rect x="863.8" y="164" width="125.3" height="34" fill="#55789b" stroke="white" stroke-width="1"/>
+<text x="926.5" y="185.5" text-anchor="middle" font-size="12" fill="white">19% <tspan font-size="10">(n=23)</tspan></text>
+<rect x="989.1" y="164" width="10.9" height="34" fill="#17364f" stroke="white" stroke-width="1"/>
+<text x="1006" y="185.0" text-anchor="start" font-size="11" fill="#444">1.6%</text>
+<text x="20" y="280" font-size="13.5" font-weight="bold" fill="#111">T2 Epistemic authority</text>
+<text x="318" y="261.5" text-anchor="end" font-size="12.5" fill="#333">Main (n=147)</text>
+<rect x="330.0" y="240" width="200.5" height="34" fill="#ededed" stroke="white" stroke-width="1"/>
+<text x="430.3" y="261.5" text-anchor="middle" font-size="12" fill="#333">30% <tspan font-size="10">(n=44)</tspan></text>
+<rect x="530.5" y="240" width="173.2" height="34" fill="#c2ccd6" stroke="white" stroke-width="1"/>
+<text x="617.1" y="261.5" text-anchor="middle" font-size="12" fill="#333">26% <tspan font-size="10">(n=38)</tspan></text>
+<rect x="703.7" y="240" width="246.1" height="34" fill="#55789b" stroke="white" stroke-width="1"/>
+<text x="826.8" y="261.5" text-anchor="middle" font-size="12" fill="white">37% <tspan font-size="10">(n=54)</tspan></text>
+<rect x="949.9" y="240" width="50.1" height="34" fill="#17364f" stroke="white" stroke-width="1"/>
+<text x="974.9" y="261.5" text-anchor="middle" font-size="11" fill="white">7%</text>
+<text x="318" y="305.5" text-anchor="end" font-size="12.5" fill="#333">Snowball (n=123)</text>
+<rect x="330.0" y="284" width="196.1" height="34" fill="#ededed" stroke="white" stroke-width="1"/>
+<text x="428.0" y="305.5" text-anchor="middle" font-size="12" fill="#333">29% <tspan font-size="10">(n=36)</tspan></text>
+<rect x="526.1" y="284" width="190.7" height="34" fill="#c2ccd6" stroke="white" stroke-width="1"/>
+<text x="621.4" y="305.5" text-anchor="middle" font-size="12" fill="#333">28% <tspan font-size="10">(n=35)</tspan></text>
+<rect x="716.7" y="284" width="256.0" height="34" fill="#55789b" stroke="white" stroke-width="1"/>
+<text x="844.8" y="305.5" text-anchor="middle" font-size="12" fill="white">38% <tspan font-size="10">(n=47)</tspan></text>
+<rect x="972.8" y="284" width="27.2" height="34" fill="#17364f" stroke="white" stroke-width="1"/>
+<text x="1006" y="305.0" text-anchor="start" font-size="11" fill="#444">4.1%</text>
+<text x="20" y="400" font-size="13.5" font-weight="bold" fill="#111">T3 Programmable city</text>
+<text x="318" y="381.5" text-anchor="end" font-size="12.5" fill="#333">Main (n=147)</text>
+<rect x="330.0" y="360" width="118.5" height="34" fill="#ededed" stroke="white" stroke-width="1"/>
+<text x="389.3" y="381.5" text-anchor="middle" font-size="12" fill="#333">18% <tspan font-size="10">(n=26)</tspan></text>
+<rect x="448.5" y="360" width="287.1" height="34" fill="#c2ccd6" stroke="white" stroke-width="1"/>
+<text x="592.1" y="381.5" text-anchor="middle" font-size="12" fill="#333">43% <tspan font-size="10">(n=63)</tspan></text>
+<rect x="735.6" y="360" width="232.4" height="34" fill="#55789b" stroke="white" stroke-width="1"/>
+<text x="851.9" y="381.5" text-anchor="middle" font-size="12" fill="white">35% <tspan font-size="10">(n=51)</tspan></text>
+<rect x="968.1" y="360" width="31.9" height="34" fill="#17364f" stroke="white" stroke-width="1"/>
+<text x="984.0" y="381.5" text-anchor="middle" font-size="11" fill="white">5%</text>
+<text x="318" y="425.5" text-anchor="end" font-size="12.5" fill="#333">Snowball (n=123)</text>
+<rect x="330.0" y="404" width="261.5" height="34" fill="#ededed" stroke="white" stroke-width="1"/>
+<text x="460.7" y="425.5" text-anchor="middle" font-size="12" fill="#333">39% <tspan font-size="10">(n=48)</tspan></text>
+<rect x="591.5" y="404" width="168.9" height="34" fill="#c2ccd6" stroke="white" stroke-width="1"/>
+<text x="675.9" y="425.5" text-anchor="middle" font-size="12" fill="#333">25% <tspan font-size="10">(n=31)</tspan></text>
+<rect x="760.3" y="404" width="223.3" height="34" fill="#55789b" stroke="white" stroke-width="1"/>
+<text x="872.0" y="425.5" text-anchor="middle" font-size="12" fill="white">33% <tspan font-size="10">(n=41)</tspan></text>
+<rect x="983.7" y="404" width="16.3" height="34" fill="#17364f" stroke="white" stroke-width="1"/>
+<text x="1006" y="425.0" text-anchor="start" font-size="11" fill="#444">2.4%</text>
+<text x="20" y="520" font-size="13.5" font-weight="bold" fill="#111">T4 Spatial destruction</text>
+<text x="318" y="501.5" text-anchor="end" font-size="12.5" fill="#333">Main (n=147)</text>
+<rect x="330.0" y="480" width="442.1" height="34" fill="#ededed" stroke="white" stroke-width="1"/>
+<text x="551.1" y="501.5" text-anchor="middle" font-size="12" fill="#333">66% <tspan font-size="10">(n=97)</tspan></text>
+<rect x="772.1" y="480" width="145.9" height="34" fill="#c2ccd6" stroke="white" stroke-width="1"/>
+<text x="845.0" y="501.5" text-anchor="middle" font-size="12" fill="#333">22% <tspan font-size="10">(n=32)</tspan></text>
+<rect x="918.0" y="480" width="36.5" height="34" fill="#55789b" stroke="white" stroke-width="1"/>
+<text x="936.2" y="501.5" text-anchor="middle" font-size="11" fill="white">5%</text>
+<rect x="954.4" y="480" width="45.6" height="34" fill="#17364f" stroke="white" stroke-width="1"/>
+<text x="977.2" y="501.5" text-anchor="middle" font-size="11" fill="white">7%</text>
+<text x="318" y="545.5" text-anchor="end" font-size="12.5" fill="#333">Snowball (n=123)</text>
+<rect x="330.0" y="524" width="223.3" height="34" fill="#ededed" stroke="white" stroke-width="1"/>
+<text x="441.7" y="545.5" text-anchor="middle" font-size="12" fill="#333">33% <tspan font-size="10">(n=41)</tspan></text>
+<rect x="553.3" y="524" width="130.7" height="34" fill="#c2ccd6" stroke="white" stroke-width="1"/>
+<text x="618.7" y="545.5" text-anchor="middle" font-size="12" fill="#333">20% <tspan font-size="10">(n=24)</tspan></text>
+<rect x="684.1" y="524" width="185.2" height="34" fill="#55789b" stroke="white" stroke-width="1"/>
+<text x="776.7" y="545.5" text-anchor="middle" font-size="12" fill="white">28% <tspan font-size="10">(n=34)</tspan></text>
+<rect x="869.3" y="524" width="130.7" height="34" fill="#17364f" stroke="white" stroke-width="1"/>
+<text x="934.6" y="545.5" text-anchor="middle" font-size="12" fill="white">20% <tspan font-size="10">(n=24)</tspan></text>
+<line x1="330" y1="112" x2="330" y2="576" stroke="#bbb"/>
+<text x="330.0" y="594" text-anchor="middle" font-size="11" fill="#777">0%</text>
+<text x="464.0" y="594" text-anchor="middle" font-size="11" fill="#777">20%</text>
+<text x="598.0" y="594" text-anchor="middle" font-size="11" fill="#777">40%</text>
+<text x="732.0" y="594" text-anchor="middle" font-size="11" fill="#777">60%</text>
+<text x="866.0" y="594" text-anchor="middle" font-size="11" fill="#777">80%</text>
+<text x="1000.0" y="594" text-anchor="middle" font-size="11" fill="#777">100%</text>
+</svg>

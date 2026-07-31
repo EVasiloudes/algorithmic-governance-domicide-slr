@@ -1,0 +1,139 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1440" height="1000" viewBox="0 0 1440 1000" font-family="Helvetica, Arial, sans-serif">
+  <defs>
+    <marker id="arrow" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse">
+      <path d="M 0 0 L 10 5 L 0 10 z" fill="#333"/>
+    </marker>
+    <style>
+      .box { fill: #ffffff; stroke: #333; stroke-width: 1.5; }
+      .phase { fill: #2f4b6e; }
+      .phasetxt { fill: #ffffff; font-weight: bold; font-size: 14px; }
+      .lbl { font-size: 14px; fill: #111; }
+      .bold { font-weight: bold; }
+      .small { font-size: 12.5px; fill: #333; }
+      .flow { stroke: #333; stroke-width: 1.5; fill: none; marker-end: url(#arrow); }
+      .foot { font-size: 12.5px; fill: #444; font-style: italic; }
+    </style>
+  </defs>
+
+  <text x="720" y="34" text-anchor="middle" font-size="20" font-weight="bold" fill="#111">PRISMA 2020 Flow Diagram — Algorithmic Governance, Urban Space and Domicide (SLR)</text>
+  <text x="720" y="56" text-anchor="middle" class="small">Updated 2026-07-29 — final corpus: database searches + citation snowballing</text>
+
+  <!-- Phase banners -->
+  <rect x="30" y="90" width="80" height="34" class="phase"/><text x="70" y="112" text-anchor="middle" class="phasetxt">Identif.</text>
+  <rect x="30" y="330" width="80" height="34" class="phase"/><text x="70" y="352" text-anchor="middle" class="phasetxt">Screening</text>
+  <rect x="30" y="790" width="80" height="34" class="phase"/><text x="70" y="812" text-anchor="middle" class="phasetxt">Included</text>
+
+  <!-- ══ LEFT COLUMN: databases ══ -->
+  <!-- identified -->
+  <rect x="140" y="90" width="320" height="118" class="box"/>
+  <text x="155" y="114" class="lbl bold">Records identified from databases</text>
+  <text x="155" y="134" class="lbl bold">(n = 963):</text>
+  <text x="155" y="156" class="small">• Web of Science (n = 627)</text>
+  <text x="155" y="175" class="small">• Scopus (n = 261)</text>
+  <text x="155" y="194" class="small">• Policy Commons (n = 73); other (n = 2)</text>
+
+  <!-- dedup -->
+  <rect x="140" y="250" width="320" height="58" class="box"/>
+  <text x="155" y="274" class="lbl">Records removed before screening:</text>
+  <text x="155" y="294" class="small">duplicate records removed (n = 89)</text>
+
+  <!-- screened -->
+  <rect x="140" y="350" width="320" height="58" class="box"/>
+  <text x="155" y="374" class="lbl">Records screened (title/abstract)</text>
+  <text x="155" y="394" class="lbl">(n = 874)</text>
+
+  <!-- excluded side -->
+  <rect x="520" y="350" width="240" height="78" class="box"/>
+  <text x="535" y="374" class="lbl">Records excluded (n = 723)</text>
+  <text x="535" y="394" class="small">AI-assisted screening (DS4-flash,</text>
+  <text x="535" y="412" class="small">temp 0.0), human-verified protocol</text>
+
+  <!-- sought -->
+  <rect x="140" y="470" width="320" height="58" class="box"/>
+  <text x="155" y="494" class="lbl">Reports sought for retrieval</text>
+  <text x="155" y="514" class="lbl">(n = 151)</text>
+
+  <!-- not retrieved side -->
+  <rect x="520" y="470" width="240" height="78" class="box"/>
+  <text x="535" y="494" class="lbl">Reports not retrieved (n = 4)</text>
+  <text x="535" y="514" class="small">3 no PDF; 1 wrong source</text>
+  <text x="535" y="532" class="small">(handbook, not the chapter)</text>
+
+  <!-- assessed -->
+  <rect x="140" y="590" width="320" height="58" class="box"/>
+  <text x="155" y="614" class="lbl">Reports assessed at full text</text>
+  <text x="155" y="634" class="lbl">and coded (n = 147)</text>
+
+  <!-- included left -->
+  <rect x="140" y="700" width="320" height="72" class="box"/>
+  <text x="155" y="726" class="lbl bold">Studies included from database</text>
+  <text x="155" y="746" class="lbl bold">searching (n = 151; 147 coded)</text>
+
+  <!-- ══ RIGHT COLUMN: citation snowballing ══ -->
+  <!-- identified -->
+  <rect x="860" y="90" width="320" height="118" class="box"/>
+  <text x="875" y="114" class="lbl bold">Records identified via other methods:</text>
+  <text x="875" y="136" class="small">citation searching of 4 anchor texts</text>
+  <text x="875" y="155" class="small">(Graham 2006; Weizman 2007; Kitchin 2014;</text>
+  <text x="875" y="174" class="small">Michael 2007), backward + forward,</text>
+  <text x="875" y="193" class="small">deduplicated vs. main corpus (n = 2,081)*</text>
+
+  <!-- screened -->
+  <rect x="860" y="350" width="320" height="58" class="box"/>
+  <text x="875" y="374" class="lbl">Records screened (title/abstract)</text>
+  <text x="875" y="394" class="lbl">(n = 2,081)</text>
+
+  <!-- excluded side -->
+  <rect x="1240" y="330" width="180" height="98" class="box"/>
+  <text x="1252" y="352" class="small">Records excluded</text>
+  <text x="1252" y="370" class="small">(n = 1,957): 1,678</text>
+  <text x="1252" y="388" class="small">excluded + 279</text>
+  <text x="1252" y="406" class="small">borderline ("maybe")</text>
+
+  <!-- sought -->
+  <rect x="860" y="470" width="320" height="58" class="box"/>
+  <text x="875" y="494" class="lbl">Reports sought for retrieval</text>
+  <text x="875" y="514" class="lbl">(n = 124)</text>
+
+  <!-- not retrieved side -->
+  <rect x="1240" y="470" width="180" height="40" class="box"/>
+  <text x="1252" y="494" class="small">Not retrieved (n = 1)</text>
+
+  <!-- assessed -->
+  <rect x="860" y="590" width="320" height="58" class="box"/>
+  <text x="875" y="614" class="lbl">Reports assessed at full text</text>
+  <text x="875" y="634" class="lbl">and coded (n = 123)</text>
+
+  <!-- included right -->
+  <rect x="860" y="700" width="320" height="72" class="box"/>
+  <text x="875" y="726" class="lbl bold">Studies included from citation</text>
+  <text x="875" y="746" class="lbl bold">searching (n = 124; 123 coded)</text>
+
+  <!-- ══ FINAL ══ -->
+  <rect x="450" y="830" width="440" height="88" class="box" stroke-width="2.5"/>
+  <text x="670" y="858" text-anchor="middle" class="lbl bold" font-size="16">Total studies included in review (n = 275)</text>
+  <text x="670" y="882" text-anchor="middle" class="small">Reports in thematic synthesis, coded (n = 270) — success rate 98.2%</text>
+
+  <!-- ══ ARROWS: left column ══ -->
+  <path class="flow" d="M 300 208 L 300 248"/>
+  <path class="flow" d="M 300 308 L 300 348"/>
+  <path class="flow" d="M 460 379 L 518 379"/>
+  <path class="flow" d="M 300 408 L 300 468"/>
+  <path class="flow" d="M 460 499 L 518 499"/>
+  <path class="flow" d="M 300 528 L 300 588"/>
+  <path class="flow" d="M 300 648 L 300 698"/>
+  <path class="flow" d="M 300 772 L 300 800 L 640 800 L 640 828"/>
+
+  <!-- ══ ARROWS: right column ══ -->
+  <path class="flow" d="M 1020 208 L 1020 348"/>
+  <path class="flow" d="M 1180 379 L 1238 379"/>
+  <path class="flow" d="M 1020 408 L 1020 468"/>
+  <path class="flow" d="M 1180 490 L 1238 490"/>
+  <path class="flow" d="M 1020 528 L 1020 588"/>
+  <path class="flow" d="M 1020 648 L 1020 698"/>
+  <path class="flow" d="M 1020 772 L 1020 800 L 700 800 L 700 828"/>
+
+  <!-- Footnotes -->
+  <text x="30" y="950" class="foot">* Snowball anchor yields (includes): Weizman 2007 forward 46; Kitchin 2014 forward 42; Graham 2006 forward 38; Michael 2007 — 0. 279 borderline-verdict records excluded by documented decision (see SLR log, 2026-07-28).</text>
+  <text x="30" y="970" class="foot">Identification window: 1990–2025. Databases searched 2026-07-03; citation searching completed 2026-07-28. Grey literature via Policy Commons after Overton trial lapse (2026-07-03).</text>
+</svg>

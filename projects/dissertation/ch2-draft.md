@@ -6,7 +6,7 @@ tags:
 
 # Chapter 2 — Theoretical Framework
 
-**Status:** Draft zero (agent-generated, awaiting authorial rewrite) · **Word target:** ~2,800 · **Date:** 17 July 2026
+**Status:** Draft zero (agent-generated, awaiting authorial rewrite) · **Word target:** ~2,750 · **Date:** 17 July 2026
 
 ---
 
@@ -94,7 +94,7 @@ Crucially, Graham documents how civilian urban management systems — the very t
 
 The work of Forensic Architecture (2023–present), which Weizman founded, extends this analysis into the era of AI-driven targeting: their documentation of the systematic destruction of Gaza since October 2023 — the clearing of territory, the engineering of corridors, the implementation of "evacuation grids" — represents algorithmic domicide in its most systematic form. The "evacuation grid" is a municipal zoning tool (a GIS overlay dividing urban space into numbered sectors) weaponised for mass displacement: a civilian planning instrument repurposed as an instrument of urbicide with minimal modification.
 
-These three thinkers ground the framework in material reality. King names the victim — the private dwelling and its ontological violation. Graham provides the geopolitical architecture — the new military urbanism and vertical sovereignty. Weizman documents the empirical record — the occupation and its expansion into algorithmic urbicide. Together they demonstrate that the framework is not abstract: it describes outcomes that are already observable.
+These three thinkers ground the framework in material reality. King names the victim — the private dwelling and its ontological violation. Graham provides the geopolitical architecture — the new military urbanism and vertical sovereignty. Weizman documents the empirical record — the occupation and its expansion into algorithmic urbicide. Together they show that the framework is not abstract: it describes outcomes that are already observable.
 
 ---
 

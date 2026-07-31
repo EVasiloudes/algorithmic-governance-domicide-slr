@@ -18,7 +18,7 @@ Author: Elias Vasnic. Supervisor: Craig.
 | `Formative Methods - Urban Studies Dissertation.md` | Frozen formative submission (May 29, 2026). Do NOT edit. |
 | `Diss_Methods_Data/SLR.log.md` | Append-only audit log of all search strings, counts, and calibration iterations. Never rewrite history in this file; add new dated sections. |
 | `Diss_Methods_Data/` | Meeting agendas, correspondence drafts, SLR working data. |
-| `Writing Plan v0.md` | Current writing plan and task decomposition. |
+| `Writing Plan.md` | Current writing plan and task decomposition (v2). |
 | `Dissertation Urban Studies URBAN5080P.md`, `Assessment URBAN5080P.md` | Course requirements / assessment criteria. Read-only reference. |
 | Source-note files (DeLanda, Deleuze, Michael, etc.) | Reading notes. Read-only reference unless asked. |
 | `img/`, `attachments/` | Assets. |
@@ -49,10 +49,10 @@ Author: Elias Vasnic. Supervisor: Craig.
 
 - Modified PRISMA 2020; completed flow diagram with real ns.
 - Two-search strategy (A: high recall civil-military nexus; B: high precision spatial destruction), merged at deduplication. Zotero pipeline.
-- Single-iteration backward+forward snowballing from 3 anchors (Graham 2006, Kitchin 2014, Weizman 2007 — confirmed 2026-07-03); Wohlin (2014) citation.
+- Single-iteration backward+forward snowballing from 4 anchors (Graham 2006, Kitchin 2014, Weizman 2007 — confirmed 2026-07-03; **plus Michael 2007, added at execution** as the framework's bridging theorist — disclosed in Ch3); Wohlin (2014) citation.
 - Date window 1990–2025 inclusive (`PUBYEAR > 1989 AND PUBYEAR < 2026` in Scopus).
   - Bibliographic pipeline: Zotero library → Better BibTeX export → `refs.bib` → biblatex biber compilation.
   - `refs.bib` is manually curated at `final-draft/refs.bib` (biblatex format, authoryear style).
 - Single-reviewer mitigations: decision journal.
 - Grey lit: Policy Commons + targeted manual searches (Overton trial lapsed, not renewed); AACODS appraisal.
-- Four acknowledged limitations: language, single-reviewer, grey-lit unevenness, Overton lapsed → Policy Commons only.
+- Six acknowledged limitations (Ch3 §3.6): English-language; single-reviewer; grey-lit unevenness (Overton lapsed → Policy Commons only); backward chaining only for journal-article anchors; 279 snowball Maybes dropped unreviewed; 5 of 275 included records uncodable (3 no-PDF, 1 wrong-source, 1 no full text).
