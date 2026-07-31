@@ -6,7 +6,7 @@ ENGINE = xelatex
 
 all: $(TEX).pdf
 
-$(TEX).pdf: $(TEX).tex refs.bib
+$(TEX).pdf: $(TEX).tex refs.bib $(wildcard chapters/*.tex)
 	PATH=/usr/local/texlive/2025basic/bin/universal-darwin:$$PATH $(ENGINE) -interaction=nonstopmode $(TEX)
 	PATH=/usr/local/texlive/2025basic/bin/universal-darwin:$$PATH biber $(TEX)
 	PATH=/usr/local/texlive/2025basic/bin/universal-darwin:$$PATH $(ENGINE) -interaction=nonstopmode $(TEX)
