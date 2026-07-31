@@ -28,13 +28,13 @@ The pipeline comprised five Python scripts and a SQLite bridge to Zotero's inter
 
 \textbf{Purpose:} Classify records against the inclusion/exclusion criteria (\S 3.4.2).
 
-\textbf{Model:} DeepSeek V4 Flash (\texttt{deepseek/deepseek-v4-flash}) via OpenRouter. Fallback: DeepSeek V4 Chat (\texttt{deepseek/deepseek-chat}). Temperature 0.0; \texttt{max\_tokens} 256; \texttt{top\_p} 1.0.
+\textbf{Model:} DeepSeek V4 Flash (\texttt{deepseek/deepseek-v4-flash}) via OpenRouter. Fallback: DeepSeek V4 Chat (\texttt{deepseek/\allowbreak deepseek-chat}). Temperature 0.0; \texttt{max\_tokens} 256; \texttt{top\_p} 1.0.
 
-\textbf{Prompt:} A single system prompt containing the full inclusion and exclusion criteria, with instructions to respond with exactly one word: ``Include'', ``Exclude'', or ``Maybe''. The prompt is archived at \texttt{analysis/snowball/screening\_prompt.txt} and embedded in \texttt{Literature [.RIS]/deduplicated/ai\_screen.py}. The snowball screener used the identical prompt, model, and parameters.
+\textbf{Prompt:} A single system prompt containing the full inclusion and exclusion criteria, with instructions to respond with exactly one word: `Include', `Exclude', or `Maybe'. The prompt is archived at \texttt{analysis/snowball/screening\_prompt.txt} and embedded in \texttt{Literature [.RIS]/deduplicated/ai\_screen.py}. The snowball screener used the identical prompt, model, and parameters.
 
-\textbf{Workflow:} Records were processed in priority bands (HIGH $\rightarrow$ MEDIUM $\rightarrow$ LOW). The main pipeline ran sequentially; the snowball screener used four parallel threads for throughput. Both were resumable --- records with existing verdicts were skipped on re-run. Borderline cases (``Maybe'') were logged and resolved by the author against the written criteria, not by further AI calls.
+\textbf{Workflow:} Records were processed in priority bands (HIGH $\rightarrow$ MEDIUM $\rightarrow$ LOW). The main pipeline ran sequentially; the snowball screener used four parallel threads for throughput. Both were resumable --- records with existing verdicts were skipped on re-run. Borderline cases (`Maybe') were logged and resolved by the author against the written criteria, not by further AI calls.
 
-\subsection{Abstract enrichment --- \texttt{enrich\_springer.py} + \texttt{enrich\_abstracts.py}}
+\subsection[Abstract enrichment]{Abstract enrichment --- \\ \texttt{enrich\_springer.py} + \texttt{enrich\_abstracts.py}}
 
 \textbf{Purpose:} Recover missing abstracts for records excluded at triage for having no abstract or a vestigial abstract (<200 characters).
 
@@ -53,7 +53,7 @@ The pipeline comprised five Python scripts and a SQLite bridge to Zotero's inter
 
 \textbf{Process:}
 \begin{enumerate}
-  \item Reads a Zotero RIS export and the Zotero SQLite database directly (\texttt{zotero.sqlite}) to map each RIS record to its PDF attachment by title match.
+  \item Reads a Zotero RIS export and the Zotero SQLite database directly (\texttt{zotero.\allowbreak sqlite}) to map each RIS record to its PDF attachment by title match.
   \item Copies matched PDFs to \texttt{corpus/pdfs/} and extracts text using \texttt{pdfplumber} (primary) with \texttt{PyPDF2} as fallback.
   \item Writes extracted text to \texttt{corpus/text/} and metadata (title, authors, year, DOI, type, PDF filename, extraction status) to \texttt{corpus/metadata.csv}.
   \item Logs every run to \texttt{corpus/extraction\_log.json} and \texttt{corpus/run.log}.
@@ -67,11 +67,13 @@ The script is resumable --- already-extracted files are skipped on re-run.
 
 \textbf{Model:} Same as screening (DeepSeek V4 Flash, temperature 0.0, \texttt{max\_tokens} 4096).
 
-\textbf{Batching:} Papers processed in batches of 5 per API call (resumable via \texttt{corpus/extraction\_results.csv} checkpoint). Long texts (>450K characters) were smart-truncated: 55\% from the introduction, 25\% from the conclusion, with middle sections sampled proportionally. 9 of 147 papers were truncated under this rule.
+\textbf{Batching:} Papers processed in batches of 5 per API call (resumable via \texttt{corpus/\allowbreak extraction\_results.csv} checkpoint). Long texts (>450K characters) were smart-truncated: 55\% from the introduction, 25\% from the conclusion, with middle sections sampled proportionally. 9 of 147 papers were truncated under this rule.
 
+\begin{sloppypar}
 \textbf{Output:} Each paper produced a structured JSON file (\texttt{corpus/extractions/*.json}) containing: theme scores, dual-use classification (explicit/direction/structural), document type, methodology, geography, thesis summary, key quotes, policy relevance, and notes. The JSON files were retained for qualitative review and audit.
+\end{sloppypar}
 
-\subsection{Citation chaining --- \texttt{pull\_candidates.py} + \texttt{dedup\_against\_corpus.py}}
+\subsection[Citation chaining]{Citation chaining --- \\ \texttt{pull\_candidates.py} + \texttt{dedup\_against\_corpus.py}}
 
 \textbf{Purpose:} Execute backward and forward citation chaining from four anchor texts via the OpenAlex API.
 
@@ -87,12 +89,13 @@ The script is resumable --- already-extracted files are skipped on re-run.
 
 \begin{table}[H]
 \centering
-\begin{tabular}{llp{5.2cm}}
+\small
+\begin{tabular}{llp{4.6cm}}
 \toprule
 \textbf{Parameter} & \textbf{Value} & \textbf{Rationale} \\
 \midrule
-Model (primary) & \texttt{deepseek/deepseek-v4-flash} & Fast, cost-effective, sufficient for classification \\
-Model (fallback) & \texttt{deepseek/deepseek-chat} & Used when primary unavailable (404) \\
+Model (primary) & \texttt{deepseek/\allowbreak deepseek-v4-flash} & Fast, cost-effective, sufficient for classification \\
+Model (fallback) & \texttt{deepseek/\allowbreak deepseek-chat} & Used when primary unavailable (404) \\
 Temperature & 0.0 & Deterministic output \\
 \texttt{max\_tokens} (screening) & 256 & Single-word verdict \\
 \texttt{max\_tokens} (extraction) & 4096 & Full JSON coding output \\
@@ -127,7 +130,7 @@ OpenRouter & LLM gateway for DeepSeek models & API key (pay-as-you-go) \\
 
 \textbf{Note on Elsevier API:} Evaluated for abstract enrichment; the free tier returns metadata but no abstract text without an institutional subscription. Set aside.
 
-\textbf{Note on IEEE Xplore API:} Developer account marked ``Inactive'' on developer.ieee.org. Could not be activated in time. Set aside.
+\textbf{Note on IEEE Xplore API:} Developer account marked `Inactive' on developer.ieee.org. Could not be activated in time. Set aside.
 
 \section{Local Embedding and Semantic Search}
 
@@ -149,7 +152,7 @@ AI was used to execute well-defined, mechanical tasks at scale: classifying reco
   \item Formulating the research questions and search strategy
   \item Calibrating search strings through scoping iterations
   \item Writing the inclusion/exclusion criteria and coding framework
-  \item Resolving all ``Maybe'' screening verdicts
+  \item Resolving all `Maybe' screening verdicts
   \item Reviewing random samples of AI screening verdicts and coding scores for calibration (\S 3.6)
   \item Identifying and excluding doctoral dissertations
   \item Selecting bridge papers for qualitative deep dives
@@ -163,6 +166,8 @@ The AI did not participate in any interpretive, analytical, or creative decision
 
 All scripts, prompts, configuration files, intermediate outputs, and logs are retained in the project repository:
 
+\begin{spacing}{1.0}
+\footnotesize
 \begin{verbatim}
 Diss_Methods_Data/
   Literature [.RIS]/deduplicated/   ai_screen.py, ai_extract.py, .env
@@ -176,6 +181,7 @@ Diss_Methods_Data/
                                     extraction_log.json, run.log,
                                     pdfs/, text/, extractions/
 \end{verbatim}
+\end{spacing}
 
 The SLR log (\texttt{SLR.log.md}) records every run with timestamps, counts, and errors. The project vault (Obsidian) is backed up and version-controlled.
 
@@ -189,8 +195,8 @@ The SLR log (\texttt{SLR.log.md}) records every run with timestamps, counts, and
 \midrule
 OpenClaw & 2026.7.1-2 & AI orchestration layer \\
 OpenRouter API & --- & LLM gateway \\
-DeepSeek V4 Flash & \texttt{deepseek/deepseek-v4-flash} & Primary model (screening \& coding) \\
-DeepSeek V4 Chat & \texttt{deepseek/deepseek-chat} & Fallback model \\
+DeepSeek V4 Flash & \texttt{deepseek/\allowbreak deepseek-v4-flash} & Primary model (screening \& coding) \\
+DeepSeek V4 Chat & \texttt{deepseek/\allowbreak deepseek-chat} & Fallback model \\
 Python & 3.13 & Pipeline scripting \\
 pdfplumber & latest & PDF text extraction \\
 Zotero & 7.x & Reference management \\
