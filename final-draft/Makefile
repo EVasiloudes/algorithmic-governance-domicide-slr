@@ -1,16 +1,16 @@
 # Build the dissertation PDF
-# Requires: lualatex (or pdflatex), biber
+# Requires: xelatex, biber (BasicTeX at /usr/local/texlive/2025basic/bin/universal-darwin)
 
 TEX = dissertation
-ENGINE = lualatex
+ENGINE = xelatex
 
 all: $(TEX).pdf
 
 $(TEX).pdf: $(TEX).tex refs.bib
-	$(ENGINE) $(TEX)
-	biber $(TEX)
-	$(ENGINE) $(TEX)
-	$(ENGINE) $(TEX)
+	PATH=/usr/local/texlive/2025basic/bin/universal-darwin:$$PATH $(ENGINE) -interaction=nonstopmode $(TEX)
+	PATH=/usr/local/texlive/2025basic/bin/universal-darwin:$$PATH biber $(TEX)
+	PATH=/usr/local/texlive/2025basic/bin/universal-darwin:$$PATH $(ENGINE) -interaction=nonstopmode $(TEX)
+	PATH=/usr/local/texlive/2025basic/bin/universal-darwin:$$PATH $(ENGINE) -interaction=nonstopmode $(TEX)
 
 clean:
 	rm -f *.aux *.bbl *.bcf *.blg *.log *.out *.run.xml *.toc *.lof *.lot
