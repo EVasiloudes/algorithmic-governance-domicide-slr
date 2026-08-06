@@ -44,6 +44,9 @@
 \usepackage{longtable}
 \usepackage{multirow}
 
+% ---- List formatting ----
+\usepackage{enumitem}
+
 % ---- Citations (Harvard / author-date) ----
 \usepackage[style=authoryear,backend=biber,sorting=nyt,
             maxbibnames=99,maxcitenames=2,uniquelist=false,
@@ -117,12 +120,56 @@ This dissertation investigates the structural dual-use of algorithmic urban gove
 
 
 
-% ---- Table of contents ----
-\tableofcontents
-\newpage
-
 % ---- List of figures ----
 \listoffigures
+\newpage
+
+% ---- List of terms ----
+\chapter*{List of Terms and Abbreviations}
+\addcontentsline{toc}{chapter}{List of Terms and Abbreviations}
+
+\begin{singlespace}
+\noindent\textit{Terms are defined as used in this dissertation; section references point to fuller discussion.}
+
+\begin{description}[style=nextline,itemsep=2pt]
+\item[Black box] A system whose inputs and outputs are visible but whose internal reasoning is not \parencite{pasquale2015}. Chapter~4 shows such opacity to be manufactured by procurement and statute, not inherited from the technology itself.
+\item[Citation chaining (snowballing)] A search method that follows the literature's own citation web rather than keywords: \emph{forward} chaining harvests every later work citing an anchor text; \emph{backward} chaining harvests every reference the anchor lists (§3.3).
+\item[Counter-forensics] The practice of turning state sensing and mapping infrastructures toward accountability — using the same data that targeting uses to document destruction instead \parencite{weizman2017}.
+\item[Dataism] The belief in the objective quantification and tracking of all human behaviour as a source of truthful, neutral knowledge \parencite{vandijck2014}.
+\item[Dividual] Deleuze's term for the person decomposed into data points — samples, markets, banks — rather than addressed as an enclosed individual \parencite{deleuze1990}.
+\item[Domicide] The deliberate destruction of home, and of the conditions that make dwelling possible \parencite{king2004}.
+\item[Dual-use] Used here in a strong sense: a structural property of information goods, whereby transfer between civilian and military application requires only a change of inputs (§2.2). The term also names the legal category under which strikes on civilian infrastructure are licensed — a duality the dissertation shows to be consequential (§5.3).
+\item[Epistemic authority] Michael's term for the institutionally recognised right to define what counts as true knowledge about a conflict — claimed, in his account, by the military over the civilian political echelon \parencite{michael2007}.
+\item[Information good] Arrow's economic category: non-rivalrous, costly to produce, near-costless to reproduce — the properties from which this dissertation derives structural dual-use \parencite{arrow1962}.
+\item[Kill chain] The military sequence from target identification through tracking to strike; Chapter~4 shows it beginning upstream, in the categories that make targets thinkable.
+\item[Machinic city] DeLanda's account of the city as an assemblage of material and informational flows that can be modelled, and therefore programmed, at population scale \parencite{delanda1992,delanda2014}.
+\item[Oversight gap] This dissertation's term (§1.1) for the asymmetry between the state's rapidly expanding algorithmic capacity to act upon citizens and the capacity of democratic institutions to understand, audit, and contest those actions.
+\item[Pattern of life] Intelligence-community term for the recorded regularities of a person's movements and associations, against which algorithms flag the abnormal.
+\item[Societies of control] Deleuze's successor to disciplinary society: power operating continuously, through codes and modulation, rather than through enclosed institutions \parencite{deleuze1990}.
+\item[Transduction] The translation of the physical city and its populace into programmable code (§1.1).
+\item[Urbicide] The killing of the city as such: of cosmopolitan mixing, of the means of modern urban living, and of those cast as unmodern \parencite{graham2012}.
+\end{description}
+
+\vspace{1em}
+\noindent\textbf{Abbreviations}
+
+\begin{description}[style=nextline,itemsep=2pt]
+\item[AI] Artificial intelligence
+\item[EOS] Estimation of the Situation (the IDF's staff knowledge-production process; §2.5)
+\item[FPV] First-person view (a class of short-range attack drone)
+\item[GIS] Geographic information system
+\item[IDF] Israel Defense Forces
+\item[IHL] International humanitarian law
+\item[IoT] Internet of Things
+\item[LLM] Large language model
+\item[PRISMA] Preferred Reporting Items for Systematic Reviews and Meta-Analyses \parencite{page2021}
+\item[SLR] Systematic literature review
+\end{description}
+\end{singlespace}
+\newpage
+
+% ---- Table of contents ----
+\tableofcontents
 \newpage
 
 % ---- Body ----
@@ -172,6 +219,8 @@ The dissertation proceeds as follows. Chapter~2 assembles that theoretical frame
 
 The stakes for policymakers are concrete. When a municipal government procures a GIS platform or an AI-driven traffic management system, it is — knowingly or not — acquiring technology governed by the economics of the information good; the same system, transferred to a military context, becomes a targeting apparatus through reparameterisation rather than new supply chains, new procurement, or new physical infrastructure. The policy question is not whether such transfer can happen, but whether the frameworks of oversight, procurement, and accountability that govern urban technology have registered the possibility at all. This dissertation's contribution is diagnostic before it is prescriptive: an evidence-based map of where the policy conversation has looked, and where it has been blind.
 
+The contributions are threefold. Theoretically, the dissertation extends Arrow's economics of information goods into a named mechanism — frictionless cross-domain transfer — that the dual-use literature has documented for decades without theorising (§\ref{sec:arrow}). Empirically, it delivers a systematic map of the junction between algorithmic urban governance and spatial destruction — and shows that junction to be nearly empty (Chapter~4). Critically, it surfaces a finding the framework did not anticipate: the category of `dual-use' operating inside targeting doctrine as a juridical warrant for striking civilian fabric (§\ref{sec:dual-use-warrant}).
+
 % =============================================================================
 \chapter{Theoretical Framework}
 \label{ch:framework}
@@ -197,6 +246,8 @@ This is often implicit or entirely absent from the dual-use literature in urban 
 The Arrow extension also has a cognate in innovation economics. The general-purpose-technology literature \parencite{bresnahan1995} describes technologies whose value is realised through cross-sector recombination: reproduction is cheap, but each new domain of application demands `co-invention' — complementary investment in integration, data, and practice. Urban data infrastructures exhibit the same profile, which situates this framework's dual-use claim within established innovation economics and names precisely the residual cost that separates cheap reproduction from frictionless application.
 
 This is, to be explicit, the dissertation's first claim to a contribution: a named economic mechanism — frictionless cross-domain transfer of information goods — that the urban-studies and dual-use literatures have documented empirically for three decades without theorising. Chapter~4 shows how systematic the omission is.
+
+If Arrow explains why transfer between domains is cheap, he cannot explain why institutions increasingly organise themselves around that possibility — why power itself has migrated toward the management of information flows. That migration is the province of the framework's second element: Deleuze's societies of control.
 
 \section{Deleuze: From Discipline to Control}
 \label{sec:deleuze}

@@ -137,6 +137,20 @@
 - ✅ D3 Ch1 §1.3 framework citations added (Arrow, Deleuze, DeLanda, Michael, King/Graham/Weizman)
 - Build verified: exit 0, no undefined citations/references, all new material in PDF
 
+### 2026-08-06 (PM batch 2)
+- ✅ B7 citation-chaining subsection rewritten in plain language (forward/backward chaining glossed)
+- ✅ D6 AI-use: scale quantified (2,713 decisions ≈ 1–2 person-months manual → hours), precedent cited (van de Schoot 2021 / ASReview), appendix cross-ref fixed
+- ✅ D4 window trade-offs stated explicitly in §3.3.1 (breadth vs edge-depth; corpus distribution confirms)
+- ✅ E1 §2.2→2.3 bridge (Arrow: cheap transfer; Deleuze: why power migrated to it)
+- ✅ E2 §4.5.4 thin-edge de-listed: five bold-label entries → flowing chronological prose
+- ✅ E3 §4.6 clear staging statement + proper chapter conclusion (confirm elements, refute connectedness)
+- ✅ F1 §4.1 post-2021 shares added (A 69/128, B 13/23, SN 38/124) + fig cross-ref
+- ✅ F2 thin-edge provenance paragraph: 2 via Search A, 2 via Search B, 1 via chaining — method vindicated
+- ✅ F3 §5.4 plain-terms summary of four implications + wider-debates paragraph (evidence turn; standards-layer governance)
+- ✅ A5 contributions trio stated at end of §1.3 (theoretical/empirical/critical)
+- Deferred: A3 passim directness sweep → fold into final read-through
+- ✅ B1 List of Terms and Abbreviations added (16 terms + 10 abbreviations, plain-language, §-cross-referenced), placed LoF → Terms → ToC per discussion with Craig
+
 ## Open questions for Craig (if meeting before deadline)
 
 1. Glossary vs footnotes (B1) — his preference?
