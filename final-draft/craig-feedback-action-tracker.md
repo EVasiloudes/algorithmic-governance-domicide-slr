@@ -24,13 +24,13 @@
 
 ## A. Framing & positioning — *make the contribution land*
 
-| # | Pg/§ | Action | Status | Notes |
-|---|---|---|---|---|
-| A1 | ii (Abstract) | Define dual-use in the abstract; cut to ≤250 words; add sentence on relevance to Urban Studies | ⬜ | Pull the definition from p7 (C18 below) — Craig explicitly endorsed it |
-| A2 | 7 | Move dual-use definition into abstract **and** reference it in Ch1 | ⬜ | "The reader shouldn't be expected to wait this long" |
-| A3 | 2, *passim* | Be more direct about dual-use throughout: benign urban management on one hand, social control-or-worse on the other | ⬜ | Sweep Ch1–2 for hedged phrasing |
-| A4 | 7 end | Be **bolder** — this is a significant contribution; say so | ⬜ | Craig: "huge significance" |
-| A5 | General | Identify and foreground key contributions — esp. **Arrow (p7)**, whose significance Craig missed on first read | ⬜ | Consider a short "contributions" paragraph in intro and echo in conclusion |
+| #   | Pg/§          | Action                                                                                                              | Status | Notes                                                                      |
+| --- | ------------- | ------------------------------------------------------------------------------------------------------------------- | ------ | -------------------------------------------------------------------------- |
+| A1  | ii (Abstract) | Define dual-use in the abstract; cut to ≤250 words; add sentence on relevance to Urban Studies                      | ⬜      | Pull the definition from p7 (C18 below) — Craig explicitly endorsed it     |
+| A2  | 7             | Move dual-use definition into abstract **and** reference it in Ch1                                                  | ⬜      | "The reader shouldn't be expected to wait this long"                       |
+| A3  | 2, *passim*   | Be more direct about dual-use throughout: benign urban management on one hand, social control-or-worse on the other | ⬜      | Sweep Ch1–2 for hedged phrasing                                            |
+| A4  | 7 end         | Be **bolder** — this is a significant contribution; say so                                                          | ⬜      | Craig: "huge significance"                                                 |
+| A5  | General       | Identify and foreground key contributions — esp. **Arrow (p7)**, whose significance Craig missed on first read      | ⬜      | Consider a short "contributions" paragraph in intro and echo in conclusion |
 
 ## B. Clarity & reader accessibility — *don't lose the generalist*
 
