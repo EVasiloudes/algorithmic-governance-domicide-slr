@@ -63,7 +63,7 @@
 | D2 | 19/3 | Reference PRISMA per official conventions ([BMJ example](https://www.bmj.com/content/372/bmj.n71), [prisma-statement.org](https://www.prisma-statement.org/)) | ⬜ | |
 | D3 | 5 para 1 | Add citations: PRISMA, DeLanda, etc. | ⬜ | |
 | D4 | 5 + 20 §3.3.1 | Justify 1990–2025 window: why these dates, benefits *and* disbenefits, convincing argument for period selection | ⬜ | Pair with diagram G4 (trend data strengthens the case) |
-| D5 | 20 §3.3.1 | Trend diagram(s): citation spikes for key terms 1990–2025 via Google Scholar / Scopus | ⬜ | Can pull Scopus data via API if credentials available |
+| D5 | 20 §3.3.1 | Trend diagram(s): citation spikes for key terms 1990–2025 via Google Scholar / Scopus | 🔵 | corpus-year version done (fig_3_2); Scholar/Scopus keyword trends still open | Can pull Scopus data via API if credentials available |
 | D6 | 24 | AI-use justification: add detail on time saved + precedents in similar methodologies | ⬜ | Appendix exists — cross-reference it |
 
 ## E. Structure
@@ -86,12 +86,12 @@
 
 | # | Pg/§ | Action | Status | Notes |
 |---|---|---|---|---|
-| G1 | 15–17 (Ch2) | **Framework diagram** — schematic illustration of the five-element framework | ⬜ | Craig's top visual ask; "density of ideas" risk |
-| G2 | 28 | PRISMA flow diagram: enlarge, ideally rotate to landscape / fill the page | ⬜ | Regenerate at higher res or re-layout in TikZ |
-| G3 | 20 §3.3.1 | Citation-trend diagram (see D5) | ⬜ | |
-| G4 | Ch5 | Diagrammatic representation of findings | ⬜ | |
-| G5 | 55 (Ch6) | "Map" diagram of findings — the conclusion's use of *map* begs for a visual | ⬜ | Possibly the same family as G4 — design together |
-| G6 | Ch5–6 | General: diagrams "to help make your point" | ⬜ | |
+| G1 | 15–17 (Ch2) | **Framework diagram** — schematic illustration of the five-element framework | ✅ | fig_2_1, inserted §Synthesis (Fig 2.1, p26) | Craig's top visual ask; "density of ideas" risk |
+| G2 | 28 | PRISMA flow diagram: enlarge, ideally rotate to landscape / fill the page | ✅ | fig_3_1 true A4 landscape, official 29-Jul counts; replaced in ch3 (p39) | Regenerate at higher res or re-layout in TikZ |
+| G3 | 20 §3.3.1 | Citation-trend diagram (see D5) | ✅ | fig_3_2 from corpus years, §3.3.1 (p31) | |
+| G4 | Ch5 | Diagrammatic representation of findings | ✅ | fig_5_1 theme×strategy heatmap, §5.2 (p58) | |
+| G5 | 55 (Ch6) | "Map" diagram of findings | ✅ | fig_6_1 junction map, §6.2 (p65) | Possibly the same family as G4 — design together |
+| G6 | Ch5–6 | General: diagrams "to help make your point" | ✅ | Covered by fig_5_1 + fig_6_1 |
 
 ## H. No action — praise received (protect these in edits)
 
@@ -114,6 +114,28 @@
 5. **Day 5:** F-batch + C2 Ukraine + C3 Forensic Architecture refs
 6. **Day 6:** Full read-through in the p.6 register, word-count trim, compile, proof
 7. **Day 7 (13 Aug):** Final compile, submission buffer
+
+## Progress log
+
+### 2026-08-06 (PM batch 1)
+- ✅ A1 abstract rewritten: dual-use defined in sentence 1, ~245 words, Urban Studies relevance closing
+- ✅ A2 definition moved early (§1.2, cross-ref §2.2 Arrow)
+- ✅ A4 bolder contribution claim added at end of §2.2
+- ✅ B2 pervasive-integration examples (predictive policing, welfare scoring, facial recognition)
+- ✅ B3 tempted-governments evidence (SyRI 2020, Robodebt 2023, new bib entries)
+- ✅ B4 oversight gap defined in closing sentence of §1.1
+- ✅ B5 'intensely algorithmic' glossed
+- ✅ B6 'This shift' §1.3 opener reworded per Craig's suggestion
+- ✅ B8 'Here is the gap' → 'The gap can now be stated precisely'
+- ✅ C1 'For instance…' before Michael sentence
+- ✅ C2 Ukraine/Kherson drones sentence (UN Commission of Inquiry 2025, new bib)
+- ✅ C3 FA refs expanded (forensic2023 + weizman2017)
+- ✅ C4 IDF spelled out at first use
+- ✅ C5 Foucault bib normalized to 1975 Gallimard original
+- ✅ D1 SLR legitimacy paragraph in §3.1 (sutton2019 taxonomy + gurney2023 pp. 239–241 precedent)
+- ✅ D2 PRISMA 2020 statement cited (page2021, BMJ n71) in Ch1 + Ch3
+- ✅ D3 Ch1 §1.3 framework citations added (Arrow, Deleuze, DeLanda, Michael, King/Graham/Weizman)
+- Build verified: exit 0, no undefined citations/references, all new material in PDF
 
 ## Open questions for Craig (if meeting before deadline)
 

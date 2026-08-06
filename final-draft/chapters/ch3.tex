@@ -10,7 +10,9 @@
 
 To empirically investigate the intersection of algorithmic governance, urban space, and systemic spatial destruction (domicide), this dissertation employed a Systematic Literature Review (SLR). To avoid the epistemological pitfalls of a traditional narrative review — which risks selection bias by design and the `cherry-picking' of sources to validate a pre-existing theoretical critique — the SLR provides a transparent, auditable, and reproducible mechanism for data collection. This aligns with the `evidence turn' in contemporary public policy and management, which increasingly demands structured methodologies to track policy evolution and evaluate `what works' \parencite{tranfield2003}. Rather than evaluating the effectiveness of a specific policy intervention, however, the review was adapted to rigorously map a longitudinal discursive shift: how global academic discourse and policy literature conceptualised algorithms, big data, and spatial surveillance over three and a half decades.
 
-The review was conducted between June and July 2026. Search execution, screening, full-text retrieval, and thematic coding were each logged with timestamps, record counts, and tooling versions; every stage from search execution to final inclusion is reported below and summarised in a completed PRISMA flow diagram (Figure~\ref{fig:prisma}), rendering the final corpus fully auditable.
+The legitimacy of this design rests on an established methodological lineage. Developed in the health sciences, the SLR has diffused across the social sciences precisely because its protocol-driven design converts the literature review from an essayistic exercise into an auditable instrument: explicit search strings, pre-registered inclusion criteria, and logged screening decisions make the reviewer's judgements visible and reproducible rather than implicit \parencite{sutton2019}. Sutton and colleagues' taxonomy of the `review family' further clarifies what kind of review this is: where the full systematic review seeks exhaustive synthesis of a narrow question, the \emph{mapping} review trades depth for breadth, charting the structure and distribution of a heterogeneous literature — which is exactly the analytical object this dissertation requires, since its claims concern the \emph{configuration} of a field (what is connected, what is segregated) rather than the pooled effect of an intervention \parencite{sutton2019}. The approach carries a direct precedent in social policy: Gurney's \parencite[pp.~239--241]{gurney2023} systematic literature mapping of 213 COVID-19 housing studies demonstrates the method's value for converting an unwieldy, fast-moving policy literature into structured evidence of what the discourse has and has not registered. The present review applies the same logic to a colder question: not what the literature says, but where it has been silent.
+
+The review was conducted between June and July 2026. Search execution, screening, full-text retrieval, and thematic coding were each logged with timestamps, record counts, and tooling versions; every stage from search execution to final inclusion is reported against the PRISMA 2020 statement \parencite{page2021} and summarised in a completed PRISMA flow diagram (Figure~\ref{fig:prisma}), rendering the final corpus fully auditable.
 
 \section{Conceptual Scope and Research Questions}
 \label{sec:conceptual-scope}
@@ -27,6 +29,22 @@ The research questions are stated in full in Chapter~1 (§\ref{sec:research-ques
 The review interrogated a 35-year chronological window, 1990–2025. This expansive range was a methodological necessity, allowing the review to track the literature across several distinct technological epochs: the early internet and digitisation of municipal records (circa 1990s), the foundational build-out of Web 1.0, the rise of ubiquitous data harvesting and Big Data in Web 2.0, the decentralised shifts of Web 3.0, and the precipice of the ongoing Fourth Industrial Revolution defined by generative AI and autonomous systems.
 
 Peer-reviewed literature was sourced from Web of Science and Scopus, chosen for their breadth across the social sciences, urban planning, and defence studies. Grey literature was sourced from Policy Commons, supplemented by targeted manual searches of key institutional repositories (RAND Corporation, Chatham House, Urban Displacement Project), mirroring the dual-search structure below and emphasising policy documents, parliamentary records, defence white papers, and think-tank outputs explicitly addressing the dual-use implications of urban data technologies.
+
+\begin{figure}[H]
+\centering
+\includegraphics[width=0.95\textwidth]{figures/fig_3_2_publication_trends.png}
+\caption{Publication-year distribution of the coded corpus (n~=~271 in-window records), stacked by provenance. The concentration of records after 2015 --- driven by the smart-city wave on the governance side and by post-2021 work on the destruction side --- reflects the technological epochs the window was chosen to span; four in-press records dated 2026 fall outside the identification window.}
+\label{fig:year-trends}
+\end{figure}
+
+The window's bookends are corroborated by field-level publication trends (Figure~\ref{fig:term-trends}): the governance vocabulary scarcely exists in the indexed literature before the mid-2000s, while the destruction vocabulary long predates the window and persists at a low, steady volume throughout it. A 1990 start therefore captures the full arc of the algorithmic-governance literature from its prehistory, and the 2025 end-point coincides with the moment the destruction literature begins to register algorithmic systems directly.
+
+\begin{figure}[H]
+\centering
+\includegraphics[width=0.95\textwidth]{figures/fig_3_3_literature_trends.png}
+\caption{Publication volume for five key terms, 1990--2025, log scale (OpenAlex works matching each term in title or abstract; retrieved 6 August 2026). The governance terms (\enquote{smart cities}, \enquote{algorithmic governance}, \enquote{predictive policing}) exhibit the post-2010 spike the window was designed to capture; the destruction terms (\enquote{urbicide}, \enquote{domicide}) remain two orders of magnitude smaller, foreshadowing the asymmetry documented in Chapter~4.}
+\label{fig:term-trends}
+\end{figure}
 
 \subsection{Dual-search design}
 
@@ -113,7 +131,7 @@ Six limitations are acknowledged. \textbf{First,} the English-language restricti
 
 \begin{figure}[H]
 \centering
-\makebox[\textwidth][c]{\includegraphics[width=1.16\textwidth]{figures/prisma_flow_2026-07-29.png}}
-\caption{PRISMA 2020 flow diagram (updated 2026-07-29)}
+\makebox[\textwidth][c]{\includegraphics[width=1.16\textwidth]{figures/fig_3_1_prisma_flow_landscape.png}}
+\caption{PRISMA 2020 flow diagram for the modified protocol. Final counts as of 28 July 2026: 874 unique records screened from database searches and 2,081 deduplicated citation-chaining candidates, yielding 275 included studies (270 coded).}
 \label{fig:prisma}
 \end{figure}
