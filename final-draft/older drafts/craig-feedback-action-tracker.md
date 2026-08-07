@@ -1,3 +1,7 @@
+---
+tags:
+  - MSc_PPM
+---
 # Craig Gurney Feedback — Action Tracker
 **Source:** `elias-feedback-from-Craig-Gurney.md` (received 2026-08-06)
 **Deadline:** 13 August 2026 (7 days) | **Word cap:** 13,750
