@@ -54,3 +54,7 @@ What are factors underlying the failure of bottom-up cohousing intitatives?
 ### Research Questions
 ### Methods
 - Interviews
+
+
+```smart-connections
+```
