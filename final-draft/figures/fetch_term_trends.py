@@ -34,21 +34,26 @@ def fetch(term):
     with urllib.request.urlopen(url, context=ctx, timeout=60) as r:
         return json.load(r)
 
-out = {}
-for label, term in TERMS.items():
-    try:
-        d = fetch(term)
-        years = {int(g["key"]): g["count"] for g in d.get("group_by", [])}
-        out[label] = {"term": term, "total": d["meta"]["count"], "years": years}
-        print(f"{label}: total={d['meta']['count']}")
-    except Exception as e:
-        print(f"{label}: FAILED {e}")
-    time.sleep(1)
-
 raw_path = os.path.join(ROOT, "openalex_term_trends_2026-08-06.json")
-json.dump({"fetched": "2026-08-06", "source": "OpenAlex works, title_and_abstract.search, 1990-2025",
-           "data": out}, open(raw_path, "w"), indent=1)
-print("saved", raw_path)
+if os.path.exists(raw_path):
+    out = json.load(open(raw_path))["data"]
+    for d in out.values():
+        d["years"] = {int(k): v for k, v in d["years"].items()}
+    print("loaded cached", raw_path)
+else:
+    for label, term in TERMS.items():
+        try:
+            d = fetch(term)
+            years = {int(g["key"]): g["count"] for g in d.get("group_by", [])}
+            out[label] = {"term": term, "total": d["meta"]["count"], "years": years}
+            print(f"{label}: total={d['meta']['count']}")
+        except Exception as e:
+            print(f"{label}: FAILED {e}")
+        time.sleep(1)
+
+    json.dump({"fetched": "2026-08-06", "source": "OpenAlex works, title_and_abstract.search, 1990-2025",
+               "data": out}, open(raw_path, "w"), indent=1)
+    print("saved", raw_path)
 
 # ---- chart ----
 import matplotlib
@@ -72,7 +77,7 @@ ax.legend(fontsize=8.6, frameon=False, loc="upper left")
 ax.spines[["top", "right"]].set_visible(False)
 ax.grid(axis="y", alpha=0.25, lw=0.5)
 ax.annotate("smart-city wave\n(post-2010)", xy=(2012, out.get("smart cities", {}).get("years", {}).get(2012, 100)),
-            xytext=(1996, 3000), fontsize=8.4, color="#4878CF",
+            xytext=(1994.5, 500), fontsize=8.4, color="#4878CF",
             arrowprops=dict(arrowstyle="->", color="#4878CF", lw=0.9))
 fig.savefig(os.path.join(BASE, "fig_3_3_literature_trends.png"), bbox_inches="tight", facecolor="white")
 print("wrote fig_3_3_literature_trends.png")
