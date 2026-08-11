@@ -220,7 +220,7 @@ save(fig, "fig_5_1_theme_by_strategy.png")
 
 # =================================================================
 # Fig 6.1 — The junction the literature has not built (Ch6 "map")
-# Grounded: T4-G cluster = 5 records, all 2021+ (thematic_synthesis.md:157)
+# Grounded: T4-G cluster = 5 records, all but one 2021+ (Graham 2008 the precursor)
 # =================================================================
 fig, ax = plt.subplots(figsize=(11.5, 6.8)); ax.set_xlim(0, 1); ax.set_ylim(0, 1); ax.axis("off")
 ax.add_patch(mp.Ellipse((0.285, 0.60), 0.46, 0.58, fc="#DBE7FA", ec=PAL["A"], lw=2, alpha=0.9))
@@ -231,7 +231,7 @@ ax.text(0.17, 0.60, "Search A  (n = 128)\n\noptimisation, sensing,\nplatforms, c
         ha="center", va="center", fontsize=9.5, color=PAL["ink"], path_effects=HALO)
 ax.text(0.83, 0.60, "Search B  (n = 23)\n\ndomicide, targeting,\nsiege, reconstruction\n\nT4 mean 1.81",
         ha="center", va="center", fontsize=9.5, color=PAL["ink"], path_effects=HALO)
-ax.text(0.5, 0.60, "THE JUNCTION\nalgorithmically\nmediated urbicide\n\n5 records of 275,\nall 2021+",
+ax.text(0.5, 0.60, "THE JUNCTION\nalgorithmically\nmediated urbicide\n\n5 records of the coded 270,\nall but one since 2021",
         ha="center", va="center", fontsize=10.5, fontweight="bold", color="#7B341E",
         bbox=dict(boxstyle="round,pad=0.45", fc="#FFF3D6", ec=PAL["gold"], lw=1.6))
 ax.text(0.5, 0.30, "Zero overlapping records between Search A and Search B at screening (874 records).",
