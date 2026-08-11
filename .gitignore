@@ -52,3 +52,18 @@ final-draft/*.fdb_latexmk
 final-draft/*.fls
 final-draft/*.synctex.gz
 final-draft/chapters/*.aux
+
+# Copyright-restricted corpus content (full texts; not redistributed)
+Diss_Methods_Data/corpus/text/
+Diss_Methods_Data/corpus/text_snowball/
+Diss_Methods_Data/corpus/pdfs/
+Diss_Methods_Data/corpus/pdfs_snowball/
+Diss_Methods_Data/analysis/snowball/retrieval/
+
+# Extra LaTeX artifacts
+final-draft/*.bbl
+final-draft/*.blg
+final-draft/*.lot
+
+# But ship the compiled dissertation
+!final-draft/dissertation.pdf
