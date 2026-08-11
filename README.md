@@ -44,6 +44,10 @@ reviewed and all final decisions retained by the author, as disclosed in the
 dissertation's AI-Use Statement (Appendix A) and §3.4–3.5. The workflow was discussed
 with and confirmed as compliant by the supervisor.
 
+## Licence
+
+This work is licensed under [Creative Commons Attribution 4.0 International](https://creativecommons.org/licenses/by/4.0/) (CC BY 4.0). See `LICENSE`.
+
 ## Rebuilding the PDF
 
 ```sh
